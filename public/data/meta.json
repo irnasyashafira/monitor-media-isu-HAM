@@ -1,0 +1,13 @@
+{
+  "generatedAt": "2026-08-31T23:17:04.971120Z",
+  "lastRunAt": "2026-08-31T23:17:04.971120Z",
+  "startDate": "2026-01-01",
+  "refreshHours": 6,
+  "mode": "incremental",
+  "feedsOk": 16,
+  "feedsFailed": 0,
+  "totalStored": 501,
+  "totalPublished": 501,
+  "newArticles": 36,
+  "warning": ""
+}

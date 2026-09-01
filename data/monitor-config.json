@@ -1,0 +1,128 @@
+{
+  "title": "Monitor Media HAM Indonesia",
+  "subtitle": "Represi Digital · HAM dalam PSN · Hak Sipil dan Politik",
+  "startDate": "2026-01-01",
+  "refreshHours": 6,
+  "clusters": [
+    {
+      "id": "digital",
+      "label": "Represi Digital",
+      "shortLabel": "Represi Digital",
+      "color": "#2563eb",
+      "subclusters": [
+        {
+          "id": "gangguan_akses",
+          "label": "Gangguan Akses (Internet Shutdown/Throttling)",
+          "shortLabel": "Gangguan Akses",
+          "query": "(\"pemblokiran internet\" OR \"pembatasan akses internet\" OR \"internet dimatikan\" OR \"perlambatan internet\" OR \"koneksi diputus\") AND (demonstrasi OR protes OR warga OR Papua)"
+        },
+        {
+          "id": "kriminalisasi_narasi",
+          "label": "Kriminalisasi Narasi & Pelabelan",
+          "shortLabel": "Kriminalisasi Narasi",
+          "query": "(\"UU ITE\" OR \"pencemaran nama baik\" OR \"ujaran kebencian\" OR \"berita bohong\" OR hoaks) AND (kriminalisasi OR ditangkap OR dipolisikan) AND (aktivis OR jurnalis OR mahasiswa OR pengkritik)"
+        },
+        {
+          "id": "sensor_konten",
+          "label": "Sensor Konten",
+          "shortLabel": "Sensor Konten",
+          "query": "\"takedown konten\" OR \"penurunan paksa\" OR \"pemblokiran situs\" OR \"sensor internet\" OR \"konten dihapus paksa\""
+        },
+        {
+          "id": "doxxing_intimidasi",
+          "label": "Doxxing & Intimidasi",
+          "shortLabel": "Doxxing & Intimidasi",
+          "query": "doxxing OR doksing OR \"intimidasi digital\" OR \"ancaman online\" OR \"teror digital\" OR \"data pribadi disebar\""
+        },
+        {
+          "id": "represi_pers",
+          "label": "Represi Pers / Hambatan Jurnalis",
+          "shortLabel": "Represi Pers",
+          "query": "(\"intimidasi jurnalis\" OR \"kekerasan terhadap wartawan\" OR \"penghapusan liputan\" OR \"kamera dirampas\" OR \"persekusi jurnalis\") AND (demo OR aksi OR meliput)"
+        },
+        {
+          "id": "peretasan_serangan_siber",
+          "label": "Peretasan Akun & Serangan Siber",
+          "shortLabel": "Peretasan & Serangan Siber",
+          "query": "(diretas OR peretasan OR dihack OR \"serangan siber\" OR \"serangan DDoS\" OR \"deface situs\") AND (\"akun aktivis\" OR \"situs berita\" OR LBH OR BEM OR \"masyarakat sipil\")"
+        },
+        {
+          "id": "suspend_akun",
+          "label": "Suspend Akun (Pembatasan Platform)",
+          "shortLabel": "Suspend Akun",
+          "query": "(\"akun ditangguhkan\" OR \"akun disuspend\" OR \"pembatasan akun\" OR shadowban) AND (aktivis OR jurnalis OR BEM)"
+        },
+        {
+          "id": "operasi_informasi",
+          "label": "Operasi Informasi (Propaganda Komputasional)",
+          "shortLabel": "Operasi Informasi",
+          "query": "(\"pasukan siber\" OR buzzer OR \"manipulasi informasi\" OR \"kampanye hitam digital\" OR \"bot media sosial\") AND (\"opini publik\" OR narasi)"
+        },
+        {
+          "id": "pelacakan_penyadapan",
+          "label": "Pelacakan & Penyadapan (Surveillance)",
+          "shortLabel": "Pelacakan & Penyadapan",
+          "query": "(penyadapan OR spyware OR pegasus OR \"pelacakan digital\" OR \"diawasi aparat\") AND (aktivis OR \"tokoh oposisi\" OR jurnalis)"
+        },
+        {
+          "id": "penyitaan_perangkat",
+          "label": "Penyitaan Perangkat",
+          "shortLabel": "Penyitaan Perangkat",
+          "query": "(\"penyitaan hp\" OR \"ponsel disita\" OR \"perampasan gawai\" OR \"perangkat dirampas\") AND (aparat OR polisi) AND (demonstran OR warga OR jurnalis)"
+        }
+      ]
+    },
+    {
+      "id": "psn",
+      "label": "Pelanggaran HAM dalam PSN",
+      "shortLabel": "HAM dalam PSN",
+      "color": "#d97706",
+      "subclusters": [
+        {
+          "id": "konflik_agraria_psn",
+          "label": "Konflik Agraria & Perampasan Lahan PSN",
+          "shortLabel": "Konflik Agraria PSN",
+          "query": "(PSN OR \"Proyek Strategis Nasional\" OR Rempang OR Wadas OR IKN OR \"PIK 2\" OR \"Bendungan Bener\" OR \"Pariwisata Mandalika\") AND (\"konflik agraria\" OR \"perampasan lahan\" OR \"penggusuran paksa\" OR \"ganti rugi tidak layak\")"
+        },
+        {
+          "id": "kekerasan_kriminalisasi_psn",
+          "label": "Kekerasan Aparat & Kriminalisasi di Area PSN",
+          "shortLabel": "Kekerasan & Kriminalisasi PSN",
+          "query": "(PSN OR \"Proyek Strategis Nasional\" OR Rempang OR Wadas OR IKN OR \"PIK 2\") AND (\"kekerasan aparat\" OR \"bentrok aparat\" OR \"gas air mata\" OR \"kriminalisasi warga\" OR \"warga ditangkap\" OR \"intimidasi warga\")"
+        },
+        {
+          "id": "lingkungan_ham_psn",
+          "label": "Kerusakan Lingkungan Berdampak pada HAM",
+          "shortLabel": "Lingkungan & HAM",
+          "query": "(PSN OR \"Proyek Strategis Nasional\" OR Smelter OR \"Kawasan Industri\") AND (\"pencemaran lingkungan\" OR \"krisis air bersih\" OR \"ruang hidup warga\" OR \"hak atas lingkungan\")"
+        }
+      ]
+    },
+    {
+      "id": "sipol",
+      "label": "Pelanggaran HAM Sipil dan Politik",
+      "shortLabel": "HAM Sipol",
+      "color": "#dc2626",
+      "subclusters": [
+        {
+          "id": "kebebasan_ekspresi",
+          "label": "Kebebasan Berekspresi & Berpendapat",
+          "shortLabel": "Kebebasan Berekspresi",
+          "query": "\"kebebasan berekspresi\" OR \"kebebasan berpendapat\" OR pembungkaman OR \"kriminalisasi aktivis\" OR \"dilarang diskusi\" OR \"pembubaran diskusi\" OR \"intimidasi akademisi\""
+        },
+        {
+          "id": "kebebasan_beragama",
+          "label": "Kebebasan Beragama / Berkeyakinan (KBB)",
+          "shortLabel": "Kebebasan Beragama",
+          "query": "\"penolakan tempat ibadah\" OR \"penutupan gereja\" OR \"pelarangan ibadah\" OR \"intimidasi jemaah\" OR \"SKB 2 Menteri\" OR \"penistaan agama\" OR \"penyesatan agama\" OR \"menyegel tempat ibadah\""
+        },
+        {
+          "id": "kebebasan_berkumpul",
+          "label": "Kebebasan Berkumpul / Berserikat",
+          "shortLabel": "Berkumpul & Berserikat",
+          "query": "\"pembubaran aksi\" OR \"pelarangan demonstrasi\" OR \"pembubaran paksa\" OR \"penangkapan sewenang-wenang demonstran\" OR \"intimidasi serikat pekerja\" OR \"penangkapan massa aksi\""
+        }
+      ]
+    }
+  ]
+}
