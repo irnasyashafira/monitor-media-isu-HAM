@@ -66,16 +66,20 @@ jobs:
       - name: Konfigurasi GitHub Pages
         uses: actions/configure-pages@v5
 
-      - name: Bangun dashboard
+        - name: Bangun dashboard
         shell: bash
         run: |
+          chmod +x scripts/*.sh
+
           repo_name="${GITHUB_REPOSITORY#*/}"
           owner_name="${GITHUB_REPOSITORY%%/*}"
+
           if [[ "$repo_name" == "$owner_name.github.io" ]]; then
             export PAGES_BASE_PATH=""
           else
             export PAGES_BASE_PATH="/$repo_name"
           fi
+
           npm run build
           node scripts/prepare_github_pages.mjs
 
