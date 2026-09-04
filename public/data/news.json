@@ -1,15 +1,15 @@
 {
   "meta": {
-    "generatedAt": "2026-09-04T11:23:07.245231Z",
-    "lastRunAt": "2026-09-04T11:23:07.245231Z",
+    "generatedAt": "2026-09-04T16:25:13.329745Z",
+    "lastRunAt": "2026-09-04T16:25:13.329745Z",
     "startDate": "2026-01-01",
     "refreshHours": 6,
     "mode": "incremental",
     "feedsOk": 16,
     "feedsFailed": 0,
-    "totalStored": 874,
-    "totalPublished": 874,
-    "newArticles": 21,
+    "totalStored": 882,
+    "totalPublished": 882,
+    "newArticles": 8,
     "warning": ""
   },
   "clusters": [
@@ -136,6 +136,29 @@
   ],
   "articles": [
     {
+      "id": "a81395fd132fb32f6c0c8afa",
+      "publishedAt": "2026-09-04T10:09:33Z",
+      "title": "Temuan Praktisi Indonesia di Sistem NASA, 5.000 Kredensial Berpotensi Terpapar",
+      "source": "merahputih.com",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNTmg2cU0wMXdKUm5OS1hRTUFWQXBFOUxrM19rUmFRQnJtc3U3UVp0Si14emx5OHRrZ01tbThQX0xEOEw2cG81MDNMWkJFdUlfQm9abF8zWGNLRkF3cXp0dGM5Q2E4T09PMHg0VUZhMlNxZk9fRVMxYnhjWFZDeFpsYVNEYWtxYUw5amxVTG9iMFUwbWYycGllYUo1Y0vSAZwBQVVfeXFMTU5oNnFNMDF3SlJuTktYUU1BVkFwRTlMazNfa1JhUUJybXN1N1FadEoteHpseTh0a2dNbW04UF9MRDhMNnBvNTAzTFpCRXVJX0JvWmxfM1hjS0ZBd3F6dHRjOUNhOE9PTzB4NFVGYTJTcWZPX0VTMWJ4Y1hWQ3habGFTRGFrcWFMOWpsVUxvYjBVMG1mMnBpZWFKNWNL?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-04T16:25:13.329745Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
       "id": "df24ba5fdc0683724439060f",
       "publishedAt": "2026-09-04T08:54:36Z",
       "title": "Bebas Berpendapat di Media Sosial: Kapan Kritik Bisa Menjadi Ujaran Kebenci",
@@ -223,6 +246,29 @@
         "Kebebasan Berekspresi & Berpendapat"
       ],
       "collectedAt": "2026-09-04T11:23:07.245231Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "11d73fdb2db2e7ed7727b92d",
+      "publishedAt": "2026-09-04T06:12:12Z",
+      "title": "Merawat Ingatan Publik, Aksi Kamisan Majene Suarakan Isu HAM dan Kebebasan Berekspresi",
+      "source": "sulbar.tribunnews.com",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNS1ZmX3ZWNzRtaTlpS2wybFJWUllnZGpmOXJXcGREdk9WZmNWX2xaVU9IY1VxT2QwNjFSTE9VZ0tMYUM0eElyVkprTWwzYVFNZHR1dm5WaVhlaDFlRTBMNV9xZFpXYzk0VllvY2pnSGJXUHhILXhmR2NJOTBZS0pHd2JtaENfbTVYYWt2UXZJcmlIMzQwNzVUMVRkMG91RndvdGdwUFQ0R0dYNHV0Z0Zkc1FLa1M2THA2dVNBTlcta0lfNmgxNDBF?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-04T16:25:13.329745Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
@@ -435,6 +481,29 @@
       "reviewNote": ""
     },
     {
+      "id": "8a226825270a9887e0a19158",
+      "publishedAt": "2026-09-03T16:26:00Z",
+      "title": "Dittipidsiber Polri Ungkap Judi Daring Manfaatkan AI untuk Hindari Pemblokiran dan Samarkan Dana | #ReserseBekerja",
+      "source": "Media Hub | POLRI",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQN1B6N214U0hsbEVuUjJRVU5VYWRKSzhoMllCOGl3b3V2dVJSUE53VUlBdDhKbmFnRUx3cEkxWW5xS3RMdklHTmQzOXFLRWI0QllZTHlGX0NVczdxU2hhbzQ4OHlrdnpOS3NudmNWTU5vR1R4aTVjWlBHdDZELTFqTkdxZTVDMFNRcVlXenl4cjJTZEY4dE8yNC1rMU5sTHlFWXRDWkNPbUdnZERIcVp4bnhEZlBPSGdyN2tLYmhpb1liLW9zb2dKYmkwM05xdlg5UDJsNUUza1Q0RlBFemw5VHhR?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "sensor_konten",
+      "subclusterIds": [
+        "sensor_konten"
+      ],
+      "matchedQueries": [
+        "Sensor Konten"
+      ],
+      "collectedAt": "2026-09-04T16:25:13.329745Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
       "id": "1b5395072a13631631bcbe37",
       "publishedAt": "2026-09-03T16:26:00Z",
       "title": "Dittipidsiber Polri Ungkap Judi Daring Manfaatkan AI untuk Hindari Pemblokiran dan Samarkan Dana",
@@ -591,6 +660,29 @@
         "Kebebasan Berkumpul / Berserikat"
       ],
       "collectedAt": "2026-09-04T11:23:07.245231Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "57660cb22c3884db1ba54904",
+      "publishedAt": "2026-09-03T14:05:00Z",
+      "title": "Mahasiswa UGM Beri Ultimatum 2x24 Jam ke Kapolda DIY, Tuntut Klarifikasi Narasi Pepper Spray - jogja.disway.id",
+      "source": "jogja.disway.id",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOdjVJdW44V19YR19mTVBVUk9jTy1XU09adFBES0xQWEwwTFRjelNXWnp4RDZZVjE3SEtmazhwUk5RSk5zdzdSZWFYTnlRdkdsYXZPRXM2TWp3bWpfSWNZNWFKOGh3WDl5X3NldGh3dzFsTEdSdWZEYkpZNnlMZHBUQjRDZDFnUEVIVndmSk00WWtxUXFrMVlyUUhPVHRRaEpEdnpsWnRxSGFWdnkwdVQwWDlvaFFnRmhLMnRXRlRWX1QtbDY30gHEAUFVX3lxTE52NUl1bjhXX1hHX2ZNUFVST2NPLVdTT1p0UERLTFBYTDBMVGN6U1daenhENllWMTdIS2ZrOHBSTlFKTnN3N1JlYVhOeVF2R2xhdk9FczZNandtal9JY1k1YUo4aHdYOXlfc2V0aHd3MWxMR1J1ZkRiSlk2eUxkcFRCNENkMWdQRUhWd2ZKTTRZa3FRcWsxWXJRSE9UdFFoSkR2emxadHFIYVZ2eTB1VDBYOW9oUWdGaEsydFdGVFZfVC1sNjc?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_berkumpul",
+      "subclusterIds": [
+        "kebebasan_berkumpul"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berkumpul / Berserikat"
+      ],
+      "collectedAt": "2026-09-04T16:25:13.329745Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
@@ -844,6 +936,29 @@
         "Sensor Konten"
       ],
       "collectedAt": "2026-09-04T04:39:05.660189Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "f05c29c4e892387a82aaaff8",
+      "publishedAt": "2026-09-03T08:13:00Z",
+      "title": "Kubu Budi Arie Anggap Aduan Relawan Prabowo ke Bareskrim soal Makar Tak Beralasan, Mengapa?",
+      "source": "Tribunnews.com",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNWUVSdENXOHJOR1A4aFRob1dpNnRURDRsbjB2WGVMRE9rTWJmSUQxUVFiODltZ1VHRV9KcWttdXBGdEg1ckxDdDFiaWFvYTJtZmlEMHBQNXduOVkwb09jVjBEUGRZeVkzczN2SUdUczExbl9aOTdGZTVMZWF6VmNnSnF6cGJIdXYtN0l4Q2pUTEIyQkZ1TGE1aU9jN2pQTjA1VG5vWl9qMC1CWVRoZHNuVmxOWHNScENReTA0al9hWXdEUm00YVBBYkdoTUF6dw?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-04T16:25:13.329745Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
@@ -1166,6 +1281,29 @@
         "Kebebasan Berkumpul / Berserikat"
       ],
       "collectedAt": "2026-09-03T04:37:14.681182Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "22212cde3a9c5bdbf9bf89fe",
+      "publishedAt": "2026-09-02T21:42:41Z",
+      "title": "Urgensi Pembentukan Karakter Dan Perilaku Etis Pada Gen Z",
+      "source": "Kompasiana.com",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNbjRoQVd0NTBISm10eHpJSXhsMkpnZndyZ01fYkJFMjVhN245TnZGVlE2dHZ3Q0FrRkQwTWdNcmVObHJaeFVBaU1IRjNPak15aHBLWHRQNTV3RE5LM0xtUWF1VFlGbFRkRFkwVUZKbkZtczZ4UlVMQm5zdVBBZVpXVFhKX0hER29PaDdZSWs2X0ViRjQ5RTVnRzRXdFRidDlEX0QzOHQyMkdPX0VCX2xySXpneWlySXd5SktBWmdjczFvQQ?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "doxxing_intimidasi",
+      "subclusterIds": [
+        "doxxing_intimidasi"
+      ],
+      "matchedQueries": [
+        "Doxxing & Intimidasi"
+      ],
+      "collectedAt": "2026-09-04T16:25:13.329745Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
@@ -1580,6 +1718,29 @@
         "Kebebasan Berekspresi & Berpendapat"
       ],
       "collectedAt": "2026-09-02T16:37:56.579308Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "7ab78e238f80d55b46f64fcb",
+      "publishedAt": "2026-09-02T12:01:07Z",
+      "title": "Menahan Diri Pascademo adalah Cara Menjaga Demokrasi Tetap Bermartabat",
+      "source": "suaradewata.com",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOODkxaC1PWkpTZVZxcVc5bEJKbHFfNWFhNV9RV3hQZE9iVU56ZUgzSWdkeWlndEg1a1AwaVdLam91TG1vVXR4VmlndHlzVk1sTXVCa25LYlVfMU5fRXJYdFYxeTk5YXJTS2p3NUtycjV4bGtCbXRtWVpMUVZHandtNmZFZXoxZGZ3alMwcEIyUzVBbURQY1JIUnpXb2xFXzZqb1kzeF85anpsMWZYcnc1dy1hc3Q3MEtKbDJRZHlB?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-04T16:25:13.329745Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
@@ -12528,6 +12689,29 @@
         "Kebebasan Beragama / Berkeyakinan (KBB)"
       ],
       "collectedAt": "2026-09-01T21:05:00.328305Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "923516425a428f7dbea9a091",
+      "publishedAt": "2026-07-27T07:00:00Z",
+      "title": "Diduga Lakukan Penistaan Agama, POI Sumut Resmi Laporkan Dua Akun TikTok ke Polda Sumut",
+      "source": "medan.viva.co.id",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOczV3X2Jzc3haMUxHOXpkR0ZBUW9rUmNFQ3JPZ0NQUGUwT0I5dF9IOFJQRGN1MkNiSUR6UTBVejBwRkF1WVQ5QmZJclB4TG9lbU1nYXQyOThLOXI2VEN1WW5RcGFCdmpJTTBVeGE4TF9FTVRrVEc2U1pzbWQ2Yk05cDRiUVZCa3hEaFNXdy1WT1JqUGRUdHY1akRmTGtqS083VnIwWloyRDlDbmQwVjZCMFZHVTJMMk5yMUc0bTRoUjHSAcYBQVVfeXFMTWlGc2dURWEyai0xaE5xSXRMVzVKR2JkdFlHRUFCaVhXR24zeFJHVVQ3NjNVazNOTmI4T3pvZ1V1RnRrbnZ3RTg1eHJiYy1PSDA3V0RfUFJkdjI3VkJtOC16YVRtd1Y5UEd4RDVaQ3pLaVZIX3F0WV95azZZZDJ4QndrVmhTMHpzVDRVMmREN3lSUnNyLW8xTWhmS3RHSWs3N3JsN1BMNldrYUI0c3BqYnNnWTFZdEVUWmtEeVZpdVVrbzZmbXJR?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_beragama",
+      "subclusterIds": [
+        "kebebasan_beragama"
+      ],
+      "matchedQueries": [
+        "Kebebasan Beragama / Berkeyakinan (KBB)"
+      ],
+      "collectedAt": "2026-09-04T16:25:13.329745Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
