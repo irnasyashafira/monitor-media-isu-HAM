@@ -1,15 +1,15 @@
 {
   "meta": {
-    "generatedAt": "2026-09-04T20:47:57.941284Z",
-    "lastRunAt": "2026-09-04T20:47:57.941284Z",
+    "generatedAt": "2026-09-05T04:34:32.550282Z",
+    "lastRunAt": "2026-09-05T04:34:32.550282Z",
     "startDate": "2026-01-01",
     "refreshHours": 6,
     "mode": "incremental",
     "feedsOk": 16,
     "feedsFailed": 0,
-    "totalStored": 892,
-    "totalPublished": 892,
-    "newArticles": 10,
+    "totalStored": 901,
+    "totalPublished": 901,
+    "newArticles": 9,
     "warning": ""
   },
   "clusters": [
@@ -135,6 +135,75 @@
     }
   ],
   "articles": [
+    {
+      "id": "4022210c90d4d9c45625a1ff",
+      "publishedAt": "2026-09-05T04:01:43Z",
+      "title": "redefinisi ruang aman di era society 5.0 Halaman 1",
+      "source": "Kompasiana.com",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxONU9Lek5HYXhQMUtCdXZhbHZHSkRRYU1KX1lCOXdzVklQcThHZ0hlMzJpQVlzbU14ZC1uTjk2QUlXTTVLQ183TWQyRjVCQjZERzB4N2ZKeW9Ea1VrTVY4eTI0bGJqVlVlaWJKaXpSZWlXMDhxRVpuczZDUDcweElaUTFZR3BYQnhxbml1X1p5ZGExMlUxZXdjWEYyeFpPbGxfc002S3Z3RGFnWGxvRHlJYw?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "doxxing_intimidasi",
+      "subclusterIds": [
+        "doxxing_intimidasi"
+      ],
+      "matchedQueries": [
+        "Doxxing & Intimidasi"
+      ],
+      "collectedAt": "2026-09-05T04:34:32.550282Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "d325de7a39e1c749dbcdfdc0",
+      "publishedAt": "2026-09-05T01:59:05Z",
+      "title": "BAKUMSU Catat 116 Kasus Pelanggaran HAM di Sumut Selama Semester I 2026, 54 Persen Libatkan Aktor Negara",
+      "source": "Akurat Sumut",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQRHF1UHhmSmRMNEZJZWRFS3F2WHczeXRIdlNLeDFUTXpON0FjNjBDUVVyX2loTGdwRHAxaFVpdFg0d09odkJqZm1mdV9lZnFUejZTTEtyWkVDY2lyQ2gzQkxPWDJScTE0bFh5dTB0RzhTYjBSR19scXh0RDQwM3M3SHhrTHZuaEtoS0RpRVd2YmlpVDlMbDVfY3BpZzNXQmY5d2l1N1JfSUs2OEoxWFI4NmRKenRfdkIwN3pWN3JKTURacE82UUhBNzRHZlZMSHJvV3FGemhtWGJfQU1GVWtXX2R3?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-05T04:34:32.550282Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "16947d76d9bf86f1971360dc",
+      "publishedAt": "2026-09-05T01:47:27Z",
+      "title": "Mahasiswa UIN Alauddin Makassar Kritik Militer Masuk Kampus, Malah Mendapatkan Tindakan Represif dan Terancam Drop Out",
+      "source": "LBH Makassar",
+      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOOC15YkRldUQ4dEtjUkxFQjhxRWJZY3pGekh0VkJmUTNuWUt5cDVhOXdGOE5SaFhucWlRaHdXNE4tbTExcE9qa2ZzdnRpTGpTWXEyV1dOYXY1UDg5TWlZTXBCRnNWWjlySDFJYUwtMVVSNHZUUkNROEU3SWtsa1ZpUUVReWc3VjMyR3hfNTV3SGJOQ2VlRmE0eXg1TXdVdndLTFo1QXpIeWRuVWZ1amNPb1pWWDlyNmx1MURJNWYtajVNUXBydVBZVmZmaWd2LVFJVjBXTzVFTDhWUjczb2JBS25MRXVTOEw4U0diQQ?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-05T04:34:32.550282Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
     {
       "id": "1385999ae4bf4f4b0b4f56b4",
       "publishedAt": "2026-09-04T14:46:05Z",
@@ -1217,6 +1286,29 @@
       "reviewNote": ""
     },
     {
+      "id": "730d9aee9ec2f6126a4e1c69",
+      "publishedAt": "2026-09-03T04:06:00Z",
+      "title": "Kritik Konvoi Raja, Aktivis Thailand Divonis 2 Tahun Penjara",
+      "source": "IDNTimes",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNMXMwcGxfZjZ1ZXIzdFhvSDBFQk53eUV6cmhraTdoQXNJdHdGY0lvOXhBWlA5NlVJYU1LaXJqeWVwTnV2azlia3FxZWxDelRMS1JaZzBTS2pIbnNzcC0wcXFtNHBacTB1M1ZuaDljSTRnSTV3TmpJM19aOGhvX0dMRWVBSXVDZGpHdFczNnlHdVI5eUxWRnNFRzZfS3FFMTRLMEU4SmRqdV8xd2RXZHZVQWc3S3hjVzDSAbwBQVVfeXFMT18tVGFkd0pHVV9fRk9WWGl0aDRFS0Zzb3MwcmJIdmRqMXB6ZExBTDR0RDV3amt3c2dLUnc4Q3JULWdCTURBaElsTDIxck85OF96WHl2OFluLTNwT3BmODR5WDk3a2ZTY01qMGZrNjRJenNiRW9kYVdmZndHM0lJbndiRy1uMlljSmpLazE2blh3M2ZOLXhzVU11ODlEM3NzRE5KYkVPMTJoa25jbERDblVFbllYRGRqQlJQNjE?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-05T04:34:32.550282Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
       "id": "982d7e42c1fd8e6b3c8def0c",
       "publishedAt": "2026-09-03T03:54:40Z",
       "title": "ILUNI UI FIB Desak Evaluasi Ormas",
@@ -1350,6 +1442,29 @@
         "Kebebasan Berkumpul / Berserikat"
       ],
       "collectedAt": "2026-09-03T04:37:14.681182Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "fd87d35667fd3456b410835b",
+      "publishedAt": "2026-09-02T22:02:33Z",
+      "title": "Sederet Pernyataan UGM soal Demo Mahasiswa Ricuh di Simpang Sudirman Jogja",
+      "source": "detik.com",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOcDBxbjV5ZWtTdzF5M004QjB6TVlZUFJPek14YVNwcjdpbnl2Y2dYbVprdU1DN3VWQmMycG1RbnJSaDZQNjBONzBJVXJlTmxySUFremxyU092cWJXakZXSHFGWmVQNzZXRk9YOVAxaDNLdjVZdkZQdDUzX0Vtd2lJTjdfM0JrbDJ2RldpS3NnbFdhbmtDWURuQmJndmxmME42b1hUVDAzdUFIUzB1QzZwY3Z2eGx4d2VfNjlyTkR6bWrSAcABQVVfeXFMTnAwcW41eWVrU3cxeTNNOEIwek1ZWVBST3pNeGFTcHI3aW55dmNnWG1aa3VNQzd1VkJjMnBtUW5yUmg2UDYwTjcwSVVyZU5scklBa3psclNPdnFiV2pGV0hxRlplUDc2V0ZPWDlQMWgzS3Y1WXZGUHQ1M19FbXdpSU43XzNCa2wydkZXaUtzZ2xXYW5rQ1lEbkJiZ3ZsZjBONm9YVFQwM3VBSFMwdUM2cGN2dnhseHdlXzY5ck5Eem1q?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_berkumpul",
+      "subclusterIds": [
+        "kebebasan_berkumpul"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berkumpul / Berserikat"
+      ],
+      "collectedAt": "2026-09-05T04:34:32.550282Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
@@ -2362,6 +2477,29 @@
         "Kebebasan Berkumpul / Berserikat"
       ],
       "collectedAt": "2026-09-04T04:39:05.660189Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "a0e880b58947aa36f6a4e105",
+      "publishedAt": "2026-09-01T22:41:07Z",
+      "title": "Koordinator Pati Bersatu Dihentikan Transaksi Rekening Sebelum Demo 27 Agustus, Blokir Sepihak Picu Kontroversi Hak Nasabah – Berita Hari Ini",
+      "source": "Universitas Teknokrat Indonesia",
+      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQalpVazgza3c4WVVWTUJsMFBoRGV3c3otd3dRV0lEVFU4dEc0bWZOUlY1MkxfZnhyV1pnc2tUeGpyWTZ5OTBGRVlDUmRKS042RWVZT20wRElvNDdmbEFFN2ZTWGxRWTg4OE00MmVUR3dnc19XT1lXOE1MQmdjZ3lCb0tqcjlXLVNBQndUb2h5b3FGUEppdzNuRllaUmtXTElQMVhzZUdWT0Nlb3dBVXdzbno1cE00WVBJbFQ1NU9qS1VRNC1pVTFCSml2Sll4YmZIUHFTUmZJMWEwby1kQWhEQTg3ME9yTkwyd1NfTjhR?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-05T04:34:32.550282Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
@@ -7795,6 +7933,29 @@
       "reviewNote": ""
     },
     {
+      "id": "7601ef8f3583fac47057f4b9",
+      "publishedAt": "2026-08-14T07:00:00Z",
+      "title": "Vokalis band dilaporkan ke Polda Metro atas dugaan penistaan agama",
+      "source": "ANTARA News",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQVTZ1aWZ6T1NDQmV5NlJmSTQ2aUhGd2pQcUVPT2xSQ0pNOWVNdmRTQm5hYVRCWnpEM0Nkc2pTa1p1Wm9KaXNqSlJ4UXM5b2w3bG9OM3BWLXFiamwtYjNGSWl0UWZzT3Qxa3Zlek5ncVJwMk5WWDRaZmtwRGgwaVRaakJkMjJYUEdCRmkzRU1ZUllqMzJzdEFQZjNTRlRzeDhkSmVPYVNLVjVTdFlS0gGvAUFVX3lxTFBGWDhlVkxCeURSaTVNcGFqM3ZlUi1wZWF4bWttVWxneWVoaEl1dzhOd2tISXM5RWdHS2hKZm4yQVpuZDhBTmlWM0ZGdzhPNDZzcHF2NG5jNkcwbldpNlJEaUdYWXdsOFdkem5PdHFnSjUyX2VqT1pZNk1tYTBTNlJ2VlRLS0VvMWNHVGRZVDZMUWZlZDBERUdrb1NtNWhQWGlmTnFTMWFHQ1ZuYVNnck0?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_beragama",
+      "subclusterIds": [
+        "kebebasan_beragama"
+      ],
+      "matchedQueries": [
+        "Kebebasan Beragama / Berkeyakinan (KBB)"
+      ],
+      "collectedAt": "2026-09-05T04:34:32.550282Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
       "id": "d6bab021ad0289766cbe2525",
       "publishedAt": "2026-08-14T07:00:00Z",
       "title": "Vokalis Band Berinisial C Dilaporkan ke Polda Metro Jaya Terkait Dugaan Penistaan Agama",
@@ -11194,6 +11355,29 @@
         "Kebebasan Beragama / Berkeyakinan (KBB)"
       ],
       "collectedAt": "2026-09-04T11:23:07.245231Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "bca776033a627ff17422f194",
+      "publishedAt": "2026-08-12T07:00:00Z",
+      "title": "2 Terduga Penistaan Agama di Konser Ancol Dibawa ke Polda Metro Jaya",
+      "source": "Okezone.com",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNaDJDMjg4alJMd2RIa2w1WDdwdWd1Wmp1NE9kOHpyclB1ZDY0eE5WRFFZTDdXU1Z4MkNrbmFvSGcyUlE3T29TMlc5WUpGazJhUHhsc3ZmVjMxM2VLejMtdThaZm8tTVlKdEY4ZEYzbVJTTGNLZVY1SGF0dTVzajlVZGFRQk5zaHdxYWM5Zl9qaXZ2WmtLb3hGbENBZ0RYMVdDZXEwaFVlQ2REMjE5c3hRSVluLXJXeWJvMWFmM2lRTEJUb25xSm8w0gG8AUFVX3lxTFBsbmM1YmZHVGpzek5OcWoydnlBcVVadllTWWhydkFvckg2aGZGTF9WRXpzWFctY0xWS0g3dVdMbzJSclY2ZmJlakJhaTR2aUp3eDZ4LW5BMk94Xy1qWHhQZVMwSWlqeHFtRlZIYy1JVXI1QjByM2dWWGRacnIxdzBrMGM3bWV6U3lEV0J6SHJzNmxFQWJFaEJGZTFpd19oNzR6M19ROVVQdHdHMmtuRGtXTXJCZ0t5b2JSV1dI?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_beragama",
+      "subclusterIds": [
+        "kebebasan_beragama"
+      ],
+      "matchedQueries": [
+        "Kebebasan Beragama / Berkeyakinan (KBB)"
+      ],
+      "collectedAt": "2026-09-05T04:34:32.550282Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
@@ -18998,6 +19182,29 @@
         "Kebebasan Beragama / Berkeyakinan (KBB)"
       ],
       "collectedAt": "2026-09-02T04:40:13.656842Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "76f258bafc3cd1488f940616",
+      "publishedAt": "2026-04-13T07:00:00Z",
+      "title": "Buntut Video 'Mati Syahid', JK Dilaporkan Dugaan Penistaan Agama",
+      "source": "news.detik.com",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNd19jUXB3anNuU0xHd09WclNfZnY2TkhhZUJXeDEzbk9mOW5ESUFvRVRaZl83ZERFOUdIaWt3VlFsbjFEUkdBZ0lsMkI4LVhpWHpVYUZyUEhzdjJFMzF0NGlhTm5sdUZDaklnUUQzUWdKcDNPXzhFNDlpOXZpOThUZDVUc2ZldDRxN2RxWjdGNW9uMDMtU0RWYWlXNnpVWm01T1RF0gGoAUFVX3lxTFBXbUZTWHhzYmw1Vl8zbjdUVndtVmVnNS13REdTbExveG5TTUZ5R2lnNURaRENHS0JIMlpYdzBQazRoYXdFT0xLVWlZZlRucFpFWWpCb2o4NHRuS2J0RHdmVUpLN19GNHZRS3hwRG1rcEVHbnl0VHJUU3VSR2FfU1pwMUo3bDBIRHBjNHBDVXdNUm9GOXhHTzZGM0hjbjNxd25WNm5hRC15RA?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_beragama",
+      "subclusterIds": [
+        "kebebasan_beragama"
+      ],
+      "matchedQueries": [
+        "Kebebasan Beragama / Berkeyakinan (KBB)"
+      ],
+      "collectedAt": "2026-09-05T04:34:32.550282Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
