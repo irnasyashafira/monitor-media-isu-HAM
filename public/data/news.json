@@ -1,15 +1,15 @@
 {
   "meta": {
-    "generatedAt": "2026-09-05T15:17:27.933540Z",
-    "lastRunAt": "2026-09-05T15:17:27.933540Z",
+    "generatedAt": "2026-09-05T20:25:31.209980Z",
+    "lastRunAt": "2026-09-05T20:25:31.209980Z",
     "startDate": "2026-01-01",
     "refreshHours": 6,
     "mode": "incremental",
     "feedsOk": 16,
     "feedsFailed": 0,
-    "totalStored": 921,
-    "totalPublished": 921,
-    "newArticles": 8,
+    "totalStored": 927,
+    "totalPublished": 927,
+    "newArticles": 6,
     "warning": ""
   },
   "clusters": [
@@ -135,6 +135,29 @@
     }
   ],
   "articles": [
+    {
+      "id": "8bcc59e79dc318d4d21b38f3",
+      "publishedAt": "2026-09-05T19:52:35Z",
+      "title": "Ditreskrimsus Lakukan \"Profiling Link\" Dalam Kasus Doksing Ngurah Dibia",
+      "source": "balijani.id",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQVG82cWlNZTJhZGh6WU5nb2VPbVpNeHl0by1rbFFacGRRcFM4XzlWM0E4YlJFLXp1dG9CMzFBZjExU2ctem01T0pfUktfaGNYT0lqWnNocEt6TWsxNXhOUXBtcXE2Rjl2b3pCbHlWZFFJRU4ybEVCa2FNMm1vOTRuSmh0cEp2N2hKS241TVAwZllEQlNx?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "doxxing_intimidasi",
+      "subclusterIds": [
+        "doxxing_intimidasi"
+      ],
+      "matchedQueries": [
+        "Doxxing & Intimidasi"
+      ],
+      "collectedAt": "2026-09-05T20:25:31.209980Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
     {
       "id": "022b309ceb576ef25957fd12",
       "publishedAt": "2026-09-05T13:15:34Z",
@@ -338,6 +361,29 @@
         "Kebebasan Berekspresi & Berpendapat"
       ],
       "collectedAt": "2026-09-05T15:17:27.933540Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "33e2b93e5bc3a331cd662a20",
+      "publishedAt": "2026-09-05T04:17:07Z",
+      "title": "Dari ”Lir-Ilir” sampai .Feast, Pilihan Aktivisme yang ”Berbisik” dan ”Berisik”?",
+      "source": "Kompas.id",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPYVIxcldrbEJQSHA0YXFlM1BpUjA1WXpXVnR2cHRkOHlwZ0tfaEo1YWtkSnVaSnZjbDVLaGt0MWJ6R0ZBSEZlcFQxVVhCX29HQlJXRFRNMm1HSkRXYnhfc3RKRHRKOUFFbGxfR28zSkxqQWppNkdFeUJhOGF4VXpTTmdINVJZTmtscHBQSjEzZ1A4NE92S2NJNTIwU1RSdVI3OFE?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-05T20:25:31.209980Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
@@ -844,6 +890,29 @@
         "Sensor Konten"
       ],
       "collectedAt": "2026-09-04T04:39:05.660189Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "23cc4dcbcd8fe9b355ab0b16",
+      "publishedAt": "2026-09-03T18:23:03Z",
+      "title": "Wali Kota Magelang Dorong Penguatan Mental, Buntut Banyak Warga Terjerat Judol",
+      "source": "radarjogja.jawapos.com",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNQmxwaU5wcjIyZGo5Mk9BbTBlaWt0amo4ZVctUzczVmhvcjM4b21oU1Z3QjVBb2ZPcm1UaW1mNW5mV1VaeUFIUGxiX0I3akNTaUcweHRDeFR6R2Jmb2J2ck4zekJObS1mak5HRjNacFFuTGw3R3JPOGROVlF6T29kcE9UNUJzelZUWUFVMEd2YWo2Y2RrRXNkV0ZMYklxM3l1Uy14cXJlT1JLb0NVTWZNZU9HN2QwV3dXU0diSXBwOHV1b0dPZ3pZSmZ2MNIB0AFBVV95cUxNSEgzWFpsVS0wQVhzeExNVE5YRGhTTzR5d2V2TTUtRWt3Xy1RSUxGTG1ha3lZU3U0X2dBa2Q5bl9ZSGR6Sm9pYms2di1EY3JkdVR2Wm9oV0g3Vy1PcmlHV0xUTmFyZFQ3Nk5HM1JCazlUT2o2RVZFcjdiZUF0MUhTNzVscGlRaVFYQnhkQjliWDJ4WmhiQXA3OUR2c0JYblNYTzR4SHRnUTdzREI2ZVhUZHNaTGpZU2xuMFpXSm1fUjFfQTF2Wjl4emZ6ZnJzYzdq?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "sensor_konten",
+      "subclusterIds": [
+        "sensor_konten"
+      ],
+      "matchedQueries": [
+        "Sensor Konten"
+      ],
+      "collectedAt": "2026-09-05T20:25:31.209980Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
@@ -1557,6 +1626,29 @@
         "Kebebasan Berekspresi & Berpendapat"
       ],
       "collectedAt": "2026-09-03T11:20:00.602627Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "a3cc81054ee9ec46d3b48b5f",
+      "publishedAt": "2026-09-03T04:30:11Z",
+      "title": "George Clooney Singgung Pembungkaman Publik di Venice Film Festival",
+      "source": "cnnindonesia.com",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPSjZ4T3RSNTNweDlzSzBjT004ZE5IQXRaSnZqdGRRa2w2aW56dFJNMF9iRHhTVU5od29peFY4Y0hhZmNKc3RvTTYtdzltTVBfeUhMZENteG03LXltQzlfZHEtNlpsOUc4OGIzcm1oME40NkNjcHUyRGRkX2V1alF3a1M0bXlRVXFyQTdkNmY4dTdZYkw3d2dBUTVJZXA3T1Vzd3hLMGpJcEJqNHZCUzhxN2NIWkgzWW9najlaMjJvN1JTWUM5VUxSYXVKNNIB0AFBVV95cUxNMk1PTjJGUWRaVEpqeHpJOVN3MkQzNXQ4NnF6UjktOGktekJWZERicUhoQTN6c1dEclNFdlU0RUpFUDdhc1BKZmVkYWZHZ1Y3MGpUTFZKaDd2YXJ1LWczUTZKWXZ6REpkT2lwYzN1a3owVHlEdnlVOWRYSXFsaTQyeGk1X1RPLVBCcVlGaUlpTHJLdVE4RWVWWDY3QTNnLWtJUm1IdUx1RWlMVXhRVl9uZGMyNnN6N0ZpTFhMRS13MHZ4YlgwVERNX3RPdXZfeWdD?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-05T20:25:31.209980Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
@@ -11381,6 +11473,52 @@
         "Kebebasan Beragama / Berkeyakinan (KBB)"
       ],
       "collectedAt": "2026-08-31T23:07:12.746081Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "7745df72ba6f89f7078c08fb",
+      "publishedAt": "2026-08-12T07:00:00Z",
+      "title": "MUI: Tantangan Hafalan Surah Ad-Dhuha Berhadiah Miras Berpotensi Penistaan Agama",
+      "source": "khazanah.republika.co.id",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOVXh2Qm1UVjBlQ2toUGN6SGVwaUFiclI1MG9KUGRqLXhrLTdiWUtkaHV2Uy1HaVZnWF9JQTlVVnJnWkxoR0U0V2Y5SEp0MDhhZVduV3FPUUhKT25uVWRidFdSQWN1ZlFIUGhUNDFjaW5YV2IxUzJ3X04zWjJQWmw3U00wTi15bWZWS1cwUTZxdWk4S3dfRnIyZ3lkU1J4d2tVZGViYWpsXzJ1dmZIMUZzTnl6dnFndmgyZTZobjFPRm14RGxpYi1j?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_beragama",
+      "subclusterIds": [
+        "kebebasan_beragama"
+      ],
+      "matchedQueries": [
+        "Kebebasan Beragama / Berkeyakinan (KBB)"
+      ],
+      "collectedAt": "2026-09-05T20:25:31.209980Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "1a329abe045f3126835556b2",
+      "publishedAt": "2026-08-12T07:00:00Z",
+      "title": "MUI dan Forkopimko Jakarta Utara Sikapi Dugaan Penistaan Agama dalam Promosi Minuman Beralkohol",
+      "source": "DKI Jakarta",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQTGRhRmk1Y01faWZ3U2xZUk5VMVJQcHFOSFptSUpDVFptMXZibjF4a3dzNjcySW9DYXFuZ3AtLWt1U1oxYklCV2xMdlk2Q3ZVcjBrdEE5RFVITkpHMVU1Q0JXeGhIaEVGTjFVUDVZem9JbWNZYUxCQnd0WUNOc2JvcF96YUR1MjlvRV9ucHJKS0tFdy1zT09YeWp0WmMwWkF5V0NGUkk2VU01ck1vY0U2aU1vbHlZenkzYzlmdUhxWEhnd2xZU3VqVFJNSkJnUzZvVGc?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_beragama",
+      "subclusterIds": [
+        "kebebasan_beragama"
+      ],
+      "matchedQueries": [
+        "Kebebasan Beragama / Berkeyakinan (KBB)"
+      ],
+      "collectedAt": "2026-09-05T20:25:31.209980Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
