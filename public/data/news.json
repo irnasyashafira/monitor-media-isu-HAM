@@ -1,15 +1,15 @@
 {
   "meta": {
-    "generatedAt": "2026-09-06T11:01:52.476581Z",
-    "lastRunAt": "2026-09-06T11:01:52.476581Z",
+    "generatedAt": "2026-09-06T15:30:23.875745Z",
+    "lastRunAt": "2026-09-06T15:30:23.875745Z",
     "startDate": "2026-01-01",
     "refreshHours": 6,
     "mode": "incremental",
     "feedsOk": 16,
     "feedsFailed": 0,
-    "totalStored": 942,
-    "totalPublished": 942,
-    "newArticles": 11,
+    "totalStored": 945,
+    "totalPublished": 945,
+    "newArticles": 3,
     "warning": ""
   },
   "clusters": [
@@ -297,6 +297,29 @@
       "reviewNote": ""
     },
     {
+      "id": "41b75c590a826caf1be57c76",
+      "publishedAt": "2026-09-06T00:30:33Z",
+      "title": "LBH Ungkap Pengerahan Tentara Sebelum Hari Damai Aceh, Keputusan Mendadak Ini Memicu Protes Nasional dan Pertanyaan tentang Kebijakan Keamanan – Berita Hari Ini",
+      "source": "lifestyle.teknokrat.ac.id",
+      "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQQ20tSWI5elNrLWJwSmN0VWhsVEhILW5HNjdrY0JLZkg5ZnMzeGRhcWs1a0NELWNqeTNEM1VORnBzMWFON3dFTWlEdHBLN2tUaDNDcXlkd0JZdTg1c0EyZFo5blJLcUI1TENGRzAtS1hQOVNJNk13MkZuYkZtVlZMdkRLa3pMbXNvYnJNWWtyMmwzZE5FVGlQU2N3Nl9DZGZmOXJuMjM3MnFrSmtRcUZNTmtpQ0hoaThGZnhvbHZ1TEp1MmljYkFYQ3FTQ202X29PODdTUG5ZTmlOT1FoOHJUejBzMFkwX096R2xkLW1YLWdSMVk3cFl5OFNhSldMZXVndTFqeTlDVQ?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-06T15:30:23.875745Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
       "id": "9f156851d04287f73068b80b",
       "publishedAt": "2026-09-06T00:27:35Z",
       "title": "Film Aplikasi Iblis Jadi Debut Film Horor Dimas Anggara, Saat Aplikasi Bisa Hubungkan Manusia dengan Arwah - Jurnal Gaya",
@@ -453,6 +476,29 @@
         "Kebebasan Berekspresi & Berpendapat"
       ],
       "collectedAt": "2026-09-06T04:44:34.813702Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "f9470b74502569f0c82b4f55",
+      "publishedAt": "2026-09-05T11:14:00Z",
+      "title": "AS Akan Sanksi Nikaragua usai Ortega Larang Oposisi Ikut Pemilu",
+      "source": "IDNTimes",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNS3dSZWFUOGJOX3FJUlJQMzRlTGIxQ082bnVSQllrMTQ2YTJldjZ5ZXNUZFA1d3NGa3p5SmVCRkZac1luU0lvNjk3eFc2TkViaUlZbHFrT1gyak56aXhXZndyckp0MlN6ODdGeXhTLWVMUk5tQklxdnFYejg4eWp0TW1TSjB3UktsZG5zaW96NzFZbDV5MVlSaC1YR0xpci1CdDFMTmRTaGlIb2NfbTdvTlNDbnlZUdIBuwFBVV95cUxPQ2U3STFGeFVQTXgwU1V3dHZpUHRwSnhrLThyN0ZHZ3V0Yno2Z01meDZTdmtfbjZsQ2ZCc3dyLWJDYURITG9Sd3FmUjE1NnBRWko2UURXemdzOGstdnRsS3JEUk1fSUg5UkpOSWdfNi11N1VtTGJOWW51aW9qVGRoVW9JWGVCdy1zalFJbjJfSmhjdWNwdWRXYmlFSjVnbXljMmd6anQyejZXekhMR0RVTDJjSlFRV1BsdGxJ?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-06T15:30:23.875745Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
@@ -959,6 +1005,29 @@
         "Kebebasan Berekspresi & Berpendapat"
       ],
       "collectedAt": "2026-09-05T10:40:16.173193Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "d38d47941bd8fdeec67789ca",
+      "publishedAt": "2026-09-04T05:21:32Z",
+      "title": "TAUD: 387 Orang Jadi Korban dalam Aksi 27 Agustus, Aparat Diduga Bertindak Represif",
+      "source": "jakarta.nu.or.id",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQbU80SlluQWJaQ0RCZG9NMThiZWlxdlRmbmdFLWc1QU9qNV96OGhZTjRfcmZyR2lBQXZNSHlJUjNGbndseVhPTlJqU2pGRE9WNnVHekV3M1lnRnlxWmlSSEgyaHNtZFJHaWtOaElwQjJxREpGLXN1V0cxWW9JejhmWXhtYjVYanN1cWdvYUpxMFRPWTIwd2czVXRweElaclp3dW9uYi1nNnlBdndiUjN4TFdVX3ZGT0c5Z1lyMzRNYlREbXdpRk16T9IByAFBVV95cUxQbU80SlluQWJaQ0RCZG9NMThiZWlxdlRmbmdFLWc1QU9qNV96OGhZTjRfcmZyR2lBQXZNSHlJUjNGbndseVhPTlJqU2pGRE9WNnVHekV3M1lnRnlxWmlSSEgyaHNtZFJHaWtOaElwQjJxREpGLXN1V0cxWW9JejhmWXhtYjVYanN1cWdvYUpxMFRPWTIwd2czVXRweElaclp3dW9uYi1nNnlBdndiUjN4TFdVX3ZGT0c5Z1lyMzRNYlREbXdpRk16Tw?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-06T15:30:23.875745Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
