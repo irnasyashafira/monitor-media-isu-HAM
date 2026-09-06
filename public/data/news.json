@@ -1,15 +1,15 @@
 {
   "meta": {
-    "generatedAt": "2026-09-06T15:30:23.875745Z",
-    "lastRunAt": "2026-09-06T15:30:23.875745Z",
+    "generatedAt": "2026-09-06T20:27:20.782900Z",
+    "lastRunAt": "2026-09-06T20:27:20.782900Z",
     "startDate": "2026-01-01",
     "refreshHours": 6,
     "mode": "incremental",
     "feedsOk": 16,
     "feedsFailed": 0,
-    "totalStored": 945,
-    "totalPublished": 945,
-    "newArticles": 3,
+    "totalStored": 957,
+    "totalPublished": 957,
+    "newArticles": 12,
     "warning": ""
   },
   "clusters": [
@@ -136,6 +136,75 @@
   ],
   "articles": [
     {
+      "id": "23955d6f99f41a74800e8edd",
+      "publishedAt": "2026-09-06T18:00:00Z",
+      "title": "PBB Dorong Negara Perkuat Perlindungan Jurnalis",
+      "source": "koran-jakarta.com",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPcE5RcXFRNjNJZ0lQeXd6cUFsNmxnVXYxY1QzaVBQMjBCY2g2dTFLQkwybWx6Wk5mMF8xb3RYdFpvMFdmektSaGQ0Z1JYR090X0tITEtlYk5oUmJTellZSVZXemVhNEpmRGI2aVZhVllnQ3l3b19ORjBUazFqN2RsX1BDUFRWSmdOQUY0MEZOUGxHd9IBkgFBVV95cUxPcE5RcXFRNjNJZ0lQeXd6cUFsNmxnVXYxY1QzaVBQMjBCY2g2dTFLQkwybWx6Wk5mMF8xb3RYdFpvMFdmektSaGQ0Z1JYR090X0tITEtlYk5oUmJTellZSVZXemVhNEpmRGI2aVZhVllnQ3l3b19ORjBUazFqN2RsX1BDUFRWSmdOQUY0MEZOUGxHdw?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-06T20:27:20.782900Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "d5b34f6327a3011adb72ae9e",
+      "publishedAt": "2026-09-06T16:17:13Z",
+      "title": "Ketika Kekuasaan Menjadi Bencana: Memahami Esensi Pemerintahan yang Dzalim",
+      "source": "Kompasiana.com",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQamc3R1BXS19KQl9xejV2eFNubkhhN2FMSDNkOG8xR09KUFlxeFh5STd6WUZHNFlJbkQ5bWxSSE9QNW9OVl94QjdzdDhqWUZPTnNYLUF1RFBOQlJSS3N6NTNhOWxlQXlyU2xlRWxIekZjSVlweWl5cHhSSkVPb3k4amdDZEJaMHBkbHhRQ0o1U3dGeExLTy1MNHdBMy1rWUZwT0lXOXV4dDFXVG4xQmJhR3JYZmNHWW1MUk1kMmVuV1ptMjIxZEx4VVNPRmRHMV9raUt6Tw?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-06T20:27:20.782900Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "10846432e9293e93f042dd20",
+      "publishedAt": "2026-09-06T15:33:18Z",
+      "title": "Membangun Ruang Aman Esensi, Tantangan, dan Implementasinya di Era Modern",
+      "source": "Kompasiana.com",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPR0hwTXg4a3VXblByRUkydGR4cXRBUmtaZVQ0MnVaS1NpMEVCVVhNSnZlZ0ZaMU1GTmtQbG5iblBGLW1leFJmMTRXdnNyUVdMSXh2R083amNPVXBGLTFjdXBObXo2X1NGRGdkM3prTllVbkR2bzFzTUNROTEtdUlXeU9uQTBBT0otQ09oS1BEeTZ6cmh5UFhYUm8yZ1dUTjBQay1Nb0JYRDlZb2xHaEJuNnhPTUd0X2twd3F5RW5YQVFZSFpQLTJrdXBqTU9oX1hUZ1FjUw?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-06T20:27:20.782900Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
       "id": "75ffe416b7f3e45f9a3976f8",
       "publishedAt": "2026-09-06T08:30:00Z",
       "title": "Penghayatan Akhir Pekan Halaman 1",
@@ -246,6 +315,29 @@
         "Kebebasan Berkumpul / Berserikat"
       ],
       "collectedAt": "2026-09-06T11:01:52.476581Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "898a20dcbca77415d8c934c7",
+      "publishedAt": "2026-09-06T06:46:38Z",
+      "title": "MPBI DIY Bantah Terlibat Pembubaran Aksi Mahasiswa",
+      "source": "ruminews.id",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBIVERNNk5fRDIxcjViQjdOV1hBcnphSkpBQXk2bDd6X3VURHl3MnBESU9NX054aEdaRXd3bHV5WWdseUgtV3ZiM3VCRjVFQ3JYek5iWG5YcWVvUnYtWjNrQ2RsM245MmY4NTY3TXJnVzhfRjNSOEtNUDFhOA?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_berkumpul",
+      "subclusterIds": [
+        "kebebasan_berkumpul"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berkumpul / Berserikat"
+      ],
+      "collectedAt": "2026-09-06T20:27:20.782900Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
@@ -1097,6 +1189,29 @@
         "Kebebasan Berkumpul / Berserikat"
       ],
       "collectedAt": "2026-09-04T04:39:05.660189Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "161fc4f919121eaa0d246e26",
+      "publishedAt": "2026-09-04T01:24:30Z",
+      "title": "JPW Soroti Keterlibatan Jaga Warga dan Ormas dalam Penanganan Demo di Yogyakarta",
+      "source": "joglonews.com",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQakR5ZkU1UFdhdzFDc2lMTmpZUzcxTzRzNzgzNVg3OU5fdE9YTF9DdG51QkJOQnZrelp2MDMwMlVPUVpSQU5tQzBSS29ZMXF5YU5yMUg1V0FBTTJHbV9IWjUweUJNVXVrWE9FWmhXSVU2b01ESzlBOFpTanA5a3pfV0dZRUtEMDFtRkF5akgybzBJRnRiT3Zvamh1Q2x3Tm9DbmRoLW9GclZqQWZWVWllQzF2YkQ?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_berkumpul",
+      "subclusterIds": [
+        "kebebasan_berkumpul"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berkumpul / Berserikat"
+      ],
+      "collectedAt": "2026-09-06T20:27:20.782900Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
@@ -9431,6 +9546,29 @@
       "reviewNote": ""
     },
     {
+      "id": "e44f694fff8421b7fa66c42a",
+      "publishedAt": "2026-08-14T03:00:00Z",
+      "title": "Polda Metro Jaya Tetapkan Empat Orang Tersangka Dugaan Penistaan Agama di Ancol",
+      "source": "carapandang.com",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPS0U4N1ZkMUhJdDhORUhJV0tub3NKcGF4YWVqTklUUl9jRE9qRmpKMDlLZDl4cE1CWGhNcXhOX2NNSVpHM2ZwQklwYS1KRThuc2NKVW1yOVFsRFhTaGxOQVBlVHhVb0NZUWpjNHRsbGc2Y0RwbXhlcUJBYkxHNDBLTVh4SVpBTmtibDE2SG5yVmE3aEpycTV4amx2X3hvM2hHcmJYSGxnZGQxcVYxZy1EZFEzQ3ZaUQ?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_beragama",
+      "subclusterIds": [
+        "kebebasan_beragama"
+      ],
+      "matchedQueries": [
+        "Kebebasan Beragama / Berkeyakinan (KBB)"
+      ],
+      "collectedAt": "2026-09-06T20:27:20.782900Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
       "id": "4db88f72ad76f9235e54fa86",
       "publishedAt": "2026-08-13T16:49:05Z",
       "title": "Challenge Hafalan Al Quran Diduga Penistaan Agama, Polisi Gandeng MUI dan Kemenag Halaman 1",
@@ -11777,6 +11915,29 @@
       "reviewNote": ""
     },
     {
+      "id": "ea6836a5c51a644697da1a53",
+      "publishedAt": "2026-08-12T07:00:00Z",
+      "title": "Polisi Dalami Potensi Penistaan Agama Kasus Challenge Baca Quran Hadiah Miras - kumparan.com",
+      "source": "kumparan",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNenZHekJvRklVcjJpLUQwak92WGlsV2c5N01mZlBJSTZfcmVjNUFLODhWaWhsNU5yUGlmOThQYkhITGR6SEdFSjhpbkEzVHVWWDAyNl8wVFpmN05BaENSUWpxN3dncHhhbndVRERwSWdvWmE5WE5UZ1FKZ0ludXI5RklmQ0ZvMDZ5QzRxclZLNmJ0dThhaDBkTkVka0pMNmhPLWNLeER1MTNSUlJsTGd2OU9vaXlHY1B4SFBDQ2dBb0HSAcgBQVVfeXFMTkxVa1NQMWZhTzRLM2VsZVc0TFpaUXlvZEtYQUt0S2VVMFkyWVdPWENuSm93ZlZ0VEtkR1hibm1PbUFtR3pUUkgzUmpncVM5Z09rRHQzU0paN3hXYUxlWktWQV91emYwemsyOGlOeXdzdVc0VXN5dmVjYk9TMWx4Y0RXVXU5bUpISTA4cTB2c29kUmtscGdJU1dzdGRMWXZPRGlGcEVhbFlQX05EZTFwYVZ1N2V1d3BXU1Q2anByS3VYSF9Ob2FFTXk?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_beragama",
+      "subclusterIds": [
+        "kebebasan_beragama"
+      ],
+      "matchedQueries": [
+        "Kebebasan Beragama / Berkeyakinan (KBB)"
+      ],
+      "collectedAt": "2026-09-06T20:27:20.782900Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
       "id": "a2aa0fa6a1e4f16e5d2e17a7",
       "publishedAt": "2026-08-12T07:00:00Z",
       "title": "Polda Metro Jaya Selidiki Dugaan Penistaan Agama saat Festival Musik di Ancol",
@@ -12628,6 +12789,29 @@
       "reviewNote": ""
     },
     {
+      "id": "5944d2fc6116241853601a1a",
+      "publishedAt": "2026-08-11T07:00:00Z",
+      "title": "Pram Minta Tindak Tegas Dugaan Penistaan Agama di Booth Miras The Sounds Project - kumparan.com",
+      "source": "kumparan",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxObXNjdVNfRXhiNHdkVmJBLS1mVXFKVHhUOGlRUHd2RHZ5Z2VIMEtVdFBubXJaUTlXN1JVWXFjS1dVbzJnMm5OdUFTaWZqNXpsNVAwT1E4REt6Y3hydVpyeEpLVFM3bFFRWkFsb25oNVNtSU1vejl1UmVSX0FycUlmdlcyZEIxR2paZ2xHb2drLThGZEdwd2xNdXZlREFWSVpib3V1ckRtWl95VjFuM3VVRU80ZFRYeG9UVkdXZEZ3dFZfVjRS0gHMAUFVX3lxTE5fU2RXcGgyUXBRTDluWFVGbUJwWXFQUHZmTXg3VGItOGtfRUZwZVlCRmxNUHYwZkNxMGRWRzhpVUlTUl9hQk1GM3k2bmw5aGplS0s4QnRoM2ZvN0xOM3h2ZW9MaFFuSm4tMlNLQ1BJNXdQVzFXV3FwT1U2UklqQkRzQ3pWNHFNOGsyZFIyTEU4ZXNmTEdDbllwel91Ykw0WTI4bXFRQjFzR0Z1ZFhOV0pjZ2hCQXJBMTFRUERxdUJXU2NxV2ZXVDZ2YklDdA?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_beragama",
+      "subclusterIds": [
+        "kebebasan_beragama"
+      ],
+      "matchedQueries": [
+        "Kebebasan Beragama / Berkeyakinan (KBB)"
+      ],
+      "collectedAt": "2026-09-06T20:27:20.782900Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
       "id": "08d4bcfcb1c971d6d1378bad",
       "publishedAt": "2026-08-11T07:00:00Z",
       "title": "Polisi selidiki dugaan penistaan agama dalam festival musik di Ancol",
@@ -12858,6 +13042,29 @@
       "reviewNote": ""
     },
     {
+      "id": "ee4d25e28acdca4a074c91fb",
+      "publishedAt": "2026-08-11T07:00:00Z",
+      "title": "Polisi Selidiki Dugaan Penistaan Agama Booth Miras di The Sounds Project - kumparan.com",
+      "source": "kumparan",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxORlFFcmZzbWlQb0NaMlF6RFB3QzdkMlJoaGhIYVhtOVlhV241WlVoTlJaTUNvcElzaTdUUGg5Ri1NZzlhTmphbHFZOHhMd1Y3WlFzZUZpaHNkajJYOTBFMVB0dm1zaThhczNqb2RtcFllVWdkVXcwNDJpYnA1ZGNvcTVBUkh5dUpRMklWVEpuMF9ydUE3b2k1LVNtSDZudkw2U3RIcTV1VUxOWEpNR0tuaUNTWHllMUlkSWfSAcIBQVVfeXFMTXRoMkJEdS1uYnpYc19MOEVraktzMThIRVIzX3Vjek1vTGxkLVNzRkluc20wbU5ldkk0dkFDR1ExeWxlZ2l1T3NlcTB0UEpDUTlUZUcyZGRzOTRsZVpYRk9rdEFKOUdGNXJEdENnaldRRjlCSm1ueEJwT3B3VGkxQXJyaVdqVjlrT2pmUUlIYjUySmwtekFkVXVJN295OFZxNENKMXdaUTEwa0xMT1lGYU5tUW1Uc0RWU1JBcnplVERwTUE?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_beragama",
+      "subclusterIds": [
+        "kebebasan_beragama"
+      ],
+      "matchedQueries": [
+        "Kebebasan Beragama / Berkeyakinan (KBB)"
+      ],
+      "collectedAt": "2026-09-06T20:27:20.782900Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
       "id": "b6fd5c6c18204519571b52fa",
       "publishedAt": "2026-08-11T07:00:00Z",
       "title": "Polisi Mulai Kumpulkan Bukti Dugaan Penistaan Agama Newport di The Sound Project",
@@ -12945,6 +13152,29 @@
         "Kebebasan Beragama / Berkeyakinan (KBB)"
       ],
       "collectedAt": "2026-08-31T23:07:12.746081Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "98c705dc9e73fc3118847d79",
+      "publishedAt": "2026-08-11T07:00:00Z",
+      "title": "Komisi III Minta Polisi Telusuri Penistaan Agama Challenge Quran Bonus Miras - kumparan.com",
+      "source": "kumparan",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOTExodlhtS0d1VVBPYnQ5THJyUVMzQ0QyODdQdVQxQkZ2bE0yWkpwT3B3emhGUGNiZDJpd2pURjZtLUN0NGJEUkpia2N4ZGl6YTVDR2ZpbHhJdTg0RHVDZDlQZllkTGwtWlYxTG42RVdIUThDbUtMRkRrdUx4eFJiVWUtZ21ubFZ5WFdKb0N0R0JWZjdXV3hQelVpeHpXT2FDR0hhNmZsaWtpcW05WEZ1Skw0aW9CWUpWdmZEaHVHSdIBxwFBVV95cUxOcGZpbEhiRV9qUmlLSnVUYjZEd2ROWDllZXlQdFhibkxDU3A4dHRzNGt4MVBjQ1o1b3FqQ1BJQ3NNdTJGX3YyNnhhYUxNSXViSkpEZHpUc1FCdDhlemVmVFZDMjVwVTAyM0Y5Z1BvLXdzMWtxLUhreWdtM1h2OF9KaVZ5akk4N1VsOVFLdHBZLW5GY3E5eFJmYXBoMXBlUGdWU2xucElSRmtGYVRua201bUREQkQ3XzZFTExydFFlYkFBYXZWNEo0?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_beragama",
+      "subclusterIds": [
+        "kebebasan_beragama"
+      ],
+      "matchedQueries": [
+        "Kebebasan Beragama / Berkeyakinan (KBB)"
+      ],
+      "collectedAt": "2026-09-06T20:27:20.782900Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
@@ -13272,6 +13502,29 @@
       "reviewNote": ""
     },
     {
+      "id": "1b5416c309ad1c930b768cb5",
+      "publishedAt": "2026-08-11T07:00:00Z",
+      "title": "Andre Rosiade Kecam Promosi 'Hafal Quran Berhadiah Miras': Jelas Penistaan Agama - kumparan.com",
+      "source": "kumparan",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOWll0bW5rNlFVWThXa2ZhQXNhd3lvNDBJLUp6UWJLZjl1ejByRGFxQTZ6ckxtSHdGcUJDbzlVY1FReEVhZHd4ZG1xWm5hME9QWjM4dVRUUG1mOF9JZGpHcHU4VjhHSWQzU29vMEhWLXRtbGtyLWxvWU1IWkdnQ3FTYWlhb05vdnVWTUx5ZWxfOHR5QVZHOC16OVk3QkdkWXA1ZFhUdjh4d25TczFhRTNMbHdBOFY0TDFvdXdFZHN1eWrSAcgBQVVfeXFMTVBJN0ZuWWtyaVNGWnRVQ3pwSGdlYTRsR1lxU1d6cEJqN2ZCd2FJcE8wOGRxUUZSRXhja0I2dm13WlBGX1M5dGtLaVZ5Q1BwcFh6YXNVQWlsSGxDdUQ1bGFrTi1pdEdRazB6Si0yS2F3aU93N3ZRdy1kbUtnc3dGOU9Ib0NEZ3hZSnJxNzVfaUk5aXdKQ0xGakl0azVUcGNveks3Rmpxc1lEREJoUzQzUXB5d0lXWnkzVk1vUkFEeVl4ZTVvYU9rbEk?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_beragama",
+      "subclusterIds": [
+        "kebebasan_beragama"
+      ],
+      "matchedQueries": [
+        "Kebebasan Beragama / Berkeyakinan (KBB)"
+      ],
+      "collectedAt": "2026-09-06T20:27:20.782900Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
       "id": "3b51d17a16a33c63120f613b",
       "publishedAt": "2026-08-11T07:00:00Z",
       "title": "Advokat Muslim Juga Adukan Penistaan Agama di The Sounds Project ke Bareskrim - kumparan.com",
@@ -13290,6 +13543,29 @@
         "Kebebasan Beragama / Berkeyakinan (KBB)"
       ],
       "collectedAt": "2026-08-31T23:07:12.746081Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "cc0a8a3bee710b4a67655cf2",
+      "publishedAt": "2026-08-11T07:00:00Z",
+      "title": "Advokat Muslim Juga Adukan Penistaan Agama di The Sounds Project ke Bareskrim - kumparan.com",
+      "source": "kumparan",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOQ18wNUpHOHhhMEJTUUc0blFvX1pGRDhCbFhGN3ZXX2g0Y3F3U0tVRkhsckRZYTZXTWtSSkR3ZUxRY2J5N1JPdTlJQkpQUnp2aWNuWnEtbkJZU2tHTHNZZWZTZ0NQSk9CNnI5U1VUT1FXODZocGUyX3NfRktKY1c4SFlJVlBMSzd6WWVJVVQ0ckhwbG9VNkdxcURqVXhReDdTRFlRZThZSmhsQ09ncl9DaW45ZGNyUHFQd18yZXFjZ1XSAcgBQVVfeXFMTlJyUk0xZmRxOThWT0tZUUZGYWxuZWVhZU5YbU95WldIZ3NlYUhuTkRrMFZaS2h1VER0bkR2ZVlBeVUtc3dwbjlUT056NWJQaXR6WGQ2bVdtSUsybVFIalJubXUzbU5YUmN1cURoRlg3Qjc1SXVJT0Z5QkZTRWdObkZXQ3dVdXR2QVFzS3NJYlFZRDlhbWNnMTFjTFVzUE9RTlp0dm0wSU1jVzNzLW9mXzNOYWhoUkg0LXlRbks5a1cyTnphMlhHSlg?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_beragama",
+      "subclusterIds": [
+        "kebebasan_beragama"
+      ],
+      "matchedQueries": [
+        "Kebebasan Beragama / Berkeyakinan (KBB)"
+      ],
+      "collectedAt": "2026-09-06T20:27:20.782900Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
