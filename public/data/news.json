@@ -1,15 +1,15 @@
 {
   "meta": {
-    "generatedAt": "2026-09-06T04:44:34.813702Z",
-    "lastRunAt": "2026-09-06T04:44:34.813702Z",
+    "generatedAt": "2026-09-06T11:01:52.476581Z",
+    "lastRunAt": "2026-09-06T11:01:52.476581Z",
     "startDate": "2026-01-01",
     "refreshHours": 6,
     "mode": "incremental",
     "feedsOk": 16,
     "feedsFailed": 0,
-    "totalStored": 931,
-    "totalPublished": 931,
-    "newArticles": 4,
+    "totalStored": 942,
+    "totalPublished": 942,
+    "newArticles": 11,
     "warning": ""
   },
   "clusters": [
@@ -136,6 +136,167 @@
   ],
   "articles": [
     {
+      "id": "75ffe416b7f3e45f9a3976f8",
+      "publishedAt": "2026-09-06T08:30:00Z",
+      "title": "Penghayatan Akhir Pekan Halaman 1",
+      "source": "Kompasiana.com",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOLXJ0UVYtOC1TWkJKNnUwQU5pTVVvTUw2YXZTM3pXU1VIakh3YV9pX0RkV0ZWOE83dWtxMjhjenVzdUlkRkJ3amcyMEs5bDk0UDBob0ZnQldxTnlrWTFPNjBEWXcxck1aeEoxWTlOZXlNS19LcWFEbEs4VmppSnpyVmFEeGFtdFlmeFMzWVI5SERSYVgzZVkwWUFza2V6cmlD?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "doxxing_intimidasi",
+      "subclusterIds": [
+        "doxxing_intimidasi"
+      ],
+      "matchedQueries": [
+        "Doxxing & Intimidasi"
+      ],
+      "collectedAt": "2026-09-06T11:01:52.476581Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "482b978aed7d9ecbd515d07c",
+      "publishedAt": "2026-09-06T08:00:00Z",
+      "title": "Bareskrim Ungkap Jaringan Judi Online Pakai AI hingga Rekening Nominee »",
+      "source": "dialeksis.com",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNbmR2QmJKeFlRUjJHRTQ0Y253YU1nOHhyQWIwdjlNOTlkQmdLanp3RF83OGFOM0JfRk41THVkaWg1TS1yc3RubC1ERmQ3R1d2bXNnVUFOd2UzWG1EMjYyM3E1ZkUtbEg4Z0N6T25aWVd4UDZfZ3N5QlFUcXFnQVM0U1BpTnA3cXhlb3ZCSk1DRlctTXVHRnBqeGJGYmFNRlpKenFtbFNvNNIBpwFBVV95cUxQdUY2Ump5QjlmM1JjR3lSZDFjY2hYbk9DSmF3TFdJY1owaGM2ZUo1NnZXSVRqb3JCUTNhR2pjaU1fZm1WdzdQM3NrVDlBeFZRRVM0REZCRU92NnZ2VG5ONEhxaHN6SEhaR3JIX19pcTlGQUlLXzNuSF91YWRwcnVtNDdvYWwtaUdMaUZVYkFOeUVQSktIRkh2cmlHMEVyeDRZQmQ2d3FyQQ?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "sensor_konten",
+      "subclusterIds": [
+        "sensor_konten"
+      ],
+      "matchedQueries": [
+        "Sensor Konten"
+      ],
+      "collectedAt": "2026-09-06T11:01:52.476581Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "2b531157688676f143b1284d",
+      "publishedAt": "2026-09-06T07:58:49Z",
+      "title": "generasi z dalam dalam era digital :antara peluang dan resiko perundungan",
+      "source": "Kompasiana.com",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQWmNSMnkxZ0JOMlBfVFpkTTNPbXFUdWhUNDM2ZExsMlMyN2dIcnAzSy1Yd1pfRlkxSkxtQzBIMHBramE3OG9TMXNIZWdfbTFtRkp4U0QyVzdVekZYd1I0cDBGMmJKbG85QzkxbF8tQ2hlVGZ6OXRfOEMtcHVmWVRPWGc2SHYtZkpWVmxMNGVueThIQXhTVzBDR01JVlFwMnUtS2RZc3Z6YVZnWUtlX1VGMkpXMjhLVTZDS0RleW81RjZKYTVRVUdvYTNqemJOeVJvX3hsWGNncmE?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-06T11:01:52.476581Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "2dd2515bcd305d7d29672eca",
+      "publishedAt": "2026-09-06T06:48:26Z",
+      "title": "PBB desak penghapusan impunitas atas kejahatan terhadap jurnalis",
+      "source": "ANTARA News",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOVXBmbzl2N2U1Nk5BYmhhOC1xNG5Gb1VrZ2hnd1JkbUZsQUJxMklYcGk2VmtLeG1UXzVMWExqbGFLRTFPc2NmRG1BN1M5WXlqMTI5NUdhRmNiNXZLRllpOFpPSGMtVFg4TVFzcE9YQW5TdTFicWE5Uy0yU2hFWDlGQ0VlNHhCb0Z2RGVvc0NaMEwyY0YwcTFCSUNxOGJiZzdKd0hPdmh4TnAtUdIBrAFBVV95cUxQX1pyYWhFUTRLTHMxUlg4Y3VqdWxGV2F5SWwtUWJlMmpXT2NQbWl2ZVBCeFNPaTAyTE9kTTRaMlh5c0xxcEtmekpZcDFWdmhOQ2g2UGtZTXdOaUFUelZacnoyVDhtZzl4dmpDd2o2QlRSSTN5a3g4Z0hXTGZkRUtjaWJ1cXBYVHdTakNfSHctQkFEbzNXX0ZpNmVLTncxcXlZdWpwRGRCQ2xNNVBm?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-06T11:01:52.476581Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "f11f56d379fc8dc077fd1e1d",
+      "publishedAt": "2026-09-06T06:46:38Z",
+      "title": "MPBI DIY Bantah Terlibat Pembubaran Aksi Mahasiswa",
+      "source": "Ruminews",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBIVERNNk5fRDIxcjViQjdOV1hBcnphSkpBQXk2bDd6X3VURHl3MnBESU9NX054aEdaRXd3bHV5WWdseUgtV3ZiM3VCRjVFQ3JYek5iWG5YcWVvUnYtWjNrQ2RsM245MmY4NTY3TXJnVzhfRjNSOEtNUDFhOA?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_berkumpul",
+      "subclusterIds": [
+        "kebebasan_berkumpul"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berkumpul / Berserikat"
+      ],
+      "collectedAt": "2026-09-06T11:01:52.476581Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "c13945de74ec28829a411c57",
+      "publishedAt": "2026-09-06T03:07:06Z",
+      "title": "Massa Tandingan, Luka Sosial, dan Ancaman bagi Demokrasi",
+      "source": "Kompas.id",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPa2NVcTdDcG8tM1p6cUh1UzJSaU0tLXJZZmJsam81V2p0YmItRkNsa0pKODFNdTNJaUhuWFA1MkZLYXNIcEI3Q01nUU9faE9LN2lZYmplSzhiRWxtRVBlWkNHQ0tFbUhpYjQwTGxlbmlVc01SM3Qxa2twWUVRNVF5clkxcGhOeTZXakpKaQ?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-06T11:01:52.476581Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "f52112bb70b7a7999f039d55",
+      "publishedAt": "2026-09-06T00:30:33Z",
+      "title": "LBH Ungkap Pengerahan Tentara Sebelum Hari Damai Aceh, Keputusan Mendadak Ini Memicu Protes Nasional dan Pertanyaan tentang Kebijakan Keamanan – Berita Hari Ini",
+      "source": "Universitas Teknokrat Indonesia",
+      "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQQ20tSWI5elNrLWJwSmN0VWhsVEhILW5HNjdrY0JLZkg5ZnMzeGRhcWs1a0NELWNqeTNEM1VORnBzMWFON3dFTWlEdHBLN2tUaDNDcXlkd0JZdTg1c0EyZFo5blJLcUI1TENGRzAtS1hQOVNJNk13MkZuYkZtVlZMdkRLa3pMbXNvYnJNWWtyMmwzZE5FVGlQU2N3Nl9DZGZmOXJuMjM3MnFrSmtRcUZNTmtpQ0hoaThGZnhvbHZ1TEp1MmljYkFYQ3FTQ202X29PODdTUG5ZTmlOT1FoOHJUejBzMFkwX096R2xkLW1YLWdSMVk3cFl5OFNhSldMZXVndTFqeTlDVQ?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-06T11:01:52.476581Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
       "id": "9f156851d04287f73068b80b",
       "publishedAt": "2026-09-06T00:27:35Z",
       "title": "Film Aplikasi Iblis Jadi Debut Film Horor Dimas Anggara, Saat Aplikasi Bisa Hubungkan Manusia dengan Arwah - Jurnal Gaya",
@@ -200,6 +361,29 @@
         "Kebebasan Berekspresi & Berpendapat"
       ],
       "collectedAt": "2026-09-06T04:44:34.813702Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "ea8fd1dc2a2aab87b96d625e",
+      "publishedAt": "2026-09-05T13:31:19Z",
+      "title": "Putusan Banding Kasus Air Keras Andrie Yunus Dipertanyakan, Prof Henry: Bukan Hanya Tubuh Korban yang Diserang",
+      "source": "medianasional.id",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOUXVwbEhNOWlVSmp4SnNiQXNHTUtjNExxcnludlByVU0xX2dIcklHWFBMQmxQMDV6d3hXVkdtQ2FSUFlZTElOSy00SV9IeVdLbzlKSGdpZ1VjTXIzQkJ5VG9JNXRTbkx1SVNDSHNkdThyUEVxRmxpUVFQYTJhdGpGZGZUWXhfbU03dU1lLUpwUGszTU1lQ3BoZ2Vtc014bFlTZXRWU1I5NE9vOFl5cHhXN2xmSzVhZGdOc09SbmhxQmZ1bmJEcmZJN2gyV2tYZXFzcC1JTw?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-06T11:01:52.476581Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
@@ -1074,6 +1258,29 @@
         "Sensor Konten"
       ],
       "collectedAt": "2026-09-04T11:23:07.245231Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "0b878bf0c4a6ff0993e265ab",
+      "publishedAt": "2026-09-03T16:26:00Z",
+      "title": "Dittipidsiber Polri Ungkap Judi Daring Manfaatkan AI untuk Hindari Pemblokiran dan Samarkan Dana",
+      "source": "mediahub.polri.go.id",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQN1B6N214U0hsbEVuUjJRVU5VYWRKSzhoMllCOGl3b3V2dVJSUE53VUlBdDhKbmFnRUx3cEkxWW5xS3RMdklHTmQzOXFLRWI0QllZTHlGX0NVczdxU2hhbzQ4OHlrdnpOS3NudmNWTU5vR1R4aTVjWlBHdDZELTFqTkdxZTVDMFNRcVlXenl4cjJTZEY4dE8yNC1rMU5sTHlFWXRDWkNPbUdnZERIcVp4bnhEZlBPSGdyN2tLYmhpb1liLW9zb2dKYmkwM05xdlg5UDJsNUUza1Q0RlBFemw5VHhR?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "sensor_konten",
+      "subclusterIds": [
+        "sensor_konten"
+      ],
+      "matchedQueries": [
+        "Sensor Konten"
+      ],
+      "collectedAt": "2026-09-06T11:01:52.476581Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
@@ -9132,6 +9339,29 @@
       "reviewNote": ""
     },
     {
+      "id": "b202f86b27b2176c3f8bccbf",
+      "publishedAt": "2026-08-14T03:00:00Z",
+      "title": "Polda Metro Jaya Tetapkan Empat Orang Tersangka Dugaan Penistaan Agama di Ancol",
+      "source": "CaraPandang",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPS0U4N1ZkMUhJdDhORUhJV0tub3NKcGF4YWVqTklUUl9jRE9qRmpKMDlLZDl4cE1CWGhNcXhOX2NNSVpHM2ZwQklwYS1KRThuc2NKVW1yOVFsRFhTaGxOQVBlVHhVb0NZUWpjNHRsbGc2Y0RwbXhlcUJBYkxHNDBLTVh4SVpBTmtibDE2SG5yVmE3aEpycTV4amx2X3hvM2hHcmJYSGxnZGQxcVYxZy1EZFEzQ3ZaUQ?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_beragama",
+      "subclusterIds": [
+        "kebebasan_beragama"
+      ],
+      "matchedQueries": [
+        "Kebebasan Beragama / Berkeyakinan (KBB)"
+      ],
+      "collectedAt": "2026-09-06T11:01:52.476581Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
       "id": "4db88f72ad76f9235e54fa86",
       "publishedAt": "2026-08-13T16:49:05Z",
       "title": "Challenge Hafalan Al Quran Diduga Penistaan Agama, Polisi Gandeng MUI dan Kemenag Halaman 1",
@@ -10507,6 +10737,29 @@
         "Kebebasan Beragama / Berkeyakinan (KBB)"
       ],
       "collectedAt": "2026-08-31T23:07:12.746081Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "6576eaaa70e3ebbb601ac1bd",
+      "publishedAt": "2026-08-13T01:58:05Z",
+      "title": "Polda Metro Jaya Selidiki Dugaan Penistaan Agama dalam Festival Musik di Ancol",
+      "source": "mediahub.polri.go.id",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNVXBUUHlJQ0lsSmZjTmh0czM0dzcwTFVWSjd0ZGd0RGhmTm5FRGVRN1NrWHpfRGlaVTZsbldOdTVjWmVWVFVaVTRUc1VvWWVsX3Q5WlhkNVd1SHpLV29DM3pmU25fdEtOQUs3VHFZZ0xieDNCWmduX2JsYUtjeXpiZEtpUnRUck1PVGplQ3Q2ejE5Y2QxY216T0VGZUhWVGlKNVRBRkhMN19mY3JtRy1lNEhpNWNjS1EydjNIaGg3MUdhakY2UzlTU2h3?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_beragama",
+      "subclusterIds": [
+        "kebebasan_beragama"
+      ],
+      "matchedQueries": [
+        "Kebebasan Beragama / Berkeyakinan (KBB)"
+      ],
+      "collectedAt": "2026-09-06T11:01:52.476581Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
