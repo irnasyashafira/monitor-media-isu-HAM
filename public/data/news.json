@@ -1,15 +1,15 @@
 {
   "meta": {
-    "generatedAt": "2026-09-05T20:25:31.209980Z",
-    "lastRunAt": "2026-09-05T20:25:31.209980Z",
+    "generatedAt": "2026-09-06T04:44:34.813702Z",
+    "lastRunAt": "2026-09-06T04:44:34.813702Z",
     "startDate": "2026-01-01",
     "refreshHours": 6,
     "mode": "incremental",
     "feedsOk": 16,
     "feedsFailed": 0,
-    "totalStored": 927,
-    "totalPublished": 927,
-    "newArticles": 6,
+    "totalStored": 931,
+    "totalPublished": 931,
+    "newArticles": 4,
     "warning": ""
   },
   "clusters": [
@@ -136,6 +136,29 @@
   ],
   "articles": [
     {
+      "id": "9f156851d04287f73068b80b",
+      "publishedAt": "2026-09-06T00:27:35Z",
+      "title": "Film Aplikasi Iblis Jadi Debut Film Horor Dimas Anggara, Saat Aplikasi Bisa Hubungkan Manusia dengan Arwah - Jurnal Gaya",
+      "source": "jurnalgaya.pikiran-rakyat.com",
+      "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQclVwMUY0Q3hoLVhfRnBCY3dteEJobWlXMDhWRkE3ZU1ZWjB0cjNQeERUWlBoWF9IZEJHYkRUUVpuT0FsTVdDOGJmdUxQS0I4MFIyOWJianpVb294ZHJyeDFaeGthWFgyM0gzc2RuOEJpem1rSEE0V3F3LTNodnF3cmFSSDRZSzFHWGoySHZXQllzdTI4Q3BCMmU4QkVFOHR2WDdqTFY2TndtT3pkU0ZVbVlYd21YZVlfcnZibS1UbTNoTXZ4MGxTd0UxU2I2U0k5QkYzZ0xNT3pLR0FGSEFoc1dQMFlaMm00VDhiQTc4Y25uYmpsZ2x2Q3JSZ3VoMW13VVdyRFZn0gGGAkFVX3lxTFByVXAxRjRDeGgtWF9GcEJjd214QmhtaVcwOFZGQTdlTVlaMHRyM1B4RFRaUGhYX0hkQkdiRFRRWm5PQWxNV0M4YmZ1TFBLQjgwUjI5YmJqelVvb3hkcnJ4MVp4a2FYWDIzSDNzZG44Qml6bWtIQTRXcXctM2h2cXdyYVJINFlLMUdYajJIdldCWXN1MjhDcEIyZThCRUU4dHZYN2pMVjZOd21PemRTRlVtWVh3bVhlWV9ydmJtLVRtM2hNdngwbFN3RTFTYjZTSTlCRjNnTE1PektHQUZIQWhzV1AwWVoybTRUOGJBNzhjbm5iamxnbHZDclJndWgxbXdVV3JEVmc?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "doxxing_intimidasi",
+      "subclusterIds": [
+        "doxxing_intimidasi"
+      ],
+      "matchedQueries": [
+        "Doxxing & Intimidasi"
+      ],
+      "collectedAt": "2026-09-06T04:44:34.813702Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
       "id": "8bcc59e79dc318d4d21b38f3",
       "publishedAt": "2026-09-05T19:52:35Z",
       "title": "Ditreskrimsus Lakukan \"Profiling Link\" Dalam Kasus Doksing Ngurah Dibia",
@@ -154,6 +177,29 @@
         "Doxxing & Intimidasi"
       ],
       "collectedAt": "2026-09-05T20:25:31.209980Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "ac3b0c36f61689bb8ca29e1a",
+      "publishedAt": "2026-09-05T15:40:57Z",
+      "title": "Bandung X Beauty 2026 Hadirkan “The Wholeness Era”, Dorong Brand Lokal dan Wellness",
+      "source": "infobdg.com",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNQlNlZ3pGc0lnV3BCNnJvMWxicHlmSHlrSzhjR0Z6U0djaGxyeDJHSzMzMW5OT1ZUUmZEcGV6bFhEUWJqOTBDVV9XelBiTmNDLWE4R3NRRGxpWi1GS2VfN2w4Q1BzQkJCRnloR2dUUnhnWlVHNEJzcEhPdktzYkpfdzRjbkhZdUkwbW9OVUFtMWE2WE1VMVFvVng3ZFRPOEVIZ3JIeGdMTERBRjNN?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-06T04:44:34.813702Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
@@ -200,6 +246,29 @@
         "Kebebasan Berekspresi & Berpendapat"
       ],
       "collectedAt": "2026-09-05T15:17:27.933540Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "4bfe5400af0c845387fb33c6",
+      "publishedAt": "2026-09-05T11:14:00Z",
+      "title": "AS Akan Sanksi Nikaragua usai Ortega Larang Oposisi Ikut Pemilu",
+      "source": "IDN Times",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNS3dSZWFUOGJOX3FJUlJQMzRlTGIxQ082bnVSQllrMTQ2YTJldjZ5ZXNUZFA1d3NGa3p5SmVCRkZac1luU0lvNjk3eFc2TkViaUlZbHFrT1gyak56aXhXZndyckp0MlN6ODdGeXhTLWVMUk5tQklxdnFYejg4eWp0TW1TSjB3UktsZG5zaW96NzFZbDV5MVlSaC1YR0xpci1CdDFMTmRTaGlIb2NfbTdvTlNDbnlZUdIBuwFBVV95cUxPQ2U3STFGeFVQTXgwU1V3dHZpUHRwSnhrLThyN0ZHZ3V0Yno2Z01meDZTdmtfbjZsQ2ZCc3dyLWJDYURITG9Sd3FmUjE1NnBRWko2UURXemdzOGstdnRsS3JEUk1fSUg5UkpOSWdfNi11N1VtTGJOWW51aW9qVGRoVW9JWGVCdy1zalFJbjJfSmhjdWNwdWRXYmlFSjVnbXljMmd6anQyejZXekhMR0RVTDJjSlFRV1BsdGxJ?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-06T04:44:34.813702Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
@@ -2411,6 +2480,29 @@
         "Kebebasan Berekspresi & Berpendapat"
       ],
       "collectedAt": "2026-09-04T16:25:13.329745Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "1b3626f2e003d3f9a3dd03ee",
+      "publishedAt": "2026-09-02T10:05:00Z",
+      "title": "6 Mahasiswa Sempat Dirawat, UGM Desak Jogja Tanpa Kekerasan Usai Ricuh Simpang Gramedia - jogja.disway.id",
+      "source": "Disway Jogja",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPUl8zMUxYNTBTTkN4cUpzUGcxem5kU1VGMlNvb3pZRk5OZG9XRDh6T1VwN2E2VmxMX1hseU1sbWpvSnNxanFjcmdsV0VhYW9kS1BnZ1dDVmdKWkdyOHhmd212SlhJbzAzVy1DYlg1ZW9uM1BOYmhwUENfNVFUbEhlUmNpNHBVWjA4ckxRckkxTEZBOEw0VGxfV2xQUlA0S3hlWkNpMDliTnJJaFJnMG9HTWVhT0F1ZmF3TGt2RFQxQk5zY3dyU1l4QtIBvgFBVV95cUxPRTQzRWdxTm1UVWJlS1lMVklpb2dnRWM0WWN1VTR0R19mUmJYOTRmeE10NE9mZzNuT1pmNzJjTlJScTZhMmVhYmxQTnk2T05XdXMyVzZKXzU2RDc5X01tcmh2Nzl6M3lUVHR4dmJ2c0NDZHRxalhaWlJZMEJmOTluLUNGWmVzSVhZREJ4VUs1aHlYeC1GTHd3QThFZzhtNEhzYjFFMENWQjRzZXZSMm5KTzNyNHA3Zk9GaDFkMWhR?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_berkumpul",
+      "subclusterIds": [
+        "kebebasan_berkumpul"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berkumpul / Berserikat"
+      ],
+      "collectedAt": "2026-09-06T04:44:34.813702Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
