@@ -1,15 +1,15 @@
 {
   "meta": {
-    "generatedAt": "2026-09-08T16:41:05.941643Z",
-    "lastRunAt": "2026-09-08T16:41:05.941643Z",
+    "generatedAt": "2026-09-08T21:12:48.894743Z",
+    "lastRunAt": "2026-09-08T21:12:48.894743Z",
     "startDate": "2026-01-01",
     "refreshHours": 6,
     "mode": "incremental",
     "feedsOk": 16,
     "feedsFailed": 0,
-    "totalStored": 1026,
-    "totalPublished": 1026,
-    "newArticles": 5,
+    "totalStored": 1034,
+    "totalPublished": 1034,
+    "newArticles": 8,
     "warning": ""
   },
   "clusters": [
@@ -136,6 +136,75 @@
   ],
   "articles": [
     {
+      "id": "e2c2b7bdf898987e2148adad",
+      "publishedAt": "2026-09-08T19:40:41Z",
+      "title": "Mewujudkan Ruang Aman Digital di Kalangan Fikes Universitas Aisyiyah",
+      "source": "Kompasiana.com",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQRGoxc3NocHp5Tmdwa19JeFhfelpfeFhjaVRvYkdubXFFcjB5U3dZd1JndFlvOXVVNEJ3aEQyWFNoejhhR3ppb3BxMUJFeThqQWVCT2piSlpFcWpoSk1nQUJlc05LUTJWVWU2MFdyZFhtMTlQVU4tOXdESGh6bzVYYVpqQ0t0cFBMdnFoXzYyX01fM3VTNkd4REt4QkZCUHQzU1JWUENiSUZ1VWFyRGtRMXd1TGFTdkY1TVJZVVF0NmJCVTRyeTVmNHptM0EtQWhKMTBtQ2tZdGEtdElJbHc?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-08T21:12:48.894743Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "d0cede4c2889581359603809",
+      "publishedAt": "2026-09-08T19:10:06Z",
+      "title": "Kasus Penistaan Agama Hari Raya Nyepi Dua Terdakwa Dijatuhi Hukuman Pidana 6 Bulan Dengan 1 Tahun Masa Percobaan",
+      "source": "Balijani.id",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPZnBvMGtPQlhZVGotenBNWENJVWRyaDQ3S3VxM1MxcnVqMXgwTGgxSlpsb0NadXN2WEVnUFhuZXZkOWc5ZVJNeDFEX1pXNjJjMFFtbGRHemVMR1IyN1V2QXlNZG5FOWhlc20zOFZ4U2ZFUzQxRVN2Qkw1T01DYmEwd3UxM3NIQVVRdFpwWGhka1BYYWRmRFQ4b1ZXMnlPX0VmVnhBdDFjdmpoLThRbHF4SXBMbmppRThrbmxGWG1RWTFPYmFCeENaMzRIMUVqUQ?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_beragama",
+      "subclusterIds": [
+        "kebebasan_beragama"
+      ],
+      "matchedQueries": [
+        "Kebebasan Beragama / Berkeyakinan (KBB)"
+      ],
+      "collectedAt": "2026-09-08T21:12:48.894743Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "b32ac2dab9929a87bb65483b",
+      "publishedAt": "2026-09-08T16:28:22Z",
+      "title": "Ruang Digital Sebagai Tempat Aman Berpendapat",
+      "source": "Kompasiana.com",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNLW9rVTB4R29YU2R1MFk0emxNRjR4VGhWTHVIdWNRMElTTzdfV2NrOG9DNkFSUk1VMEtCMWdSMk1PaU9kYzdCWWM1T2o4cU9mNUZmOV9PVkFuQVk2VXQwUUR6TVFMWUtKeTE5S3lyYkhLOS1rTVpVY3NOU2pYTkJlclhNTl9Jc2tPdUxuUUF4TS11eFlYOWFIeUotLTJtY3VWTGhNenVYT0J5X2s?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-08T21:12:48.894743Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
       "id": "bd80aa80c728ca7bfd3730bf",
       "publishedAt": "2026-09-08T12:47:11Z",
       "title": "Apa Itu Ruang Aman?",
@@ -177,6 +246,29 @@
         "Kebebasan Berekspresi & Berpendapat"
       ],
       "collectedAt": "2026-09-08T16:41:05.941643Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "82abb248ebf216d014728b09",
+      "publishedAt": "2026-09-08T10:33:25Z",
+      "title": "Pentingnya Ruang Aman dari Kekerasan Seksual diKampus: Belajar dari Perseps Halaman all",
+      "source": "Kompasiana.com",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPZGhNTXY4TURkTXI0Rk9iTlljVk8taHhJaUxkb1V1NXZQTi1Ld3ZLWTlaQUgtOWZkSXlQei1pRDdZMTNFYmpiLU9yM01JZTUxTTJPdHAxNHc5ckFEM3N3YjJDUW9nWHNkcEZNelBPUHJQQjRISDZDU25wbGpnWVFSd0NFeENJWklJZFUyRkVhRW14VDQwOUlDaUt3RnBHOEVmZ0QxbFkzSGk5MzJfT1V1VmhtcW5uYTFpd2lrelJRX0E4QnoybWEzeFl5RHR6Zy1VMmlWeEZfUU9NWEQ1REUtVDM2VzA?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-08T21:12:48.894743Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
@@ -292,6 +384,29 @@
         "Kebebasan Berkumpul / Berserikat"
       ],
       "collectedAt": "2026-09-08T11:24:02.746912Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "8edf460a27ed1f37be3b9a52",
+      "publishedAt": "2026-09-08T06:11:48Z",
+      "title": "Pelaku Penganiayaan Anak hingga Meninggal di Purwokerto Ditangkap - Suara Merdeka Banyumas",
+      "source": "banyumas.suaramerdeka.com",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNU3AzWFhKNmdSWkFzT2pzTkRnQ3N5TnRUR2d1MTBZd1AtRjJLdTVJeFphWmtndEJUZnM3TWloeVNKN2lNanpOOFN0SjZSZjlLbnpfOER3cXVlaERRVWxleU5wU1E2dThKUVc1LUJsQ1l5RnVQSVdZeXM1dlJVazU5am5TaU9OeE9ROEd2by1ueHZzaUFTRU9yek9qbGNCNUdpdTBPYnNneUNqSS1JdEhETFNkc3prWDdSQ2440gHAAUFVX3lxTE5MWGhOVkhnNVRNeFZXU09JcElLYUNUbFRNLUMwTkJ6TWx5Q2tIbzRMUjhJQVpKUDIwOURKYjlTQlk4bTVaREE0elRscVI2ckgwSE1IakNVZ0xQYWhFS0VkeUE0SGpZckFQMkVQUFEzNE5kZ21PQlFGMVhHd0g0Y0dXMHU2b1JvcjJNcFhESW5zbVFFakFmNUs2QjQ1anptMmNFU21xYlM4aVlRWXQ3NW1XTnlsNWtucUhRVDNYblpmNw?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_berkumpul",
+      "subclusterIds": [
+        "kebebasan_berkumpul"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berkumpul / Berserikat"
+      ],
+      "collectedAt": "2026-09-08T21:12:48.894743Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
@@ -453,6 +568,29 @@
         "Kebebasan Berekspresi & Berpendapat"
       ],
       "collectedAt": "2026-09-08T11:24:02.746912Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "0d23fcb671d4ec6594064625",
+      "publishedAt": "2026-09-08T01:47:26Z",
+      "title": "Baru Setahun Diperbaiki, Trotoar Jalan Taman Pahlawan Purwakarta Amblas - Delik Jabar",
+      "source": "Delik Jabar",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOa2JWSzQ4eXZZMW5xUnJaLVVTQUVjcjcxYWhja1pINThXRUNObWQ4UzZaNExvVjNZeWdFdHI3SER5d0UzSzJvSkNmTjZHNDlNclgxQVVkNmlEamVvMmFEZ2NzNHEtdFdzSUpMcUJlZUc1S25PeVB2b0ZyeGNlRkNlcXo5WlFWeFFJS3YxZWV1TEY3aW1CSlhsdE96TnAzaWZSUjhlcl9oLXhEbUVPOF95ckZyQzhIYkFfVGRhZjln0gHDAUFVX3lxTE41U0lHa0x3OEZSWG5zVC1tbFE5ekpiYkR4Q1N2eTNrektETlY4eDdmbWhGVUg5T19qbTlHdkx1bXdWak5kQm5QZXR3Uzktanh4aTZhR3ljQUFOUXE4Uk41VUN0NzdzZ0Joc3I1amFqVjc4RlgtNmFIWVR3cndyN18zQ3NkY0dRcmFsVFZDTzc1c1RZWUJMTzZQdlRtLWVUS1pwOHc1OWtydERHRTAxWmZ1OWVKOGs1TGVqblJFdjFhLWFMSQ?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-08T21:12:48.894743Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
@@ -10397,6 +10535,29 @@
       "reviewNote": ""
     },
     {
+      "id": "370269f9d5977990752cbcb7",
+      "publishedAt": "2026-08-14T07:00:00Z",
+      "title": "Polisi Kawal Aksi Massa Tolak Penistaan Agama di Depan Gedung OT Cengkareng",
+      "source": "mediaindonesia.com",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNZHlINjV0UVpUaTNjUEplLWxGdGRtMkJEM2VxN29DTklTNTMtZjE4SlhQcW1LNTlQc2RfcmZmSnE5cmVIZDlZSHpvdE1pcjJwUUhSZEFHejVSWGFoNTVaUkJmakwyb3JlUnFHcElwREtfNFI4VG1wQzE5SW51amhPZjB4ZXVWVVdVNEJTM3JLRThBWDEtbi15bWRSTHBBcjZLa2xTbFNGLUk0SWRyUlJnb1AxSnAyZDVFak1zV1lR?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_beragama",
+      "subclusterIds": [
+        "kebebasan_beragama"
+      ],
+      "matchedQueries": [
+        "Kebebasan Beragama / Berkeyakinan (KBB)"
+      ],
+      "collectedAt": "2026-09-08T21:12:48.894743Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
       "id": "b1e7298b07f42d9c99326de6",
       "publishedAt": "2026-08-14T07:00:00Z",
       "title": "Polda Metro Jaya Benarkan Laporan Dugaan Penistaan Agama terhadap Vokalis Band",
@@ -13428,6 +13589,29 @@
         "Kebebasan Beragama / Berkeyakinan (KBB)"
       ],
       "collectedAt": "2026-09-03T11:20:00.602627Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "b5f319e447c29c79abb00b2d",
+      "publishedAt": "2026-08-12T07:00:00Z",
+      "title": "Polda Metro Jaya Selidiki Dugaan Penistaan Agama dalam Festival Musik di Ancol",
+      "source": "mediabudayaindonesia.com",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNRlBseU0wSnA2eE5ZMEpHNDYwYWxtU2dHXzFXaEdvSEhVRWRWRmloLVNlTGllTWpoU3RYZ0FlLXl6S3VKWnAyUTVnUGlpbkl6N0k2VTRBbmlTMnhQTHhIN3Z2czNJa2VIRFB3bnhxTEgzbWctM1A5TFZqdE4xbVctNm8tSGc1X3Jad3lVS1hSV2xfZ04yeXNqdEJFSnUwUnQtbUhpSTZOMVdiNEZfdW96NUFJUVB3WU5GdkFQV1NoNk0tOEE1dV9PQTlRQ1k?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_beragama",
+      "subclusterIds": [
+        "kebebasan_beragama"
+      ],
+      "matchedQueries": [
+        "Kebebasan Beragama / Berkeyakinan (KBB)"
+      ],
+      "collectedAt": "2026-09-08T21:12:48.894743Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
