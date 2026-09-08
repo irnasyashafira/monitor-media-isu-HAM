@@ -1,15 +1,15 @@
 {
   "meta": {
-    "generatedAt": "2026-09-08T11:24:02.746912Z",
-    "lastRunAt": "2026-09-08T11:24:02.746912Z",
+    "generatedAt": "2026-09-08T16:41:05.941643Z",
+    "lastRunAt": "2026-09-08T16:41:05.941643Z",
     "startDate": "2026-01-01",
     "refreshHours": 6,
     "mode": "incremental",
     "feedsOk": 16,
     "feedsFailed": 0,
-    "totalStored": 1021,
-    "totalPublished": 1021,
-    "newArticles": 16,
+    "totalStored": 1026,
+    "totalPublished": 1026,
+    "newArticles": 5,
     "warning": ""
   },
   "clusters": [
@@ -136,6 +136,52 @@
   ],
   "articles": [
     {
+      "id": "bd80aa80c728ca7bfd3730bf",
+      "publishedAt": "2026-09-08T12:47:11Z",
+      "title": "Apa Itu Ruang Aman?",
+      "source": "Kompasiana.com",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOWm1MYnE5WFZQNUE1MndDLXBkN0M2cGR1V1JOeDQ3M2RLNmRPbVFCNWhSWm5ZcG5WdlJBTTRualpzTGkwWUN1NnduakU0aENJNkFwMHNxaUlGUldRNXRIR0VYdDBWODFHNTlHV3VXSUsyY2I0Uy1naWVsYXJ3TjZSTklKZUJ1Wm9hczdFRmRIZDZpWDFlRkFZbA?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-08T16:41:05.941643Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "e4c4408cceda9b7dfafae41d",
+      "publishedAt": "2026-09-08T11:25:00Z",
+      "title": "Presiden Marah Besar, Blak-Blakan Tunjuk Rezim Otoriter",
+      "source": "CNBC Indonesia",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNRUZYVDgydUZ6X2tSLVQ1WWNYQ1lxVjhBanRKVmlCLTN2OG9TdE5mcDFYQzA2U3NudzdmS0MtTkhZay1PelVBUWtySzZNdTZXeDMzZjg2VF9NRTFiWTNoa2xmMjJ5alQxMUk5WkNiTWJKaGFIX0paOW9qZ2dNbkpiUHM4aVVBaEN1NW1EdkM0c1hoQVFHYjZyM09SSWJweGZDRE9IbElQOVBIWWNFSllfdVpMbW90NWloSkHSAboBQVVfeXFMTUVGWFQ4MnVGel9rUi1UNVljWENZcVY4QWp0SlZpQi0zdjhvU3ROZnAxWEMwNlNzbnc3ZktDLU5IWWstT3pVQVFrcks2TXU2V3gzM2Y4NlRfTUUxYlkzaGtsZjIyeWpUMTFJOVpDYk1iSmhhSF9KWjlvamdnTW5KYlBzOGlVQWhDdTVtRHZDNHNYaEFRR2I2cjNPUklicHhmQ0RPSGxJUDlQSFljRUpZX3VaTG1vdDVpaEpB?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-08T16:41:05.941643Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
       "id": "8003615578bffc5fb245e7cb",
       "publishedAt": "2026-09-08T10:33:25Z",
       "title": "Pentingnya Ruang Aman dari Kekerasan Seksual diKampus: Belajar dari Perseps Halaman 1",
@@ -177,6 +223,29 @@
         "Kebebasan Berekspresi & Berpendapat"
       ],
       "collectedAt": "2026-09-08T11:24:02.746912Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "e57a4fba5d674a8dbaae271a",
+      "publishedAt": "2026-09-08T09:26:43Z",
+      "title": "Foto : Kronologi Pelajar SMP Meninggal Usai Diduga Dipukul Warga saat Pembubaran Balap Liar di Purwokerto Halaman 1",
+      "source": "Kompas.com",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNUkFuR3pjdk85NDNnMFJXSGlFV3RpMC1Ed2JwaEM5V3MyM2lJY2xKdmxBbU5fMkpRdk5GMTdqMzJaQ1VHY2ZNVkp1a3V0U0VKWTZocEVXVXNlTzFuUGZoUl9OVC11MGdlM1FXSmpQTFpCdzNyZHdBV0ExY1BOWi02OXA5aXd1MXM5elJjdHk2ZDNlSy16bFpCRk9RT1kwZTFiWGFIMHg2MGM1YlVnWXVJc2doZ3NsS2RmVmxMOHFrbW95SXVMS0prQklzZXR5V0JO?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_berkumpul",
+      "subclusterIds": [
+        "kebebasan_berkumpul"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berkumpul / Berserikat"
+      ],
+      "collectedAt": "2026-09-08T16:41:05.941643Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
@@ -269,6 +338,29 @@
         "Kebebasan Berekspresi & Berpendapat"
       ],
       "collectedAt": "2026-09-08T11:24:02.746912Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "7e0e0c4bc0282f249a40f809",
+      "publishedAt": "2026-09-08T05:03:19Z",
+      "title": "Menjaga Kebersihan Sekolah, Garnita Malahayati NasDem Purwakarta Gelar Aksi Gotong Royong dan Salurkan Alat Sanitasi - Delik Jabar",
+      "source": "Delik Jabar",
+      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNNE1yY2x6OFhyaHdFd1dPX2VxemVIM3FxZUVuSGs2V3hWR18zRm1XMUhjd1Njb3R6SXVRVWRyV25hY1lZQkZQZWEzR0poY0VwamliU3F6bjQwRXN2TzFWeGhhRWhOckYzbzYtbVJiX0l5U2xucjQ3b1pXRjNLaE9ONjdULTNpUXpYbVZqZ1JGSTVZV3pYRDNWS0JaUlQwUWdIeFMxdkhodmRvTkpudVBnT000ZEx0SzZwaW91VXYyNGlrTTJFSjViZjZ5V2FpNjRLSWliSTNQYXc4RmpMTlBTTmo4ZjFESHF0X05uejZWMjVUMXVlSDA1a0ZR0gH_AUFVX3lxTE05V0tQQW1MU2lDVWM5YlJncVdhSHAyVzc3VFhQelpRbVpxeXpvQk4tYmxoQXB2bXVYdnh5eWFyN0w1TktJMlN1eHd5X0lPMWhPNG04X1o3THhGbU1xa3AydWpZV2JMZzljMHNEX1RnQ1BraG9vSTA3QXQ4Ukk0OUNkbU5pTTBZNjhkZE9yX0liX081cGphYjFBVm9RVmVqaktSemZPSE9Ibi13ellKUExIMXNILUhqY2IwTDYtUEhJYm9nZ28tWno4T1NPT2h3M2xfQnR4aEZuS0ctX1RNX2NwbnVFTG9IaXd3X3J3UHZUSkpmRVFGdUpjT2x3NFBTWQ?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-08T16:41:05.941643Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
@@ -430,6 +522,29 @@
         "Kebebasan Berekspresi & Berpendapat"
       ],
       "collectedAt": "2026-09-07T21:33:29.285960Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "3080a75bf0122bea0aa46e79",
+      "publishedAt": "2026-09-07T15:19:46Z",
+      "title": "Pemkot Yogyakarta Perkuat Pemantauan Program Makan Bergizi Gratis, Sasaran Diperluas ke Ibu Hamil dan Balita - Pojok Malioboro",
+      "source": "pojokmalioboro.com",
+      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQdEM5MjNrcmpVY1h1WGFGM1NtZi1qYkFvOFpxSkdmYVh0XzJUMl9HSWZYZUxrQjViRERGNjNSbVRFYWNJQzVmbUVianM3UGJQTV85V244LUZxOHRkVlItMHRhVFZYU2dBaS1hV0l4b3J6dUltSkstUE16RExYZmlweVc5WXlQQy01MUZoR2FTS241bFFSUjAtQkk4VXFnbHVkQ3lFYldXa0RjZ1hmWW5ILU0xekh3VlJZUnI4Smw4c01wS3g3SmI1cEo3RlZLQkgxbHZjeHVYeE9xa1Y5RHBlaHFqOFk3RTlEZEwwMlZR0gHzAUFVX3lxTE9TQXpjekFzNHI3UFVXWkwyZWNtY01ZUWdUVjA4bTJnVVYwdEJscHpDNWE2V3dxTVlfbVZhVXlPMXl2SGNIQURMQjVFU0Z6WFF2aHBYeFp2c3FXVllFQWNQUGs1Q183UWJpdHo3RHEyU09ZYXR3NXc3RlI4Rzk3c09aZFo2NUhpbzJ0TEdtNFU0RjRUWFB5NGRxWG9yTFRyNHA2QXBUbFdFSGx1QWRXNXBPMlM2cU9VNk5XMWxsQ2RPWWxKcmxPdHdaYzFVM2lyRDJIMGVDS0pyanY0aEFycEhwV1R1S3hyYTlUUE9CVWdIMkEyUQ?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-08T16:41:05.941643Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
