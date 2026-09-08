@@ -1,15 +1,15 @@
 {
   "meta": {
-    "generatedAt": "2026-09-07T21:33:29.285960Z",
-    "lastRunAt": "2026-09-07T21:33:29.285960Z",
+    "generatedAt": "2026-09-08T04:43:02.451025Z",
+    "lastRunAt": "2026-09-08T04:43:02.451025Z",
     "startDate": "2026-01-01",
     "refreshHours": 6,
     "mode": "incremental",
     "feedsOk": 16,
     "feedsFailed": 0,
-    "totalStored": 999,
-    "totalPublished": 999,
-    "newArticles": 11,
+    "totalStored": 1005,
+    "totalPublished": 1005,
+    "newArticles": 6,
     "warning": ""
   },
   "clusters": [
@@ -135,6 +135,52 @@
     }
   ],
   "articles": [
+    {
+      "id": "8afdf6bae39c82bf4ca84b48",
+      "publishedAt": "2026-09-08T03:43:38Z",
+      "title": "Imbas Aksi Main Hakim Sendiri di Slipi, Aliansi Warga Desak Kemenkum Cabut Izin GRIB Jaya",
+      "source": "TribunWow.com",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQRjFuMlp0Ti1BN0JSWVgySFUtNlVkWElqVlZMZXhIQW93WUpfQlR3OGpaeXduaHdtMVRJSEhrSnJKQTB5d1RiVUFubFpnc1ZUM1FxcXUxeURPSmU1ek96dVBsbXRLZUFpZ1daZVBxVnU3LTVQelNMQU1JVkN4Vk5UZ2xQUHRfMldiYkF3TnpBUWtvZl9hNWZpekRjeGx5Z0JKN2JSOXRjUTU0X3diYzIyMzNtQ1ZuWjJ0bmRlaXVpWlA5SjRHNXc?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_berkumpul",
+      "subclusterIds": [
+        "kebebasan_berkumpul"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berkumpul / Berserikat"
+      ],
+      "collectedAt": "2026-09-08T04:43:02.451025Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "89c7fe57d5a4d515046957aa",
+      "publishedAt": "2026-09-08T03:00:00Z",
+      "title": "Dugaan Kasus Wabup Sumedang Memanas, Ujian Keberanian Parlemen Daerah",
+      "source": "bandungraya.net",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQeVZXS09ra1VqUFVta2FQMncwS0VOdUhRWjJ0SVpsYlhvakU5b3Y0NkpoOTJwcEtMR0ZnX3FDRXRzNGpUdlUyYnR5NUd4RTY0RjI3cDBjMVNlTnJXMWpJQldjbmFkd3dsZm9LOV9rc1g1U2VYTHNzRU5QWFh5VjZaVGwtOXZFUjAzaE01Q2JQNHhVWmloS2ZkaU52ZG42ZkNYR1Rj?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-08T04:43:02.451025Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
     {
       "id": "795f1d16a6bfa76db28d30a2",
       "publishedAt": "2026-09-07T15:33:00Z",
@@ -320,6 +366,29 @@
       "reviewNote": ""
     },
     {
+      "id": "94c1e3fbdcd45f924d4cbac4",
+      "publishedAt": "2026-09-07T11:35:37Z",
+      "title": "Polisi Selidiki Kematian Pelajar Saat Pembubaran Balap Liar di Purwokerto",
+      "source": "jateng.tribunnews.com",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNTHctclZwVkVMMFZZRVNFcHEta01hdERWUzc4SWlYNnNNVXVYa0J1OUh1cl83TjRLSVdIOGJ3Nzkxci16a3V6LXVNeUNPcEJEZzRWbW1uS1Q0bDZIaWFBeXV6LWMtVmxKdXRFeUkydHQwTGNIVW9Rd0lZUzF4emRaTi1uTnVzcWgyMTNrbXZJenhhUnY4TW1kbUhDWEhtUEVsYjN4clJsdkt5R1gwQkx1a2VJVlBkelZONlhNZzlxYmI?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_berkumpul",
+      "subclusterIds": [
+        "kebebasan_berkumpul"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berkumpul / Berserikat"
+      ],
+      "collectedAt": "2026-09-08T04:43:02.451025Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
       "id": "8647c11fdc6e761257fcbba2",
       "publishedAt": "2026-09-07T08:50:00Z",
       "title": "Lapor Polisi Malah Jadi Tersangka, Kasus Palito Sihombing Diangkat dalam FGD Kriminalisasi Hukum - Suara Merdeka",
@@ -361,6 +430,29 @@
         "Kebebasan Berkumpul / Berserikat"
       ],
       "collectedAt": "2026-09-07T12:40:02.870233Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "7cf73772dfcef6eb6c68fd2f",
+      "publishedAt": "2026-09-07T08:36:41Z",
+      "title": "Tragedi Pembubaran Balap Liar di Banyumas, Remaja 13 Tahun Meninggal, Diduga Dipukul Kayu",
+      "source": "jateng.tribunnews.com",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQTkxreFNQd2FsNzJrZUJBWHBsSVB4ZmdpNlRodjBiY2p6M3ZJVmNmenA2eUwyZWFEZGNSWDlfM3lmNHNhWFR0R1lHV0RTbTMtS1JHd0hXZ2Y5NkZGcndqOEJsUHZlLTVmQWUzWUdUcnBGQUl1NVpXNTJieElqcUhPS1ctX2stUlB2UzM5YTA4T3FPUGhkMkJjQk96MUFCQmt4Mlk2UFN0VGpEQWV2RVJ6TnRhRTJFb3Q2RnRNV1B3YXdMYlFORXZ4S3hQQmZvWEE?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_berkumpul",
+      "subclusterIds": [
+        "kebebasan_berkumpul"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berkumpul / Berserikat"
+      ],
+      "collectedAt": "2026-09-08T04:43:02.451025Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
@@ -545,6 +637,29 @@
         "Kebebasan Berkumpul / Berserikat"
       ],
       "collectedAt": "2026-09-07T04:47:48.538526Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "7a388c894b45d6da8fbd2734",
+      "publishedAt": "2026-09-07T04:29:57Z",
+      "title": "Pelajar SMP Dikabarkan Meninggal Usai Pembubaran Balap Liar, Polisi Selidiki Dugaan Sebab Kematian",
+      "source": "jateng.tribunnews.com",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPNVhualpwSEluNjYtZWhXYWUtMkJsWmVTTHJXMm8tcWJVYmpLUmlPVUFQdEkteVJiYmg0RGJMSDVqZ3BPRFhPUDJvcVA5alA2QzBzWktubVJtOVRJNTN3bFZrT2VaUElGS0hLUXN4TC16LUFmd1VQQThZLXFQZ1dBeE5FUy01ZjJKZzdrRWJ3dWt2cFRycjdpUXdqUlJGUjJOMjQ0ejdEbmJtM2xCSzNIQVIxS0pSeU96NC1qcnBtX1NabUVCN1JpeW1DYUlmbWJONmh0bUUyeW9vdGV2YXpKaQ?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_berkumpul",
+      "subclusterIds": [
+        "kebebasan_berkumpul"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berkumpul / Berserikat"
+      ],
+      "collectedAt": "2026-09-08T04:43:02.451025Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
@@ -20864,6 +20979,29 @@
         "Kebebasan Berekspresi & Berpendapat"
       ],
       "collectedAt": "2026-08-31T23:07:12.746081Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "9baf5db3e29a2a46602dcbd0",
+      "publishedAt": "2026-04-19T07:00:00Z",
+      "title": "Kala Jusuf Kalla ”Dikepung” Isu Ijazah Jokowi hingga Kasus Penistaan Agama",
+      "source": "Kompas.id",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPNlRtY054V3VwMGJRdlNSMjlfcnpZTEY1elF6SG95RkY1Zy1TS19MZmxocFE4akw4LUE4VDNnODliVjB0TDBCQkFCekVNRmFKdW5VSDZsaERaZmtiQ0hpTU1mcW1fUGFtZTk4VkFSa0N6LTJaRi1VWDN5R09hYzJoekJXS3NSTU5hck5oVXVHRDFkeEt1Z0tnYnFNQU9Db0dmZlllOA?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_beragama",
+      "subclusterIds": [
+        "kebebasan_beragama"
+      ],
+      "matchedQueries": [
+        "Kebebasan Beragama / Berkeyakinan (KBB)"
+      ],
+      "collectedAt": "2026-09-08T04:43:02.451025Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
