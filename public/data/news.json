@@ -1,15 +1,15 @@
 {
   "meta": {
-    "generatedAt": "2026-09-09T16:41:51.102255Z",
-    "lastRunAt": "2026-09-09T16:41:51.102255Z",
+    "generatedAt": "2026-09-09T20:58:20.234515Z",
+    "lastRunAt": "2026-09-09T20:58:20.234515Z",
     "startDate": "2026-01-01",
     "refreshHours": 6,
     "mode": "incremental",
     "feedsOk": 16,
     "feedsFailed": 0,
-    "totalStored": 1052,
-    "totalPublished": 1052,
-    "newArticles": 4,
+    "totalStored": 1060,
+    "totalPublished": 1060,
+    "newArticles": 8,
     "warning": ""
   },
   "clusters": [
@@ -292,6 +292,29 @@
         "Kebebasan Berekspresi & Berpendapat"
       ],
       "collectedAt": "2026-09-09T04:47:34.492833Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "3269c653299eff64788aa584",
+      "publishedAt": "2026-09-09T03:00:00Z",
+      "title": "Kebebasan berpendapat masih terancam meski MK sudah membatasi pasal penghinaan presiden",
+      "source": "theconversation.com",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPWU5VOTVDSWFJRFJObUVpV2ZiZXI1N0VJeVdXc0tDeDBGVVRfUnlQZjhYRlhoYlBjam84QnhUS0RKUWp4Uk00eUtTSW5wUWc0S1pDdDFadW8xOWVZM0hCbXNLVDZ0YktHU2tKdnBhNG1ZX3MwaFdfdmtNU3B5TjFXTWN2UTJZbTBqUmRvRThYdXNTNUZfRGNYUHNjanNkeHJWcVBOU1A3b1NmSzBvdktacFZTWTNBQi1TdG9HWDJzNA?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-09T20:58:20.234515Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
@@ -1194,6 +1217,29 @@
       "reviewNote": ""
     },
     {
+      "id": "3843388bbad73789cb40c4eb",
+      "publishedAt": "2026-09-07T13:11:21Z",
+      "title": "Survei ASI ungkap tiga isu dinilai relatif baik ditangani Prabowo-Gibran",
+      "source": "antaranews.com",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPNENvYmxxY09jdjRVVWx3aWdmRzJYVDRCNE9hNWhpRV9uWlR1d0hrdkRkTk1abWxYTWRIVHhEZE94YmZ0bUlVeXZEZC1kQnVHY2FGaEx3aUdaazhMMlBkMm5vMFRRd25XTk5VTzdra2g2U0JEaHd4S3lWb2x2WklOcnVRcENNRFRmUjJVWGVMNGFmTTl1UDhGeC01d0Uwa1ZYQTFoa2xmaXBZcDVJRUlmR0lCWFjSAbcBQVVfeXFMUEZsenZ5ZFdpSURfSlRnVlV0UjZpM05yVUxBeTB6bDZlZTZhSWRsQVV3SS15Sm4wWWg5S0VDRG1CVmF5bXJfLXJXa0RKY0JudGNUa1pHTTR4V2ZXZERsS2pHb1pEajdLWWR0UWFDUXlXYlRmNDVNU3ExQWJoY0ZCcW5zY1ZudUwzdGxYcHpYZmlCbnRfVUpIOXdrUGdTc3gyMy0yS01yREJ1QjRFS1Fkejh6cHZfVHpN?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-09T20:58:20.234515Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
       "id": "bbc1b6781d3d5e41d6b59285",
       "publishedAt": "2026-09-07T13:02:07Z",
       "title": "Kebebasan bersuara dalam ruang aman di era digital",
@@ -1281,6 +1327,29 @@
         "Kebebasan Berekspresi & Berpendapat"
       ],
       "collectedAt": "2026-09-07T21:33:29.285960Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "3894edb9698b3d4c32512634",
+      "publishedAt": "2026-09-07T08:50:00Z",
+      "title": "Lapor Polisi Malah Jadi Tersangka, Kasus Palito Sihombing Diangkat dalam FGD Kriminalisasi Hukum - Suara Merdeka",
+      "source": "suaramerdeka.com",
+      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOTWMwVG1GZUxuS2pESFBDdUNSWjFRdlZsM010dG5zbTNfYXA1blFVYWRZWXEyOWNndlNFYl9PQzc4TDdLWlNhMXpJZDVrNXVBMk1vOGlIcG1FM3hYY0UtTF9GTVQxblFPejdQYjljSm96N3ZKWlRTV1BCSzNOYUdOS2drZVU1anAwUU1TRDRFSGlZSGhadzhTQWxYMXF1RXdtRFpXb1U1d0JIaVZ2cFE3ZDRCOWR4Z3F6bWRZSDBfeWtkT2hGSlMyVXJCSDYtZ3o0MDR1MjJoSEM5SE10WnhISGNhSGVaWkc0SXNUWUlid9IB7wFBVV95cUxOTWMwVG1GZUxuS2pESFBDdUNSWjFRdlZsM010dG5zbTNfYXA1blFVYWRZWXEyOWNndlNFYl9PQzc4TDdLWlNhMXpJZDVrNXVBMk1vOGlIcG1FM3hYY0UtTF9GTVQxblFPejdQYjljSm96N3ZKWlRTV1BCSzNOYUdOS2drZVU1anAwUU1TRDRFSGlZSGhadzhTQWxYMXF1RXdtRFpXb1U1d0JIaVZ2cFE3ZDRCOWR4Z3F6bWRZSDBfeWtkT2hGSlMyVXJCSDYtZ3o0MDR1MjJoSEM5SE10WnhISGNhSGVaWkc0SXNUWUlidw?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-09T20:58:20.234515Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
@@ -10627,6 +10696,29 @@
       "reviewNote": ""
     },
     {
+      "id": "87922a8a3db4b5e79b22d8c4",
+      "publishedAt": "2026-08-16T07:00:00Z",
+      "title": "Kriminal sepekan, ekshumasi Sutrimo hingga penistaan agama di Ancol",
+      "source": "antaranews.com",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZE5LX1NoRVBGYnlsSjIwX0hGWWFWN2xXbjhERnB3TmJYVVNlWHk3azV3VkpySTYzajRBb2xwNTF3WHA5VVRXQ0dvcUt1Sl9fY2NxNGc0VmY0ajNQRURKY3FFMUlJdkZ2ZHYwUkNQVU80NXZVMlBzMjFnY1VFT1RvMTZHMzdHV2tOenU2eUM2UFFYYWdURWlYRnkzaXhQTHlLUGxiMFVHMzJsWE440gGvAUFVX3lxTE9ncHBJTE9VRE5tUVpZMHJlVVVuSEw0Z3ZUak9nNEotNmhSUnhIeG5oS3k5bjdOUVJaRE1rMUd6Mkdvb3phZEdZQlZVR1hNSWoxYXU2ZWt3emxtbUk1QV9LVzVlR0pxY29NUnZsVWVIOWtlRElNT2p3V0FoSXJFQzdNREZLUzcyTzJMeUZ1TEJPZWhrLVQwWGhBSUZFU3ZVOEN0dzhiX21La201VkRfZ0k?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_beragama",
+      "subclusterIds": [
+        "kebebasan_beragama"
+      ],
+      "matchedQueries": [
+        "Kebebasan Beragama / Berkeyakinan (KBB)"
+      ],
+      "collectedAt": "2026-09-09T20:58:20.234515Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
       "id": "fc97518d0b1939c5f72fea3a",
       "publishedAt": "2026-08-15T07:00:00Z",
       "title": "Tiga Orang Jadi Tersangka Kasus Pembubaran Ibadah Gereja di Bantul",
@@ -10829,6 +10921,29 @@
         "Kebebasan Beragama / Berkeyakinan (KBB)"
       ],
       "collectedAt": "2026-09-05T04:34:32.550282Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "03a406609363044e72d4a65e",
+      "publishedAt": "2026-08-14T07:00:00Z",
+      "title": "Vokalis band dilaporkan ke Polda Metro atas dugaan penistaan agama",
+      "source": "antaranews.com",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQVTZ1aWZ6T1NDQmV5NlJmSTQ2aUhGd2pQcUVPT2xSQ0pNOWVNdmRTQm5hYVRCWnpEM0Nkc2pTa1p1Wm9KaXNqSlJ4UXM5b2w3bG9OM3BWLXFiamwtYjNGSWl0UWZzT3Qxa3Zlek5ncVJwMk5WWDRaZmtwRGgwaVRaakJkMjJYUEdCRmkzRU1ZUllqMzJzdEFQZjNTRlRzeDhkSmVPYVNLVjVTdFlS0gGvAUFVX3lxTFBGWDhlVkxCeURSaTVNcGFqM3ZlUi1wZWF4bWttVWxneWVoaEl1dzhOd2tISXM5RWdHS2hKZm4yQVpuZDhBTmlWM0ZGdzhPNDZzcHF2NG5jNkcwbldpNlJEaUdYWXdsOFdkem5PdHFnSjUyX2VqT1pZNk1tYTBTNlJ2VlRLS0VvMWNHVGRZVDZMUWZlZDBERUdrb1NtNWhQWGlmTnFTMWFHQ1ZuYVNnck0?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_beragama",
+      "subclusterIds": [
+        "kebebasan_beragama"
+      ],
+      "matchedQueries": [
+        "Kebebasan Beragama / Berkeyakinan (KBB)"
+      ],
+      "collectedAt": "2026-09-09T20:58:20.234515Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
@@ -13663,6 +13778,29 @@
       "reviewNote": ""
     },
     {
+      "id": "35a1938d72b6e3314403c266",
+      "publishedAt": "2026-08-12T07:00:00Z",
+      "title": "Polisi tangkap dua terduga pelaku penistaan agama di Jakut",
+      "source": "antaranews.com",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNV1RrdEdHTVlrQUZrUTBCZTdXeWVTZ01xUjRtd3NVaGN5XzY1bjZ1OEVwcHhiYXpvaWVIWkdRYWhweWp3cTJiV0ptMnZpbU1WVHlsWENPOVc5VEhiYVdEb1FYcWRyQVBNQ3dLWG8yeDhWOGF2Um5FLUdxMkczSjlIa25NMGhfTlFGWHJKTGthejVSZEtPU3BMOUNudlZLcEVHaGfSAaQBQVVfeXFMTWJwR0l4MEFfWnM1Uk5tVFlVeUxpd29yb09VekgxMXcycUNxY3c3UlBUZ182NVlJMTFURXVmcmwxVGpsazlTbm10TGZaMU9aYkQ2TGQtUXMwcC1pTHgwWC16bHlHWGtpYjZFUlpsZm9oQXZzZjBhaGtLM0RabjAtX2xPRkl5TU1aY21FR21QdU5qV2J6Zk5BZmd0aVg1bTBQbjlTWEc?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_beragama",
+      "subclusterIds": [
+        "kebebasan_beragama"
+      ],
+      "matchedQueries": [
+        "Kebebasan Beragama / Berkeyakinan (KBB)"
+      ],
+      "collectedAt": "2026-09-09T20:58:20.234515Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
       "id": "5c85b9fb36510166a6622ed0",
       "publishedAt": "2026-08-12T07:00:00Z",
       "title": "Polisi periksa secara mendalam kedua pelaku terduga penistaan agama",
@@ -13773,6 +13911,29 @@
         "Kebebasan Beragama / Berkeyakinan (KBB)"
       ],
       "collectedAt": "2026-09-04T11:23:07.245231Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "b233dd7aa15d1138f972136c",
+      "publishedAt": "2026-08-12T07:00:00Z",
+      "title": "Polisi periksa manajemen acara soal dugaan penistaan agama di Ancol",
+      "source": "sumbar.antaranews.com",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOeWVjOVloei1yOTJudHBzZ0E3dzM2Q3NCYmNMM21EN0FOX25Lc1NJdXBwV2lBMGJCaV8xRUNzNkN4czVmOGpSNzljZmhPWTI5akUyQ1hCVTUxNF9tM1luazZSalo1cnJyRGRNQlVNeDRZTk52Q2tlVlFVSlF6QUZwTE1HMVlCQ0hBRXIxR3gxYV9WY3NfOGNzamE5ODE0T1BwRmlOTXRKMjhuN2JldTQtUQ?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_beragama",
+      "subclusterIds": [
+        "kebebasan_beragama"
+      ],
+      "matchedQueries": [
+        "Kebebasan Beragama / Berkeyakinan (KBB)"
+      ],
+      "collectedAt": "2026-09-09T20:58:20.234515Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
@@ -14969,6 +15130,29 @@
         "Kebebasan Beragama / Berkeyakinan (KBB)"
       ],
       "collectedAt": "2026-09-07T21:33:29.285960Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "1359ffb2d4a4d5b51b9a0ae5",
+      "publishedAt": "2026-08-11T07:00:00Z",
+      "title": "Polisi kumpulkan barang bukti dugaan penistaan agama di festival musik",
+      "source": "antaranews.com",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOdTk1cGlyNnhLWld2aWxSMTgxeEMwS1hUNEsxUG1tZDJvSkRjTXhrV21QOXN2WWZGcHZtZTV6WXFjUXRnLWFwT3NVSXZnclBmakFtRU5jZlFENUI1bzl3YWtieXh0d2g2R1pnQW8xS0pWVDd3eG1kUmVRdnpVYlFaalR5MEhUUVlQYkxDT1YwQ0tIWmg1WXJvMldhWEktSWYwdXo4dWt5WDR0emVXbUY4SFNn?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_beragama",
+      "subclusterIds": [
+        "kebebasan_beragama"
+      ],
+      "matchedQueries": [
+        "Kebebasan Beragama / Berkeyakinan (KBB)"
+      ],
+      "collectedAt": "2026-09-09T20:58:20.234515Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
