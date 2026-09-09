@@ -1,15 +1,15 @@
 {
   "meta": {
-    "generatedAt": "2026-09-09T04:47:34.492833Z",
-    "lastRunAt": "2026-09-09T04:47:34.492833Z",
+    "generatedAt": "2026-09-09T11:28:41.471029Z",
+    "lastRunAt": "2026-09-09T11:28:41.471029Z",
     "startDate": "2026-01-01",
     "refreshHours": 6,
     "mode": "incremental",
     "feedsOk": 16,
     "feedsFailed": 0,
-    "totalStored": 1042,
-    "totalPublished": 1042,
-    "newArticles": 8,
+    "totalStored": 1048,
+    "totalPublished": 1048,
+    "newArticles": 6,
     "warning": ""
   },
   "clusters": [
@@ -136,6 +136,52 @@
   ],
   "articles": [
     {
+      "id": "3f8c13f433c2893d2fc77ce9",
+      "publishedAt": "2026-09-09T08:45:17Z",
+      "title": "Pengamat Politik Unair Airlangga Pribadi Kusman Meninggal Dunia",
+      "source": "NU Online",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOM090bnlMaDJSVldhVV92NGFYMFJFUEpIR3RzbktuRGhPY01pT3hxNTBIcTVOUHNpLTNLcWtnOXZhWW5LQnl0eWFpS3ljblJrNk1DTEZhRjlVYjBxUjlIazk3SnlfZ0gydjE3aUxadHVrdUNKNDFGT3kxQm82dWRJUE1SRVRqMHNGMGpyTUZ3OG9QV2dadHM4NDZxUFh2WjVuUkh3blB2RmvSAagBQVVfeXFMTjNPdG55TGgyUlZXYVVfdjRhWDBSRVBKSEd0c25LbkRoT2NNaU94cTUwSHE1TlBzaS0zS3FrZzl2YVluS0J5dHlhaUt5Y25SazZNQ0xGYUY5VWIwcVI5SGs5N0p5X2dIMnYxN2lMWnR1a3VDSjQxRk95MUJvNnVkSVBNUkVUajBzRjBqck1GdzhvUFdnWnRzODQ2cVBYdlo1blJId25QdkZr?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-09T11:28:41.471029Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "929a84c05afe9fc98ef83ed2",
+      "publishedAt": "2026-09-09T08:09:49Z",
+      "title": "Kami Tidak Lagi Percaya: RUU Penyiaran Hanya Menguatkan Negara dan Melemahkan Warga",
+      "source": "Remotivi",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5oWVp6RTNqYV9UWk92OWZhT1lkT2RHOVBQLVQxVnpLRmhVRnZIV3lFcmxwaTE3ZDNnb2ZBc2twLXJsWFNtb3hGcXpmTFVyOXhpU1RGZktSd0RQX0UwZEZRZ0pn?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-09T11:28:41.471029Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
       "id": "0a44552666fe4ec9371218ec",
       "publishedAt": "2026-09-09T03:00:00Z",
       "title": "Kebebasan berpendapat masih terancam meski MK sudah membatasi pasal penghinaan presiden",
@@ -200,6 +246,29 @@
         "Kebebasan Berekspresi & Berpendapat"
       ],
       "collectedAt": "2026-09-09T04:47:34.492833Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "5ab43a05f4039fa539f6c3bc",
+      "publishedAt": "2026-09-09T00:27:05Z",
+      "title": "Yamaha XSR 155 Dapat Warna Baru, Tampil Makin Keren dengan Gaya Neo Retro",
+      "source": "Radar Pati",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNRko0QmJNa0RhSVdFSVRLWkpJcHA0QTlueGpkWVVZU0NRMGJxQzBoQXJKbFQ1anpQcDBVZG1pREdPTGlaWG9FdmpFZzRuX1BSTnN0OGJfOURaTW1OV1FsX2VRdjV6TlU3SHhpRGxlR1JqTkFPY1YtWkpuTzhKeEZzZTkxR196aV91NHhzSGMxTTRmTmpuYm83NzgxS0N2X3FyMGZISGVhNnJtUUowRlhtNjYyNm43RnM5MjFB0gHAAUFVX3lxTE5KM2lLZmR0QWhUcUxqSXVpREY1QkxLajJKdUVvN2lMVzhKUXNzSmhuREtxeUh2bG83MzAxUE5qYklqQ0Qzd0IzcVY2VzNBZXVTekNVckNGMldoM1dPS3V3Z0RLV0JYV2Npc25FSThBQkFveWVJRjJrenkxdmkzNWZ2YU05cExtdjlWeTRHYkNkbE5pY3F2cGs4MlZKVnU0UDhfZE16ZHVaMUg0MENZZnJmWFM4Ujd4UXNBQkNqOVZnWQ?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-09T11:28:41.471029Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
@@ -297,6 +366,29 @@
       "reviewNote": ""
     },
     {
+      "id": "dcd330e49b7278bfcadfc7ce",
+      "publishedAt": "2026-09-08T15:10:25Z",
+      "title": "Ruang Aman di Kalangan Mahasiswa: Antara Kenyamanan, Kebebasan Berekspresi Halaman 1",
+      "source": "Kompasiana.com",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOa0s5VlJEbzZINDBxX0VtRXBxMEJfa09IQndVOEw2YzdwdVZGcjJZRm01R09XRnNnRzBFQ3MxSFFqeHV3U1VhUzBCckdKY0R2NnNPa1M5VjVsVDVyNWdjdlFBaEExR1k4R0h2bkhEMkd6c0JOdTREYzZfa1hjVmRTSUsyQUtjX21DSjV4cFlDWUR0SldRX1ZTOEFyRV80UUcwZHFlMzRGdjZlT21zSFBCR2pjOEVZR0ZOMktPLWVMVHJUa3NwS1hSZ196ZmZGMUpxbmJCV3F5cUQ?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-09T11:28:41.471029Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
       "id": "bd80aa80c728ca7bfd3730bf",
       "publishedAt": "2026-09-08T12:47:11Z",
       "title": "Apa Itu Ruang Aman?",
@@ -361,6 +453,29 @@
         "Kebebasan Berekspresi & Berpendapat"
       ],
       "collectedAt": "2026-09-08T16:41:05.941643Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "d99e81d0b57a15c4542455d2",
+      "publishedAt": "2026-09-08T11:24:57Z",
+      "title": "Unjuk Rasa di Gedung DPRD Purwakarta Memanas: Mahasiswa Tuntut Transparansi Anggaran dan Ultimatum Dewan 2x24 Jam - Delik Jabar",
+      "source": "Delik Jabar",
+      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOcGdZY0VMUlI2elRSS2lpSHdQMm9URnJJd2hobHN4eDBuRG5heGYzTUpaZk1sZktuYXVLclktd2J0NlNvdFIyalYzSkV5MFJtQkd0SDZSZ2hLb3Zob0RSeXFfaUk0R0M5R2JGUko0eF9PaEN2SGF6VXo3V05Va0l6M1lXWXYwZC1IekxMcDhWd2JQb3k1RWs3amVUZEFua0F1V2RycVJzUnNLSVJlemtvSzREc0xzcEp4SExvc056RWhqMEhWNmJDUWlXRVZfLTZIeUtWT0c4RDJ0T3Roc0FVMVJldDJSaTlzZVVpbnBHdFV2VmxI0gH6AUFVX3lxTFBFNThjbWJKTGRWbGdON2pucGd3TTlpUm9CeVU2OHVKT24ybk04OVpUdnUzcnFlaEpvYmFxbEdJcGw3dnBOZFdkQ3RhMUFOOGhkRU45LTRQWDZTYTZfcjJENlRaV0V6YVJsT2QwNkdjY1ZPV1FYVHZKMng2aW5sOUx3TF9CSXNIbUFhOE9yejdPRHVDWkRhUFBDdFNkalBOdHYwOFl2aWtzVV9Bb2JuLXBJNm0wV1d2WDRTZ3J6cHpmdDd5VndlTXhtTnd5a2w0ZzhDaEpxYWZLbE02SXd5T2lGMkliZ1Zia25ETkZIT2wyTzlVX3drZmhyT1E?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-09T11:28:41.471029Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
@@ -591,6 +706,29 @@
         "Kebebasan Berkumpul / Berserikat"
       ],
       "collectedAt": "2026-09-08T11:24:02.746912Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "e3f734685eee02fc2f607193",
+      "publishedAt": "2026-09-08T05:37:18Z",
+      "title": "ASAL BICARA: Karikatur Kebebasan Berpendapat Halaman all",
+      "source": "Kompasiana.com",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOSzM1UGRmSm5NZnpnWlk0cWppUkRONU1wd2pDVDVKdFEwTURBVGRUZ3hKNXpTdTNuRURhNEgwWVpxcW53WXNVTHRZbHlFaFlDQlNZbE9oOHBxczh1SXpETnd1UEJKNWpfNUNQRW5VYVJYTHdpbkIzalBXNFVKYlFzRFNmZmY5cTl0c3VwbFUtVDdvdmFIUllWYUN0ZmRobGNMZUV4WTRTVmpIdF8yaUFGY3NGVVFOZw?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-09T11:28:41.471029Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
