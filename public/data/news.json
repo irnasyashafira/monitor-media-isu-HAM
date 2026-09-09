@@ -1,15 +1,15 @@
 {
   "meta": {
-    "generatedAt": "2026-09-09T11:28:41.471029Z",
-    "lastRunAt": "2026-09-09T11:28:41.471029Z",
+    "generatedAt": "2026-09-09T16:41:51.102255Z",
+    "lastRunAt": "2026-09-09T16:41:51.102255Z",
     "startDate": "2026-01-01",
     "refreshHours": 6,
     "mode": "incremental",
     "feedsOk": 16,
     "feedsFailed": 0,
-    "totalStored": 1048,
-    "totalPublished": 1048,
-    "newArticles": 6,
+    "totalStored": 1052,
+    "totalPublished": 1052,
+    "newArticles": 4,
     "warning": ""
   },
   "clusters": [
@@ -135,6 +135,98 @@
     }
   ],
   "articles": [
+    {
+      "id": "1ad9f443caf4dddb4fabd5a6",
+      "publishedAt": "2026-09-09T12:30:00Z",
+      "title": "Jake Lang Berulah Lagi Robek Alquran di Gereja New York! Majelis Hukama Dorong Penodaan Agama Dipidana",
+      "source": "Mozaik Islam",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxObnNxM3hGbEJuLWNhaHBJZ29WbF9MemVqZGE4MHA4THNvdW4wbWwtN2tKVGhuSS1UeC1XNnNlRG1sbHM4d2NERkpDaXpaR0lhWjB0WlJFRW1jZXV2cXFkV3F2eEEwNTlSakZCblhvZ0Z6djE1aUJMam1kVTdCbGV6QS1Ccko1ZHdEM2NQbGVIMWlmbVVzNGg4YkF4NG9nako2UTRzRG1HUkRsMnh3akZ4dWcyMFZjVmhMTHNaRTJPcVFManBfMUUxTjFGcUE?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-09T16:41:51.102255Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "7d7182499c8975841a2f673f",
+      "publishedAt": "2026-09-09T12:15:00Z",
+      "title": "Jake Lang Robek Alquran di Gereja New York, Al-Azhar Kairo Kirim Peringatan Keras!",
+      "source": "Mozaik Islam",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOZ1dJS1M1OXJnYVJqOElqVlhoS0hEZTBNcFBUUlNFRTRQNEhRS0t0WV9aSlFZRFBTbXdzekM3TldQdWNUQ0NSYXktTzNRTmtNdjFzT2V1XzViOHhyQ25sUzNSVElZS0Z1UnlzSGhoVXd6M2JLQkNoMmRURE5XUDkybzl4TmxLcFI0Q3lNQUFxUDBtU1c1Tzh6UGV4aUpJMG1NOWtZZXRVS3dqdllxQTF2TA?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-09T16:41:51.102255Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "aaa99f974a3b19e8a63f99b5",
+      "publishedAt": "2026-09-09T11:55:09Z",
+      "title": "Ormas Bukan Polisi Partikelir",
+      "source": "PWMU.CO",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9aVVI1ZWhVbHFtdUVidXJrQ0M2ZzZPX2JHaG84ZDFINFBHLURTQVZOR1p4enVuMUYxVkdMT1hSSXVVdFFkam01RFZ3VkhQcUdJcE9TQ3ZhUFdHUQ?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-09T16:41:51.102255Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "aa31b51779885508a66d0480",
+      "publishedAt": "2026-09-09T10:14:36Z",
+      "title": "LBH Pendekar Dampingi Ormas Gempa Laporkan Abah Setu ke Polisi atas Dugaan Penistaan Agama dan Penghinaan Nabi Muhammad SAW, MUI Diminta Keluarkan Fatwa Aliran Sesat",
+      "source": "mediacyberbhayangkara",
+      "link": "https://news.google.com/rss/articles/CBMipgJBVV95cUxPYjFERkxNSFVVQjdrRGp4QVJ3dFMyMEtfWGY4bjdvVHptajlDV1hRb2liRFZWa1JaWmJseGVDWFJoYXZjb0cwc21FOHEzeEVCRG5BWVF4b2Naa09EUXlfcUdvdXFqRUdzOExveHZjTThNNEdBV2cxcFgwMVAzUDZNVU9wQzF0c2E1VlpTWkwyZGswR3RHY2pKUGc0NWJuOXAwNkFLclFqY29PaldsdWJvUGVxZ3pWUGtuSmhSbzV5TkhISFV1ME95WTRzZnVkZHdBN2loT0JLZzN2TEZBbEJsUGtFMEhyZEJNTlVBTzAtTnZXTGlNelBzRW1JTE1PWENoX3YzVGhfN3kzYm4yM3VxNDBQQmtXX2JjNlF2N2RfUEEtbnpMY2c?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_beragama",
+      "subclusterIds": [
+        "kebebasan_beragama"
+      ],
+      "matchedQueries": [
+        "Kebebasan Beragama / Berkeyakinan (KBB)"
+      ],
+      "collectedAt": "2026-09-09T16:41:51.102255Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
     {
       "id": "3f8c13f433c2893d2fc77ce9",
       "publishedAt": "2026-09-09T08:45:17Z",
