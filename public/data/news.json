@@ -1,14 +1,14 @@
 {
   "meta": {
-    "generatedAt": "2026-09-08T21:12:48.894743Z",
-    "lastRunAt": "2026-09-08T21:12:48.894743Z",
+    "generatedAt": "2026-09-09T04:47:34.492833Z",
+    "lastRunAt": "2026-09-09T04:47:34.492833Z",
     "startDate": "2026-01-01",
     "refreshHours": 6,
     "mode": "incremental",
     "feedsOk": 16,
     "feedsFailed": 0,
-    "totalStored": 1034,
-    "totalPublished": 1034,
+    "totalStored": 1042,
+    "totalPublished": 1042,
     "newArticles": 8,
     "warning": ""
   },
@@ -136,6 +136,98 @@
   ],
   "articles": [
     {
+      "id": "0a44552666fe4ec9371218ec",
+      "publishedAt": "2026-09-09T03:00:00Z",
+      "title": "Kebebasan berpendapat masih terancam meski MK sudah membatasi pasal penghinaan presiden",
+      "source": "The Conversation",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPWU5VOTVDSWFJRFJObUVpV2ZiZXI1N0VJeVdXc0tDeDBGVVRfUnlQZjhYRlhoYlBjam84QnhUS0RKUWp4Uk00eUtTSW5wUWc0S1pDdDFadW8xOWVZM0hCbXNLVDZ0YktHU2tKdnBhNG1ZX3MwaFdfdmtNU3B5TjFXTWN2UTJZbTBqUmRvRThYdXNTNUZfRGNYUHNjanNkeHJWcVBOU1A3b1NmSzBvdktacFZTWTNBQi1TdG9HWDJzNA?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-09T04:47:34.492833Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "b6a8bbcfa35f5aeb2704ba8f",
+      "publishedAt": "2026-09-09T02:51:14Z",
+      "title": "Ruang Aman sebagai Fondasi Utama Ekosistem Perkuliahan Sehat",
+      "source": "Kompasiana.com",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxONFFpVUdVN0FQU0dRLWlwbTdaVmxKRzVwUVJWTVZTcndHUmZneHRGWDhkMnB0TDg2YndVM2tuZDMwVl8taGlMajFGUGs4UGlvWVUtSzVldHFFSTVCLTE5M0lDWXhJczVFdGpSMUxkMlJzSTdXS01wUnhwc2hOUjlpOU13NFZObXY2aUFxY1RFRFdaZ0NCNU9KWi1aczZhaktXeV9yNjQwNjJQRy1JN1FFczlNWHFxemQwdjBWTlJ3?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-09T04:47:34.492833Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "94ed726ca20938d8a87c12ff",
+      "publishedAt": "2026-09-09T00:37:29Z",
+      "title": "Meneguhkan Demokrasi lewat Kritik: MK Batalkan Pasal 240 dan 241 KUHP Halaman 1",
+      "source": "Kompasiana.com",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNTmtqNjA0SEZ2R3EtWWVEUE5QTExXQ2YwZXRKOVlzX0czMm9wazBVbFVFdXFvSmhBdFVtOWZRa2JVemVRY0dPT1lONFlFUGVRV0MyYjlWQi1qZkxfT2VpbkxObTBGQkxGTDZqNks1LTljenFEb0RZYjJPS3hsdTB4XzJIaHFqQXRaM1IzNnhvN28ybTJXQlp2cjlPTFpwR0UtTUxXQmdkaUZVZXVvV29COHBuX3hCdmZpVG9SZHFuUDlwVWRtRmpKUTBNOGxSR25F?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-09T04:47:34.492833Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "2e16c679986cba57f2614c28",
+      "publishedAt": "2026-09-08T21:30:00Z",
+      "title": "Menyeimbangkan Kebebasan Berekspresi dan Etika Bermedia Sosial",
+      "source": "Kompasiana.com",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxONlVNdG5ER0VSb2ZZNW1jSlZlOGw2eDlDVk05emdDZ18wbUZOYlM4cGZBaDN5QjlDaEVJcGcyeVZUSDFOd3c1MENjc0ZGLWNtQVUxVDF4c1FjNVVwcDlOX19CenZfNHJJNmYwekpYSGEzcnZUYmNwV3pIeVhSeEo0VllxRGU4QTB1YVZWZFV1ZmRjYk9pVFlSeWtRZ3FRMmRrd3pldkNGTG9BUjVYSloyNThRRGRCYVZTVXZNdW0yS0Ewc1lZTkwwX0xXelF2MlVFQVE?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-09T04:47:34.492833Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
       "id": "e2c2b7bdf898987e2148adad",
       "publishedAt": "2026-09-08T19:40:41Z",
       "title": "Mewujudkan Ruang Aman Digital di Kalangan Fikes Universitas Aisyiyah",
@@ -228,6 +320,29 @@
       "reviewNote": ""
     },
     {
+      "id": "3136585566002b4b43503c3e",
+      "publishedAt": "2026-09-08T12:37:51Z",
+      "title": "Foto : Pelajar SMP Meninggal Usai Jadi Korban Penganiayaan Warga Saat Bubarkan Balap Liar di Purwokerto Halaman 1",
+      "source": "Kompas.com",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPSnVzeDdrMnZKQ2Z0U1JTSE9ZTmxEVjBTVnJzeU51UmRkUy15a2ExQW1ST2pwZi15WWZZd0QtLV9fbVZPQ2xBaWFVU2FnbFp5d0lHZWtMcVVjdUdLdkh3THVkTUlLbGlub1FNYXk5MHlYdGtCMW1xQ25Zdlk2a3FYXzZfMERBNnZpY2JCZUw3Y2JCS1JGZ2pRNTNPZ3EyNDE3cWVKdHNjTVdBMkVrdnByZFdwSzl1b0Y0OTUtS0Vrd2dqdFZwOU9GVDFqd3FHdw?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_berkumpul",
+      "subclusterIds": [
+        "kebebasan_berkumpul"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berkumpul / Berserikat"
+      ],
+      "collectedAt": "2026-09-09T04:47:34.492833Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
       "id": "e4c4408cceda9b7dfafae41d",
       "publishedAt": "2026-09-08T11:25:00Z",
       "title": "Presiden Marah Besar, Blak-Blakan Tunjuk Rezim Otoriter",
@@ -246,6 +361,29 @@
         "Kebebasan Berekspresi & Berpendapat"
       ],
       "collectedAt": "2026-09-08T16:41:05.941643Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "0795618ff15e9800c409196c",
+      "publishedAt": "2026-09-08T11:01:00Z",
+      "title": "Ruang Sipil Indonesia Menyempit, Aktivis Soroti Pola Represi dari Jalanan ke Ruang Digital",
+      "source": "Malangtimes",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOMjZTYWlpQ09uN2tYOTlwVDVMVDNqd0g0TDREdTVmVzJMT0lZZl9YSGVsc0h1NHVKQWV0ZTRQUmZmbl9Pald4b0Vpc0h3NHVVeHdaZjViM3JwNElrYXpqeHQ1eTIweTZ4Q1RUQWZXVng3c2ZET3RIbE9hRDBKSVM1NmZhaGhDWnZELUZBVGVYLWpYcnI2eFltMTN4QWpLbU1aOUpjYVNtMWUzYk5QaGdVREl5UGZsckM0QzdIQVJXZU1qaklYc2ZVZHZDRmplaERTaG5CU3V1elRTYmpOaktSNWlWQdIB6AFBVV95cUxONVBsbU1qVUZiOGVjNzQ0UGoxVzhQYkVWSVdGOV9icmRZMWlra3BmWElsQWREaE9aM0JpOGdpUU5iaUdrQmMzUm01XzlTRFEtTlhsWnZfOEdkNVhMeTk4dndOSTc5WmdwMFRGRVNTamxmem5xWS1ENE1rcWs0OGJQSVRFSXc3SnJoeFJsa0RHMGlDc1lNamZDOVFHVlNzTGVHeHA1bVpkQm53SzRrREZub2dRSWVGTFcwZ3A3dHB4bWRHYU9EcFVJX0hTQ0ZvWVZsZS1Bd1dvZS14WVljdXcxbWxuYVZLdVVy?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-09T04:47:34.492833Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
@@ -292,6 +430,29 @@
         "Kebebasan Berekspresi & Berpendapat"
       ],
       "collectedAt": "2026-09-08T11:24:02.746912Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "9a759c1746fb51c8ff192160",
+      "publishedAt": "2026-09-08T09:57:59Z",
+      "title": "Diburu karena Bersuara: Refleksi di Bulan September Hitam Halaman all",
+      "source": "Kompasiana.com",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPdmljck9UaHBXV01SSTJuVm5iaHpSck5kRHVCZHkxV19WMnl1UXEtOGZnUW9xRlJObG9wM0RFZWlTNnVzVmY0R01IWUR6MHlyZmdpeGppQ0VpS05yNWlPc1J3ZEZhZzhidlBkUFNpZHNCWlRjdmpaWTBnOEVib1h0c3Q5clRqeDVKMllpRVZScUZ2U3dCeklPX3JsNDBSN21jN0I5U21MN3FKT0VSQ3VRNEZ5amJ1RHZVd2ZXWXNrU1V0NTkyYllzZ3ZUV2JSRWxScmdQR2Jlc2M?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-09T04:47:34.492833Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
@@ -591,6 +752,29 @@
         "Kebebasan Berekspresi & Berpendapat"
       ],
       "collectedAt": "2026-09-08T21:12:48.894743Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "cb53da22db95653469148ad6",
+      "publishedAt": "2026-09-08T00:10:44Z",
+      "title": "Wakil Wali Kota Bogor Ngamuk Pergoki Warga Kencing Sembarangan di Alun-Alun - Delik Jabar",
+      "source": "Delik Jabar",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPQlNRV2NIVTFoTmVXVnhNZElQMzdVbnZpYVl2YThBV1ZYblJhNWZheWtHbW56SGtiWnFRTXBnTWVNbjQyTnNwMVFYQjlsdjBURlBYLWoxNXhFMDZpN0lOd3NRTWxmMWc1YmJwak4waU1ScThzd2RhQWhfaUpoS0szUExOemQ1ZF9kWmp3LUQyWll3ZmNzWFhfakRGZzI5clZtMVVicFAyVUZINWNlYk0zcVF3YmR3TkVRdkZ0YkdoNkNJaklv0gHKAUFVX3lxTE51Q1JKM3dMUlRVa2pzYl9PV0M4bUJnXzUzcmxtdDZ4b0ZJLW9WQWl1SXhzZXFiQ2E5RjVXUnFjVFlnQmpKbnBja1htVXJ2SVo5ckJnOGNobmd2b3Y3MG1ZRjRtWVk5N3NXalkydmNRVTNabDV3b3p0TUxDZks5Qzd4WGhabU5UcEFHT2x6c0xXbDItRzZyODZPOWJQZEpxam9vaHBNd3F4NFlDeG00U1ZTS2hyZGVpQy1TU0I3T2JEWmNyWV9PcHJydFE?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-09T04:47:34.492833Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
