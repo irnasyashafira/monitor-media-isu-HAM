@@ -1,15 +1,15 @@
 {
   "meta": {
-    "generatedAt": "2026-09-09T20:58:20.234515Z",
-    "lastRunAt": "2026-09-09T20:58:20.234515Z",
+    "generatedAt": "2026-09-10T04:48:44.015107Z",
+    "lastRunAt": "2026-09-10T04:48:44.015107Z",
     "startDate": "2026-01-01",
     "refreshHours": 6,
     "mode": "incremental",
     "feedsOk": 16,
     "feedsFailed": 0,
-    "totalStored": 1060,
-    "totalPublished": 1060,
-    "newArticles": 8,
+    "totalStored": 1064,
+    "totalPublished": 1064,
+    "newArticles": 4,
     "warning": ""
   },
   "clusters": [
@@ -135,6 +135,52 @@
     }
   ],
   "articles": [
+    {
+      "id": "200f75e0ea003cd280288530",
+      "publishedAt": "2026-09-10T03:51:09Z",
+      "title": "Akun TikTok Abah 80 Dinilai Mendiskreditkan Wartawan dan LSM, JAMBAKK Banten Dorong Polisi Tindak Lanjuti Laporan",
+      "source": "detiksatu.com",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5Cc3BUQTAzUlo5U1lyOHdYTG5GRFg3VXZ3RjF3cHJNemhUMnd1MG1Yb1F3eklsQ00tekctTTg4NFJaaGJ2QnRzX3BHa2NfT0hGUERib2EtTHN5ZnNlQmQxdWVaSzNwYmxYSDctVlhlcFE3eW9r?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-10T04:48:44.015107Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "be8c520659e4be89fcf5043f",
+      "publishedAt": "2026-09-09T15:46:42Z",
+      "title": "Film Laut Bercerita Tayang 29 Oktober 2026 Usung Kisah Sejarah dan Kehilangan",
+      "source": "Qoo Media",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNMXl0NWliRFlNS0ppY0pOX3ZsZXVtMjBzR3hjLVVnQ1h6dS1POWQtMGJkWVBjNXFRcGJ6eVVyUm5CekRTc2Exb1RpZXV4RHBQUWdqOHA5WXlZdE5mSWRzWTVYYlJXM0V6RWE4aENSVXdZUzU1QmY2NVhfRHptT0dzQTREcXBRaDg3OUHSAZIBQVVfeXFMTzBoSnVYdWRMTGdlNllEbXJSZE8zNldHTjNCN0R4eGtYbVV2RUIxRG1UYTJHdTY0WUdnOXFLVkM2d3RncDEwOW9UYTBFMG9EanVOTmVEOHFaUmQwSkNoRkFELTVMUXNqNFBSSnNhZEVNWERWZFpOVFhqLVpZajBicGI2VDBndkdHcmNYYUo2SjV1Mmc?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-10T04:48:44.015107Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
     {
       "id": "1ad9f443caf4dddb4fabd5a6",
       "publishedAt": "2026-09-09T12:30:00Z",
@@ -614,6 +660,29 @@
         "Kebebasan Berekspresi & Berpendapat"
       ],
       "collectedAt": "2026-09-09T04:47:34.492833Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "6ab19572007d6ddadad5021d",
+      "publishedAt": "2026-09-08T11:01:00Z",
+      "title": "Ruang Sipil Indonesia Menyempit, Aktivis Soroti Pola Represi dari Jalanan ke Ruang Digital",
+      "source": "malangtimes.com",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOMjZTYWlpQ09uN2tYOTlwVDVMVDNqd0g0TDREdTVmVzJMT0lZZl9YSGVsc0h1NHVKQWV0ZTRQUmZmbl9Pald4b0Vpc0h3NHVVeHdaZjViM3JwNElrYXpqeHQ1eTIweTZ4Q1RUQWZXVng3c2ZET3RIbE9hRDBKSVM1NmZhaGhDWnZELUZBVGVYLWpYcnI2eFltMTN4QWpLbU1aOUpjYVNtMWUzYk5QaGdVREl5UGZsckM0QzdIQVJXZU1qaklYc2ZVZHZDRmplaERTaG5CU3V1elRTYmpOaktSNWlWQdIB6AFBVV95cUxONVBsbU1qVUZiOGVjNzQ0UGoxVzhQYkVWSVdGOV9icmRZMWlra3BmWElsQWREaE9aM0JpOGdpUU5iaUdrQmMzUm01XzlTRFEtTlhsWnZfOEdkNVhMeTk4dndOSTc5WmdwMFRGRVNTamxmem5xWS1ENE1rcWs0OGJQSVRFSXc3SnJoeFJsa0RHMGlDc1lNamZDOVFHVlNzTGVHeHA1bVpkQm53SzRrREZub2dRSWVGTFcwZ3A3dHB4bWRHYU9EcFVJX0hTQ0ZvWVZsZS1Bd1dvZS14WVljdXcxbWxuYVZLdVVy?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-10T04:48:44.015107Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
@@ -15866,6 +15935,29 @@
         "Kebebasan Beragama / Berkeyakinan (KBB)"
       ],
       "collectedAt": "2026-09-06T20:27:20.782900Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "faef9fd47aa865495907849f",
+      "publishedAt": "2026-08-11T07:00:00Z",
+      "title": "Advokat Muslim Juga Adukan Penistaan Agama di The Sounds Project ke Bareskrim",
+      "source": "Kumparan.com",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOQ18wNUpHOHhhMEJTUUc0blFvX1pGRDhCbFhGN3ZXX2g0Y3F3U0tVRkhsckRZYTZXTWtSSkR3ZUxRY2J5N1JPdTlJQkpQUnp2aWNuWnEtbkJZU2tHTHNZZWZTZ0NQSk9CNnI5U1VUT1FXODZocGUyX3NfRktKY1c4SFlJVlBMSzd6WWVJVVQ0ckhwbG9VNkdxcURqVXhReDdTRFlRZThZSmhsQ09ncl9DaW45ZGNyUHFQd18yZXFjZ1U?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_beragama",
+      "subclusterIds": [
+        "kebebasan_beragama"
+      ],
+      "matchedQueries": [
+        "Kebebasan Beragama / Berkeyakinan (KBB)"
+      ],
+      "collectedAt": "2026-09-10T04:48:44.015107Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
