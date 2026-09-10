@@ -1,15 +1,15 @@
 {
   "meta": {
-    "generatedAt": "2026-09-10T11:25:08.995677Z",
-    "lastRunAt": "2026-09-10T11:25:08.995677Z",
+    "generatedAt": "2026-09-10T16:27:51.890507Z",
+    "lastRunAt": "2026-09-10T16:27:51.890507Z",
     "startDate": "2026-01-01",
     "refreshHours": 6,
     "mode": "incremental",
     "feedsOk": 16,
     "feedsFailed": 0,
-    "totalStored": 1079,
-    "totalPublished": 1079,
-    "newArticles": 15,
+    "totalStored": 1091,
+    "totalPublished": 1091,
+    "newArticles": 12,
     "warning": ""
   },
   "clusters": [
@@ -136,6 +136,167 @@
   ],
   "articles": [
     {
+      "id": "46df4d453d6d7c395cc4d917",
+      "publishedAt": "2026-09-10T16:01:10Z",
+      "title": "Menguak Sisi Gelap Elon Musk: Alasan Punya Banyak Anak demi Perang Sipil Alasan Aneh Elon Musk Punya Banyak Anak, Ternyata Ungkap Sisi Gelap",
+      "source": "supernews.co.id",
+      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQT0RDem51V1QxcE5TbFhPZTFFTWNWRkZ6d3c2MTBBZl9TQlg5WlVCR25WaXJjUVZScnpJTVRNOG8yNm5XemlmemY1bzZvMWk4Q1ZMQTlUWkNpRDBCQkN5N0hnbjlxSXpRNWVLRFVLUVZVMDQyN3lzRFF5a082TmlVekFSQ3VIajZNaHhJX0VJQ3VtX3BRZHhaS3FvOUF2VGRQM2ZEQlc2dW9sWDVSb2Nqd1UwZjdHRk96cmpBeVZXMms4YzVoNmk2aEtQSkdvVlZYNkZlRFMtTjdTMUJvRXFOcUswY01FU3FEMmtEQThDQmNfeHp2QlE?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-10T16:27:51.890507Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "3fb0996bd472f84d7fe2b27c",
+      "publishedAt": "2026-09-10T15:57:38Z",
+      "title": "Ruang Aman UNISA",
+      "source": "Kompasiana.com",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNTmd3OHNqeXRab3lRazdRQld0MzJwRUFSZWRvbzNpSEFSd3FCd0gtd0kzdjJBTE16bTR2dExYdDlVZlNWQ1F1ZTdvblBTLV9HT2tpeTVTMTJBVDl3emJVWnJfRTlaY1lobUVJYnZHT1Rtdm5YMnBteWtxdXl5eFkzTHdFaXpidTBYaGZxOFlR?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-10T16:27:51.890507Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "2dc4d8816db9790768152bb9",
+      "publishedAt": "2026-09-10T15:44:48Z",
+      "title": "Chicha “Bocor Alus Politik”: ‘Kami Diserang Karena Kami Perempuan’",
+      "source": "magdalene.co",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5pOThhS2FoeDcyZG4wbGxONmItMWxDNHl4NWVZX19sdkNvTUx5d1NUaEFxaEg3bVU2cVg2YTBCWVpwUHhERnVIaFVQVkVBc05NTVFWd0ZkNUMzN25WYzNTZTVEMmNxbGM1dzBrbjJmaDlEblNVdEg1Y1ZTZw?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "doxxing_intimidasi",
+      "subclusterIds": [
+        "doxxing_intimidasi"
+      ],
+      "matchedQueries": [
+        "Doxxing & Intimidasi"
+      ],
+      "collectedAt": "2026-09-10T16:27:51.890507Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "3a9c343fc26ae2b8f475e035",
+      "publishedAt": "2026-09-10T13:44:00Z",
+      "title": "Aksi BEM Se-Sumut di DPRD Sumut: Tuntut Kebebasan Berpendapat dan Tolak Represi",
+      "source": "Nusantaraterkini.co",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQWHdaVHN6bGtZalV5bXFJV2xPV0hQMnZkaFkzVUo0NE1WZ0tRVDJiNWxPcWJoekNObjU2eFl2Y2o4M3hOY18xajJOVjl0RThERzV4REhVWkdGNFpSNXJlY3pXZjd3NHJTSnFIemlhaEZQN1Q5eTlsb1FCWG5WVDczbTVLczByWHA4OW1ZY0pKZWlHRUJXSm10NXY4MHhnQUNQcGVMdjJoUER2QQ?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-10T16:27:51.890507Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "924ea73c7381c52a4d9bc0be",
+      "publishedAt": "2026-09-10T12:34:59Z",
+      "title": "KPU NTB Kenalkan Pemilu Lewat Ko-Kurikuler Pendidikan Demokrasi di Smansa Mataram",
+      "source": "SUARANTB.com",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNT2d1bnRwYUJJMW1JT2hwbGpQTERyVmlKSU51Tnl2azQ3cnVPSnVRXzhsMXhJRjhORklQNUcxYVhZZ0ZjQ0ZlWnQzOEpoLXpYOEs5QTNwWFlMMUFDSGFjREc1YkNVd0ZFOHZjM21ta0NCZWhSZEZiY3RoT0t5eHNLaC11eUhYMnFZbXo3U3FuU3p0Tk0taGhMWGo1R3dBRFpoR014My1XLUNPbDJ3Q1B3Sjd6dUQ?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-10T16:27:51.890507Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "c6744f78818921984f1e697c",
+      "publishedAt": "2026-09-10T12:20:00Z",
+      "title": "Aksi September Hitam di DPRD Sumut, BEM Se-Sumatera Soroti Kebebasan Berpendapat",
+      "source": "Nusantaraterkini.co",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNekl1cV9sLWtMMzJVZy0wNTBsR2MxalQ4X29YYVFEY1Rwdm5XbmV2WVVfb2paU3l6bmlka29hYUpaM3BtdGdTem5BY3dYX1o3TWlBVkd5cXJXTURqZWE3bGlLZ01SN0FqRFpIa1prWVlhbFR4RnZjTWpLRDNZM3JVMHlXSy1fQUVPQzZRamRxNU9tYXZZUUZKNTR3eTNjUDI4SUxvTnE3Q0wwNDQ?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-10T16:27:51.890507Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "fc0b0a1f6e09e2d2f1179a70",
+      "publishedAt": "2026-09-10T11:32:00Z",
+      "title": "Massa BEM SI Unjuk Rasa Bakar Ban di DPRD SU, Usung Slogan “September Hitam\"",
+      "source": "harianSIB.com",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQYUVpWUs1NlJMUHRrWXE0Rm54QVROQTl6VGduRUh3bVdBVjlMRHBVT3lta0k4VkdfZmtLUVA3eTI3cDZ0QjFFaGFaOTdnWEJDdWZqX2JVc2x0SlF0ZzRsdkVzakFwaG5aQzhXZ3ZXZVdEenVsVk9uRGFNNEZZQm5ZbC1scWVYNGRlbG1wX29fMUdZemMtYV9nMERyR1Zpd2Q3bVhDemYtSDZaYk1iQW8wRmZaeVcwU0ZvLTNsLTdjLU9oaUdJamhaTnRqWF9Ed9IBzgFBVV95cUxQR2lwS2I3ZUh3aktrWlk2a2pPTzl0Z0VWeGJudG42OFFwQktZUUFnbmFNUmhEbjNOUmhrZ1pZRjFOb0o1clBoVl9xRUdwT3ZXRHZQNGZzZkh0RmV1NGl3Ty01dzNIM2NTMjhZY05ycnk5RDNxRGx5OTVsb1FDRktFZll5TnZ4U2RyRmk2WGFNMGw5a2I4dHk0aENOdzJtVjhtUjFNVkM4YnY1ZUNFUU11OXRUU1BDWkhsQVR1b2FxZW5xTUtNSVAxYS1IaENxdw?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-10T16:27:51.890507Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
       "id": "96c3a4411655cc18e1cb77d1",
       "publishedAt": "2026-09-10T11:00:47Z",
       "title": "Sinopsis Laut Bercerita, Laut Cerita Soal Pembungkaman",
@@ -154,6 +315,29 @@
         "Kebebasan Berekspresi & Berpendapat"
       ],
       "collectedAt": "2026-09-10T11:25:08.995677Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "6b0adaa4b413ea869445249b",
+      "publishedAt": "2026-09-10T10:16:25Z",
+      "title": "Pengiriman warga yang ditangkap pasca-demo 27 Agustus ke barak militer melanggar HAM",
+      "source": "Amnesty Indonesia",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPb3VmRmtVeF9jV0Y2SlkzNzlBNzQ2bWMyNXhqeENsZXpnWG9IeWE1ME5IWnpXWG5VWkplZzd1Mk5vbDhsU1lNOVdDUUl0M2NXeGpKS2xMb1VBbVVtWUxlMElicWhmSWZ0dE01SEhESTNZYzFzMHFXWmM0MWJGYXBsZ0YtOTk0RkxJREczczFHNDBvUWZvLXZ2cmZhSTI4WTRxRzM4di1KSzM0dkJjaXV5X2hWbzk5RXQzMTRweEwyVXhiRm1UQTZPNEw2bDVoM0w5ZXVKMklpeHlDdw?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-10T16:27:51.890507Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
@@ -343,6 +527,29 @@
       "reviewNote": ""
     },
     {
+      "id": "0c204fa4f10cfc1f2481b988",
+      "publishedAt": "2026-09-10T07:07:36Z",
+      "title": "Wali Kota Robby: Humor Bisa Jadi Perekat Keberagaman",
+      "source": "radarsemarang.jawapos.com",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQMndqYmNoT3NzOG1mMGVVOWprYnlBWGZrQ2xCZjRoU19IdlJCU1pya09HMEpkVUJTTXp2WlE1MUlGejBtd0s4ZzJ4OWtReXpOREl5bTN0SElHdXFrbHozaXpMcXNWaTlJRVZvNkw0aWV3eUt3c2M4SjZQYWkxdVNFbm8xdDN4dEV6RUZsVjJWbmlIZEpfY3FBbGJCQmdzMDBtU3ZMSi0wZkzSAa4BQVVfeXFMT0dJdUxtNk9xMTFVMmk1aVVWLWVJYV9feGl0RmlwTVVsY0ZNLTZBV2VteW5oN3ZaYmxjT3JsQ1FjVVd3dGM4RnVzSWI4M0dGUU1hdXpCTHZncl92OWVxUV9IRUJwemNSSmQ1dXJ3S3hJcjVUazZWbkVFWjktU1YzRmFndmlnT0hfMGFadmgzME9TaGJoeEV3dDEzelk4cURBTmV2M0JudUdIM1FNdWd3?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-10T16:27:51.890507Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
       "id": "8a40ccacfff2d3c5268320b1",
       "publishedAt": "2026-09-10T05:51:00Z",
       "title": "Film Laut Bercerita Rilis Poster Perdana, Angkat Kisah Perjuangan Mahasiswa Era 1990-an - inforadar.disway.id",
@@ -407,6 +614,29 @@
         "Kebebasan Berekspresi & Berpendapat"
       ],
       "collectedAt": "2026-09-10T04:48:44.015107Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "dd68b8021106c9a9fb244b16",
+      "publishedAt": "2026-09-09T15:46:42Z",
+      "title": "Film Laut Bercerita Tayang 29 Oktober 2026 Usung Kisah Sejarah dan Kehilangan",
+      "source": "gadget.qoo10.co.id",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNMXl0NWliRFlNS0ppY0pOX3ZsZXVtMjBzR3hjLVVnQ1h6dS1POWQtMGJkWVBjNXFRcGJ6eVVyUm5CekRTc2Exb1RpZXV4RHBQUWdqOHA5WXlZdE5mSWRzWTVYYlJXM0V6RWE4aENSVXdZUzU1QmY2NVhfRHptT0dzQTREcXBRaDg3OUHSAZIBQVVfeXFMTzBoSnVYdWRMTGdlNllEbXJSZE8zNldHTjNCN0R4eGtYbVV2RUIxRG1UYTJHdTY0WUdnOXFLVkM2d3RncDEwOW9UYTBFMG9EanVOTmVEOHFaUmQwSkNoRkFELTVMUXNqNFBSSnNhZEVNWERWZFpOVFhqLVpZajBicGI2VDBndkdHcmNYYUo2SjV1Mmc?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-10T16:27:51.890507Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
@@ -729,6 +959,29 @@
         "Sensor Konten"
       ],
       "collectedAt": "2026-09-10T11:25:08.995677Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "94d114c842a201ff0b437d9f",
+      "publishedAt": "2026-09-08T20:16:44Z",
+      "title": "Ini Cara Bandar Judi Online Hindari Blokir dan Samarkan Aliran Dana Hasil Kejahatan",
+      "source": "KoranKota",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQQTZlUnNOT3k2TXlTaFFfcXI1WGpNY1hBZHR3U3NjbVl0aU40M0lOcWZWQzBlMktHb2c2MFJvT1RPWnBVTTNGTVNmbEx6bk9Kcnc0dHpwdVFjVF83REJLUTZzb2hCVXBEYm95c2dMcnJJcGF1RWd1Y2ZuVUJHaGdyOWM4RV9MdFVUb0I2X3U4blBPWDVBRTVsUjMxSWdUVlFNWFRVNUk3c2w5OU15c0tOMjhvVk1MdE5LZjVyTFRKbUlLcUE?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "sensor_konten",
+      "subclusterIds": [
+        "sensor_konten"
+      ],
+      "matchedQueries": [
+        "Sensor Konten"
+      ],
+      "collectedAt": "2026-09-10T16:27:51.890507Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
@@ -23486,6 +23739,29 @@
         "Kebebasan Beragama / Berkeyakinan (KBB)"
       ],
       "collectedAt": "2026-09-07T12:40:02.870233Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "4ecfcc07ed171f77ed4c54ff",
+      "publishedAt": "2026-04-09T07:00:00Z",
+      "title": "Mediasi dengan Pelapor Dugaan Penistaan Agama, Ini Harapan Pandji Pragiwaksono",
+      "source": "hot.detik.com",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNS01FU3Bjbnpfb1BmYkZxTVhHMjFfVjk5R0hvcmphTWJVeFl1LUpkdnpHdjdqcVpmaEJrbjkyOU94VUVvSjlsdXBFalc1N2FKeWY3SFNEeU40MkxYb3puMF94MTNaZWE5NXFSdkxBRHEwanNQZUxVdTVTODNWSTJraVBpZUpfcFBpNXRZcTFUS25MYl9NMmU4Y0hSUVZ2SmtwSjQxaDVPMER3T2hpbGxjVGV1RTdiUdIBuwFBVV95cUxOSldvRTFXYTBRaEExQXhsTXVOc2N4VGRIdEc5eFRRTE84ckJFYllQRzV0bUNGMUd6UDNEMUJZN08yczRqWURWOFFrakdtbERibFlJZFNkOC1GVE1KZDJjMFJRTEZVSnlOZkhDbWFRY3JfSEhuMkJCSmEyOXRfOVIta3c2bjY1Y2lwbU1DZ1N4OFh2ZjdockQ4d1RfbHZyaG56SUNkMS14S21yY3N5MDFWanlQUkxrVHFfYWMw?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_beragama",
+      "subclusterIds": [
+        "kebebasan_beragama"
+      ],
+      "matchedQueries": [
+        "Kebebasan Beragama / Berkeyakinan (KBB)"
+      ],
+      "collectedAt": "2026-09-10T16:27:51.890507Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
