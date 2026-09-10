@@ -1,15 +1,15 @@
 {
   "meta": {
-    "generatedAt": "2026-09-10T16:27:51.890507Z",
-    "lastRunAt": "2026-09-10T16:27:51.890507Z",
+    "generatedAt": "2026-09-10T20:55:02.025810Z",
+    "lastRunAt": "2026-09-10T20:55:02.025810Z",
     "startDate": "2026-01-01",
     "refreshHours": 6,
     "mode": "incremental",
     "feedsOk": 16,
     "feedsFailed": 0,
-    "totalStored": 1091,
-    "totalPublished": 1091,
-    "newArticles": 12,
+    "totalStored": 1097,
+    "totalPublished": 1097,
+    "newArticles": 6,
     "warning": ""
   },
   "clusters": [
@@ -1148,6 +1148,29 @@
       "reviewNote": ""
     },
     {
+      "id": "346bc6973021da0d877f042e",
+      "publishedAt": "2026-09-08T12:37:51Z",
+      "title": "Foto : Pelajar SMP Meninggal Usai Jadi Korban Penganiayaan Warga Saat Bubarkan Balap Liar di Purwokerto Halaman 1",
+      "source": "regional.kompas.com",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPSnVzeDdrMnZKQ2Z0U1JTSE9ZTmxEVjBTVnJzeU51UmRkUy15a2ExQW1ST2pwZi15WWZZd0QtLV9fbVZPQ2xBaWFVU2FnbFp5d0lHZWtMcVVjdUdLdkh3THVkTUlLbGlub1FNYXk5MHlYdGtCMW1xQ25Zdlk2a3FYXzZfMERBNnZpY2JCZUw3Y2JCS1JGZ2pRNTNPZ3EyNDE3cWVKdHNjTVdBMkVrdnByZFdwSzl1b0Y0OTUtS0Vrd2dqdFZwOU9GVDFqd3FHdw?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_berkumpul",
+      "subclusterIds": [
+        "kebebasan_berkumpul"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berkumpul / Berserikat"
+      ],
+      "collectedAt": "2026-09-10T20:55:02.025810Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
       "id": "e4c4408cceda9b7dfafae41d",
       "publishedAt": "2026-09-08T11:25:00Z",
       "title": "Presiden Marah Besar, Blak-Blakan Tunjuk Rezim Otoriter",
@@ -1355,6 +1378,29 @@
       "reviewNote": ""
     },
     {
+      "id": "6f3473c60f22a7b6a92ff32e",
+      "publishedAt": "2026-09-08T09:26:43Z",
+      "title": "Foto : Kronologi Pelajar SMP Meninggal Usai Diduga Dipukul Warga saat Pembubaran Balap Liar di Purwokerto Halaman 1",
+      "source": "regional.kompas.com",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNUkFuR3pjdk85NDNnMFJXSGlFV3RpMC1Ed2JwaEM5V3MyM2lJY2xKdmxBbU5fMkpRdk5GMTdqMzJaQ1VHY2ZNVkp1a3V0U0VKWTZocEVXVXNlTzFuUGZoUl9OVC11MGdlM1FXSmpQTFpCdzNyZHdBV0ExY1BOWi02OXA5aXd1MXM5elJjdHk2ZDNlSy16bFpCRk9RT1kwZTFiWGFIMHg2MGM1YlVnWXVJc2doZ3NsS2RmVmxMOHFrbW95SXVMS0prQklzZXR5V0JO?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_berkumpul",
+      "subclusterIds": [
+        "kebebasan_berkumpul"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berkumpul / Berserikat"
+      ],
+      "collectedAt": "2026-09-10T20:55:02.025810Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
       "id": "6d1d486ad0913f9f15315af3",
       "publishedAt": "2026-09-08T07:26:07Z",
       "title": "Membangun Ruang Aman Digital: Mencegah KBGO dan Aksi Nyata Pemuda Jogja",
@@ -1447,6 +1493,29 @@
       "reviewNote": ""
     },
     {
+      "id": "94b5ab299cdf647bd82f0047",
+      "publishedAt": "2026-09-08T05:41:00Z",
+      "title": "Pelajar SMP Meninggal Usai Jadi Korban Penganiayaan Warga Saat Bubarkan Balap Liar di Purwokerto",
+      "source": "regional.kompas.com",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQcFhMdk9ERzdDOGpPc05CQzBfdGE5UGlmT012TEY2VWhsd0wtY0NEdWRmYURIR2s4MGVvT3hpcVFjTmFwVkhZUGpiUGh4VTh6cFBfb3JjUUFfclJHLTN0R002QXVPNjVEM0NYdTU0LWktMVdTM2VpcjFOTl82cUhrejR2VC00aG1oeF92WDd4c0NvbVQ4NE5jb0xhYlpacjFWbHhudXdDVm9leUpoQlpTNFctNng2MXNGTFhrVzFuU3RxQjg?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_berkumpul",
+      "subclusterIds": [
+        "kebebasan_berkumpul"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berkumpul / Berserikat"
+      ],
+      "collectedAt": "2026-09-10T20:55:02.025810Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
       "id": "e3f734685eee02fc2f607193",
       "publishedAt": "2026-09-08T05:37:18Z",
       "title": "ASAL BICARA: Karikatur Kebebasan Berpendapat Halaman all",
@@ -1511,6 +1580,29 @@
         "Kebebasan Berekspresi & Berpendapat"
       ],
       "collectedAt": "2026-09-08T16:41:05.941643Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "5eb88357ffd8a9d64c5a92cb",
+      "publishedAt": "2026-09-08T04:56:24Z",
+      "title": "Kajari Purwakarta Gandeng PWI, Perkuat Sinergi Hukum dan Insan Pers - Delik Jabar",
+      "source": "Delik Jabar",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQTVRxbEVBZFltQ0ZhdkhBMm9FeWpkcXlBTkJvMTVSVUJwY05CanlKYk5QQUNzQi11U25ObjZHeXN1TmwyeW45b0ZXWkRLazVrVnNlM2Rmc3Z3OHNrQUVsNVVDRTBUeXM3VVlGNW5jbDZPbFJINmpCakY0S1Fqby1fOFdoMUtacDJta2ZBMFBCcFUxZjhzZUtMbXVYY25kRDBXTWg3Tk4weFRyWDFEOHZRZ2RKR1NXYkww0gG-AUFVX3lxTFA0eUhyeVJ1a3dtMUhWUW5vQXFQekkzOEt4cklncXVfS3VyVWtWSE9PS1FUTzk2WXl2aEdhQl9wc0kxQ1FFc055blV5RTd4QkR5Mk5OYmljNndSaUcwcjZXZXRxUjRBdUdzaUV5eENtWjdlbXZldnEtQ2lDYUdpaHNndGQ0eXFxdkFfZjNOc0NfX0F5RDBJMVJfS3BMR0ZsWjNKY0xpR29jaXJGMHAycTRQbzNjek1RREhVd05LWUE?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-10T20:55:02.025810Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
@@ -19689,6 +19781,29 @@
       "reviewNote": ""
     },
     {
+      "id": "68fe7a7eee2219508235dde6",
+      "publishedAt": "2026-06-20T07:00:00Z",
+      "title": "SKB 2 Menteri Bikin MBR Makin Mudah Beli Rumah, Pengembang Tancap Gas",
+      "source": "detik.com",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNb2dBbGpOdFoyMXBYeGxBbFc4T092eHZid3NhbWZ4LVhLWE9uRXpSWjA0Ulh6M3JQRU0yUjlDWGVMOHFxMkVYOHE2UXlLZUJKQ1UtUTZzYmY3c21ER0tHMlk4TEZ6QXI4eHRyYldyZjZOSVVVakxBQUdTam5yZXdsSDJvUkNKeXQtcmpyRzJxQ0NmdHVKU1BnOXZFME55Y21Hc1VRaVZabU1vdTJVdjRyVXN4bWFZeDjSAbwBQVVfeXFMTzZYSjRfckZTTGFXUUx4VzBqcjRwai0ySm1mcy15Q2tmSlVsenJrWDU3ZFdMUkpfLUxGNHM4d1NDQWNEa05fZFBLTm52SXd1aEFJTlFLampGcmZGM29kUXFFQV9rLTRVRHZsNlhHQjN1Ukl1dmlubjdNNVdveUpVN3NiX1o3T3N6TnFSOVhFSURIS0FyUW81NkZ5eVRXTTRjQzZNc2s5OGNhWjRKcndjbnoteWYtRnRwWndHTTE?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_beragama",
+      "subclusterIds": [
+        "kebebasan_beragama"
+      ],
+      "matchedQueries": [
+        "Kebebasan Beragama / Berkeyakinan (KBB)"
+      ],
+      "collectedAt": "2026-09-10T20:55:02.025810Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
       "id": "4e40b402fd8a505ad0d757f1",
       "publishedAt": "2026-06-18T07:00:00Z",
       "title": "Takedown Konten Jadi Bayang-Bayang Demokrasi Digital, Komdigi Klaim Tak Bungkam Kritik",
@@ -22543,6 +22658,29 @@
         "Kebebasan Beragama / Berkeyakinan (KBB)"
       ],
       "collectedAt": "2026-09-02T21:06:11.545672Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "378e0a5e1b5f31c72ef32e16",
+      "publishedAt": "2026-04-30T07:00:00Z",
+      "title": "JK Bertemu Tokoh Ormas Islam, Bahas Kasus Dugaan Penistaan Agama",
+      "source": "detik.com",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNMVdtaFdTZEFzc3ZKYmZQbHVaUURrOTEwTXZlVzQzdWZZeUxWZU9vSmt6eVZjR1hUWm5DU0R0OFJiU2stR0piQURyNnBzQmJtd2lBSDdMSTV6TGJYWi1rRTd3R01LN2Q3RW1vcEh5czlscHd1ZnhlOEVwRjBMLUVsS2pKZXl1US1YR2FJZXZZakttMkJOSGc3QmF0UjVuRmo0aHRILV8xZ29ENG43aGpMNQ?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_beragama",
+      "subclusterIds": [
+        "kebebasan_beragama"
+      ],
+      "matchedQueries": [
+        "Kebebasan Beragama / Berkeyakinan (KBB)"
+      ],
+      "collectedAt": "2026-09-10T20:55:02.025810Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
