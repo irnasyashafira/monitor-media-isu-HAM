@@ -1,15 +1,15 @@
 {
   "meta": {
-    "generatedAt": "2026-09-11T16:32:07.667019Z",
-    "lastRunAt": "2026-09-11T16:32:07.667019Z",
+    "generatedAt": "2026-09-11T21:00:27.813829Z",
+    "lastRunAt": "2026-09-11T21:00:27.813829Z",
     "startDate": "2026-01-01",
     "refreshHours": 6,
     "mode": "incremental",
     "feedsOk": 16,
     "feedsFailed": 0,
-    "totalStored": 1131,
-    "totalPublished": 1131,
-    "newArticles": 7,
+    "totalStored": 1135,
+    "totalPublished": 1135,
+    "newArticles": 4,
     "warning": ""
   },
   "clusters": [
@@ -135,6 +135,29 @@
     }
   ],
   "articles": [
+    {
+      "id": "50fa5e09438a55660b684ce9",
+      "publishedAt": "2026-09-11T18:40:54Z",
+      "title": "Aplikasi AI meningkatkan efisiensi peternakan.",
+      "source": "Vietnam.vn",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9md0VvSjFuLVVPc2lmLUVYVkNaclQzLTJFUU50RHFkcHZhWEp5TXl5dDd1cS1xNktCUmZtVHhtbjI2aWNlRkxtc284ZWdaWGx4Q05QNHdLYlNveWdZRlk2ckF1c2FRYkVqTjRSUHN3?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "sensor_konten",
+      "subclusterIds": [
+        "sensor_konten"
+      ],
+      "matchedQueries": [
+        "Sensor Konten"
+      ],
+      "collectedAt": "2026-09-11T21:00:27.813829Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
     {
       "id": "12fa598eff3effe83802dd96",
       "publishedAt": "2026-09-11T14:26:03Z",
@@ -269,6 +292,29 @@
         "Kebebasan Berekspresi & Berpendapat"
       ],
       "collectedAt": "2026-09-11T11:27:04.960943Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "2317ec7530e21fc331ff6503",
+      "publishedAt": "2026-09-11T08:35:00Z",
+      "title": "Sinopsis Laut Bercerita, Kisah Mahasiswa Hilang dan Luka Keluarga yang Tak Pernah Selesai - Hallo Lifestyle",
+      "source": "lifestyle.hallo.id",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPVEZzSkVVckF3RUhCLVNwTGthUmxOSmxGY3hVY1cyS2xWMHZtMTR0WDJZUmJvSUNHV3p2OHpLOEYwbmJ2V1p3RUU4aDNmdXE2THNwUmRyalB1Yk9EdThodVBfeHBQREttcE1ETkdEWFY5OUpWc2g5WmxtbVR4eDFOWS1Odm5NaktiVU1Pc2h2bFVnNzhEcGFJMGlCa202Ym1zNUlTUFJINXlDZVVEUDAzc2JVNVMwMGdCdVRTRm05SWEyVC15MFRsQmV0U2dWUTlSVkHSAdIBQVVfeXFMT1RGc0pFVXJBd0VIQi1TcExrYVJsTkpsRmN4VWNXMktsVjB2bTE0dFgyWVJib0lDR1d6djh6SzhGMG5idldad0VFOGgzZnVxNkxzcFJkcmpQdWJPRHU4aHVQX3hwUERLbXBNRE5HRFhWOTlKVnNoOVpsbW1UeHgxTlktTnZuTWpLYlVNT3NodmxVZzc4RHBhSTBpQmttNmJtczVJU1BSSDV5Q2VVRFAwM3NiVTVTMDBnQnVUU0ZtOUlhMlQteTBUbEJldFNnVlE5UlZB?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-11T21:00:27.813829Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
@@ -966,6 +1012,29 @@
       "reviewNote": ""
     },
     {
+      "id": "8b6424b7f5d04d6aca64e07e",
+      "publishedAt": "2026-09-10T09:15:00Z",
+      "title": "Oknum Polisi Diduga Tenggelam Saat Kawal Angkutan Sawit di Sungai Badak",
+      "source": "heloindonesia.com",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPOU1Wdm0zcEpzYUZaNkhyUDl5T09LOWdkY3RrbDJEQTQtTUNYNmJFOFpUbUlGenZ4SDZpbUtpMXpUaUxyaVlqSEpTNUdPYUYwRXRoU1JNUTZTT3RxT0o3Rkk2UnJMX3oycWdXejdVbnZyQlhaaTRyODBibFVfbmFNaTg4eGFibFFpX19kcGhMN0dTVkNaVGlnejFFcl9VbGZNWWZIbHZaZC1xdWEwVEI3UmlsekRlaVBJdVlTVml0cw?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-11T21:00:27.813829Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
       "id": "f292a154a04b452dc7778289",
       "publishedAt": "2026-09-10T09:04:00Z",
       "title": "Sekolah Harusnya Jadi Teladan, PWI Jateng Sesalkan Aksi Pembungkaman Pers di Rembang",
@@ -1375,6 +1444,29 @@
         "Kebebasan Berekspresi & Berpendapat"
       ],
       "collectedAt": "2026-09-09T11:28:41.471029Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "81281d9c0891bbcef36e299f",
+      "publishedAt": "2026-09-09T08:09:49Z",
+      "title": "Kami Tidak Lagi Percaya: RUU Penyiaran Hanya Menguatkan Negara dan Melemahkan Warga",
+      "source": "remotivi.or.id",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5oWVp6RTNqYV9UWk92OWZhT1lkT2RHOVBQLVQxVnpLRmhVRnZIV3lFcmxwaTE3ZDNnb2ZBc2twLXJsWFNtb3hGcXpmTFVyOXhpU1RGZktSd0RQX0UwZEZRZ0pn?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-11T21:00:27.813829Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
