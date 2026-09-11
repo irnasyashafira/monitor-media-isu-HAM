@@ -1,15 +1,15 @@
 {
   "meta": {
-    "generatedAt": "2026-09-10T20:55:02.025810Z",
-    "lastRunAt": "2026-09-10T20:55:02.025810Z",
+    "generatedAt": "2026-09-11T04:45:46.615104Z",
+    "lastRunAt": "2026-09-11T04:45:46.615104Z",
     "startDate": "2026-01-01",
     "refreshHours": 6,
     "mode": "incremental",
     "feedsOk": 16,
     "feedsFailed": 0,
-    "totalStored": 1097,
-    "totalPublished": 1097,
-    "newArticles": 6,
+    "totalStored": 1110,
+    "totalPublished": 1110,
+    "newArticles": 13,
     "warning": ""
   },
   "clusters": [
@@ -135,6 +135,167 @@
     }
   ],
   "articles": [
+    {
+      "id": "83a70155a5d6a9544e745479",
+      "publishedAt": "2026-09-11T03:38:58Z",
+      "title": "Tiga Aktivis Hong Kong Dipenjara: Bagaimana Peringatan Tiananmen Menjadi Titik Balik Kebebasan Berpendapat",
+      "source": "Universitas Teknokrat Indonesia",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQVHd6dmJLTk1aMVJVZXBEZ0ZvZ1cwVm9nYTd0V1YwRDRmMW1ra2hERmRRQ0hHSkttMzJQZXRCYnN4RWZUMXB6dFNBNjUzYmRZZXEzQjZrd1ZkYnN0ck50WW1IWEdUWlZtRGxtT1E0cjdWU0tmc3RpcDVSS0RDV1ZRSi1oS3hCRDdfb3o5cHBiRmpuZk5KTmhDUjlGOXRfM2xpUEZheXRvOFdBTTJnZmJYdGd1SHAxb1pZb01oc0E5T2dyUUcwYmNfa29aeVh6dTZpUkVoNlhnMA?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-11T04:45:46.615104Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "24b6b30e102c97087f2b2531",
+      "publishedAt": "2026-09-11T02:43:39Z",
+      "title": "LSM LIDIK Dalami Dugaan Pembungkaman Pers dalam Kasus Wabup Sumedang",
+      "source": "bandungraya.net",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPOFVrR1lyalg5Y3hTaC1hSmhHeFZhZklCdXpMYkZfeC1KMmk4NXdOdUFyWnppcmVfWVJBN1VqN1NsOVVWVGY1TUE0MXc5cFQ0MlFKN20tX0FXUXBIb3ZwbDdWUy1rWS1fa1VobXZyamZaa1g4ZnBieDZyV3QzU3Z3bFJhWEQ5bnhQOGxHaU5JdXJmQi1aSXM1M3BiY3RWclVHVUE?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-11T04:45:46.615104Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "a9850df4166927dd86e23fa2",
+      "publishedAt": "2026-09-11T02:00:00Z",
+      "title": "Represi pada Mereka yang Kritis Makin Intensif",
+      "source": "Tempo.co",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPczZINVdsNzFKaEVXR052dkcwZWZpTG95QnpRb2ZZUm9RcHo4Y0FSNV91T0JJcTVMX3o5NkFSREtKOUZrYm05SWFkUDgwZ2tOU1BmdG1OWFc3WGJYZHViamkzbkNTaU56dDlpeUhYeEwyNnNJb0YyVDRPYzZmR01WLXlVZjVtYTBPYzVV?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-11T04:45:46.615104Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "87ffe972c572664405502221",
+      "publishedAt": "2026-09-11T02:00:00Z",
+      "title": "Intimidasi ke Akademikus Jalan Terus",
+      "source": "Tempo.co",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBhd24tdG93elg5UGl6QU9zUUdRT3NDQ3lSY29mR1VxT3pFLTBoOXFFUjZHa2VENUJscnpuZUxIb2sydjFLLThORTZrY21WTHItNjNYUXNBUHE4UGxXaUtwM0dKdjJXbWFLeDJaUHR6LTI3b3ZaTFJPS0lzV09oQQ?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-11T04:45:46.615104Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "fcd1be3fac98285785096032",
+      "publishedAt": "2026-09-11T01:20:09Z",
+      "title": "Edukasi Hukum Digital: Membangun Kesadaran Masyarakat di Ruang Digital",
+      "source": "Kompasiana.com",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQREQxbVY1bG9qMjlJY241dTFiV0xhSG9rZ3RjV0tDblJLNS13WXFEcGNOMWt6TWNJTGpIWXQ4aE1RYmM3bGdTYkdNb2Z0dG5KOG1vVnFHZ1FLODZXQy1FTXI0NnZnZzdkRVU2RjhZQWh3VnJEdG8wMDdZZ2Rpc0V4eUhUdmZnYmRvZzF6OXNQS29QemI2dFN6UWRFRldzUmxDV3pSTzlDREpzMTcyNEo3ZXR6MEZHUzJaU0ZxM0xXREdoV3FWd1Awb19DZXQwY3JUeDlpMXVFMlBhazAtSWtacw?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-11T04:45:46.615104Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "e27f47bb6cb10b2e9dfd090a",
+      "publishedAt": "2026-09-11T01:17:38Z",
+      "title": "Kampus di Israel Hukum Mahasiswa Palestina karena ‘Like’ Postingan",
+      "source": "ruang.id",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOM1RjRWhOY1hWVm5qWU1pZ2pzN0V5QnJ1Qi1wWFJrYXZjWWM3ZkhlbU1FX0EwemRpYkc5RnBZOXN5ZWduWWw4cEhNUkQ3alp6MmE2NHdjVENyVkgzSVREVkhjYWl4ckl0NzZwTmg2OGJLcjFTb1czYk92VzgtNFNBRlJRMzN0S0JSQ3J2ZC1fQQ?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-11T04:45:46.615104Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "114987721fa176a33e7100dc",
+      "publishedAt": "2026-09-11T00:58:50Z",
+      "title": "TaniSmart, Inovasi Siswa SMK Wikrama Bogor Bantu Petani Pantau Lahan",
+      "source": "Radar Bogor",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPV09QakNlWEFIUWhhZTR3NVo4TnBpUnlaTVRNOHZOUDJNajBDbVdzQVR0dWtfS3hiMGloVTdHanZvaXh0RXByZVpzRFRSQllqUHUwZEgzbnltdnl1a3psMnhkQXZIbWJHWmNkcXUwQzJSdWFnYnpzU3htU0VzSFI3RWZzUWJFbERWalNWM1YxWXBwWnhfRTdxUGVTVWJ0bWR2c1JCbFJFT3JHWmdrNjRJNlBPZzhUZ05iYkFqSNIBwgFBVV95cUxNdlZpV0xHV1FwOGhDQXFNN0lwZ2FXNHo3VzJFWDdVUEw5eWlJYkdPNzdTb08wOXpjSm9nTXhOdDNYZWR0R1NGREloMHFXNWctd1R6OXhiQV9vaDNrYzI3OVhRR0xNRnc1ZmE2NXdCWjdjbWtuaGVXTEt5VnlKZzFOazJXQVI4MmpBSDVJMkJhVTVpcUpGd0VkWXVXQlFQSDdyZC1SM3FET201aXdmMVdpdTR0ZEd0eTRlQXZtTjVCYU90UQ?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "sensor_konten",
+      "subclusterIds": [
+        "sensor_konten"
+      ],
+      "matchedQueries": [
+        "Sensor Konten"
+      ],
+      "collectedAt": "2026-09-11T04:45:46.615104Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
     {
       "id": "46df4d453d6d7c395cc4d917",
       "publishedAt": "2026-09-10T16:01:10Z",
@@ -1217,6 +1378,29 @@
       "reviewNote": ""
     },
     {
+      "id": "a5b2c441586f0e68b9e41ac2",
+      "publishedAt": "2026-09-08T11:24:57Z",
+      "title": "Unjuk Rasa di Gedung DPRD Purwakarta Memanas: Mahasiswa Tuntut Transparansi Anggaran dan Ultimatum Dewan 2x24 Jam - Delik Jabar",
+      "source": "delikjabar.com",
+      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOcGdZY0VMUlI2elRSS2lpSHdQMm9URnJJd2hobHN4eDBuRG5heGYzTUpaZk1sZktuYXVLclktd2J0NlNvdFIyalYzSkV5MFJtQkd0SDZSZ2hLb3Zob0RSeXFfaUk0R0M5R2JGUko0eF9PaEN2SGF6VXo3V05Va0l6M1lXWXYwZC1IekxMcDhWd2JQb3k1RWs3amVUZEFua0F1V2RycVJzUnNLSVJlemtvSzREc0xzcEp4SExvc056RWhqMEhWNmJDUWlXRVZfLTZIeUtWT0c4RDJ0T3Roc0FVMVJldDJSaTlzZVVpbnBHdFV2VmxI0gH6AUFVX3lxTFBFNThjbWJKTGRWbGdON2pucGd3TTlpUm9CeVU2OHVKT24ybk04OVpUdnUzcnFlaEpvYmFxbEdJcGw3dnBOZFdkQ3RhMUFOOGhkRU45LTRQWDZTYTZfcjJENlRaV0V6YVJsT2QwNkdjY1ZPV1FYVHZKMng2aW5sOUx3TF9CSXNIbUFhOE9yejdPRHVDWkRhUFBDdFNkalBOdHYwOFl2aWtzVV9Bb2JuLXBJNm0wV1d2WDRTZ3J6cHpmdDd5VndlTXhtTnd5a2w0ZzhDaEpxYWZLbE02SXd5T2lGMkliZ1Zia25ETkZIT2wyTzlVX3drZmhyT1E?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-11T04:45:46.615104Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
       "id": "0795618ff15e9800c409196c",
       "publishedAt": "2026-09-08T11:01:00Z",
       "title": "Ruang Sipil Indonesia Menyempit, Aktivis Soroti Pola Represi dari Jalanan ke Ruang Digital",
@@ -1585,6 +1769,29 @@
       "reviewNote": ""
     },
     {
+      "id": "2a05aaf154b97aee500245e6",
+      "publishedAt": "2026-09-08T05:03:19Z",
+      "title": "Menjaga Kebersihan Sekolah, Garnita Malahayati NasDem Purwakarta Gelar Aksi Gotong Royong dan Salurkan Alat Sanitasi - Delik Jabar",
+      "source": "delikjabar.com",
+      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNNE1yY2x6OFhyaHdFd1dPX2VxemVIM3FxZUVuSGs2V3hWR18zRm1XMUhjd1Njb3R6SXVRVWRyV25hY1lZQkZQZWEzR0poY0VwamliU3F6bjQwRXN2TzFWeGhhRWhOckYzbzYtbVJiX0l5U2xucjQ3b1pXRjNLaE9ONjdULTNpUXpYbVZqZ1JGSTVZV3pYRDNWS0JaUlQwUWdIeFMxdkhodmRvTkpudVBnT000ZEx0SzZwaW91VXYyNGlrTTJFSjViZjZ5V2FpNjRLSWliSTNQYXc4RmpMTlBTTmo4ZjFESHF0X05uejZWMjVUMXVlSDA1a0ZR0gH_AUFVX3lxTE05V0tQQW1MU2lDVWM5YlJncVdhSHAyVzc3VFhQelpRbVpxeXpvQk4tYmxoQXB2bXVYdnh5eWFyN0w1TktJMlN1eHd5X0lPMWhPNG04X1o3THhGbU1xa3AydWpZV2JMZzljMHNEX1RnQ1BraG9vSTA3QXQ4Ukk0OUNkbU5pTTBZNjhkZE9yX0liX081cGphYjFBVm9RVmVqaktSemZPSE9Ibi13ellKUExIMXNILUhqY2IwTDYtUEhJYm9nZ28tWno4T1NPT2h3M2xfQnR4aEZuS0ctX1RNX2NwbnVFTG9IaXd3X3J3UHZUSkpmRVFGdUpjT2x3NFBTWQ?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-11T04:45:46.615104Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
       "id": "5eb88357ffd8a9d64c5a92cb",
       "publishedAt": "2026-09-08T04:56:24Z",
       "title": "Kajari Purwakarta Gandeng PWI, Perkuat Sinergi Hukum dan Insan Pers - Delik Jabar",
@@ -1608,6 +1815,29 @@
       "reviewNote": ""
     },
     {
+      "id": "ad65acf06abe4af687424c51",
+      "publishedAt": "2026-09-08T04:56:24Z",
+      "title": "Kajari Purwakarta Gandeng PWI, Perkuat Sinergi Hukum dan Insan Pers - Delik Jabar",
+      "source": "delikjabar.com",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQTVRxbEVBZFltQ0ZhdkhBMm9FeWpkcXlBTkJvMTVSVUJwY05CanlKYk5QQUNzQi11U25ObjZHeXN1TmwyeW45b0ZXWkRLazVrVnNlM2Rmc3Z3OHNrQUVsNVVDRTBUeXM3VVlGNW5jbDZPbFJINmpCakY0S1Fqby1fOFdoMUtacDJta2ZBMFBCcFUxZjhzZUtMbXVYY25kRDBXTWg3Tk4weFRyWDFEOHZRZ2RKR1NXYkww0gG-AUFVX3lxTFA0eUhyeVJ1a3dtMUhWUW5vQXFQekkzOEt4cklncXVfS3VyVWtWSE9PS1FUTzk2WXl2aEdhQl9wc0kxQ1FFc055blV5RTd4QkR5Mk5OYmljNndSaUcwcjZXZXRxUjRBdUdzaUV5eENtWjdlbXZldnEtQ2lDYUdpaHNndGQ0eXFxdkFfZjNOc0NfX0F5RDBJMVJfS3BMR0ZsWjNKY0xpR29jaXJGMHAycTRQbzNjek1RREhVd05LWUE?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-11T04:45:46.615104Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
       "id": "8afdf6bae39c82bf4ca84b48",
       "publishedAt": "2026-09-08T03:43:38Z",
       "title": "Imbas Aksi Main Hakim Sendiri di Slipi, Aliansi Warga Desak Kemenkum Cabut Izin GRIB Jaya",
@@ -1626,6 +1856,29 @@
         "Kebebasan Berkumpul / Berserikat"
       ],
       "collectedAt": "2026-09-08T04:43:02.451025Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "9d7de7730ab046561b07b3c9",
+      "publishedAt": "2026-09-08T03:43:38Z",
+      "title": "Imbas Aksi Main Hakim Sendiri di Slipi, Aliansi Warga Desak Kemenkum Cabut Izin GRIB Jaya",
+      "source": "wow.tribunnews.com",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQRjFuMlp0Ti1BN0JSWVgySFUtNlVkWElqVlZMZXhIQW93WUpfQlR3OGpaeXduaHdtMVRJSEhrSnJKQTB5d1RiVUFubFpnc1ZUM1FxcXUxeURPSmU1ek96dVBsbXRLZUFpZ1daZVBxVnU3LTVQelNMQU1JVkN4Vk5UZ2xQUHRfMldiYkF3TnpBUWtvZl9hNWZpekRjeGx5Z0JKN2JSOXRjUTU0X3diYzIyMzNtQ1ZuWjJ0bmRlaXVpWlA5SjRHNXc?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_berkumpul",
+      "subclusterIds": [
+        "kebebasan_berkumpul"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berkumpul / Berserikat"
+      ],
+      "collectedAt": "2026-09-11T04:45:46.615104Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
@@ -1741,6 +1994,29 @@
         "Kebebasan Berekspresi & Berpendapat"
       ],
       "collectedAt": "2026-09-09T04:47:34.492833Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "e150214941492a17d5541733",
+      "publishedAt": "2026-09-08T00:10:44Z",
+      "title": "Wakil Wali Kota Bogor Ngamuk Pergoki Warga Kencing Sembarangan di Alun-Alun - Delik Jabar",
+      "source": "delikjabar.com",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPQlNRV2NIVTFoTmVXVnhNZElQMzdVbnZpYVl2YThBV1ZYblJhNWZheWtHbW56SGtiWnFRTXBnTWVNbjQyTnNwMVFYQjlsdjBURlBYLWoxNXhFMDZpN0lOd3NRTWxmMWc1YmJwak4waU1ScThzd2RhQWhfaUpoS0szUExOemQ1ZF9kWmp3LUQyWll3ZmNzWFhfakRGZzI5clZtMVVicFAyVUZINWNlYk0zcVF3YmR3TkVRdkZ0YkdoNkNJaklv0gHKAUFVX3lxTE51Q1JKM3dMUlRVa2pzYl9PV0M4bUJnXzUzcmxtdDZ4b0ZJLW9WQWl1SXhzZXFiQ2E5RjVXUnFjVFlnQmpKbnBja1htVXJ2SVo5ckJnOGNobmd2b3Y3MG1ZRjRtWVk5N3NXalkydmNRVTNabDV3b3p0TUxDZks5Qzd4WGhabU5UcEFHT2x6c0xXbDItRzZyODZPOWJQZEpxam9vaHBNd3F4NFlDeG00U1ZTS2hyZGVpQy1TU0I3T2JEWmNyWV9PcHJydFE?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-11T04:45:46.615104Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
@@ -18465,6 +18741,29 @@
         "Sensor Konten"
       ],
       "collectedAt": "2026-08-31T23:07:12.746081Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "2f66c8c83a8390c6fa88ab4d",
+      "publishedAt": "2026-07-10T07:00:00Z",
+      "title": "Kasus Penistaan Agama, Pendeta Asal Aceh Divonis Dua Tahun Penjara",
+      "source": "rmolaceh",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOSG5hSURUc1huRXdLZjVpczgwaVpRVko5QmVmdGxyR0hhbUJRbnhMRjBwQURfNzAwQWFhMXlTNXdCaTF4eWFscW4tazhxTUZxdW9fZi1WQnUwM0Y0bmxqNnRKOV9oOWdNSFBsYmhXOXIweGZtNlZVZWNjNy1mLXJqTmJDV0oySUVYZ2E5djczbXlIR1E?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_beragama",
+      "subclusterIds": [
+        "kebebasan_beragama"
+      ],
+      "matchedQueries": [
+        "Kebebasan Beragama / Berkeyakinan (KBB)"
+      ],
+      "collectedAt": "2026-09-11T04:45:46.615104Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
