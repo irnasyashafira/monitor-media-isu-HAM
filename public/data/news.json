@@ -1,15 +1,15 @@
 {
   "meta": {
-    "generatedAt": "2026-09-12T15:34:43.482279Z",
-    "lastRunAt": "2026-09-12T15:34:43.482279Z",
+    "generatedAt": "2026-09-12T20:36:07.706158Z",
+    "lastRunAt": "2026-09-12T20:36:07.706158Z",
     "startDate": "2026-01-01",
     "refreshHours": 6,
     "mode": "incremental",
     "feedsOk": 16,
     "feedsFailed": 0,
-    "totalStored": 1152,
-    "totalPublished": 1152,
-    "newArticles": 8,
+    "totalStored": 1156,
+    "totalPublished": 1156,
+    "newArticles": 4,
     "warning": ""
   },
   "clusters": [
@@ -136,6 +136,29 @@
   ],
   "articles": [
     {
+      "id": "b8085891013912d424315ca3",
+      "publishedAt": "2026-09-12T15:38:00Z",
+      "title": "Berita Video - Kementerian HAM Perkuat Literasi HAM di Sulawesi Utara",
+      "source": "RRI.co.id",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNbkxPZnZGbjZQa05tSUlZZURndWZKXy0xRW9FckE2Y0hFT2RneVhXb1gxUEpiUXNjaTVUWHVXWFphT3JyMXBIaXk5bFhRVGZIMGFBb2tSeFpJWWRHUGtZMmdqZ3NEeWoyQmFEQWRkamV6Sk1KX3RnOWpReXEwUFR6dERWV01lZXFBeGxibE5XaU5qVXJuYURjU195d20tNVE?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-12T20:36:07.706158Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
       "id": "f25c1b461c3164b233f4590f",
       "publishedAt": "2026-09-12T13:25:09Z",
       "title": "‘The Doll Ghawiah’, Babak Baru Franchise The Doll yang Lebih Kelam",
@@ -200,6 +223,29 @@
         "Doxxing & Intimidasi"
       ],
       "collectedAt": "2026-09-12T15:34:43.482279Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "da8b4fbe7cdebc7adc91ede9",
+      "publishedAt": "2026-09-12T09:17:00Z",
+      "title": "Legislator Desak Polisi Tetap Proses Kasus Abah Setu Meski Sudah Minta Maaf",
+      "source": "pantau.com",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxONlpjWmVZWTFsNFRjQWtsWDY1aGFOc0NXbzZ6TUlyeFE1QVFfeEctd1ZJdjAzbjhiWElMQnFDMWtsd0tzMENvQnBfNnBQSW9xUjdJaGJPenUxbkRsa1hmbHp4RlpYN0FVaGxhdmJUaFQ5SFFqaEoxTlVZMmo0VG8waHZSRExiR205dUNJWTBEY284NlZGeFczNEF4ckJzVFRWaE84WEpXcGdsV2NpR3VlMnYzM24?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-12T20:36:07.706158Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
@@ -476,6 +522,29 @@
         "Sensor Konten"
       ],
       "collectedAt": "2026-09-11T16:32:07.667019Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "e35b76385f5e9647c12350e5",
+      "publishedAt": "2026-09-11T09:15:05Z",
+      "title": "Koopsudnas Uji Penanganan Pesawat Pasca Force Down di Hang Nadim",
+      "source": "batampos.jawapos.com",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPQTV6RTNOSWdoUEl6S0RmZTd4aFZUSkdsQ2NDc2hwb0lWRTN3dE80RWJjbjQ1Z2d0b3dEVEVxZzRhRWpLeDFJcWxZWTEtcEJxc1pPLWJrb2JTWk0tRE9PeGJyMWRMMDh0ZTJMZUY2R0pBdUxneF8xSl9XcDRiUHE0azNoNHBfZjIwTDJ0S3RKWkNueUF2TmluXzB3VURsQnA1dHdTNkxiOGpUOTZOQkZpc1JSNNIBuAFBVV95cUxOalJGMzBCMjhMdjZBRGpwODZ5cGJfdk1jOF83TnZCemUyWDRjc1EyeUJnT0x5b00wWDAyak1pYTF1WU92d0wyaTBPR1Y1dVM2LXZGSGw1MURpOG5DRTh6YnM0STFxQlplbXVZdHY4U0hJYmduZkpkMEJvT2FISzQwaUItWXUzUUJ5ZUcwelJGaHdLekp3aVdIR21KeDdRemRJN0Qzd2JZNGpHWklCUHRYRktsdjhNaTJp?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "sensor_konten",
+      "subclusterIds": [
+        "sensor_konten"
+      ],
+      "matchedQueries": [
+        "Sensor Konten"
+      ],
+      "collectedAt": "2026-09-12T20:36:07.706158Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
@@ -1766,6 +1835,29 @@
         "Kebebasan Beragama / Berkeyakinan (KBB)"
       ],
       "collectedAt": "2026-09-11T16:32:07.667019Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "be96d4fb9361e0e3a87bced0",
+      "publishedAt": "2026-09-09T09:21:10Z",
+      "title": "Ruang Aman:Pilar Penting Dalam Membangun komunitas Yang Mendukung Halaman 1",
+      "source": "Kompasiana.com",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNb2dYNjBRWmF4cXlMcWVzczdYSTczb2hfNEU3TWlrNlFWeUhXZ1RmTmd1YjRHbkFxY3ZYb2NKN2VwYl9yYjJQX2U0VE1UdHA0TDBldndSRTFsZFdaZ0V1cmRuRkI4NG50aHFIdTRZTW92d0hndU0xa0VsckVuekUtREtTT1lKVUh0Ni1HQ2Nhd2h4eHpXbXhuSzJ4WTBYeWt4cUFQX1Z6bXBwcnVoWTdrcUpTVDhQZllUYzBvQ04tb0ZYR1FvTWI4?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-12T20:36:07.706158Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
