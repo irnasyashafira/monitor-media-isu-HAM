@@ -1,15 +1,15 @@
 {
   "meta": {
-    "generatedAt": "2026-09-12T10:52:11.134737Z",
-    "lastRunAt": "2026-09-12T10:52:11.134737Z",
+    "generatedAt": "2026-09-12T15:34:43.482279Z",
+    "lastRunAt": "2026-09-12T15:34:43.482279Z",
     "startDate": "2026-01-01",
     "refreshHours": 6,
     "mode": "incremental",
     "feedsOk": 16,
     "feedsFailed": 0,
-    "totalStored": 1144,
-    "totalPublished": 1144,
-    "newArticles": 6,
+    "totalStored": 1152,
+    "totalPublished": 1152,
+    "newArticles": 8,
     "warning": ""
   },
   "clusters": [
@@ -135,6 +135,98 @@
     }
   ],
   "articles": [
+    {
+      "id": "f25c1b461c3164b233f4590f",
+      "publishedAt": "2026-09-12T13:25:09Z",
+      "title": "‘The Doll Ghawiah’, Babak Baru Franchise The Doll yang Lebih Kelam",
+      "source": "Malang Inspirasi",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPcEVqRU45V0hKZHZhRE5xR3JORDZCTzVja0t1MUVSa3RRNTJGOGJrbUlBeXBZQWVYVUwtZnZWTFctNWc5bVdUZGxQYjIyaFlmSHF0V3RmYm93S2RQcGZyaHJQTVJpR0VaMkxOQ3ZPZ2xPRVRyZmpBWXBrUlBnc3pISzhJY3NkZTYyUmRXVVdpbjlfQXRYYU1Kc2tfbU96YVM5dkpBZElCcjJ4RUFuX3c0a1lGYnJIUQ?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "doxxing_intimidasi",
+      "subclusterIds": [
+        "doxxing_intimidasi"
+      ],
+      "matchedQueries": [
+        "Doxxing & Intimidasi"
+      ],
+      "collectedAt": "2026-09-12T15:34:43.482279Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "bd5b419fc490daf08e5f208f",
+      "publishedAt": "2026-09-12T12:22:00Z",
+      "title": "Gen Z Impact Fest 2026 Edukasi Tips Keamanan Digital Gen Z di UGM",
+      "source": "Head Topics",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQU2J6UG0zVDZlSFVadE44UlI4YTJfMHRIR1l2RmhZdEhybHBOV1NzTnFXazFIQmNHTG1STXpuUWZsaUp4NFdaNG83eElsYkpPeDA0V1VGM2tUdVBKNV82M2J2aTk5N2JrQUc0eURBT1FqRjBVRnZYZGljNDkycEFJaTlGX3FkUUdIZFRXUy1SckJYa3ZlSkJHOXhQTkFqb1U?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "doxxing_intimidasi",
+      "subclusterIds": [
+        "doxxing_intimidasi"
+      ],
+      "matchedQueries": [
+        "Doxxing & Intimidasi"
+      ],
+      "collectedAt": "2026-09-12T15:34:43.482279Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "3ecd8b3fc9fb2cb4c739def6",
+      "publishedAt": "2026-09-12T11:16:02Z",
+      "title": "Gen Z Impact Fest 2026 Edukasi Tips Keamanan Digital Gen Z di UGM",
+      "source": "Suara.com",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNZTNHV0xjRURFTG5fU3lCalJSSk12M1JhdGx2MW8yZk9wcU5sWEdycXl2WnBvMXVBbHltNnhzaFc1VHBQbUM0a2tjSkdld29OVEpYTFVZZExLUjItNkx5XzRGUmhfaWE1T25xZ2I4RE9lNDRJZE9IRDFDVUloVEIxZ2xicnJkejBMQkZzb1VsTmphYlY4WGFoU2g1WldCajl0T0kxNFJsQlpkaHpkMWlJ0gGvAUFVX3lxTE1JdXlJdDZVZVpSMzc0X3dPNTJOZUNaUjNvLVFCa0dNeVJsY2lzeE85OE12bmpTV04wa3pNTkJtSjFfQXUxOGFHUEFvSnpoYTlreU5hdm5fb25NTVZBTjNMb0ZhbnZyS0VyWDR1eUhMZVc5UEhwejJuNFBWUTFGTEYzem5lUWVrRHFrZ3VmdHN4WTh1VFpVRkZSTHotdndSa1VVc2NEZ3RtVC1CdF9Ta1U?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "doxxing_intimidasi",
+      "subclusterIds": [
+        "doxxing_intimidasi"
+      ],
+      "matchedQueries": [
+        "Doxxing & Intimidasi"
+      ],
+      "collectedAt": "2026-09-12T15:34:43.482279Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "01265dbe1c2bae5d583eb121",
+      "publishedAt": "2026-09-12T08:23:18Z",
+      "title": "Hak Jawab dan Klarifikasi: Oknum “AA” Bantah Keras Tuduhan Bekingi PETI dan Intimidasi LSM Lingga Bayu",
+      "source": "Madina Pos",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOWDRnWTNaWjE0aGNMR0RZZWtrTjM5dW9tUDVScXE3eEh4ZHVnRXBBcEpWMndFSWRWenhNY3RhWDl1aHVET1NESUF1LThrclJiNm9GeS1UWEJMbmdCUTZYZ1ZJekFrQUY3NGtvYjlGRDQtaHY5N3VXejZmeURVd0tKQndtejd3R0xlSFRZMk5ROHhuejVNMF9iNTVWekZXN3U3OC1MZVNnWnF3YnNWNUZVQTZqRzFWdENnM3NjQ1o2cw?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-12T15:34:43.482279Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
     {
       "id": "3a43f2721a01cc7723d57f63",
       "publishedAt": "2026-09-12T07:34:00Z",
@@ -527,6 +619,29 @@
       "reviewNote": ""
     },
     {
+      "id": "2849d29a436bff739eadb5de",
+      "publishedAt": "2026-09-11T05:27:30Z",
+      "title": "GM FKPPI Sumut Kecam Kekerasan di Capital Building Medan, Desak Polda Usut Tuntas Dugaan Serangan OTK",
+      "source": "PAB INDONESIA",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNX1JURXoya3ZHRUoxLUxoTkJJYUZEQUoxSzJ1YTNlbHFXNlZnd1Z0Qk0wTm51Z1FRQXlHaWd4T2hGV09ncUQtRVRubllwenl6NWVaX0drTTYtZDdpVE41OVd4UTZhaDhqeVNESWRJSWQtd1MxMHZXeWMwWC1wb2dhcC1RYzF0QWhIZlIxdnRKNG5tN3N4bWl1U2pyVFBOUjhzdmNCcGdSV2ZlR2JXOG8tQlVrVnlrRDdCQmVhRExoU0FKSjgzdG1PY28xWU9ONzNacFZLb0Vpc3B4Qk5IdE1n0gHeAUFVX3lxTFBfeVZjbURFYVY5ZVk3YnVIY1FNQVZncGJVOHAzNldPS281UGN1c2ZzckpwUUJfd0hZYmh3eW5XM1JWQlZqREFJcUJ5QVFPTGxfUWdIY3A0aGc0V05KTmNyUUdRaU9SSkNQMmVlQWo5Ty1aX280c1pQZlJFdVEyNGUtNWFNREs0bUxwMG5oWkYtXy1mY1Q0bGdXTm9TV1B0T3hKM1BWVF80SFdCblhmZXROcHlrRmxvUnMxczRCMHB4dnlJekM2NXRRX2xSckkzSUYyYzNBbmVsQU01YXZ3dw?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-12T15:34:43.482279Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
       "id": "83a70155a5d6a9544e745479",
       "publishedAt": "2026-09-11T03:38:58Z",
       "title": "Tiga Aktivis Hong Kong Dipenjara: Bagaimana Peringatan Tiananmen Menjadi Titik Balik Kebebasan Berpendapat",
@@ -614,6 +729,29 @@
         "Kebebasan Berekspresi & Berpendapat"
       ],
       "collectedAt": "2026-09-11T11:27:04.960943Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "2df75443e98fd016e7e044c4",
+      "publishedAt": "2026-09-11T02:27:15Z",
+      "title": "Trailer Laut Bercerita Resmi Dirilis, Kisah Biru Laut Segera Hadir di Bioskop",
+      "source": "Jawa Pos",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQQ0swa2tvM3p1UGlCMUN1MUN5NGNhRE4tb0FBLWRTOGF1SU1SYlh1YkEtTS1memIwMVhfZ2d3LVVCbncwWUtZWG1mV0R4aVNIUkI3OUdFMGJMX2ZQMU5tSTBUc0pwVlhvYmg5NXdxMWhGVWtSdUZOMkJnM0FMbEh5VkxpNUkzQUVlVWR2RTE1ejJoZU9tdHMtbUNvTU84bG1PTVFEdHRZaEtBbUk2dFJ0ei1ZbURuOGV5TkIzYjFLc2dvN285NUNQYlp4TTVNZ9IB0wFBVV95cUxNYUtZWGFzdU9SQzZDY0RGSXk4X1V1Q3gtamtjbHVTUHRwdndHUUt1RTdvUm9jRm5UTFIyRnIteXd6YktIWjhONHdrakVPWHBBQzljenJaWC1ZMm02NDFhS0dZb2dQaE40QTFxMm40akt4ZTNZWi1rYUhfaGpXM3NRX3YtYWdkQ1ZtbWlJMXdvMkRhWnd2d0ZZNU9xaDFPSG5uY0FqRS1ZVUZKVHBrOWNITE1pbGVaZzNWd3FWMlVubWE5OU5aYXZ6UE5WQzgwVGxzRi1F?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-12T15:34:43.482279Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
@@ -1288,6 +1426,29 @@
       "reviewNote": ""
     },
     {
+      "id": "7ad7c464f3796629754eb5b1",
+      "publishedAt": "2026-09-10T07:24:20Z",
+      "title": "Kontroversi Khotbah Pendeta Gilbert Lumoindong, Persoalan Penistaan Agama Kembali Memanas",
+      "source": "akurasi.id",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNUl84S0psWGNENW5HN3BpTTlfcmdCLTdXUFk1eHVpVWxON3lCRzNwU1lXdEttdUtHY1FKZXVNMlNKbUE4UHVUTUVVLVNaMXNzTFpNYjdTLUdpaWdIMGU1SE0xMEJyR2RodDhHdkpkNnBEb2x4c0ZBeV9kTFlGUnVoRVp4ckluZE8wOUlKdEpqMl9DclZhR2FubWdScDBiU1lxd3Q3aFY5MkYzQjlL?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_beragama",
+      "subclusterIds": [
+        "kebebasan_beragama"
+      ],
+      "matchedQueries": [
+        "Kebebasan Beragama / Berkeyakinan (KBB)"
+      ],
+      "collectedAt": "2026-09-12T15:34:43.482279Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
       "id": "20af56e521b03ced93e2cee8",
       "publishedAt": "2026-09-10T07:07:36Z",
       "title": "Wali Kota Robby: Humor Bisa Jadi Perekat Keberagaman",
@@ -1513,6 +1674,29 @@
         "Kebebasan Berekspresi & Berpendapat"
       ],
       "collectedAt": "2026-09-09T16:41:51.102255Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "bff6bb12226ee2d36d1225cd",
+      "publishedAt": "2026-09-09T11:55:11Z",
+      "title": "Universitas Airlangga Berduka, Pakar Politik Airlangga Pribadi Kusman Berpulang - Konteks.co.id",
+      "source": "Konteks.co.id",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOMXY0MkExNWVsaWNHdkdnR2tGWWFTUXVVejB6Z1NJaGxnWW9VLXZwOUJHM2EwVjJkazRHenFneDJpaHVSYVI0TlRidTZsdUNYcUExR1ZZMWlIX0pMWmJWTjlBVzlvR1J5RUEwWkZwQVZHZWtfNExDTnJBLVZ1cGhZd3Yta3JDTjNxWG94SktoNS1RUm5WYXRUWUFQeWU4NFQ1VGZicG42Um41MnJ1X2p3NjZLWnk4YksyQzNWckN4b19HQdIBxwFBVV95cUxOSzQ4NnZqcGNfZmFQaXRNUXFaNktxTFU1a1pGOEx1SFYxTGQwUnBhQWRURlRlZ3VldkloSlQ0UlZ2eEJjSDRRd1hKbm1Ga1NBSkhnVDFRYjZKQ0gzTzZzN2JKVG5rYThYeEh2UkluN1BOZ3IzbFJCZTRMenNIY1VUaXFGdmRDaEJiOUZ1THVZb192T3gtYVBhMzVoaUNuTG1UWlVqclo0M1A5bk1fSXRDTlVaaGFJZHVDSzNsYmNsS1hLTmY3Ym1j?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-12T15:34:43.482279Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
