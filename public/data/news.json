@@ -1,15 +1,15 @@
 {
   "meta": {
-    "generatedAt": "2026-09-11T21:00:27.813829Z",
-    "lastRunAt": "2026-09-11T21:00:27.813829Z",
+    "generatedAt": "2026-09-12T04:40:18.208741Z",
+    "lastRunAt": "2026-09-12T04:40:18.208741Z",
     "startDate": "2026-01-01",
     "refreshHours": 6,
     "mode": "incremental",
     "feedsOk": 16,
     "feedsFailed": 0,
-    "totalStored": 1135,
-    "totalPublished": 1135,
-    "newArticles": 4,
+    "totalStored": 1138,
+    "totalPublished": 1138,
+    "newArticles": 3,
     "warning": ""
   },
   "clusters": [
@@ -135,6 +135,29 @@
     }
   ],
   "articles": [
+    {
+      "id": "a9989faec3a9813d0f682d7d",
+      "publishedAt": "2026-09-12T03:00:14Z",
+      "title": "RUU Reforma Agraria Dikebut, Mungkinkah Konflik Tanah Segera Berakhir?",
+      "source": "Kompas.id",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOcnRxanM2dWY0R1VoZGVFanZZQVgyU29SUy13bVNkM1FMS0J4bUVMNGd3b0JuNk9OQnBwV25VdTNENmJHTXZHMFBKUkMxeFdzZW9GMGVKOFhCUzJjNF96X0RldE1ybnFKSmFCWWh2bUUwWENhSlJuaDRuek81WmJDR2s3bGY0X2JJdUUxUHdDZ1JqTHoyVEVYUkdkdzBPMkFfcTI5ZzFIMU9BTUlsekVCUk1JbzdaOUNZVm1hT0tZc0Y?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-12T04:40:18.208741Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
     {
       "id": "50fa5e09438a55660b684ce9",
       "publishedAt": "2026-09-11T18:40:54Z",
@@ -361,6 +384,29 @@
         "Sensor Konten"
       ],
       "collectedAt": "2026-09-11T11:27:04.960943Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "534e157d374ef18b0f4998e1",
+      "publishedAt": "2026-09-11T06:22:39Z",
+      "title": "Latihan Penanganan Pesawat Asing",
+      "source": "mediaindonesia.com",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQeExyUXI5eXRjTVhZbWJWdnFoZlhxME5UMjd1NmNqUXJXbnREZUN3Q0d4QllIaGtTYmdtaXNhMnFGS1VScllrcnNPR0ZJNlh4ZGpRaXJ0SkJxM1dtcWVtWGdqVjQ5aWh0bGtzeGo2WG1lMVZiYjE0elltRnRnd0J4T1hWLVFGUXZMV2s0blVjWHNsWHZEeGcw?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "sensor_konten",
+      "subclusterIds": [
+        "sensor_konten"
+      ],
+      "matchedQueries": [
+        "Sensor Konten"
+      ],
+      "collectedAt": "2026-09-12T04:40:18.208741Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
@@ -637,6 +683,29 @@
         "Sensor Konten"
       ],
       "collectedAt": "2026-09-11T04:45:46.615104Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "3bc3dee90d14bb597695346b",
+      "publishedAt": "2026-09-11T00:58:50Z",
+      "title": "TaniSmart, Inovasi Siswa SMK Wikrama Bogor Bantu Petani Pantau Lahan",
+      "source": "radarbogor.jawapos.com",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPV09QakNlWEFIUWhhZTR3NVo4TnBpUnlaTVRNOHZOUDJNajBDbVdzQVR0dWtfS3hiMGloVTdHanZvaXh0RXByZVpzRFRSQllqUHUwZEgzbnltdnl1a3psMnhkQXZIbWJHWmNkcXUwQzJSdWFnYnpzU3htU0VzSFI3RWZzUWJFbERWalNWM1YxWXBwWnhfRTdxUGVTVWJ0bWR2c1JCbFJFT3JHWmdrNjRJNlBPZzhUZ05iYkFqSNIBwgFBVV95cUxNdlZpV0xHV1FwOGhDQXFNN0lwZ2FXNHo3VzJFWDdVUEw5eWlJYkdPNzdTb08wOXpjSm9nTXhOdDNYZWR0R1NGREloMHFXNWctd1R6OXhiQV9vaDNrYzI3OVhRR0xNRnc1ZmE2NXdCWjdjbWtuaGVXTEt5VnlKZzFOazJXQVI4MmpBSDVJMkJhVTVpcUpGd0VkWXVXQlFQSDdyZC1SM3FET201aXdmMVdpdTR0ZEd0eTRlQXZtTjVCYU90UQ?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "sensor_konten",
+      "subclusterIds": [
+        "sensor_konten"
+      ],
+      "matchedQueries": [
+        "Sensor Konten"
+      ],
+      "collectedAt": "2026-09-12T04:40:18.208741Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
