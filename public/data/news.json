@@ -1,15 +1,15 @@
 {
   "meta": {
-    "generatedAt": "2026-09-12T04:40:18.208741Z",
-    "lastRunAt": "2026-09-12T04:40:18.208741Z",
+    "generatedAt": "2026-09-12T10:52:11.134737Z",
+    "lastRunAt": "2026-09-12T10:52:11.134737Z",
     "startDate": "2026-01-01",
     "refreshHours": 6,
     "mode": "incremental",
     "feedsOk": 16,
     "feedsFailed": 0,
-    "totalStored": 1138,
-    "totalPublished": 1138,
-    "newArticles": 3,
+    "totalStored": 1144,
+    "totalPublished": 1144,
+    "newArticles": 6,
     "warning": ""
   },
   "clusters": [
@@ -136,6 +136,52 @@
   ],
   "articles": [
     {
+      "id": "3a43f2721a01cc7723d57f63",
+      "publishedAt": "2026-09-12T07:34:00Z",
+      "title": "Pusham UII Menuntut Transparansi Pembahasan RUU HAM",
+      "source": "JPNN.com",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQelpTVGprdVlsQnU1c2FhcTlzZWZsNnJsVURSYUVvcVVTcFB1Z0trRTFSdEVheGJnRlQ3X3BMbU1lVWFldzdKaWI5elo4N1h5VXhGazdHZ3VDOFhKNG1VNVFlMUs2QmpPNWIzcDlOajRtWmkya0lWLWh4YWdkc09BRGJzdGhENFFNbFl3SGRaTWFQQnN5cm1zdHd3?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-12T10:52:11.134737Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "7423c7093cac95fd4df3b67c",
+      "publishedAt": "2026-09-12T07:18:02Z",
+      "title": "Cegah Greenwashing, Mahasiswa UMS Padukan AI dan Blockchain",
+      "source": "PWMU.CO",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPUGJoS0tHSmxYMUpHalZRRDM4RVBlRWNmQnlzclBad3N3amdqMWg0ak5wMlFtTzNOZHR2N3UyV25iby1McFAtS1hPdmN5NzdEUWNoRFNJQk1KWTFrX21rQkk0Nk1EdnhRRkJrOC1Wb0hYMWpaTEd4Ni1hWWZGUHVmdA?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "sensor_konten",
+      "subclusterIds": [
+        "sensor_konten"
+      ],
+      "matchedQueries": [
+        "Sensor Konten"
+      ],
+      "collectedAt": "2026-09-12T10:52:11.134737Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
       "id": "a9989faec3a9813d0f682d7d",
       "publishedAt": "2026-09-12T03:00:14Z",
       "title": "RUU Reforma Agraria Dikebut, Mungkinkah Konflik Tanah Segera Berakhir?",
@@ -154,6 +200,29 @@
         "Kebebasan Berekspresi & Berpendapat"
       ],
       "collectedAt": "2026-09-12T04:40:18.208741Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "e4ec26f0b86fe562d193b9c4",
+      "publishedAt": "2026-09-11T21:06:44Z",
+      "title": "Amnesty Kecam Tuntutan 6 Bulan Khariq Anhar, Bungkam Kritik Mahasiswa",
+      "source": "Upplan",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1EMkhGZUctMFVlOHVoN1FkVllwVXRYcDYzQ3ozOG5tRkhTVjVkbUZoTzF1MGYxRHZXUzlsVFc0Y01DVE01Y2hJbkhSbDdHM2VITjE4?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-12T10:52:11.134737Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
@@ -205,6 +274,29 @@
       "reviewNote": ""
     },
     {
+      "id": "a21c867778dac0b582e814a9",
+      "publishedAt": "2026-09-11T14:04:00Z",
+      "title": "Tulus Santoso: Kalau Mau Penyiaran Relevan, Perlu Penyesuaian Regulasi",
+      "source": "SINDOnews Nasional",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNLVJwM0drcFNVeGJNMlRBME5rNVRPUFNUMEdoc2cxX2NKcWVpbTZOOTA5VS1pejZoR0hfdXdaam9GYTFwSnE1MEVVS0thbU5OOGJ0VERac0E2OFhXZC1HRVplZ2tSRHE2bGphZUpmRGE2bmRfVjg0aVprRWhIQ19XNHlVV1Rua2M5SThyQzE2Y3FxS2dNOU1yTlpNSWhDcGhvQjRyMkxmLTIyM2JHWFI4Y3BLOHNYdmVBM3B3VDNacXlpU29wMXpPY9IBygFBVV95cUxOSXdTN24zekpoNmQwZy13Rnl3MVdKRXJKcXdDZ0ViQl9HRUlTOFpxTnhfQUZxM3RfVmVmekhia1VrcFY0U09GcHVBRV9kS3c4b1haRFdyVXpyTVF2dVBhU3dRenI2bHdUdUJPMFhVMW5ZV2tNWW5uaUczbnAzY1BWbnFUY0wxRkplS2dXXy1XcDVKT01iX3NFcXhuemRBVUtyNDBFNjRMTlk2WjFrTzdHTEpBZzJnVHdUVl9qRUFodm9fVm9JYjZHcHZB?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-12T10:52:11.134737Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
       "id": "f2220fc9e6a0ede131ccacb9",
       "publishedAt": "2026-09-11T12:50:18Z",
       "title": "Pembekalan Bela Negara dengan Pendekatan Militer Berpotensi Membungkam Kritik Generasi Muda",
@@ -246,6 +338,29 @@
         "Kebebasan Berekspresi & Berpendapat"
       ],
       "collectedAt": "2026-09-11T16:32:07.667019Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "60e551f9c1532761407584d8",
+      "publishedAt": "2026-09-11T12:26:00Z",
+      "title": "Pemprov DKI Dukung Gelaran Jazz Goes to Campus",
+      "source": "lampumerahnews.id",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOMUUwWnJwUTc1cEppSlV5NDNzN1Z2cUhiQ1ZMc1NBLWJILVVpNGFjMFFLSXpEZzBMeUJoc0cwT2kzX0RfclhBdG83X0tMR2xkczJfQW9xZWV5ZG5HTzQzQW4xNjhtNXJDbFgwMHBJRFZEX0xHaW5SWXFBVXpoeGNtRC0xYk1hQ2pCdWc?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-12T10:52:11.134737Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
@@ -1283,6 +1398,29 @@
         "Kebebasan Berekspresi & Berpendapat"
       ],
       "collectedAt": "2026-09-10T04:48:44.015107Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "8c50997bcd2ec8adf6edf218",
+      "publishedAt": "2026-09-09T22:28:21Z",
+      "title": "Asosiasi Ojol Nusantara Ajak Massa Sampaikan Aspirasi dengan Damai dan Jaga Ketertiban",
+      "source": "Media Hub | POLRI",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNMDdZUnJkVWVYNUxKYnFPdEN4OWJQMW1sN2J0QmRaTEhDRjNVcThvYkJQeDhWUmkwamk3UXRHX0ozblNidlNvLVBxNnMxeXY2LWVqOTdNdndnbk01U0xsR2tRMm41Q0VpdWI3bGhZd2J5MFFBREpvYjE5VFpkR3VrWmtBaHg2Q0MtV2VMUzFoREJwXzdfWGZjMGNKd2ZwMmVMODVZT2dmaEx3MllOWHZwNFRfTF9hc29qaEZEa0lBbmRRcEdkS1NqRENGUGNuLWxJNElSQXE0SUJzUU5VUUNfVDNMbw?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-12T10:52:11.134737Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
