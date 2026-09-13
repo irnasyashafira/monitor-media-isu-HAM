@@ -1,15 +1,15 @@
 {
   "meta": {
-    "generatedAt": "2026-09-12T20:36:07.706158Z",
-    "lastRunAt": "2026-09-12T20:36:07.706158Z",
+    "generatedAt": "2026-09-13T04:53:01.534024Z",
+    "lastRunAt": "2026-09-13T04:53:01.534024Z",
     "startDate": "2026-01-01",
     "refreshHours": 6,
     "mode": "incremental",
     "feedsOk": 16,
     "feedsFailed": 0,
-    "totalStored": 1156,
-    "totalPublished": 1156,
-    "newArticles": 4,
+    "totalStored": 1161,
+    "totalPublished": 1161,
+    "newArticles": 5,
     "warning": ""
   },
   "clusters": [
@@ -297,6 +297,29 @@
       "reviewNote": ""
     },
     {
+      "id": "3075de8087868b7bb9ae5c5f",
+      "publishedAt": "2026-09-12T07:34:00Z",
+      "title": "Pusham UII Menuntut Transparansi Pembahasan RUU HAM",
+      "source": "jogja.jpnn.com",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQelpTVGprdVlsQnU1c2FhcTlzZWZsNnJsVURSYUVvcVVTcFB1Z0trRTFSdEVheGJnRlQ3X3BMbU1lVWFldzdKaWI5elo4N1h5VXhGazdHZ3VDOFhKNG1VNVFlMUs2QmpPNWIzcDlOajRtWmkya0lWLWh4YWdkc09BRGJzdGhENFFNbFl3SGRaTWFQQnN5cm1zdHd3?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-13T04:53:01.534024Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
       "id": "7423c7093cac95fd4df3b67c",
       "publishedAt": "2026-09-12T07:18:02Z",
       "title": "Cegah Greenwashing, Mahasiswa UMS Padukan AI dan Blockchain",
@@ -430,6 +453,29 @@
         "Kebebasan Berekspresi & Berpendapat"
       ],
       "collectedAt": "2026-09-12T10:52:11.134737Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "e107248c19fa5b0c240b09d8",
+      "publishedAt": "2026-09-11T13:24:49Z",
+      "title": "Pembinaan Bela Negara Pelajar yang Tertangkap Demo 27 Agustus Bukti Pemerintah Alergi Kritik",
+      "source": "Akurat.co",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOb01vRTdtOEZUVU5aNl8xNk1Xa3drd3d1SjJpeENTcExFNnNkNHVXcV9ad3ZXR0Y2LWxLb2tldGh0dHlPdTdGS0oyNF83aS1LU0thRzFtVjBDeFVPbl9GbHRlLXQ0enFHcXJnYzlWd0QzaTRPcTVXcWVhb3RTTTgzcXdCd2dJdGtucEtPaFJ5LW5TbFRQdEJselhROUtmc1hKM01ySmJYcDdsczUtaENsaXI3WU9oVF9vOWYtZzQ0MnBVdWpXalFNZkRn?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-13T04:53:01.534024Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
@@ -614,6 +660,29 @@
         "Kebebasan Berekspresi & Berpendapat"
       ],
       "collectedAt": "2026-09-11T21:00:27.813829Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "40db19f33d404fdc2a97d538",
+      "publishedAt": "2026-09-11T07:22:48Z",
+      "title": "September Hitam di Depan DPRD Sumut",
+      "source": "kompasiana.com",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOOWtRUC1FSzBmXzMwa1hFV1lQaDhlVHAzT2REdjBOeDdvZFl5R3M2NFFGR2ZITFBPVVh3elNOem1TeDZRQWpKRmR1QllkT2xzZGFwWWN2SDNYem94RnZvVjg0MHAxNnE5QTFmUlhxcVlMM0dCcWtIWlozbm1HZUZJUk52ZmhfSi1IcFkzOFJ5SllsaGRySlFKNjIzbWRacWlQcGRqMncxSDVTYlU?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-13T04:53:01.534024Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
@@ -1495,6 +1564,29 @@
       "reviewNote": ""
     },
     {
+      "id": "487e4c9968061ed5e851854e",
+      "publishedAt": "2026-09-10T07:43:45Z",
+      "title": "Tim Hukum: Pernyataan Budi Arie Soal Pemilu 2029 Tidak Memenuhi Unsur Makar",
+      "source": "Teras Media",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQbmI1M2ZQUUZCVHRsX0ZpN3dtSkprdnk2QUFSWjlVbnVucGVNcTMxWTJySUVlRGM4MlVXU3hkRUJhTEYtTGdTaDFiZ19ILVoxNFl5eHJfOHgxeVFCbThVR0JIMjdWSGxhRy1fY1MzaEYxWmxsdzdfWHNkZk1qRVg3Z3doWEowaHg3bHdRaVptU0JWWkZSOGh5MnI0WGQ4ZGU4UWxRUDd5X1puaWhNX0VCc28xVXlYZ3J4T09HMUdDWQ?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-13T04:53:01.534024Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
       "id": "7ad7c464f3796629754eb5b1",
       "publishedAt": "2026-09-10T07:24:20Z",
       "title": "Kontroversi Khotbah Pendeta Gilbert Lumoindong, Persoalan Penistaan Agama Kembali Memanas",
@@ -1835,6 +1927,29 @@
         "Kebebasan Beragama / Berkeyakinan (KBB)"
       ],
       "collectedAt": "2026-09-11T16:32:07.667019Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "b19f67c9e35e37695c0c9ce6",
+      "publishedAt": "2026-09-09T10:00:03Z",
+      "title": "Peradilan Militer dan Jalan Keluar Operasi Andrie Yunus",
+      "source": "Kompas.id",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNUnlkcXMya0FKNVdPeVdGaklNdHdXdFJVUjRQblloQ016M01idF9OOUN3enhnbUFHdE5ldk1hYWl0ZVBFWENKdlgzT1FJSmM2bXItb21iWmJ5X2xUdDh2b1lfVVNLczlVSlJFc2hvbjhsZTBNUTBlbm9CRnJ1S2RtS3NER192MW9TSk13QzFn?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-13T04:53:01.534024Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
