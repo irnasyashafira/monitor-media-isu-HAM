@@ -1,15 +1,15 @@
 {
   "meta": {
-    "generatedAt": "2026-09-13T04:53:01.534024Z",
-    "lastRunAt": "2026-09-13T04:53:01.534024Z",
+    "generatedAt": "2026-09-13T11:57:23.600329Z",
+    "lastRunAt": "2026-09-13T11:57:23.600329Z",
     "startDate": "2026-01-01",
     "refreshHours": 6,
     "mode": "incremental",
     "feedsOk": 16,
     "feedsFailed": 0,
-    "totalStored": 1161,
-    "totalPublished": 1161,
-    "newArticles": 5,
+    "totalStored": 1173,
+    "totalPublished": 1173,
+    "newArticles": 12,
     "warning": ""
   },
   "clusters": [
@@ -136,6 +136,121 @@
   ],
   "articles": [
     {
+      "id": "c41b56672617ef0eae4d2fa9",
+      "publishedAt": "2026-09-13T09:30:00Z",
+      "title": "Kebebasan Informasi Jadi Pilar Penting Demokrasi Indonesia",
+      "source": "RRI.co.id",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPTW9MSXE4dGJia2gyMjQxaVBjeVg3MGRkY002YnNfSGlNdjBJVE5jbkJ4RENXdUlRaUpTSFZlOWxSYWVad1ZVd0xFTzlBM0VPc0p3Z0F4QVVsdy16VFpJc21iWVlJUG5WZlNYa19TREs4MGRDSEpELW9aOFMtckdHck1xZDNobmY2NVBWTmM1QldJVFYzQW40cl9GUVV1S25hS1Jj?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-13T11:57:23.600329Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "e21f73b1fb8a0214bd772a5f",
+      "publishedAt": "2026-09-13T08:42:08Z",
+      "title": "12,5 Juta Jiwa Mengisap Asap Karhutla, ISPA Tembus 113.000 Kasus",
+      "source": "Kompas.id",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPUklzWWhpazRacUZLSVhZSlhzQkxqaTF2ZFgtNDZMckc3LS16MEJEWjFVVjFXWU5qWDJ4Zi1sbFcxakZtNXQ2bXFhMzZRNTZNYzZhdWFoZXRwREhHMTlNMXJTazdneFNSVUtTTVlDQnRxZDVKdTg1Y19FRFhCS2ZJOFBBWWVsU3ZfVTJoNklYMVZMa3FOZG9iUE9yWFZmUFhvanhCT2RVcGVvUmtMU0hZUkphanZSTWZOS2c?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-13T11:57:23.600329Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "7698eb0c0e793fe0eaba4ac6",
+      "publishedAt": "2026-09-13T07:55:25Z",
+      "title": "Aksi Pelemparan Bom Molotov di Kantor Komnas HAM RI Perwakilan Papua, Teddy Wakum: ‘Ada Upaya Pembungkaman’",
+      "source": "suryapapua.com",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOTWE5ZjA5bmFqdVgzeVh3WjFjTDI3RTYyakdhTU5tRDFfNHY5SjRNa1BTMG5PZjRLdnBYLWlqa1dHMjN2ZDlLSGJUWWVsV0dCNl9DQXBOekdtTC1wQXlmTFB0dGdHTjlpWTRTYURwTmY5ZlE3elNVeldCaHJQTW53SGRmRGxKcVRad01pYk9BQk05b3k1LWpXc043WXdvSWU2akFYRGhORzdhQ1k2VktNNGlfVmRpUjNKcElYSzBwS25QQmpGVkE?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-13T11:57:23.600329Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "c601b20d5f54db4faaa06ad3",
+      "publishedAt": "2026-09-13T04:31:36Z",
+      "title": "Antrean di SPBU Makassar lantaran BBM Langka",
+      "source": "Kompas.id",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNTmRiNVd4aWdERFF4SzhRZUhoRnZRMFFFNDVMTktnVmIzX0ZXSTFhNUNNaVBncGNjX1hFRC1NdTQ3VGtzRjUxNHNZanE5R0IybGVzanVveHNSaTEzVlVNaUFQMkF5VTFiZEpnUHlhWFZsQ1ZHcVpYTkNEWXlHQTlwNWVvZGtjYlVyQjh3UnJJT1pEMDNkeGNXXzZjWlUzdw?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-13T11:57:23.600329Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "ca316b022935d3d9d9889d16",
+      "publishedAt": "2026-09-13T02:43:59Z",
+      "title": "Gempa Magnitudo 5,9 Guncang Kepulauan Seribu Pagi Tadi, Ini Analisis BMKG soal Potensi Tsunami - Erapos",
+      "source": "era-pos.com",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNU3k2TDBkdm90QXJBVlRpR1ZQZGw5aFFWSlcyc2JYa0I3SXpQbm9ZV21abUplZFhOYjB1UWNUODFIN2RFelN2eTVVdGNLekJhSEdjMW5Bai10R212cGxzZld4eVE2VktQekFYSGVOSVhOWlVLeGdaUXFmemhBUmtCeXAxXzk3RHVvcjNKc0pIZmwwYUlsaUVQLTR1cHZMUEpaRTJMV1hnQk9LRk9PbkhEemdJZjUyRTJOenp3aFJkMDZfUGhPTzVXYUl0RGY2djJ4a3fSAdcBQVVfeXFMTl9aTDRaeEJCSUd0VHR3c0dUd3ItcXF1RGw0QWt1aGx6cll3b3o5SUxjUFExeDVmVjZBdmxoZHFnVlhDUnA2TEZDZ3hUVmlnNjA0dnctSUdEV0VneFlIb0FGUk1KaU9sSWdSaHNNQVdCYm9yS041NFFHemgtUnMySG9LN1hDT2t0WGVYQkJ2T2VIUzlzc0dQYjc4TTZVQ0FnRDVtY0h6R25DcExteW1kc1FrX2xmT1lLem9fY0pRcVhvNkRKUzNPdUxpWGVid0FKWFpDRXN5NjQ?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-13T11:57:23.600329Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
       "id": "b8085891013912d424315ca3",
       "publishedAt": "2026-09-12T15:38:00Z",
       "title": "Berita Video - Kementerian HAM Perkuat Literasi HAM di Sulawesi Utara",
@@ -251,6 +366,29 @@
       "reviewNote": ""
     },
     {
+      "id": "0f69e0498da4ecdfca26a81d",
+      "publishedAt": "2026-09-12T08:26:32Z",
+      "title": "Tiga Ahli Nilai Tindakan Badai NTB Tidak Memenuhi Unsur Pidana",
+      "source": "NTBSatu",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPTnZKajd4NDhWTmNaRFZfcGtCbkYtTDlNNGo1S2Zael9neFRtaDFRZ25TeGM1aGR1cGdMTDVvMkQ5cnJ5VnBWZUZtbUk3Wklqek9WUjlWVVJrUEVncXIwYnJWdXcteDk0UlUtSHkzcnR0RXk1MTRhUjZ4SXVnSzVYS2h0VFA3Y1RSTmFzb0gxbEJyaGtlbUpyUWcxT21hZmY2dUlsZTFoM2Q?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-13T11:57:23.600329Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
       "id": "01265dbe1c2bae5d583eb121",
       "publishedAt": "2026-09-12T08:23:18Z",
       "title": "Hak Jawab dan Klarifikasi: Oknum “AA” Bantah Keras Tuduhan Bekingi PETI dan Intimidasi LSM Lingga Bayu",
@@ -338,6 +476,29 @@
         "Sensor Konten"
       ],
       "collectedAt": "2026-09-12T10:52:11.134737Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "e26dfb8654de6256f49260b4",
+      "publishedAt": "2026-09-12T06:55:00Z",
+      "title": "Yusril Tegaskan Putusan Bebas Tak Bisa Diajukan Banding atau Kasasi",
+      "source": "TIMES Indonesia",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQZXBSSC1aTkJKZFlKdGxoRTNhYWViRk1aNFZCcXVrLVFjck1HQ0l5V2Rpek5UQldndTJ5UlBDTWtkZGZ2a0V0RkQ3LUlyak1Nb3NlYTNFZzhtT1V2RGZjWW5qek1lTlFwcGhHdk9uTXhIdVdHVk42Tk1MWndENVA0QjBqREVqeTdPelpQRTREQ2kzMjJVMll4VDdmUTJOaGdpSWJhQm1iY1d0YThsbXBVa3lRdw?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-13T11:57:23.600329Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
@@ -780,6 +941,52 @@
       "reviewNote": ""
     },
     {
+      "id": "fd8432d24b787fc55d7278a1",
+      "publishedAt": "2026-09-11T05:27:30Z",
+      "title": "GM FKPPI Sumut Kecam Kekerasan di Capital Building Medan, Desak Polda Usut Tuntas Dugaan Serangan OTK",
+      "source": "pab-indonesia.co.id",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNX1JURXoya3ZHRUoxLUxoTkJJYUZEQUoxSzJ1YTNlbHFXNlZnd1Z0Qk0wTm51Z1FRQXlHaWd4T2hGV09ncUQtRVRubllwenl6NWVaX0drTTYtZDdpVE41OVd4UTZhaDhqeVNESWRJSWQtd1MxMHZXeWMwWC1wb2dhcC1RYzF0QWhIZlIxdnRKNG5tN3N4bWl1U2pyVFBOUjhzdmNCcGdSV2ZlR2JXOG8tQlVrVnlrRDdCQmVhRExoU0FKSjgzdG1PY28xWU9ONzNacFZLb0Vpc3B4Qk5IdE1n0gHeAUFVX3lxTFBfeVZjbURFYVY5ZVk3YnVIY1FNQVZncGJVOHAzNldPS281UGN1c2ZzckpwUUJfd0hZYmh3eW5XM1JWQlZqREFJcUJ5QVFPTGxfUWdIY3A0aGc0V05KTmNyUUdRaU9SSkNQMmVlQWo5Ty1aX280c1pQZlJFdVEyNGUtNWFNREs0bUxwMG5oWkYtXy1mY1Q0bGdXTm9TV1B0T3hKM1BWVF80SFdCblhmZXROcHlrRmxvUnMxczRCMHB4dnlJekM2NXRRX2xSckkzSUYyYzNBbmVsQU01YXZ3dw?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-13T11:57:23.600329Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "255d7a08bff6ddc078039c2f",
+      "publishedAt": "2026-09-11T03:57:04Z",
+      "title": "Musuh Khayalan Prabowo Antek Asing: Menjadi Ancaman bagi Demokrasi Halaman 1",
+      "source": "Kompasiana.com",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNWFpfZ2JrNVZDYkxfWWVTZVVpZ1RPTDVOOGpIdHNDcjhZcWRMa3ZBVnU2czVxNlU5anpLZ2ZtOFpmRGJFOGVHYW5xUmdhTmZRRDZ4NDdQUVUtOEQwMUlGMVA2emYxNUhyWnl1dEtDZmp1Zlh0bTRCeGQ5X0h4VWpZOFQzZ09MOEZKWTJjUy15U3FCX1ptMzFLcHVvLXJ3a1ZndnpKRS1adE9qTXYyOXd0bVNFR2dTb2sydEYtSENpMV9MbVFO?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-13T11:57:23.600329Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
       "id": "83a70155a5d6a9544e745479",
       "publishedAt": "2026-09-11T03:38:58Z",
       "title": "Tiga Aktivis Hong Kong Dipenjara: Bagaimana Peringatan Tiananmen Menjadi Titik Balik Kebebasan Berpendapat",
@@ -1217,6 +1424,29 @@
       "reviewNote": ""
     },
     {
+      "id": "9fd54ef67615843122f10ab3",
+      "publishedAt": "2026-09-10T12:41:28Z",
+      "title": "Sound Horeg, Kritik, dan Adab di Ruang Publik Halaman 3",
+      "source": "Kompasiana.com",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPckUxMzczRFdQZkxOanBEWkdIYmRtUHdGcVdWT2ZaVU4zR1RvN0daMlp1U1FET2hxWElIV2FoNlE1aTByREZxd3JFUWRKQkp1YzkwZ0JVWGZ1SHZfekhmdXAzYVN4SkR4OXBKYjFWb1ZVY3Z1ZzlUNFlOcmZQTURCUWZQekRoMVZzMU5QNm95RXR1T3lDMzJsTlZrMDdXV0FSN1pyQmVuenc2bnljZ0NTYTdzRTQ5cHM1?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-13T11:57:23.600329Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
       "id": "3229759b45371449f92aa43e",
       "publishedAt": "2026-09-10T12:41:28Z",
       "title": "Sound Horeg, Kritik, dan Adab di Ruang Publik Halaman 2",
@@ -1582,6 +1812,29 @@
         "Kebebasan Berekspresi & Berpendapat"
       ],
       "collectedAt": "2026-09-13T04:53:01.534024Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "87f2219886bd2ca07fe2ffbe",
+      "publishedAt": "2026-09-10T07:43:45Z",
+      "title": "Tim Hukum: Pernyataan Budi Arie Soal Pemilu 2029 Tidak Memenuhi Unsur Makar",
+      "source": "terasmedia.co",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQbmI1M2ZQUUZCVHRsX0ZpN3dtSkprdnk2QUFSWjlVbnVucGVNcTMxWTJySUVlRGM4MlVXU3hkRUJhTEYtTGdTaDFiZ19ILVoxNFl5eHJfOHgxeVFCbThVR0JIMjdWSGxhRy1fY1MzaEYxWmxsdzdfWHNkZk1qRVg3Z3doWEowaHg3bHdRaVptU0JWWkZSOGh5MnI0WGQ4ZGU4UWxRUDd5X1puaWhNX0VCc28xVXlYZ3J4T09HMUdDWQ?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-13T11:57:23.600329Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
@@ -25397,6 +25650,29 @@
         "Doxxing & Intimidasi"
       ],
       "collectedAt": "2026-08-31T23:07:12.746081Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "ed0b59799fadf6e9fb8c90b0",
+      "publishedAt": "2026-04-06T07:00:00Z",
+      "title": "Bangunan di Tasikmalaya Dibakar Massa Buntut Isu Penistaan Agama",
+      "source": "detikcom",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOQzM3bmRTQzFqOVVZRXhHQTJ1UTFvYkhfaTV0ZVY0YlNCc2lMUnpDSEJ2X3NOcFMxaGtZWW5SMDRDY3U5NlBQUmRBZjRDbElTZDdneUtub1ItNDlSWWU0WE1OVmZpOC0wcUpVdjlFVUNYT3hpTkRPNlRFQkcyQTZpZ2tlWHJrcXM3eC1pOVBjaUM4dkl6Qmo3Rzg2S1E0OUtEdHNlWGQ3TWE4OUpHdnfSAbMBQVVfeXFMTzNEV3ZYcHhoR3dlbS1Hck1GdVNiNm9TWWFFTWhCdFdzbGJjc2xvbEVuLTIwU20wQnEwa2xRYnBzV2J4a1QwZGlkb3ZYT0pyN2R1cDdTUmFjbndGa2dnVl9xUEcyWXZJdkU4b1RSMDhHTmgyWmtNMjRXdlJrNGowQWhyRnV5Z3hrNFdWU29ZcGJvQmhxZW0tYVJUOFhtakJFM2w2Z19nbVZBZXlpNWJwY2RRdWs?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_beragama",
+      "subclusterIds": [
+        "kebebasan_beragama"
+      ],
+      "matchedQueries": [
+        "Kebebasan Beragama / Berkeyakinan (KBB)"
+      ],
+      "collectedAt": "2026-09-13T11:57:23.600329Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
