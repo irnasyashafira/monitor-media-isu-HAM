@@ -1,15 +1,15 @@
 {
   "meta": {
-    "generatedAt": "2026-09-13T16:22:43.467190Z",
-    "lastRunAt": "2026-09-13T16:22:43.467190Z",
+    "generatedAt": "2026-09-13T20:53:44.946182Z",
+    "lastRunAt": "2026-09-13T20:53:44.946182Z",
     "startDate": "2026-01-01",
     "refreshHours": 6,
     "mode": "incremental",
     "feedsOk": 16,
     "feedsFailed": 0,
-    "totalStored": 1183,
-    "totalPublished": 1183,
-    "newArticles": 10,
+    "totalStored": 1188,
+    "totalPublished": 1188,
+    "newArticles": 5,
     "warning": ""
   },
   "clusters": [
@@ -136,6 +136,29 @@
   ],
   "articles": [
     {
+      "id": "3ebc1893fc27cd423ef11b62",
+      "publishedAt": "2026-09-13T16:50:00Z",
+      "title": "Begini Etika Bermedia Sosial dalam Perspektif Islam",
+      "source": "RRI.co.id",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNN0IxRE13U2t1aEI4SnI2dmhYcFR0NjVzcHNOaVdFNDBfRDVQMzdaRVlROGxjTnp0NVpwd3I0WTNyNUR3Y210OTJqM2VGZDJ6OV9ieGtQS0tCSU5oMDVKeTZ1M3pDOWNUTUVHV0FTYWZzZExSRUF3S1FwU1gyRjdPZC1KdWdDM0hUS1BOYmNSUXk5dXc1N3Fwcjg3d3BDSXpoOTZDVw?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-13T20:53:44.946182Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
       "id": "9d5b5e9819b928d56a4399d8",
       "publishedAt": "2026-09-13T15:01:00Z",
       "title": "Aktor Kerusuhan 27 Agustus, Gus Falah Desak Polri Jerat dengan KUHP Baru",
@@ -154,6 +177,29 @@
         "Kebebasan Berekspresi & Berpendapat"
       ],
       "collectedAt": "2026-09-13T16:22:43.467190Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "87c5fc46457d446635b1f0fd",
+      "publishedAt": "2026-09-13T14:33:00Z",
+      "title": "Abah Setu Minta Maaf dan Tutup Majelis, Polisi: Kasus Dugaan Penistaan Agama Tetap Berjalan - sumeks.disway.id",
+      "source": "Sumeks",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQQ0x2eVVod3RUT1JMVkYxVWFxSnNQRDJPUGVjTjRuRkl0SjU0RVE3VEpfNl85RFNxX2o4Z3VUdnlxSVF1NWxZMVFDMEl2Ym96M3lpV0Y2MFdKNlZnTXg4T3A5ZU1RMG5JM3FoY1dQMEpucVVXYjlLSmZDbWJHSE1KVC1ma081aERlXzdYVlFaV1VaaDllUVlRU3NSNGp5aU1Pel8yV3lpUjlCeG5OZGExMGpvUFBvUWw3RkpDWGhsOWRLcms5MkpyN3dVUjFtVjhLeEw4ONIBwwFBVV95cUxOZkVYc2xTLXdqaDM4TldydzdyalVzdDNZVmxhclp0UkZTUUJWTkVtcFhuYmVfNkZDRGV0OEJZN1JqYlRxQWJOUzBXSEhYMUx4OFRZbko4bVIyX2dEaFg0UGdLUFZBOXhMdFpKR3NmWDktOXVjVFRuRVVIVXlxU1g3ejYwMmpnWmtMeHg5YlBaMWFRM2dWM0dVazljVmdZOUFrR08xZVlYdjlMVkZzbTJVQ19zeWhVOFYwUTJFX3c1VkxXVjQ?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_beragama",
+      "subclusterIds": [
+        "kebebasan_beragama"
+      ],
+      "matchedQueries": [
+        "Kebebasan Beragama / Berkeyakinan (KBB)"
+      ],
+      "collectedAt": "2026-09-13T20:53:44.946182Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
@@ -361,6 +407,29 @@
         "Kebebasan Berekspresi & Berpendapat"
       ],
       "collectedAt": "2026-09-13T16:22:43.467190Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "8ad1eb4fb43003e4a6e6f2d1",
+      "publishedAt": "2026-09-13T06:46:16Z",
+      "title": "Ditengah Kemarau Panjang, Harga Air Bersih Per Tangki ‘Melangit’, Tembus Rp200.000",
+      "source": "Surya Papua",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQb1hCVXZybkdlUnNXaUJyaEMyc0p1N01XcjR6Q3djeGFKQjczYUE3QVhUN1YtZzk5bXp6TEl3azBBTjlpNTZuZHhIaG1SSE81R1RxUG55T2R6S0xzcVdjQ0p2aFdMM19kcEF6aXMwZldXTFBiekg4RkVDb2JnMnFZNjNocTlLNmxYX2liR0dRenlBaGFLYzN0Tk1COG5KMG4zRjJyNQ?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-13T20:53:44.946182Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
@@ -1488,6 +1557,29 @@
         "Kebebasan Berekspresi & Berpendapat"
       ],
       "collectedAt": "2026-09-11T11:27:04.960943Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "216e88d920abd0904fce848b",
+      "publishedAt": "2026-09-11T01:07:49Z",
+      "title": "Student Journalism: Etika Bersosial Media",
+      "source": "jombangbanget.jawapos.com",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOMlZERjFfZUlBcnQtZ2xVQlJHcjFvS0NGcmxFalNYdFRPbjAwT3lGZVh5bHlidXVzNm5NWFlsODhQOWdCNWlqa3gxQkUwS1h5a3kzNlVLeVVmZnV6enozY3A5aURYQklVZTlOVkFOSl9teFN4ajhvZEpaQXdEeGxlSW9QUEVMa1lBQXdSaHhVNmVfeVNJVmY5NU04emEzbS10VENXUNIBqgFBVV95cUxNWFROdGdRbVdaYWpiYmUyMnV4S3p1d2RwT241eF9CdEJwc2xodERhMllmQmtfbGRPaFI2V0pRamREV0dUWlo4ano2RVQzdEJhZnlzdWRvZ0xXSmE4VU5keGoxWkZLLXFOMGNDRkl6TW5zQmV0bzZrSU84MHA4ZXpyU3VsNGZ6enlvRE1CVFZ1Ui0wZk1NdTl3Z3l4SGU2OEJHM1ZqOVhORHotZw?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-13T20:53:44.946182Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
@@ -15385,6 +15477,29 @@
         "Kebebasan Beragama / Berkeyakinan (KBB)"
       ],
       "collectedAt": "2026-09-01T03:05:34.416592Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "201dacff2bd3dee9a1fecad8",
+      "publishedAt": "2026-08-13T07:00:00Z",
+      "title": "KAHMI Sumut Desak Polisi Usut Tuntas Dugaan Penistaan Agama dalam Promosi Miras “Newport”",
+      "source": "KBA News",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOQ1FZUUlNdlRxcGc1YjlScUdaUmcyUGhyRkdFM0VlLWV3QUVfSmJZdFZzSU5RZm5VYW1rdE1BZG9zUFRhNXJxUDdQbFdyRTR6QmdLVy1hYTdjZ1R3VTdJZGdLNml6WXlEbW1EUFc3S0M3cWdCQk0ydTB1RndOZFBfRmhBY1g2SmdEdGhfTDJLSEhFTUFVTlREZlBOSHFqNjU1ZkMtQk5wUEljQU12TVZ1bDRfNlY0Q3VaM2c?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_beragama",
+      "subclusterIds": [
+        "kebebasan_beragama"
+      ],
+      "matchedQueries": [
+        "Kebebasan Beragama / Berkeyakinan (KBB)"
+      ],
+      "collectedAt": "2026-09-13T20:53:44.946182Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
