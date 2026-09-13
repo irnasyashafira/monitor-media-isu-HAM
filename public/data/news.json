@@ -1,15 +1,15 @@
 {
   "meta": {
-    "generatedAt": "2026-09-13T11:57:23.600329Z",
-    "lastRunAt": "2026-09-13T11:57:23.600329Z",
+    "generatedAt": "2026-09-13T16:22:43.467190Z",
+    "lastRunAt": "2026-09-13T16:22:43.467190Z",
     "startDate": "2026-01-01",
     "refreshHours": 6,
     "mode": "incremental",
     "feedsOk": 16,
     "feedsFailed": 0,
-    "totalStored": 1173,
-    "totalPublished": 1173,
-    "newArticles": 12,
+    "totalStored": 1183,
+    "totalPublished": 1183,
+    "newArticles": 10,
     "warning": ""
   },
   "clusters": [
@@ -136,6 +136,98 @@
   ],
   "articles": [
     {
+      "id": "9d5b5e9819b928d56a4399d8",
+      "publishedAt": "2026-09-13T15:01:00Z",
+      "title": "Aktor Kerusuhan 27 Agustus, Gus Falah Desak Polri Jerat dengan KUHP Baru",
+      "source": "gesuri.id",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPTVhLNTh3RXpPWHZSQ1JGYm1SWTAzc3BtT1gwRm5WeElEa2tvSVNwRjJtYnBFTWZjR0luUTdQRDhwY1JLY1E3SWFLZlFwODRNdEE4eF9lb2w2R1pvejB5XzUyUGhTdXNSYVRTU0R0VDhQZEwtM3Q4ak1HUkF3VkNqUXBsd3BmT1I5d0tPX1d2OWJnV1I5bXRyYlZUUWRMRXE1djhSMi03aDdrSFVOY05UOHY0N3QwXzNK?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-13T16:22:43.467190Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "34240106a92cbff62450c742",
+      "publishedAt": "2026-09-13T14:33:00Z",
+      "title": "Abah Setu Minta Maaf dan Tutup Majelis, Polisi: Kasus Dugaan Penistaan Agama Tetap Berjalan",
+      "source": "Sumeks",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQQ0x2eVVod3RUT1JMVkYxVWFxSnNQRDJPUGVjTjRuRkl0SjU0RVE3VEpfNl85RFNxX2o4Z3VUdnlxSVF1NWxZMVFDMEl2Ym96M3lpV0Y2MFdKNlZnTXg4T3A5ZU1RMG5JM3FoY1dQMEpucVVXYjlLSmZDbWJHSE1KVC1ma081aERlXzdYVlFaV1VaaDllUVlRU3NSNGp5aU1Pel8yV3lpUjlCeG5OZGExMGpvUFBvUWw3RkpDWGhsOWRLcms5MkpyN3dVUjFtVjhLeEw4OA?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_beragama",
+      "subclusterIds": [
+        "kebebasan_beragama"
+      ],
+      "matchedQueries": [
+        "Kebebasan Beragama / Berkeyakinan (KBB)"
+      ],
+      "collectedAt": "2026-09-13T16:22:43.467190Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "9826cb2440ce8638282d7bfa",
+      "publishedAt": "2026-09-13T12:55:11Z",
+      "title": "Koalisi Sipil Jabar Desak Transparansi, Soroti Isu Miring Wabup Sumedang Hingga Pembungkaman Pers",
+      "source": "| kejakimpolnews.com",
+      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOMFE4WFZfQW81aXh3a2xDaVBUdHNQMFJwbWNocW9vV0FGYU81Z0J3N3ZJNERhdFRtcGJlQ2F0XzlCaEV3RlFpbFJFR2MydDUyY3JhMVkxdHlQc0RGYTZ0bl9fOWlHMFBlMkhzbGRvTHpPVGV6RW5JTnBXSTBpMElVNEdJbkpvN1VLVlktcjh1d2t2RUJzVHlFVUR1cGNVTGp5OHZMenllSzFCNi15bGE4Tk1DMXR2TUxWdEVRbEhvLXJCRkZoeVM4aERfaTNvcEQzc210ektVamdadmEyaXY0WEh0bzdHaXBnT19pVW05WC0?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-13T16:22:43.467190Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "32c718dae9519189fe6d470e",
+      "publishedAt": "2026-09-13T09:45:41Z",
+      "title": "KMP Virgo Transport 8 Hilang Kontak di Laut Jawa, Angkut 243 Orang",
+      "source": "Kompas.id",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOa3NXVUhOUXhEcGFBUzh3bTRPYjItb3pmRW1SZm1HaW5rMVY1aHkzNWFqNU5lUzNINmFVWk4zNGxEZVVjRWZSUllaLTJGMGZxM3B6SXpKRTUtQ1pUOEFocEp2VHVPV3FoYTFKQ3BPakdhTmlqUTZlUjlyUmJwR2dObHVzTmNkLWg4Z3pQenBKUlktYVV5VEdzVXFEcw?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-13T16:22:43.467190Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
       "id": "c41b56672617ef0eae4d2fa9",
       "publishedAt": "2026-09-13T09:30:00Z",
       "title": "Kebebasan Informasi Jadi Pilar Penting Demokrasi Indonesia",
@@ -205,6 +297,98 @@
       "reviewNote": ""
     },
     {
+      "id": "bf3511d3c115718680b934ec",
+      "publishedAt": "2026-09-13T07:55:25Z",
+      "title": "Aksi Pelemparan Bom Molotov di Kantor Komnas HAM RI Perwakilan Papua, Teddy Wakum: ‘Ada Upaya Pembungkaman’",
+      "source": "Surya Papua",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOTWE5ZjA5bmFqdVgzeVh3WjFjTDI3RTYyakdhTU5tRDFfNHY5SjRNa1BTMG5PZjRLdnBYLWlqa1dHMjN2ZDlLSGJUWWVsV0dCNl9DQXBOekdtTC1wQXlmTFB0dGdHTjlpWTRTYURwTmY5ZlE3elNVeldCaHJQTW53SGRmRGxKcVRad01pYk9BQk05b3k1LWpXc043WXdvSWU2akFYRGhORzdhQ1k2VktNNGlfVmRpUjNKcElYSzBwS25QQmpGVkE?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-13T16:22:43.467190Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "26641f78e4ab3687a90ddbff",
+      "publishedAt": "2026-09-13T07:49:24Z",
+      "title": "Kebakaran Meluas hingga Area Kafe, Kawasan Wisata Bromo Ditutup Total - Erapos",
+      "source": "era-pos.com",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNS18walZXWWJLa3dQLTZfeGpaa3U2Rzl5Z0VqTlRuQVRYTXl1OWctLW15RVliOWxJOHZUUWlDZm9yYlB5UkxGby1OcFBCeXVhOWlmZF8yLXN1QjEzVWJxbTRBaGRaNWVuODBQM012WWtKWXZSZlJSVDM0Tm9GNkdOSmRnWEdab0ZuUzlrVDVmZmtrQ2xvT2tjVDE0a1VLVWdHVG1DTzRrY3o2c2U4dWFHcnJaQdIBuAFBVV95cUxNSTdZeWdpT3d5MldrcEh0REU5QVV6OHNQU1NfNHBRb0RBdnNGNmN1cVVzeTdLS3VaSjNsNHVBQWtnR3VIVmVZTzNYWG0wOFZrczdzNjVkV19iQzZUZDhIV0lnYld2TDlQUzVFd1p3VDBfYmx3ZTlWVjBhU25tUnRCaUx6TUtVQVZuc2NEcWllZmZ3V1pmX1lxVDlDS25nVjdXeVl0UU9ydW5melRhbUpBT3lnZEJrR3pr?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-13T16:22:43.467190Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "5173bb328cb2c24f3e5f8d28",
+      "publishedAt": "2026-09-13T07:10:55Z",
+      "title": "Kasus Keracunan MBG Terus Memakan Korban, Desakan Moratorium Menguat",
+      "source": "Kompas.id",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOM2EtdlFTZXRfTlZ1a0cxdWNTRGlzb3ljWEl3SWszMmZCUXMtaDdxM09kVV9vQnZCS0RXZ3RfWXdtQS1zbjZMVTQ4WXU0M1pJWjA2YlFJSVBleVpwWkluWXg3ZDVsYXAwMkFsS1E5a2x1WU9jeUhpY1piLWdjc1gtaWIzejBtRmlmMHhvNTBNNUdOaFk5N01ncUJKSVRhZw?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-13T16:22:43.467190Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "c027b6997e646c97c2f8f9c8",
+      "publishedAt": "2026-09-13T06:05:00Z",
+      "title": "Bentrok Mencekam di Makassar, 2 Kelompok Warga Saling Serang Batu, Busur, dan Petasan!",
+      "source": "Oposisi Cerdas",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNLXZ5Q0Z0M0MwZzdpWGM5U0RPSnFMUDNkN2RWNVZSNEZEZjBiVVZielc3dXNpU3hrLUNTU0lSUXFQbkdlcFVCSDQyUnUzeTdwMmYtbXZzY3pUZWJCWkM2WmJ3QXhCT1ZhdlRYd2hDaGgzSWR2WVlZeldtbTJvN1lCXy1NQUtKNmRLdnc?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_berkumpul",
+      "subclusterIds": [
+        "kebebasan_berkumpul"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berkumpul / Berserikat"
+      ],
+      "collectedAt": "2026-09-13T16:22:43.467190Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
       "id": "c601b20d5f54db4faaa06ad3",
       "publishedAt": "2026-09-13T04:31:36Z",
       "title": "Antrean di SPBU Makassar lantaran BBM Langka",
@@ -269,6 +453,29 @@
         "Kebebasan Berekspresi & Berpendapat"
       ],
       "collectedAt": "2026-09-12T20:36:07.706158Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "1dddde696ef0baff71257d8d",
+      "publishedAt": "2026-09-12T14:13:49Z",
+      "title": "Ketika Kepala Desa Mengincar Kekuasaan Tanpa Batas Waktu",
+      "source": "Kompas.id",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNV2hZUFNYaFFGQ3ZMR3BYVDZtTW9OTG5oSTFpcEZocFIxcWV2eGJkVmdYQUlLMmtlQUpKaTZHRFd5OXRQbDcwb3ZKUXdSeTRBczJLUVJuNGxMXzBxd0ludzBkRGY3aTZsbjNsc0RxVENYOEhMUTFLR2d6dTNyOTFXRWNPMUMtMHhmUHFiVDJyVQ?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-13T16:22:43.467190Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
@@ -545,6 +752,29 @@
         "Kebebasan Berekspresi & Berpendapat"
       ],
       "collectedAt": "2026-09-12T10:52:11.134737Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "18296ccb962e35ee9eee5d72",
+      "publishedAt": "2026-09-11T21:06:44Z",
+      "title": "Amnesty Kecam Tuntutan 6 Bulan Khariq Anhar, Bungkam Kritik Mahasiswa",
+      "source": "upplan.sg",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1EMkhGZUctMFVlOHVoN1FkVllwVXRYcDYzQ3ozOG5tRkhTVjVkbUZoTzF1MGYxRHZXUzlsVFc0Y01DVE01Y2hJbkhSbDdHM2VITjE4?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-13T16:22:43.467190Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
