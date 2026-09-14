@@ -1,15 +1,15 @@
 {
   "meta": {
-    "generatedAt": "2026-09-14T12:54:41.881758Z",
-    "lastRunAt": "2026-09-14T12:54:41.881758Z",
+    "generatedAt": "2026-09-14T21:52:36.489490Z",
+    "lastRunAt": "2026-09-14T21:52:36.489490Z",
     "startDate": "2026-01-01",
     "refreshHours": 6,
     "mode": "incremental",
     "feedsOk": 16,
     "feedsFailed": 0,
-    "totalStored": 1207,
-    "totalPublished": 1207,
-    "newArticles": 12,
+    "totalStored": 1218,
+    "totalPublished": 1218,
+    "newArticles": 11,
     "warning": ""
   },
   "clusters": [
@@ -135,6 +135,121 @@
     }
   ],
   "articles": [
+    {
+      "id": "3b6e997900e78dd0725ed6d4",
+      "publishedAt": "2026-09-14T17:46:16Z",
+      "title": "| Diperingati Setiap 15 September, Apa Itu Hari Afro Sedunia?",
+      "source": "jurnas.com",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNRkJzdjFYYmEtNUZob19QVWJWLUlYQXJidEVyOW9rS1BtYVlsSVJBZXQzTWpxcl9KN0lreFFPc3E5RUY5UWdoSW1WbXdFMy1NX2ZSa2QxQnhZeWNtR1FfeHpRYzJMem1vQ1I1WWlWNmtGR3ZmenhjZExORlpTTlF2aGtKR216S1VJdVNteklyUjlUVmpTcndDYmJsMGpMQQ?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-14T21:52:36.489490Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "8d093b0986d44c94a50d890b",
+      "publishedAt": "2026-09-14T13:20:00Z",
+      "title": "Aturan RI Mendunia, Presiden Prancis Pantang Menyerah Mau Ikut",
+      "source": "CNBC Indonesia",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQX0N0Qk1vMUhOREZoUGdyOGY4TmFLOHhlQVhodFNpeXdSaUFsMnBwUXYyRHprOGRqYUJ6SUtRaDdESDFkVkh3S1VhMFIwX1NJSENRX2N6SDhWdV8tQjFuX3A4NklENlV1NnpuejAxNFhlZ1BoMl9SVGhaVERoNmFSMVZSaDBrU0h0UGRfYVNEQmlLU1RMS0pvdGJCamdCdm5PUFhHRUg1WmY5NVN1SzZYelBxRGJuXzNtRkw0M2RB0gHDAUFVX3lxTE1KaHliMmhBeThWaTZOczdOZG1zVFFfU21wNjZZNFg1NzBPNDlvODRkZVl0YzU5MmJJcEVoYTRQdXkybE5GUVEtSktMRmR3dFpjdUpHX2ptUWc1TXk3WVg1Y2lkUXU4ODBwN1NJY2xzNmZzZU1xMTh3Mjg2YXpxUXNWMzZ6c2pySGxFN2lrUzJqNlV1b2F5VnZhNGZFdWJ3WUFvOVFRRXh0eFlybWlKOWpoSkJsZ3BpWlVXSjR6UkxxWGJ4MA?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-14T21:52:36.489490Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "16a8f2a4f353e5907114505b",
+      "publishedAt": "2026-09-14T13:10:04Z",
+      "title": "Polemik Akses Bendungan Lahor, HMI Malang : Kebebasan Berpendapat Harus Pada Koridor Hukum dan Bermartabat, Bukan Kekerasan",
+      "source": "TagarJatim.id",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQc0RzbnBaQkpJVmZScGZFdC1qOUEtSl93aGZwOG1aNUE2c2pDVE9IV3d0UzVwSloxZ2xyTGhOQ2hiam04RXoxMC01WEV6NGl2NkJHWFY3amtLcG9MQW9LeFhpR3JGYlhEYkRuRVo5eU5WcTd2SFliY0JYNkt4dWRUZE9TLXRxbjI2ZlJUb0ltUVY1Ul96WmMwUlBrS0NWaGV2UllCTEtuX2xFQVU5Q2JaUXA1WFhObmJVWG1GVEdPM2ZfV0U1bEJWbjktZld4SzEzTm9OLVVybjNIay1ZODQzVFRR?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-14T21:52:36.489490Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "3006555d19abb4a421192439",
+      "publishedAt": "2026-09-14T12:45:00Z",
+      "title": "Prancis Ajukan Lagi Larangan Media Sosial untuk Anak di Bawah 15 Tahun setelah Aturan Lama Dibatalkan",
+      "source": "VOI.ID",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQR2htS0VzY2MzQ2t5MUVLdkdjUWlmVW0yZ1VWaEs1bzhGb1BUNnNPMG9KNkh5RE0zY0Jqb29CSWd2NFFUUDB0MnctUWRDT21aSExhellXUVhFbmFCUlg5R1pLd0ZfTjc1ODl0WVprbzQ1eXdqLXFCUFlfTXJsRHdHYUlTNmNHaW44SExLaEFaalVZU0FMTHhiV1B6UDY1dkNYT04yRnRwRkNsaFpHS3Y2RUVaSUk4QlFLOTgwUUl6YVNyazcyaGJtTDdMVmxGQdIBxgFBVV95cUxQRUdYbEZSNzBBaVN1R1ZPUk91cEJnczlBSkJWNUF0c2VySElYbDJrSXVXVXkzSW1HcFF0LS1ROFNUSHVoWjFobFpVLU5vR2ZBOUFrQW1TaEliTXRHNVUwZXVYM2ZLRkh4ZkFIVjloNzJna1I2VzJJZFBWSDVlVXkxb3NGc2lJYUQ1V0pJVmR6cml1OE9OOUd1cGlwbU5BWk10SXk0YWRkdWhDSzZGZG9laURZZFhMS3B3VlRCSGsyUE5GSGZGOUE?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-14T21:52:36.489490Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "13349d47606e12bb19a974d0",
+      "publishedAt": "2026-09-14T12:20:00Z",
+      "title": "6 Film RI Ikut Busan International Film Festival, Ada \"Laut Bercerita\"",
+      "source": "CNBC Indonesia",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPLThBSS16QS1BeWFHMGlKLVk4YmtQQ1BSY0R2WFhFR05fZ1ZldndYaEJSNTA1RWNEN1YwM1RMX1RXcTFTbkE5SGxtWWdqYTNjdG1GbnF5Q1IzV2YtWTcycl9LZ1NlYjhTMG14MTJtSHlndzdEdC1WWDFkZ3FwNVJ2clQwNFpoSndPeVptT0xkcE1fekc1Rl83bHV4VHlWcml2bUVYYkVrOXA1N3V0dl9GSGY2Mm5GZXVJQkZzM3gxUmgzclZ4ZGdxdGo3bEQ5aE1JVUHSAdIBQVVfeXFMTy04QUktekEtQXlhRzBpSi1ZOGJrUENQUmNEdlhYRUdOX2dWZXZ3WGhCUjUwNUVjRDdWMDNUTF9UV3ExU25BOUhsbVlnamEzY3RtRm5xeUNSM1dmLVk3MnJfS2dTZWI4UzBteDEybUh5Z3c3RHQtVlgxZGdxcDVSdnJUMDRaaEp3T3labU9MZHBNX3pHNUZfN2x1eFR5VnJpdm1FWGJFazlwNTd1dHZfRkhmNjJuRmV1SUJGczN4MVJoM3JWeGRncXRqN2xEOWhNSVVB?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-14T21:52:36.489490Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
     {
       "id": "64ecca74adf0c334a0049ac0",
       "publishedAt": "2026-09-14T12:04:06Z",
@@ -315,6 +430,29 @@
         "Kebebasan Berekspresi & Berpendapat"
       ],
       "collectedAt": "2026-09-14T12:54:41.881758Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "df6eec75ee59d401271ba874",
+      "publishedAt": "2026-09-14T04:37:55Z",
+      "title": "Kelompok HAM Sebut 37 Jurnalis Palestina Ditahan di Penjara Israel",
+      "source": "VOI.ID",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPMzJUWXF4MWtUWEFQb3Z1dzZxdzRZUG55QUJzTUVBYjc4ZkxyWXVURzlDU2dJOEdwVzdqUDU0SDNjMmhwVWl4MkF3anBldl8xRFl4bXNheVlla0dfWURnOS1fSVQzMmI1VVhtb3NPY3BOb3VMUUFNcTNtNDEzQ3pVMjItQTlHXzRuU2xlb1lUbVczQ3ByblpV0gGXAUFVX3lxTE8zMlRZcXgxa1RYQVBvdnV3NnF3NFlQbnlBQnNNRUFiNzhmTHJZdVRHOUNTZ0k4R3BXN2pQNTRIM2MyaHBVaXgyQXdqcGV2XzFEWXhtc2F5WWVrR19ZRGc5LV9JVDMyYjVVWG1vc09jcE5vdUxRQU1xM200MTNDelUyMi1BOUdfNG5TbGVvWVRtVzNDcHJuWlU?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-14T21:52:36.489490Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
@@ -596,6 +734,29 @@
       "reviewNote": ""
     },
     {
+      "id": "b9bc2f15cae25607843b5038",
+      "publishedAt": "2026-09-13T12:27:34Z",
+      "title": "Kudeta Bukan Solusi.",
+      "source": "kompasiana.com",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOWE9pU3ZHY1ZjcmJoOV8yWVNyOFo2cldlUzFha1AyekI5TTJDWnpyQllQdVNjamZMWlR6OXRKODhLTXpiS0MxXy0xQ2RKQ0doYkh1cER2QTFScE5UR1BwbWExX0dhdUtDdy1IZ3VPTWt5YnA3Y0djWjN5REFLSE11ckllS1J3RHVFUGpkeG82U3R5X3lNYlNjNQ?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-14T21:52:36.489490Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
       "id": "32c718dae9519189fe6d470e",
       "publishedAt": "2026-09-13T09:45:41Z",
       "title": "KMP Virgo Transport 8 Hilang Kontak di Laut Jawa, Angkut 243 Orang",
@@ -849,6 +1010,29 @@
       "reviewNote": ""
     },
     {
+      "id": "5b4753ea1f7ea3df7ba38117",
+      "publishedAt": "2026-09-13T04:27:00Z",
+      "title": "Bertemu Prabowo, Mahasiswa Indonesia Ini Berharap Indonesia Semakin Perkuat Kerja Sama dengan India - Erapos",
+      "source": "era-pos.com",
+      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOV21DbnlMOXlsd0gwaFpVbE5qZDdXSGw1WkNPOWJQdF9rYVB6NG96M2xQYlJ0UVV4MXVZTG92OURzOE9QeFdwMnVJVlZDZWRqTVhKVEIwa3h4dFlOaDVuYU1IN3BqUkpNYjhob0hnQWRLVlR4SlJyQjQ1WVZMeWs4Y0kzNzQyb19ZdEtyVnpNVV9tWVdUU1Npa3NVMmlUV0ZfVFVod3RvbTlEM0lvV0RMNHRENTFjRG92eUVjdDdaNjBmek1acjU4b1B0U1BBLVlIQURXZWd2UzY0cElEYVBpNXp5aW1oZ9IB5gFBVV95cUxOV21DbnlMOXlsd0gwaFpVbE5qZDdXSGw1WkNPOWJQdF9rYVB6NG96M2xQYlJ0UVV4MXVZTG92OURzOE9QeFdwMnVJVlZDZWRqTVhKVEIwa3h4dFlOaDVuYU1IN3BqUkpNYjhob0hnQWRLVlR4SlJyQjQ1WVZMeWs4Y0kzNzQyb19ZdEtyVnpNVV9tWVdUU1Npa3NVMmlUV0ZfVFVod3RvbTlEM0lvV0RMNHRENTFjRG92eUVjdDdaNjBmek1acjU4b1B0U1BBLVlIQURXZWd2UzY0cElEYVBpNXp5aW1oZw?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-14T21:52:36.489490Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
       "id": "ca316b022935d3d9d9889d16",
       "publishedAt": "2026-09-13T02:43:59Z",
       "title": "Gempa Magnitudo 5,9 Guncang Kepulauan Seribu Pagi Tadi, Ini Analisis BMKG soal Potensi Tsunami - Erapos",
@@ -987,6 +1171,29 @@
       "reviewNote": ""
     },
     {
+      "id": "bddf6278983841ed677f568a",
+      "publishedAt": "2026-09-12T12:09:12Z",
+      "title": "Anak Muda Diharapkan Memberi Kritik Berbasis Data",
+      "source": "indie banyumas",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQZmFZWGVoc2dxbjM0OHJwSGxGTkpYUDFUbFByMTVObDBsdWxuNGtUdXhZSFJFRE1zTm51NHk5LURTSjJrdzlNcTJteVh1dlBpM09aMGRMNUlkZGdZTUkxOFhJMlgybENWQTBvamJ1aGxKUHJ5QXpFS0xpNDQyU1Eyd2dn?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-14T21:52:36.489490Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
       "id": "3ecd8b3fc9fb2cb4c739def6",
       "publishedAt": "2026-09-12T11:16:02Z",
       "title": "Gen Z Impact Fest 2026 Edukasi Tips Keamanan Digital Gen Z di UGM",
@@ -1028,6 +1235,29 @@
         "Kebebasan Berekspresi & Berpendapat"
       ],
       "collectedAt": "2026-09-12T20:36:07.706158Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "1f7cd1aa1b370a523b579c47",
+      "publishedAt": "2026-09-12T08:50:15Z",
+      "title": "AA Bantah Intimidasi LSM dan Tegaskan Tidak Bekingi PETI di Linggabayu",
+      "source": "startnews.co.id",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZWtjY2ZoSXhIMzFSWXlQWE5NaTdTd25NRDd5cTBTSXpodnBjMzE2MVNyR2tnblJjaW5ZU2JubGN2d2NSOV9aNWc1OUF6Q293amVYQ2NxN3EyN0lfbWRyYzZ6WWtUV2Q2VHRVTTExeWkzVV92VHRsRHI5U2pab0w3TDVDbFBkWkVuR0hRRDJhU0J0dGJUZ0h1OVdpcw?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-14T21:52:36.489490Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
@@ -1327,6 +1557,29 @@
         "Kebebasan Berekspresi & Berpendapat"
       ],
       "collectedAt": "2026-09-12T10:52:11.134737Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "9409b6b2e82e5ce7e10b56ce",
+      "publishedAt": "2026-09-11T13:36:53Z",
+      "title": "Tulus Santoso: Regulasi Penyiaran Perlu Disesuaikan agar Tetap Relevan",
+      "source": "news.okezone.com",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPcDF4anN6MDZ4WUZZcG5uTHZlTEZjcFhZd2JQNjhQNnV1X0ozR05iczR3MmJ1TGdTZG5rNXZJWDFJUGJ6Q3VaRF9DamhoWjJmU0JydndtQlZnZmNGcURJWEpfSWhqV05UWmxlVUFzU2xZcGN1Y2lRd09BOEUwQzNjZFBqc3FVRWFKWDA1M3FoNERPaXJ0UzN1RE1NaVVhWnRhNDJISmVOYXpBZjJwR0s5cjlPYnFEVFB6Q0tzd2VsODJYXzhpT2pyRdIBvgFBVV95cUxOMW9Ub2JCc3RsUmZBY2tkUUFFREhod1p3ZHRBWHRZYVcycWR2S2RLNVNBQjB0akx3dUZaMWcxVzdVcEE4WU1XNWhDRUpuQ2NNQ0pRZkVRYlF0cEFFc2lzR3VMdll6TWhteWYtdkQ1NzBTRjZCOWo1R0lxcC03Qng0VDNvUTl3NWRkSThqc1AycmxlVi1oejRmam1YU01jN2JmUU5jeUxZV2dsZGdtazh3aVBncDdYNk5jSUJJRUR3?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-14T21:52:36.489490Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
