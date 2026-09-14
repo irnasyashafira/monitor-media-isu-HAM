@@ -1,15 +1,15 @@
 {
   "meta": {
-    "generatedAt": "2026-09-13T20:53:44.946182Z",
-    "lastRunAt": "2026-09-13T20:53:44.946182Z",
+    "generatedAt": "2026-09-14T05:01:25.694222Z",
+    "lastRunAt": "2026-09-14T05:01:25.694222Z",
     "startDate": "2026-01-01",
     "refreshHours": 6,
     "mode": "incremental",
     "feedsOk": 16,
     "feedsFailed": 0,
-    "totalStored": 1188,
-    "totalPublished": 1188,
-    "newArticles": 5,
+    "totalStored": 1195,
+    "totalPublished": 1195,
+    "newArticles": 7,
     "warning": ""
   },
   "clusters": [
@@ -135,6 +135,121 @@
     }
   ],
   "articles": [
+    {
+      "id": "0622d6fa41214e7236feea8b",
+      "publishedAt": "2026-09-14T04:02:58Z",
+      "title": "Novel Baswedan Buka Suara soal Denny Indrayana: Tuduhan Korupsi Itu Tak Benar",
+      "source": "FAJAR",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPWEEtZ1BuVFY1a3ZtMm9RR0F5VFR0b1FHVnlsZ3FxTnA5VlZ5My1ESjZuMnRCNmxjakpoOEJ2dVpoQXlDbDNkLUxyQzN3UEI2eWI0SFZCWGZ3eEx1Yl9MdnBTUVBYRGJPTkpiMHMyTFBJUy02Z2FLYXNXWEN5V3FUVm5xcEwyMFN6M0hlbW1BSTFjQjZESUdlTDVPdjc5SnA3enhVQ093RDZFamNo?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-14T05:01:25.694222Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "9fa27e6438237cc88dbd8655",
+      "publishedAt": "2026-09-14T03:54:28Z",
+      "title": "GP Ansor Jateng Desak Aparat Berantas Galian C Ilegal, Narkoba, dan Judol",
+      "source": "Akurat Jateng",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQSlBhZTBWVUdNVElUSVBfQlRIenNhRDN6VUNSWl91dGNYcUg1UFRNODEwZHFPSGEzdklHT1lnMjJQTC1uRG1NNUN2SGV4ZGhDb2dENS00cmQ5TTEtZHZWcmhCS3dMMUQ0T252RlV3cEhpXzR4LWpoRTNzTnZyT0pZdlZ5OXdTNmZHWnMxVlhld0ZZRUlQR01OazdSaW5lWXdybjR4cWtGMzBpVGNX?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "sensor_konten",
+      "subclusterIds": [
+        "sensor_konten"
+      ],
+      "matchedQueries": [
+        "Sensor Konten"
+      ],
+      "collectedAt": "2026-09-14T05:01:25.694222Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "a533d420b9f0837e98eddfab",
+      "publishedAt": "2026-09-14T03:00:00Z",
+      "title": "Film yang Terinspirasi dari Perempuan Berpengaruh di Dunia",
+      "source": "Beautynesia",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPSVhZTkdEMmkzT2lrTFUtM0x6N1ZoaWlMaEZDaTBOQVU2QkNYNWJ0eW9HN2hpNWkxR21XV3ZDb2czN0RnUmJic3RZT2VwUEhGSjBvVlNQOGx2NkVleDBiQUQ1UGQtSFYyZ0hsSWo1UGtjMUQ4aTh2Ny1Xbm1QbnlyaWVId19GOEVFSWtDZmw3bjY1SVVqVmRlLURWeFcxM01fZThR0gGoAUFVX3lxTE9QMTVUeUtDSmtzSms1eGNKXzU1MHc1ajlUMVl3VmwtT2VwTldQaWU4N2FNU3o2cXJqUEhBcmJTWkVUTDQyVXVodjNJUE9XWElFVXA1UkcySFBsTGdVQlFvSEt6Rnp3Y1g1MVlOaU5zcmVWR285YnpERWtXUm51VEdoNF9wMmtRM2o3bkktQW80Tno4U0pmdHZsdUhLVFBHVGpldkZ2em9maw?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-14T05:01:25.694222Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "c5e64b5b50a0f0f9e5d55509",
+      "publishedAt": "2026-09-14T02:20:46Z",
+      "title": "Menteri Ancam Cabut Kewarganegaraan Warga Israel Sutradara Film Gaza",
+      "source": "CNBC Indonesia",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPUXV2WU0yLWlGLTk5OXgxX1IyTFhlTi1xT3VzYlFVMHBlVHdPWWs3WEg2NHAwbm11c3EwN3h4RHBWTnM0UGlJdER2eHhfZmVLX1RlaWFvdkktNU9hRzRTR0U5b1kxbWtJVml2RHRGV0lMSnVnNmVlUnAwVncwdER2cVVUZlR3cVdOcm1sbE5yU2Uya09pMkJQV04wQmJUZ2RfeUkxNTRScWJhYlB4Umg1VC1FeUZSa05kVGlOMHBoc3J1MlpNSEZCWmR5MjhqQ29LRm4w0gHTAUFVX3lxTE9RdXZZTTItaUYtOTk5eDFfUjJMWGVOLXFPdXNiUVUwcGVUd09ZazdYSDY0cDBubXVzcTA3eHhEcFZOczRQaUl0RHZ4eF9mZUtfVGVpYW92SS01T2FHNFNHRTlvWTFta0lWaXZEdEZXSUxKdWc2ZWVScDBWdzB0RHZxVVRmVHdxV05ybWxsTnJTZTJrT2kyQlBXTjBCYlRnZF95STE1NFJxYmFiUHhSaDVULUV5RlJrTmRUaU4wcGhzcnUyWk1IRkJaZHkyOGpDb0tGbjA?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-14T05:01:25.694222Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "3c43a091fce353aa893dd9e4",
+      "publishedAt": "2026-09-14T01:51:17Z",
+      "title": "Dokumenter Baru Sorot Pernyataan Mantan Istri Elon Musk",
+      "source": "Readers.id",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNd2ItX2NkX0traGhSQ2xuQmF6T29ZeUxLN0xvMGpMMEhJZHVnUS1DSVM3azY0dWVLVDB4Tl8ydWljOTIzdEhFREtqMnNKMnVTLVc1aFQ4dUtuZDlGQkFad1NKbkg5Wm1FSElUR3ZlaTVwZWYwMzRlWVpXUEY1a1ZlQ3N5cXI?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-14T05:01:25.694222Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
     {
       "id": "3ebc1893fc27cd423ef11b62",
       "publishedAt": "2026-09-13T16:50:00Z",
@@ -458,6 +573,29 @@
       "reviewNote": ""
     },
     {
+      "id": "55d1668ac098666cfabfaba7",
+      "publishedAt": "2026-09-13T06:05:00Z",
+      "title": "Bentrok Mencekam di Makassar, 2 Kelompok Warga Saling Serang Batu, Busur, dan Petasan!",
+      "source": "oposisicerdas.com",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNLXZ5Q0Z0M0MwZzdpWGM5U0RPSnFMUDNkN2RWNVZSNEZEZjBiVVZielc3dXNpU3hrLUNTU0lSUXFQbkdlcFVCSDQyUnUzeTdwMmYtbXZzY3pUZWJCWkM2WmJ3QXhCT1ZhdlRYd2hDaGgzSWR2WVlZeldtbTJvN1lCXy1NQUtKNmRLdnc?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_berkumpul",
+      "subclusterIds": [
+        "kebebasan_berkumpul"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berkumpul / Berserikat"
+      ],
+      "collectedAt": "2026-09-14T05:01:25.694222Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
       "id": "c601b20d5f54db4faaa06ad3",
       "publishedAt": "2026-09-13T04:31:36Z",
       "title": "Antrean di SPBU Makassar lantaran BBM Langka",
@@ -683,6 +821,29 @@
         "Kebebasan Berekspresi & Berpendapat"
       ],
       "collectedAt": "2026-09-12T15:34:43.482279Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "88b01a7f1c63fccc4b2e86af",
+      "publishedAt": "2026-09-12T08:23:18Z",
+      "title": "Hak Jawab dan Klarifikasi: Oknum “AA” Bantah Keras Tuduhan Bekingi PETI dan Intimidasi LSM Lingga Bayu",
+      "source": "madinapos.com",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOWDRnWTNaWjE0aGNMR0RZZWtrTjM5dW9tUDVScXE3eEh4ZHVnRXBBcEpWMndFSWRWenhNY3RhWDl1aHVET1NESUF1LThrclJiNm9GeS1UWEJMbmdCUTZYZ1ZJekFrQUY3NGtvYjlGRDQtaHY5N3VXejZmeURVd0tKQndtejd3R0xlSFRZMk5ROHhuejVNMF9iNTVWekZXN3U3OC1MZVNnWnF3YnNWNUZVQTZqRzFWdENnM3NjQ1o2cw?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-14T05:01:25.694222Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
