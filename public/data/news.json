@@ -1,15 +1,15 @@
 {
   "meta": {
-    "generatedAt": "2026-09-15T04:58:35.504135Z",
-    "lastRunAt": "2026-09-15T04:58:35.504135Z",
+    "generatedAt": "2026-09-15T11:49:16.383779Z",
+    "lastRunAt": "2026-09-15T11:49:16.383779Z",
     "startDate": "2026-01-01",
     "refreshHours": 6,
     "mode": "incremental",
     "feedsOk": 16,
     "feedsFailed": 0,
-    "totalStored": 1228,
-    "totalPublished": 1228,
-    "newArticles": 10,
+    "totalStored": 1246,
+    "totalPublished": 1246,
+    "newArticles": 18,
     "warning": ""
   },
   "clusters": [
@@ -135,6 +135,305 @@
     }
   ],
   "articles": [
+    {
+      "id": "f6776e8eff4ff8d15b963e32",
+      "publishedAt": "2026-09-15T11:43:21Z",
+      "title": "“Berkas Rahasia” dan “Tuduhan Provokasi”: Senjata Israel Bungkam Suara Jurnalis Palestina",
+      "source": "Spirit of Aqsa",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPM3RJb1A0VnRJRHlfYTFuQzlRSDB1YnZydVF5Um50bUdvazdSa3NELWRyYk5ZYWpPTmNwOU9mWTVNTGhfaXA1RmM4SnJ0Z1FlemZGbERnWW9QVFBKNk82dHIyS1BiRndYQ3NOMWllVkUxVmJINlAxMlBFaUktTmpBUHNQM0hlcUN1X2N2anI4VUVCSEFJZEtXWFZCaU54SGQwTDRrVE5lWnp4dW1TM2UySEtKLTkzN3c?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-15T11:49:16.383779Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "e59f132e64b9f5a47dc7ab85",
+      "publishedAt": "2026-09-15T08:30:17Z",
+      "title": "Protes Pemblokiran Rekening Sepihak, Massa AMPB Geruduk Kantor Bank Mandiri Pati",
+      "source": "Wartaphoto.net",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPV29mVjMxV1B0MzJVUGIwN2ZmandoclNNTjhHR1NySHRUV29vaTBPOXZjWEhlbkd4MWJ0Y1diME5WMGx0eTM3RjdlenpzQ3RSbC1UN0NJa2VuX21DeHUwci1kQlB1WXZHT3ZyRi11ano3QVpYd3BUZkpHeVVRenZqUDdqZ1VyUl8zN2p4bE9zY1E1dXFjNjFlbGMxVFVreUF2VXkzTkMzeEZKNVZ4Q2Zvdi11V1E?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-15T11:49:16.383779Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "3944d0b44fc329488360dc09",
+      "publishedAt": "2026-09-15T08:12:00Z",
+      "title": "Aliansi Masyarakat Kabupaten Malang Datangi DPRD, Minta Usut Insiden Kekerasan - memorandum.disway.id",
+      "source": "Memorandum.co.id",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOY0VqYmI1TU5NdzlDT3pVaG5zeGdFNFBRQlQtZm1hOWQ0RzhIRGxuYlFKaVlCX0Q3c2s0V1hqMHhtb0RSQ0stOFMyLVRlRjlYRnJ3UEU0RlpUSjg4VWt6bVhyUUY0ZlAxTm4yZnFkdWhlTGY3ME4zelRqWmhXX1dDcHdmY2F3SjFmaUpRbVZUZkQza3BZVTdtMzF5RGJYejJvT2JfUTlreGhGQTRtY0pKaVBQUXMtbjJt0gG4AUFVX3lxTE5jRWpiYjVNTk13OUNPelVobnN4Z0U0UFFCVC1mbWE5ZDRHOEhEbG5iUUppWUJfRDdzazRXWGoweG1vRFJDSy04UzItVGVGOVhGcndQRTRGWlRKODhVa3ptWHJRRjRmUDFObjJmcWR1aGVMZjcwTjN6VGpaaFdfV0Nwd2ZjYXdKMWZpSlFtVlRmRDNrcFlVN20zMXlEYlh6Mm9PYl9ROWt4aEZBNG1jSkppUFBRcy1uMm0?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-15T11:49:16.383779Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "695b6864182dc9167b7e020c",
+      "publishedAt": "2026-09-15T07:40:00Z",
+      "title": "AMPB Kembali Demo di Bank Mandiri Pati, Protes Rekening Supriyono Diklaim Diblokir Sepihak",
+      "source": "BatasMedia99",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOZ0NUdlo3d3dBZ1lhUzBQMmJWRG1KZGFMSUxIYnB1d2YzZUdoWWRHUnNGY3VZSjdadVJKZDVwLVZzOFREYl9DOXAweFZrMm05NGJ2eGFoLVNteDFaMG45VkJGLXBxTS1PTUFpekFYMkVoRHROMHAzQ29LSXM3bG9lNlFabkhERWV1U0lJNUIzRTJobnpJYmk0ZVlwYmdnbUFORllscXREQ3ZkODl3OHhnNnNENjVQb0lSMlFLMjRYaGdBbVZCbzR0WGV1NmFSWnZRQktuT1FB?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-15T11:49:16.383779Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "cd5c6d928ae7da00fdcca1b9",
+      "publishedAt": "2026-09-15T07:32:00Z",
+      "title": "SKANDAL POS PAMTAS: Dugaan Pembungkaman Massal dan 'Uang Suap' Kematian Pratu Samuel, Keluarga Desak Presiden Prabowo Turun Tangan!",
+      "source": "mahatva.id",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOZTdFaGpXZlFIc3BfbXNhZVV6VllVYm1uUG1SeURvUjZEb3FJQ09VUFprVHZESFplTkVhSmhUMVNGbW0xZGtjNmVlemc0UUZDR3V4bFVDaFQzZk10aHhVRmhZQzRLV0RNZ1VaVERCT3F2Y1BwcmUxQ21QWXc3VFhsQWxMUDVvRVZOZFJRSTlJWl84UXRJelQ1LWN2MGN6MHpGOUhKRV90RnFJNWt6bEtSRGZ3VDZMWENrNTllc0hFc2RmYXh6bktZRFI2TWJ5eWRFZXdOZEkwLTRabUpTbFE?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-15T11:49:16.383779Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "f0d5c3cedd55f7600bef5d32",
+      "publishedAt": "2026-09-15T07:13:29Z",
+      "title": "Datangi Area Kediaman Pak Dur di Sumberpucung Malang, Massa Minta Kebebasan Berpendapat Tetap Jaga Etika",
+      "source": "TagarJatim.id",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQTFp5RWVDS1lzeklvbFBKczI5Z0hHUVNjV1dNalhzWV9ZN1c1YzdTRzVpMkNpNTJ0U2hQZmFQbVl0b29mS0YwRXhfMXJHY2xJOWJQamtCQ0xjMmZ4c21ySktERUtOQW9HczRkU2RqVXd5YzVEV1lzUThsUUp6WXNldEZJY1NwUzF1VFZvWGV5emZKWnJCTjRmejNvSFB5SlliUkxheGRFRUFhTTNoX1k3NWFHTGtSMks5Zm9ZLTNRLWg2dC1lNktIV21FQlI?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-15T11:49:16.383779Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "279b343b23a0e1524316f924",
+      "publishedAt": "2026-09-15T07:07:00Z",
+      "title": "Unugha Cilacap Hadirkan Teknologi Greenhouse di Panen Perdana KWT Kasembadan",
+      "source": "RRI.co.id",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOSjQ1ZnV2UXR1aFRxdUI0ZnctRmdYU3B2Rlp3bS1GVTY5WHJwZldtbnBXNjZmeEM0MGk0aTFDSzBkZWxSSTdlZ3dlYnZmSVh4Zno5RW5GSTN5U19kVlJGaFpudFJYck9wTEU4QkRVZENoZTJlMW5uSVpNMnhyQl9JQ3hMa2ZLeDl6WTJpUkRxc0NILXVMSl9qNlFWQnFrc2JIRVJjRWE2eXhxYlJLUGNXWHIxVXllV0ZaT3Y1akdxY3g?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "sensor_konten",
+      "subclusterIds": [
+        "sensor_konten"
+      ],
+      "matchedQueries": [
+        "Sensor Konten"
+      ],
+      "collectedAt": "2026-09-15T11:49:16.383779Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "8598db4fb5a71f82e67ff1e1",
+      "publishedAt": "2026-09-15T06:53:50Z",
+      "title": "Ratusan Sineas Israel Bela Pembuat Film NAZA tentang Gaza",
+      "source": "Minanews.net",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQa0x1eUllYWpxUDZFUFNLVVNQMGRlX3c0bWdweXJWbTdXSU9QVkZqMjR5cVR0dmh5MWFCS05vQU8zdEpsQlhXemhNVFVGampHLUhCNGpQSVhtQ0hQUFhjQnYzc3lCYjlwOXlNanlwbTNDdTNpYUZvdHBTNVZoWGtIcl9hUmJqdw?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-15T11:49:16.383779Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "2d8f900cdbe99d32236094fd",
+      "publishedAt": "2026-09-15T06:37:00Z",
+      "title": "Respon Zulham Ditanduk Pak Dur, Ratusan Massa Gelar Aksi Damai di DPRD Kabupaten Malang",
+      "source": "ketik.com",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNMzlKS0gyVTQyb3piOUEydWtDNE5BakpnU0hTTEEyeDVwVjNpMWlhQTZUdUtJYlJ3RWhiMlNsQVM1aVY1aVc3aWRfbHBjZTA3bVJzVUxHMWxERXF6NTZySFZmeVlvcEdISlNHczRMd3Fzakh0S1RCWmNDWF8xem1PRGhRX1NwSHJ0WkRmVlo2VmVHVGdBOERGczJpTGllcEJnYl9xaXlKZE9ZSVN20gGsAUFVX3lxTE0zOUpLSDJVNDJvemI5QTJ1a0M0TkFqSmdTSFNMQTJ4NXBWM2kxaWFBNlR1S0liUndFaGIyU2xBUzVpVjVpVzdpZF9scGNlMDdtUnNVTEcxbERFcXo1NnJIVmZ5WW9wR0hKU0dzNEx3cXNqSHRLVEJaY0NYXzF6bU9EaFFfU3BIcnRaRGZWWjZWZUdUZ0E4REZzMmlMaWVwQmdiX3FpeUpkT1lJU3Y?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-15T11:49:16.383779Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "70d4ee56f897a6c3047c1316",
+      "publishedAt": "2026-09-15T05:25:10Z",
+      "title": "Live-Action Look Back Sukses Bawa Pulang UNIMED Award dalam Gelaran Venice",
+      "source": "Yoursay.id",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPVUE3S3lzY0NZcklfc2NzM3dyYXk0VnVwNkhzQzhiTFJlRHNVLUM4X3hYaFNrWEJXNzRBcVBOTXBaMGcwQ2tLZG5BUzZmX2tvbUw2NVNZMmc5Um1EeG1oY2ZZelBrZFBvMVBFSVBXcG1XWmF1VjZsNDN1QjdPQWxTY0toVVRZbTJheVRnRE5jZTh4TnlCdXB1dEk4QXJNcEZ4eFdZOG9RRzlrZ01PX19RMXhLTGw4LWVIeVJkVVU4cmdqdEszTkpvVFd5WGhINVNLUlHSAdIBQVVfeXFMT1VBN0t5c2NDWXJJX3NjczN3cmF5NFZ1cDZIc0M4YkxSZURzVS1DOF94WGhTa1hCVzc0QXFQTk1wWjBnMENrS2RuQVM2Zl9rb21MNjVTWTJnOVJtRHhtaGNmWXpQa2RQbzFQRUlQV3BtV1phdVY2bDQzdUI3T0FsU2NLaFVUWW0yYXlUZ0ROY2U4eE55QnVwdXRJOEFyTXBGeHhXWThvUUc5a2dNT19fUTF4S0xsOC1lSHlSZFVVOHJnanRLM05Kb1RXeVhoSDVTS1JR?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-15T11:49:16.383779Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "9c643ddd1c93ec30fb4240a1",
+      "publishedAt": "2026-09-15T05:19:00Z",
+      "title": "Hari Demokrasi Internasional Setiap 15 September, Ini Sejarahnya",
+      "source": "Katakini.com",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQZ0xXYUdEemlOQ3pwWGFvOEt1S3ExWk9vRFJGX2lCZTJ6bzAzT0RuNlU1N29sbGlnZ2RzTWNkVDRYSW02V19PQV9aN2tjOThsRXRFbm9NcTE5U2lval8yeDZTRnpVZGZXZ2hBOFFiRUdVaXI3ZzV3cGFLQW9uYy03ZFJJOGc2QmVDM1FMMjNmbTdjakFPdDJXdkR2aWV4NGdQdmZpWjIwOA?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-15T11:49:16.383779Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "464b3548f2cae847a6ecf45c",
+      "publishedAt": "2026-09-15T05:14:00Z",
+      "title": "Skenario Cukai Rokok Ilegal : Gus Adhi Pertanyakan Isu Penggiringan Opini dan Tegaskan sebagai Tindak Pidana Penghinaan dan Penyerangan Kehormatan - Suara Karya",
+      "source": "Suara Karya",
+      "link": "https://news.google.com/rss/articles/CBMinAJBVV95cUxQbmpxOGg2LVhFRVVtZHBEYkNXRTZ3OXBCV3VKMHZNRUdZZl9XOFVnRGFzTXhMR0V5WHgxM1FXckVudHhubXNsYkFjYW5vR2ExbzZONUhoaHpaMkVVb2xIUHJna0gxS1ZUaEQwaGkzTjh5Qm11emltbEdrQ3YtQ2VpYTFoc2Nnc09QR0t3X081VUdJalBpTklfemdTR0tVWHVfRmV0MFkxNVFjNFdBdENkcU85R05qNUdJNG5nMTVwd2pIdWlVTlRkaGZOalhzUktmMTRTVlVucm1fWW14bFlLdE96OFVrN1A5UzNmS2dJaVB5N253ZnRJRHhXOVktbEp5eHZXdTRoWHZUdU40LUxGWHFlbzdwQUZaMEUySdIBnAJBVV95cUxQbmpxOGg2LVhFRVVtZHBEYkNXRTZ3OXBCV3VKMHZNRUdZZl9XOFVnRGFzTXhMR0V5WHgxM1FXckVudHhubXNsYkFjYW5vR2ExbzZONUhoaHpaMkVVb2xIUHJna0gxS1ZUaEQwaGkzTjh5Qm11emltbEdrQ3YtQ2VpYTFoc2Nnc09QR0t3X081VUdJalBpTklfemdTR0tVWHVfRmV0MFkxNVFjNFdBdENkcU85R05qNUdJNG5nMTVwd2pIdWlVTlRkaGZOalhzUktmMTRTVlVucm1fWW14bFlLdE96OFVrN1A5UzNmS2dJaVB5N253ZnRJRHhXOVktbEp5eHZXdTRoWHZUdU40LUxGWHFlbzdwQUZaMEUySQ?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-15T11:49:16.383779Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "f97fda77c56d6f5662cf5be6",
+      "publishedAt": "2026-09-15T04:58:57Z",
+      "title": "Ratusan Massa di DPRD Kabupaten Malang Desak Insiden Kekerasan Diusut, Tolak Aksi Aspirasi dengan Arogansi",
+      "source": "Blok-a.com",
+      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOb3c0cnhpMlpuN1JyT0FCVUhRN2ZTLUV0V3IzbGNCSTd4UWRzY0RwS0pYRTN0YTA2bzJyWTVQUi1kVm80b3I0bWpkY1BzLUVSRUlXRlVSbVp6QTZnd1NxaHhHNTZyeTRmNUR5WHhYT3J6T2d6d1JSX21RZXF1eTFhUTBNLXgxaWZGcXVVd1BQY21KNXVLN0t4SVJ2ZVFtT1VwOVNYRWxWc0JrN0s5OExtT0lxVld3S21WR2JoRUZ4UWlLWTRqUF9lZHczSloybTc1S3FCWXhFUkN6NG5vUWpBRjBjMkpEZ3fSAecBQVVfeXFMTm93NHJ4aTJabjdSck9BQlVIUTdmUy1FdFdyM2xjQkk3eFFkc2NEcEtKWEUzdGEwNm8yclk1UFItZFZvNG9yNG1qZGNQcy1FUkVJV0ZVUm1aekE2Z3dTcWh4RzU2cnk0ZjVEeVh4WE9yek9nendSUl9tUWVxdXkxYVEwTS14MWlmRnF1VXdQUGNtSjV1SzdLeElSdmVRbU9VcDlTWEVsVnNCazdLOThMbU9JcVZXd0ttVkdiaEVGeFFpS1k0alBfZWR3M0paMm03NUtxQll4RVJDejRub1FqQUYwYzJKRGd3?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-15T11:49:16.383779Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
     {
       "id": "ba64880b8d037805f0a8c23f",
       "publishedAt": "2026-09-15T04:14:06Z",
@@ -499,6 +798,29 @@
         "Kebebasan Beragama / Berkeyakinan (KBB)"
       ],
       "collectedAt": "2026-09-14T12:54:41.881758Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "bef0e29868336cf53e6078e2",
+      "publishedAt": "2026-09-14T09:00:11Z",
+      "title": "Geger 'Ritual Satanic' di Pekalongan, MUI Singgung Penistaan Agama",
+      "source": "detik.com",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPZG1xZWRCSTBnUDN2MDFlWWJMUldheXk3RjY5RklYdFJTTUZKN0hfUHZvT19YTzE2UWduX3hfaE9ZZXdGTGg2OFlmUTlqdVd0M0o0X29pa3NxN1d4N21tQU8tZ2VsbWVXZXNtU0V4X0lkNTFtUll2RTRiTzVfY2N6WE90NkVqWVozZ000ZG1WOHNWaFhFTU9LamZzeFp5NXpJX0RWa3k2eVNyN28tc0HSAbMBQVVfeXFMUDlVRWhPMHJ3SlU3c2RpNmRvdmdhM1d5bGRNWEVqR0VZVi1QZE1HQnBMd0k2RmFuUm53aHZTaVVraXdqLXMxRC1xZmFTa1BMTzFzc1JpQ1NQZEQ5ckJPZUhuOHVXWVUtM0lxaGk5Y0c0Tk1kazRqZzhONnprSFE2RlRoYjBCN05yb3FLMkRVc0YyeWlVVmNaU29uSHh0b2t4QjBfc19RdE5pV1VrMGlFN2FpR0U?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_beragama",
+      "subclusterIds": [
+        "kebebasan_beragama"
+      ],
+      "matchedQueries": [
+        "Kebebasan Beragama / Berkeyakinan (KBB)"
+      ],
+      "collectedAt": "2026-09-15T11:49:16.383779Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
@@ -23601,6 +23923,29 @@
       "reviewNote": ""
     },
     {
+      "id": "03f6dd87ff37d6535d12883b",
+      "publishedAt": "2026-06-02T07:00:00Z",
+      "title": "Sosiolog UMY Sebut Pelarangan Ibadah di GMS Bantul Kriminal: Aparat Harus Tegas",
+      "source": "detik.com",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQZUh5dHdUV0c5bXRrRHpXX0xnbHNyaUJkUThBYXQ5bjhkQkhia2xUY3lEbGdBSVVab2JkbXVsd296TmNVaXRDT1FzblRlV3gxVXQtZkhxWWRJY3VUNFNzb2xtdW1XdW5pSXBKZzN0U2ZSRk9lUXBwWHNXcWdMY09vRDBTMUwwM3FSaDJ4S09HQWtsU3hJSHhDOEpPSFdwWE1NWVVFYjNNZ0VoWUVhY2MtU2wtb05JNzRuS0prSHpxdkXSAcYBQVVfeXFMTzVWSHNTdHVtWEExVXk0a19DVzhGaFRGcWdTOGl3S1gwaWtOTUZqRlZyb1FTT2ZCdXN3UTVrYnVHQVRxd1lCQkpmWnZsVl9GVVVETm1qRmxxcFJqTERnTzZhdF9kYm93YzAzLXpsR1U0NjdRczlZOFkzTVc4WkVfOW5Tb1ZRZDc4d29Kc0hJQ0RENS1RMEZuN0toZnhPMXhRV0tKY0ItMXNBVDFNZU9GZXZ1QzNPcEp3VEo1TzlxM2xLRkhkU0Z3?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_beragama",
+      "subclusterIds": [
+        "kebebasan_beragama"
+      ],
+      "matchedQueries": [
+        "Kebebasan Beragama / Berkeyakinan (KBB)"
+      ],
+      "collectedAt": "2026-09-15T11:49:16.383779Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
       "id": "baba2d9fb9aad13a31c775a9",
       "publishedAt": "2026-06-02T07:00:00Z",
       "title": "Pembubaran Paksa Ibadah di Bantul Naik ke Tahap Penyidikan",
@@ -26506,6 +26851,29 @@
       "reviewNote": ""
     },
     {
+      "id": "bac914ba4ea4d3a0e16c0de5",
+      "publishedAt": "2026-04-13T07:00:00Z",
+      "title": "Pihak JK Respons Laporan Dugaan Penistaan Agama, Sebut Narasi Dipelintir",
+      "source": "detik.com",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOdUN0WVMwZ0Z0Z3BQb0VUOHhoNTY5aURvS1FTQVlhR3ZIOVNfYllHSEc4eDZxSkxPU3U5YjBCOWdRTjdUd19IbXFDM0dvbFBvSGNlQ01zRUstTHFHZ2lrcVkwN2huZjZSSGMyekFKT1UyWC1MUnR6X2szV1VEalUwZkRocEt6QkxzemlGZGR6RElIS1hDZWRtLWZ6WEVldzJya3RHNUtSXzdhWlZVT0NFdkxSXzBiQ3NzR1F0aXFqLWVOOXE5emfSAcsBQVVfeXFMUFlsVXVPcndscExuWGF1X2xoMUFDS2FHS01WVHVZZ0xSMndFMUZMcnp2TnQ3MlJNSFU0S3N0VHZzMDJFREluRzFKTTlYYnVkRktseEVOYkV3TmRIaTVNRXUyamdPWXJUQzBfRUwwSUJRYm10eF9tSmJPUWhyNHdtZ0hNd1lmclV6dF9YNURyWTA2aVlHU3habjVvanIyZFoxcGNjS3d2TENLemNVcEM5WGVDazNNd2FFWl9kNlNnc0YxRjhPNG1TalZBTlE?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_beragama",
+      "subclusterIds": [
+        "kebebasan_beragama"
+      ],
+      "matchedQueries": [
+        "Kebebasan Beragama / Berkeyakinan (KBB)"
+      ],
+      "collectedAt": "2026-09-15T11:49:16.383779Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
       "id": "885395435f6251763972fff0",
       "publishedAt": "2026-04-13T07:00:00Z",
       "title": "Pentingnya Parameter Kepentingan Umum dalam Menilai Batas Kebebasan Berpendapat",
@@ -26593,6 +26961,29 @@
         "Kebebasan Beragama / Berkeyakinan (KBB)"
       ],
       "collectedAt": "2026-09-03T11:20:00.602627Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "ed5e664def4ca2ebc9d77804",
+      "publishedAt": "2026-04-13T07:00:00Z",
+      "title": "Ceramah 'Mati Syahid' JK Berujung Laporan Penistaan Agama",
+      "source": "detik.com",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPOXFKSHkyX2lfdjZId2lRNEczWWxvS1ZpaHEyUzRnazRmQXdWOEtCTVNYT2xPVmxhdVVKZEhXeXVfVERZX1I4VmtOazJ1VV9GbUF6Z251RUllT3ZHWENiOVdhQW9GTUhJbnBmTjZRRG4zSVlNQ2gyWFNDb085bHlQazhqUERUV205elo3LVVUeW53cnE1STlMbDFGOE1rVGdQWmN1RzBtSk1QeWxNOFpzb9IBtgFBVV95cUxNcHQ3NFZ0RU1KXzJEQjgwYnFSbFBrOGhaQnZpS0d0ZkJ3c2hIZHZUREk4eDhxaE9kWG9GU0gxVzZHWlJrRklFN29xTnFhdkh3cXhTS056VmQxYkY0dEJ6bzNZeHhBZlJtZmNtbGdiNlVXU2ZoUUZqd1J5OGFlamtIV01OQmtZQ1l6Y1E3bWJTRGE1eUdnVHRrLUxWSm1TZ0Q3NFI0UTVqSE1ldDlCMXZBeFpWd0ljdw?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_beragama",
+      "subclusterIds": [
+        "kebebasan_beragama"
+      ],
+      "matchedQueries": [
+        "Kebebasan Beragama / Berkeyakinan (KBB)"
+      ],
+      "collectedAt": "2026-09-15T11:49:16.383779Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
@@ -26915,6 +27306,29 @@
         "Kebebasan Beragama / Berkeyakinan (KBB)"
       ],
       "collectedAt": "2026-09-13T11:57:23.600329Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "9699619d3f10b395f5fb83dc",
+      "publishedAt": "2026-04-06T07:00:00Z",
+      "title": "Bangunan di Tasikmalaya Dibakar Massa Buntut Isu Penistaan Agama",
+      "source": "detik.com",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOQzM3bmRTQzFqOVVZRXhHQTJ1UTFvYkhfaTV0ZVY0YlNCc2lMUnpDSEJ2X3NOcFMxaGtZWW5SMDRDY3U5NlBQUmRBZjRDbElTZDdneUtub1ItNDlSWWU0WE1OVmZpOC0wcUpVdjlFVUNYT3hpTkRPNlRFQkcyQTZpZ2tlWHJrcXM3eC1pOVBjaUM4dkl6Qmo3Rzg2S1E0OUtEdHNlWGQ3TWE4OUpHdnfSAbMBQVVfeXFMTzNEV3ZYcHhoR3dlbS1Hck1GdVNiNm9TWWFFTWhCdFdzbGJjc2xvbEVuLTIwU20wQnEwa2xRYnBzV2J4a1QwZGlkb3ZYT0pyN2R1cDdTUmFjbndGa2dnVl9xUEcyWXZJdkU4b1RSMDhHTmgyWmtNMjRXdlJrNGowQWhyRnV5Z3hrNFdWU29ZcGJvQmhxZW0tYVJUOFhtakJFM2w2Z19nbVZBZXlpNWJwY2RRdWs?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_beragama",
+      "subclusterIds": [
+        "kebebasan_beragama"
+      ],
+      "matchedQueries": [
+        "Kebebasan Beragama / Berkeyakinan (KBB)"
+      ],
+      "collectedAt": "2026-09-15T11:49:16.383779Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
