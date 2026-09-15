@@ -1,15 +1,15 @@
 {
   "meta": {
-    "generatedAt": "2026-09-14T21:52:36.489490Z",
-    "lastRunAt": "2026-09-14T21:52:36.489490Z",
+    "generatedAt": "2026-09-15T04:58:35.504135Z",
+    "lastRunAt": "2026-09-15T04:58:35.504135Z",
     "startDate": "2026-01-01",
     "refreshHours": 6,
     "mode": "incremental",
     "feedsOk": 16,
     "feedsFailed": 0,
-    "totalStored": 1218,
-    "totalPublished": 1218,
-    "newArticles": 11,
+    "totalStored": 1228,
+    "totalPublished": 1228,
+    "newArticles": 10,
     "warning": ""
   },
   "clusters": [
@@ -135,6 +135,144 @@
     }
   ],
   "articles": [
+    {
+      "id": "ba64880b8d037805f0a8c23f",
+      "publishedAt": "2026-09-15T04:14:06Z",
+      "title": "Respon Yudo Sadewa Usai Purbaya Yudhi Sadewa Dicopot Dari Menteri",
+      "source": "Terkini24.id",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNczYzZDdkY3NDUmN5LXpTTXp4cWtQOXNrMU84dXBsQlJaWTNPU0hnbWE1LVFwcndkZlh6R1A4MzAyZm5iMUtTNUVzUDlwZVZTMjVkY0ZCb3VjY0VkSS0zcGZoejBFTEE3dFg0dS1xdHMwZDNmcFpGSmlUS1ZvNkJQUUJ2WGRxS0JCZlN5MHBjZWw?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-15T04:58:35.504135Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "63708674cf4fb132b0cab2bb",
+      "publishedAt": "2026-09-15T03:44:00Z",
+      "title": "Hari Demokrasi Internasional",
+      "source": "rri.co.id",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQcG5KUHRVU3VaaUFJUHo3N2MzOGpsSkpNU3F1eVN6cWxYMmEtZDVWdTE4MzRlUGJVUXFaQ0JJSU9DNDhBaHFTQ3djdlRwTG5TbkVPNXBYeEh5ejZORC1yWWg5MkV3Umt6NjNBZ1NJbkRMcDBCeWhaQVdTZG1iT0VXaHhR?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-15T04:58:35.504135Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "04e25cd92eeecf054444d088",
+      "publishedAt": "2026-09-15T02:01:40Z",
+      "title": "Mengapa Sastra dan Pentas Budaya Perlu Menyentuh Hal Tabu?",
+      "source": "Kompasiana.com",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQbmRjbXJMYWRFWmtVOUUxVkhLZGo3UktUdlg3V0dpMTUyX0tUcy1lZzdCVkJIMEVZbDhlTE5LYzQxS2JfZXJqR1dBU2xEdXlWYVlsUjZaa3BDTndVaUdGNXdkTDNDLXA2RE9LMENvZGkyVEdKMFl1SW1HbEFrX0VXdTJ2Tnh2WjBIUzF0M0RKcUpiNjI4SXZtMkFWLVlTYUltb0ZkRGJQajl5RlQxTS1kR1FETi0yMEpYRW93cXo2UGtQRWZJQzhjbg?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-15T04:58:35.504135Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "4a6b1eba026a0f95614fc76a",
+      "publishedAt": "2026-09-15T00:55:00Z",
+      "title": "Anak Eks Menkeu: Gaji Kecil, Kerja Nonstop Ngurusin Negara Bawahan Korup - Purbaya | Yudo Sadewa Berita",
+      "source": "Head Topics",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNMl9Jc2xKQ284OVRhWWhhdVhub0MtSHRVU1h6QnVOMzM4SDUyRkZ3bTlrMkRRcFVFUTNvMkMxZGU5VUloUnNQRkIzY0FmZnRrOTlUdWkySnFuQlBEOFlnMGRteF9sYlFTNE83bHV3V09qdHhnX1BZcDllN1E2QXNzUkhESHdpNURjRVh5N1FhckxoSGNFSnBkUkVZVWw?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-15T04:58:35.504135Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "68fea658f4e98edfd60aebcd",
+      "publishedAt": "2026-09-15T00:52:19Z",
+      "title": "Anak Eks Menkeu: Gaji Kecil, Kerja Nonstop Ngurusin Negara Bawahan Korup",
+      "source": "Suara.com",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNWE9UakhoZTRjdHRzTkFfVnFWN0E4aDdkU2QxUkdXVW9tSlV3VGRFTjlUbzBURDNQZlVQbGxtdkpZRmxCeXhERkZxbnhBYXFZaEwtd200cXVGVWhDSUJBNUtjODctUHVVdkRra2swYkVyY3V0T1p1bW9yWnZ2SXJPc0VEWTE3Q1o4SURoU3BHc21ZdjZVb1c1dGlGUXhqZ05ydGNTbVNBdEFtTFZGWlRxaDJsdHNISEZB0gG4AUFVX3lxTE1YT1RqSGhlNGN0dHNOQV9WcVY3QThoN2RTZDFSR1dVb21KVXdUZEVOOVRvMFREM1BmVVBsbG12SllGbEJ5eERGRnFueEFhcVloTC13bTRxdUZVaENJQkE1S2M4Ny1QdVV2RGtrazBiRXJjdXRPWnVtb3JadnZJck9zRURZMTdDWjhJRGhTcEdzbVl2NlVvVzV0aUZReGpnTnJ0Y1NtU0F0QW1MVkZaVHFoMmx0c0hIRkE?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-15T04:58:35.504135Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "be3f51214cf36894f0ca262f",
+      "publishedAt": "2026-09-14T22:48:05Z",
+      "title": "Musik daul Pamekasan jadi warisan budaya takbenda Indonesia",
+      "source": "Antara News jatim",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNLW1pQUltME5sS2JMVEQ5N2V4cUpfbU8yVXRxdjNqeDV4bnlxOXBmMVI5SVA2LUlmbjhPcFptdDlJQjF5V19KM1dyNUpYYWxfeHVNZzdlRi1kcUpxV281aTE0emIzYkQ5TjVUbWE2TlZ4QzlES0ZzcUE1aTM0eEZBREZERGVSdnJ2aUdqa3hUdkM1N0VjRUdLSmxROHIzN3JfLV9NTXg4YktnUEnSAasBQVVfeXFMTS1taUFJbTBObEtiTFREOTdleHFKX21PMlV0cXYzang1eG55cTlwZjFSOUlQNi1JZm44T3BabXQ5SUIxeVdfSjNXcjVKWGFsX3h1TWc3ZUYtZHFKcVdvNWkxNHpiM2JEOU41VG1hNk5WeEM5REtGc3FBNWkzNHhGQURGRERlUnZydmlHamt4VHZDNTdFY0VHS0psUThyMzdyXy1fTU14OGJLZ1BJ?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-15T04:58:35.504135Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
     {
       "id": "3b6e997900e78dd0725ed6d4",
       "publishedAt": "2026-09-14T17:46:16Z",
@@ -269,6 +407,29 @@
         "Sensor Konten"
       ],
       "collectedAt": "2026-09-14T12:54:41.881758Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "f68f7b7ed0477c42d95bf34b",
+      "publishedAt": "2026-09-14T12:04:06Z",
+      "title": "34 Ribu Penerima Bansos di Banten Terindikasi Judol, Komisi I DPR RI Wanti-wanti Masalah Salah Sasaran",
+      "source": "banten.akurat.co",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQNndtbzVMN2JvRk9mUDF5cldmZXZZdUszTzdnN3pybURhWHYtd0R0MXZfY1gxQUF4Ri1OMlZoTWVJdmJzSlJpUkp3Z21fbndlbDYyemtZcE9WYlQzWGZaLUlDWHlyN3drNkt4dGp3M3JpSF9oTl9LTnRKOHNMcFlTY2VfMU9vT296VlZ1YUUzWHBqWTFPU09KTUNURnZiN0g5WW9UeU5BdHRCN2RjeXRDZ3pwWnpzeE1tZnc2TWczdGNCUUdvWnhuZmh2eVRsbUJzZjM4SQ?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "sensor_konten",
+      "subclusterIds": [
+        "sensor_konten"
+      ],
+      "matchedQueries": [
+        "Sensor Konten"
+      ],
+      "collectedAt": "2026-09-15T04:58:35.504135Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
@@ -481,6 +642,29 @@
       "reviewNote": ""
     },
     {
+      "id": "77eacd0cf616005eade7c359",
+      "publishedAt": "2026-09-14T04:02:58Z",
+      "title": "Novel Baswedan Buka Suara soal Denny Indrayana: Tuduhan Korupsi Itu Tak Benar",
+      "source": "fajar.co.id",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPWEEtZ1BuVFY1a3ZtMm9RR0F5VFR0b1FHVnlsZ3FxTnA5VlZ5My1ESjZuMnRCNmxjakpoOEJ2dVpoQXlDbDNkLUxyQzN3UEI2eWI0SFZCWGZ3eEx1Yl9MdnBTUVBYRGJPTkpiMHMyTFBJUy02Z2FLYXNXWEN5V3FUVm5xcEwyMFN6M0hlbW1BSTFjQjZESUdlTDVPdjc5SnA3enhVQ093RDZFamNo?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-15T04:58:35.504135Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
       "id": "9fa27e6438237cc88dbd8655",
       "publishedAt": "2026-09-14T03:54:28Z",
       "title": "GP Ansor Jateng Desak Aparat Berantas Galian C Ilegal, Narkoba, dan Judol",
@@ -499,6 +683,29 @@
         "Sensor Konten"
       ],
       "collectedAt": "2026-09-14T05:01:25.694222Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "965eaf8b498570faa8536c48",
+      "publishedAt": "2026-09-14T03:54:28Z",
+      "title": "GP Ansor Jateng Desak Aparat Berantas Galian C Ilegal, Narkoba, dan Judol",
+      "source": "jateng.akurat.co",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQSlBhZTBWVUdNVElUSVBfQlRIenNhRDN6VUNSWl91dGNYcUg1UFRNODEwZHFPSGEzdklHT1lnMjJQTC1uRG1NNUN2SGV4ZGhDb2dENS00cmQ5TTEtZHZWcmhCS3dMMUQ0T252RlV3cEhpXzR4LWpoRTNzTnZyT0pZdlZ5OXdTNmZHWnMxVlhld0ZZRUlQR01OazdSaW5lWXdybjR4cWtGMzBpVGNX?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "sensor_konten",
+      "subclusterIds": [
+        "sensor_konten"
+      ],
+      "matchedQueries": [
+        "Sensor Konten"
+      ],
+      "collectedAt": "2026-09-15T04:58:35.504135Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
@@ -25351,6 +25558,29 @@
         "Kebebasan Beragama / Berkeyakinan (KBB)"
       ],
       "collectedAt": "2026-09-04T04:39:05.660189Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "77e6f51b3827df8b90dfe42f",
+      "publishedAt": "2026-04-30T07:00:00Z",
+      "title": "Jaksa dakwa terdakwa penistaan agama dengan pasal berlapis",
+      "source": "aceh.antaranews.com",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOeEFYLXBpNTl6SU9aVW5XTUJ4N0sxbV84OHhnVlptYWphdDFVZENYZ1Y2cXVuSFlTN1ZobkE2QVlmVkFMSmJ1ek9UR20xZzltRm1laG5QejFPczdad3Zhc2ZvemVqTjQyYXVmbHJoODJMSUF3V1pTSFJ3YzF6N0U1U1FJNjV5RzZ0WkxuQl9CZ283NWl6RlZmQWdGTXpVRVpEY1HSAacBQVVfeXFMTzhUOVI5MDJ4T0V4ZHAtRHU2dVRjRE5kMWR2SXlCV1B0aUo4Rkk2T3ZRa1BSLUtXQm10ZlhheXpVdDBFajZ6dnJnUXBfU1d3dGJ0WDZvdGd6amFlcVRDdC11bXU4QVpBWkNXdWZoaWFHLUEwV2RQdnc4ZzJGbmJmTGdDdlBpMFAwN0ZVX3BieVB4aWhSNDVxTWthVVpHUTlMR21YNkQyek0?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_beragama",
+      "subclusterIds": [
+        "kebebasan_beragama"
+      ],
+      "matchedQueries": [
+        "Kebebasan Beragama / Berkeyakinan (KBB)"
+      ],
+      "collectedAt": "2026-09-15T04:58:35.504135Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
