@@ -1,15 +1,15 @@
 {
   "meta": {
-    "generatedAt": "2026-09-15T17:03:18.882555Z",
-    "lastRunAt": "2026-09-15T17:03:18.882555Z",
+    "generatedAt": "2026-09-15T21:24:48.093848Z",
+    "lastRunAt": "2026-09-15T21:24:48.093848Z",
     "startDate": "2026-01-01",
     "refreshHours": 6,
     "mode": "incremental",
     "feedsOk": 16,
     "feedsFailed": 0,
-    "totalStored": 1258,
-    "totalPublished": 1258,
-    "newArticles": 12,
+    "totalStored": 1262,
+    "totalPublished": 1262,
+    "newArticles": 4,
     "warning": ""
   },
   "clusters": [
@@ -200,6 +200,29 @@
         "Doxxing & Intimidasi"
       ],
       "collectedAt": "2026-09-15T17:03:18.882555Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "124c33289f49202e1a414de3",
+      "publishedAt": "2026-09-15T11:58:22Z",
+      "title": "Mengapa Aktivis Pro-Palestina Mahmoud Khalil Menggugat Columbia University?",
+      "source": "aceh.tribunnews.com",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNNmtlRnZkY3FSaU96c3liMGQ2d1FNWUJHb1VJeUQ3YjFtYWUyNVc1dXZGbWQxS1FWcUZsZWV2dk95cEpQYTdXMHFuaExObmdWNnhzUS05SXpwQU9zU3Vwc19GMURsb25hM3NwT3VYX3pSbEhHYzFYT0hKTFk4NEMzMmw1SkVWR09lQjFweE9IUVZVb1dHSnRhUlBDYUpWQU1aVy14V3c2aGxFYlk0Q09kSEtRMTJ4UQ?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "doxxing_intimidasi",
+      "subclusterIds": [
+        "doxxing_intimidasi"
+      ],
+      "matchedQueries": [
+        "Doxxing & Intimidasi"
+      ],
+      "collectedAt": "2026-09-15T21:24:48.093848Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
@@ -435,6 +458,29 @@
       "reviewNote": ""
     },
     {
+      "id": "2686d26e23ed682b04ecdd79",
+      "publishedAt": "2026-09-15T05:25:10Z",
+      "title": "Live-Action Look Back Sukses Bawa Pulang UNIMED Award dalam Gelaran Venice",
+      "source": "yoursay.suara.com",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPVUE3S3lzY0NZcklfc2NzM3dyYXk0VnVwNkhzQzhiTFJlRHNVLUM4X3hYaFNrWEJXNzRBcVBOTXBaMGcwQ2tLZG5BUzZmX2tvbUw2NVNZMmc5Um1EeG1oY2ZZelBrZFBvMVBFSVBXcG1XWmF1VjZsNDN1QjdPQWxTY0toVVRZbTJheVRnRE5jZTh4TnlCdXB1dEk4QXJNcEZ4eFdZOG9RRzlrZ01PX19RMXhLTGw4LWVIeVJkVVU4cmdqdEszTkpvVFd5WGhINVNLUlHSAdIBQVVfeXFMT1VBN0t5c2NDWXJJX3NjczN3cmF5NFZ1cDZIc0M4YkxSZURzVS1DOF94WGhTa1hCVzc0QXFQTk1wWjBnMENrS2RuQVM2Zl9rb21MNjVTWTJnOVJtRHhtaGNmWXpQa2RQbzFQRUlQV3BtV1phdVY2bDQzdUI3T0FsU2NLaFVUWW0yYXlUZ0ROY2U4eE55QnVwdXRJOEFyTXBGeHhXWThvUUc5a2dNT19fUTF4S0xsOC1lSHlSZFVVOHJnanRLM05Kb1RXeVhoSDVTS1JR?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-15T21:24:48.093848Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
       "id": "9c643ddd1c93ec30fb4240a1",
       "publishedAt": "2026-09-15T05:19:00Z",
       "title": "Hari Demokrasi Internasional Setiap 15 September, Ini Sejarahnya",
@@ -591,6 +637,29 @@
         "Kebebasan Berekspresi & Berpendapat"
       ],
       "collectedAt": "2026-09-15T04:58:35.504135Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "e71998a0611bf3924d761696",
+      "publishedAt": "2026-09-15T00:55:00Z",
+      "title": "Anak Eks Menkeu: Gaji Kecil, Kerja Nonstop Ngurusin Negara Bawahan Korup - Purbaya | Yudo Sadewa Berita",
+      "source": "id.headtopics.com",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNMl9Jc2xKQ284OVRhWWhhdVhub0MtSHRVU1h6QnVOMzM4SDUyRkZ3bTlrMkRRcFVFUTNvMkMxZGU5VUloUnNQRkIzY0FmZnRrOTlUdWkySnFuQlBEOFlnMGRteF9sYlFTNE83bHV3V09qdHhnX1BZcDllN1E2QXNzUkhESHdpNURjRVh5N1FhckxoSGNFSnBkUkVZVWw?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-15T21:24:48.093848Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
@@ -1856,6 +1925,29 @@
         "Doxxing & Intimidasi"
       ],
       "collectedAt": "2026-09-12T15:34:43.482279Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "94b9553e37996dc7a018b8fc",
+      "publishedAt": "2026-09-12T12:22:00Z",
+      "title": "Gen Z Impact Fest 2026 Edukasi Tips Keamanan Digital Gen Z di UGM",
+      "source": "id.headtopics.com",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQU2J6UG0zVDZlSFVadE44UlI4YTJfMHRIR1l2RmhZdEhybHBOV1NzTnFXazFIQmNHTG1STXpuUWZsaUp4NFdaNG83eElsYkpPeDA0V1VGM2tUdVBKNV82M2J2aTk5N2JrQUc0eURBT1FqRjBVRnZYZGljNDkycEFJaTlGX3FkUUdIZFRXUy1SckJYa3ZlSkJHOXhQTkFqb1U?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "doxxing_intimidasi",
+      "subclusterIds": [
+        "doxxing_intimidasi"
+      ],
+      "matchedQueries": [
+        "Doxxing & Intimidasi"
+      ],
+      "collectedAt": "2026-09-15T21:24:48.093848Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
