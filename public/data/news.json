@@ -1,15 +1,15 @@
 {
   "meta": {
-    "generatedAt": "2026-09-15T11:49:16.383779Z",
-    "lastRunAt": "2026-09-15T11:49:16.383779Z",
+    "generatedAt": "2026-09-15T17:03:18.882555Z",
+    "lastRunAt": "2026-09-15T17:03:18.882555Z",
     "startDate": "2026-01-01",
     "refreshHours": 6,
     "mode": "incremental",
     "feedsOk": 16,
     "feedsFailed": 0,
-    "totalStored": 1246,
-    "totalPublished": 1246,
-    "newArticles": 18,
+    "totalStored": 1258,
+    "totalPublished": 1258,
+    "newArticles": 12,
     "warning": ""
   },
   "clusters": [
@@ -135,6 +135,75 @@
     }
   ],
   "articles": [
+    {
+      "id": "75cbe7cbb99b0fad0efcd23f",
+      "publishedAt": "2026-09-15T13:35:05Z",
+      "title": "Big Bike New Rebel 1100, Simbol Kebebasan Ekspresi Generasi Modern",
+      "source": "jamberita.com",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxObDJKc2dmdV9YMUhPSHdBWjA3QUdZZ0dqWjAybllzWWxMWkZXdktaRlVZa1VrY2poYnR2YkR6ZkJfeHlFMTFCSV9sRnRuV0FaZmVlSkQ2ZGx4V1FkUnpxX1dFMlRkZFdaNDBnTEsxb0pNaUFFeHpBY3hQZW5vNlFsTnMtaVNNemJHR0JuSEVZU1d5Rm1kSTU0bENmU2J2TEpucDBTcVgxcnY3WHVhR0l0aQ?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-15T17:03:18.882555Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "821b82c16f1d156db54ad992",
+      "publishedAt": "2026-09-15T13:34:49Z",
+      "title": "Ramai Simbol Satanic, Dosen Umsida Ingatkan Batas Ekspresi Seni",
+      "source": "PWMU.CO",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQOWJiTTRIRGZGdDhRYjlkRDZscjRDZEJIMldGX3VfcXcyNHpqVmFLMnVtWWJRMXFDRU9UeVVqcWd4QlhvOG9ZYkhOdE9vSWxLZ2RVWWJuTHlKRnBXZGVBYlpveENrQUM5ckdoVXkwRXZlc3NHSGNBUm1Hbkd5MHMxY29jOHg0Zw?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-15T17:03:18.882555Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "a11e2fe7cfcac4d2968d3507",
+      "publishedAt": "2026-09-15T11:58:22Z",
+      "title": "Mengapa Aktivis Pro-Palestina Mahmoud Khalil Menggugat Columbia University?",
+      "source": "Serambinews.com",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNNmtlRnZkY3FSaU96c3liMGQ2d1FNWUJHb1VJeUQ3YjFtYWUyNVc1dXZGbWQxS1FWcUZsZWV2dk95cEpQYTdXMHFuaExObmdWNnhzUS05SXpwQU9zU3Vwc19GMURsb25hM3NwT3VYX3pSbEhHYzFYT0hKTFk4NEMzMmw1SkVWR09lQjFweE9IUVZVb1dHSnRhUlBDYUpWQU1aVy14V3c2aGxFYlk0Q09kSEtRMTJ4UQ?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "doxxing_intimidasi",
+      "subclusterIds": [
+        "doxxing_intimidasi"
+      ],
+      "matchedQueries": [
+        "Doxxing & Intimidasi"
+      ],
+      "collectedAt": "2026-09-15T17:03:18.882555Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
     {
       "id": "f6776e8eff4ff8d15b963e32",
       "publishedAt": "2026-09-15T11:43:21Z",
@@ -619,6 +688,29 @@
       "reviewNote": ""
     },
     {
+      "id": "764ec093f5435612251194e6",
+      "publishedAt": "2026-09-14T13:20:00Z",
+      "title": "Aturan RI Mendunia, Presiden Prancis Pantang Menyerah Mau Ikut",
+      "source": "cnbcindonesia.com",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQX0N0Qk1vMUhOREZoUGdyOGY4TmFLOHhlQVhodFNpeXdSaUFsMnBwUXYyRHprOGRqYUJ6SUtRaDdESDFkVkh3S1VhMFIwX1NJSENRX2N6SDhWdV8tQjFuX3A4NklENlV1NnpuejAxNFhlZ1BoMl9SVGhaVERoNmFSMVZSaDBrU0h0UGRfYVNEQmlLU1RMS0pvdGJCamdCdm5PUFhHRUg1WmY5NVN1SzZYelBxRGJuXzNtRkw0M2RB0gHDAUFVX3lxTE1KaHliMmhBeThWaTZOczdOZG1zVFFfU21wNjZZNFg1NzBPNDlvODRkZVl0YzU5MmJJcEVoYTRQdXkybE5GUVEtSktMRmR3dFpjdUpHX2ptUWc1TXk3WVg1Y2lkUXU4ODBwN1NJY2xzNmZzZU1xMTh3Mjg2YXpxUXNWMzZ6c2pySGxFN2lrUzJqNlV1b2F5VnZhNGZFdWJ3WUFvOVFRRXh0eFlybWlKOWpoSkJsZ3BpWlVXSjR6UkxxWGJ4MA?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-15T17:03:18.882555Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
       "id": "16a8f2a4f353e5907114505b",
       "publishedAt": "2026-09-14T13:10:04Z",
       "title": "Polemik Akses Bendungan Lahor, HMI Malang : Kebebasan Berpendapat Harus Pada Koridor Hukum dan Bermartabat, Bukan Kekerasan",
@@ -683,6 +775,29 @@
         "Kebebasan Berekspresi & Berpendapat"
       ],
       "collectedAt": "2026-09-14T21:52:36.489490Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "53a651634c86f6e4bfd50d9d",
+      "publishedAt": "2026-09-14T12:20:00Z",
+      "title": "6 Film RI Ikut Busan International Film Festival, Ada \"Laut Bercerita\"",
+      "source": "cnbcindonesia.com",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPLThBSS16QS1BeWFHMGlKLVk4YmtQQ1BSY0R2WFhFR05fZ1ZldndYaEJSNTA1RWNEN1YwM1RMX1RXcTFTbkE5SGxtWWdqYTNjdG1GbnF5Q1IzV2YtWTcycl9LZ1NlYjhTMG14MTJtSHlndzdEdC1WWDFkZ3FwNVJ2clQwNFpoSndPeVptT0xkcE1fekc1Rl83bHV4VHlWcml2bUVYYkVrOXA1N3V0dl9GSGY2Mm5GZXVJQkZzM3gxUmgzclZ4ZGdxdGo3bEQ5aE1JVUHSAdIBQVVfeXFMTy04QUktekEtQXlhRzBpSi1ZOGJrUENQUmNEdlhYRUdOX2dWZXZ3WGhCUjUwNUVjRDdWMDNUTF9UV3ExU25BOUhsbVlnamEzY3RtRm5xeUNSM1dmLVk3MnJfS2dTZWI4UzBteDEybUh5Z3c3RHQtVlgxZGdxcDVSdnJUMDRaaEp3T3labU9MZHBNX3pHNUZfN2x1eFR5VnJpdm1FWGJFazlwNTd1dHZfRkhmNjJuRmV1SUJGczN4MVJoM3JWeGRncXRqN2xEOWhNSVVB?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-15T17:03:18.882555Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
@@ -1051,6 +1166,29 @@
         "Kebebasan Berekspresi & Berpendapat"
       ],
       "collectedAt": "2026-09-14T05:01:25.694222Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "05c37d887041e2cbdf08fda7",
+      "publishedAt": "2026-09-14T03:00:00Z",
+      "title": "Film yang Terinspirasi dari Perempuan Berpengaruh di Dunia",
+      "source": "beautynesia.id",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNLWJtazZXMHpGSVkyVEppNmZ6bWVuTHpqaXFkTkhRUm1MVC1FSkNHTU5ONGFiMTVDVXlBaW9RRjctNG1hUGFoSmg3V0ZqQjZYWTkxNmxKS3Q1RG52bDIxSklQODlCZlg2UXROTWljZ0E3UDFUZmlXSHhxSVF2SzFWODJ0RUpnSDVMcENyRGZfZVh4d3o3cFk4WjZjWGtmd9IBqAFBVV95cUxPUDE1VHlLQ0prc0prNXhjSl81NTB3NWo5VDFZd1ZsLU9lcE5XUGllODdhTVN6NnFyalBIQXJiU1pFVEw0MlV1aHYzSVBPV1hJRVVwNVJHMkhQbExnVUJRb0hLekZ6d2NYNTFZTmlOc3JlVkdvOWJ6REVrV1JudVRHaDRfcDJrUTNqN25JLUFvNE56OFNKZnR2bHVIS1RQR1RqZXZGdnpvZms?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-15T17:03:18.882555Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
@@ -1603,6 +1741,29 @@
         "Kebebasan Berekspresi & Berpendapat"
       ],
       "collectedAt": "2026-09-14T12:54:41.881758Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "5e140f8c8887a8461af887ce",
+      "publishedAt": "2026-09-12T23:45:36Z",
+      "title": "Menuntut Hak Justru Diintimidasi: Nakes RSUD AW Sjahranie Diancam SP hingga Pemutusan Kontrak",
+      "source": "prokal.co",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOVnJRWVltUFpJUWJXUTRhVzQ5UUgyMlNYdUlNb3VkVFJWSWxteHowclNFWmRHNkFxdTJ1TzNsajgxZUN4eE1KMnFseEhRelNYNGxnWGNsbnRveGFWTnhfM2RXNEtSbUFpSWlTXzNGRm5zdWpaa0ZmcWV0eld1ck9mUWdHQXpkNEdqMEhWdkx2QlB3bm8tY2xhRDQya2lGaTlIMF9nMlFUb3EwMWRyd1BRc3ZGcE1XS1I4c3BQendLUlFUZmxXaTVrbk51QVBBaUhW0gHWAUFVX3lxTFB3QnZQUkUzQ1h6bTN6M1pOTXVHeDRYbDdKc0tDZlJfLVRwTldCNkxoNHM5ZGFRc3g1bHI4bnVVTDNXZnB1UFlvdThwUElmclhwSzdjenk5eWJFOVZqZGlqUENzbEIxandZSm9nSlp0QmVqdUxIbTF6cUFLOFdfU1loaVRsV2ZsdEUxUHFWQm5fSkUydjI4SXBMN1FLZVNIU2NLT0QxQzdnNTlCNm0zT0IybUJIVFhDMHhPU0o0VW82cEw3VUNFeTlBT0pIelhEOGxMVzF1VHc?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-15T17:03:18.882555Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
@@ -17897,6 +18058,29 @@
       "reviewNote": ""
     },
     {
+      "id": "dd3c6c230eaaebe301e64cae",
+      "publishedAt": "2026-08-12T07:00:00Z",
+      "title": "Polisi periksa manajemen acara soal dugaan penistaan agama di Ancol",
+      "source": "antaranews.com",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPZF95S0Vfd3dCODdtbDZBQVdUVnV4eHdST0RSbEdtUDhSZnlnNmhlUm1DQWxMT0VHdWhTTU5RRUpVU2Y5YjlBa2x3cjBoVlZ5bl9lN0oxa3RyNmhCaEZVMjRtR3Y4dmdEQW12NHNFejI0YmpHLTQ3NDhOS3ZaREJFd1BROXpYNkltYXZlNndjX1N3Qm5sRl9OXzlIOWs5bks0SVpJQlJQdFJ2NmxZeXfSAbABQVVfeXFMUF9lSUk5c1cwcmk0TXlLanVEVGpRWW4xQXpxSHJ3NS1qNWZveGE4Y3gzNWlEc29GVkx2TXhxX1BzV09nRnNuUkZoV3NTQXBPYzI0WmlZNDlVeF9ZVzZteF9KUnl1c3BhU1F0Wng0LWtaSGxSSEtnWmV4YzhBN3FVVkl4enJHb2E4akEtY2FmYUpFR1dPTHQwdzFLelphbXppR1JON3dWZU1kdkVLUEt2aEI?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_beragama",
+      "subclusterIds": [
+        "kebebasan_beragama"
+      ],
+      "matchedQueries": [
+        "Kebebasan Beragama / Berkeyakinan (KBB)"
+      ],
+      "collectedAt": "2026-09-15T17:03:18.882555Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
       "id": "9377689a8a1a8852c377393c",
       "publishedAt": "2026-08-12T07:00:00Z",
       "title": "Polisi Usut Dugaan Penistaan Agama di The Sound Project Ancol",
@@ -24893,6 +25077,29 @@
       "reviewNote": ""
     },
     {
+      "id": "1f65a7f68efc8de972c7edc1",
+      "publishedAt": "2026-05-16T07:00:00Z",
+      "title": "Sudirman Said: Banyak Dukungan untuk JK di Tengah Kasus Dugaan Penistaan Agama",
+      "source": "rmol.id",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPMXF5ZG5XVW9LQWRCcTEwWV9DTUxIcXNtVU05ZllFYWcxV21QX3dXMVdhNEdnbDBPNDRsRk5FY0d5eGpaVkoxQmlhUW42S2hIdTYzajc2UmxUVWNiM0VpVFlmRDdYNjE4U3VoNnF2RXk4RTFySUI5a0tsX3NHVnYtNGFZcGVvVVNwVjFzTlM1LWRXbE5HcXB4b2t4RExHcUc0cUV5cmJFcjZBMkotTzl1aWNpQU0xVDFiLVNvUWliRV9tQQ?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_beragama",
+      "subclusterIds": [
+        "kebebasan_beragama"
+      ],
+      "matchedQueries": [
+        "Kebebasan Beragama / Berkeyakinan (KBB)"
+      ],
+      "collectedAt": "2026-09-15T17:03:18.882555Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
       "id": "2617f7939716e0d2d57fda17",
       "publishedAt": "2026-05-15T07:00:00Z",
       "title": "Nobar Film Pesta Babi Dibubarkan, Mahasiswa Unusia Soroti Pembungkaman Kebebasan Akademik",
@@ -26483,6 +26690,29 @@
       "reviewNote": ""
     },
     {
+      "id": "f24f529080d7ed129f0c9e58",
+      "publishedAt": "2026-04-18T07:00:00Z",
+      "title": "Jusuf Kalla klarifikasi tuduhan penistaan agama",
+      "source": "antarafoto.com",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQTVR5cjdDekdnTlV5Q2h3bzF6M1RreUlMM0Vnczg5THZJdDBYY1czX3NvLXVpdDdubXYwSzBrZlp0S1B2Vlp1OG1rdlBwZzl2TlFDOHZpWUxsaVdrTGxMaTFoZHBYSDRKdElXNldyeU9kVmNVRndTcnd6MFpzQldyOFAzRC1iRXQ0ajFTRk5aanJ2MVlP0gGaAUFVX3lxTE5NZ3ZLLXAxa0kyRW9LVHhQM19GcFVHTjlIRkNIMkdMTno5dW01U2tseVloWnNDTFpKQ0tzdXZYcXViQlByVFRyRmJWcVpGd01KLUcwLW1wSHlhenFQSjc1cmh6WTA4X0dKMV96ZUotOVhMZlJrNXR3aHp1c2otbVJlajRDZnlwaWdSLW9xNm1qZmR4VXowSWNfd0E?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_beragama",
+      "subclusterIds": [
+        "kebebasan_beragama"
+      ],
+      "matchedQueries": [
+        "Kebebasan Beragama / Berkeyakinan (KBB)"
+      ],
+      "collectedAt": "2026-09-15T17:03:18.882555Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
       "id": "594b7a5d74d4c805759f34e1",
       "publishedAt": "2026-04-18T07:00:00Z",
       "title": "Jusuf Kalla buka suara atas tuduhan penistaan agama dalam ceramahnya",
@@ -26685,6 +26915,29 @@
         "Kebebasan Beragama / Berkeyakinan (KBB)"
       ],
       "collectedAt": "2026-09-07T12:40:02.870233Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "2728cd4989f3fe30e52cda8c",
+      "publishedAt": "2026-04-15T07:00:00Z",
+      "title": "Usai GAMKI, Aliansi Sumut Polisikan JK soal Dugaan Penistaan Agama",
+      "source": "CNN Indonesia",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPeUpNZFJQeVNaWmN5Uk9UR1gyNU9wWms1OEJVQzVSdlktYmRvNWtuVV9seGdIUWtqaHBaR2RGTEwyeHVqaG4zUnMwdmlQUlRvS1JWNkRiYUZQYVpJUHo0cmduMUZGemU3YzRrM0pCOTRDeVF3bU80TklFUGpQakt5UTE5ejlZVUpxZmhKTkk0VmRSLXRmd1d5X3o2Z3FGUFdiUS1DaktuNXlRSGlNQnR6elVtbFE2QTlpMTlYV09XUjlDUTJsWlRrcNIBzgFBVV95cUxQeVh3aEhWbzktZFVmekhBSlFpT3hoUURCVjN6RUFmbDliYll0YWQySlJreUc3bGJxV29ueTBwOEZOMmlGMEVDY1pxTjJKU0o2Zm5OU3ZSbWF1cXQyQTE1UDNYSjRsVFV1M18wc3NxSFgzTUV1TTNlYTdRMG55MktOY1hPQk8zZm4wSHY4bFhJdENfb3FzUHhiei1vWjg4c2t4Vm1kYUhnbGdpbENKeXpqLWVFdVFtM202aHA5cDhVMGxPVkZ6VVhJN0N4Mi1FZw?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_beragama",
+      "subclusterIds": [
+        "kebebasan_beragama"
+      ],
+      "matchedQueries": [
+        "Kebebasan Beragama / Berkeyakinan (KBB)"
+      ],
+      "collectedAt": "2026-09-15T17:03:18.882555Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
@@ -27352,6 +27605,29 @@
         "Kebebasan Beragama / Berkeyakinan (KBB)"
       ],
       "collectedAt": "2026-09-03T11:20:00.602627Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "0a1ac18451ac66ca97ce917c",
+      "publishedAt": "2026-04-04T07:00:00Z",
+      "title": "Mundur dari Tim Mediasi, Ken Setiawan: Hapus SKB 2 Menteri agar Hak Beribadah Minoritas Tidak Tersandera",
+      "source": "lampung.viva.co.id",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPSkxzeWc2OGFSWTRyOEdQc3NiaFlVdms2Y2FXSFUwZjhTbGNVci0xWk9zN0hOQ2hsY3VGSU9zX0pfRTZlbG53TmlxSzdxaXcxODZKNUx0NDM3aTNEa3RQMTNqM1NtR0cxSnpKbFZqOTl3MklNbjRjdjZ2VUQxbndvQ1RIYlVua292eE5qRzJKM3JMcVplNG9xNUxSX0JJMFMzUXNCaVBVdFhoRWN2TEhmOUNWYWtnRjNWM2I4ZTdwc2JsVlRNbXdFU08xcGUwcW5KdUpPSnVnb1PSAd4BQVVfeXFMTi1IdGVzdXNnblFSWmlBbTJDNzY4TXZ3V3RMVlNNM2pRWWFmdlZfYnUxa29ubkcxSl9Hb0pCYzlZUmczYmMtbk9BSVh5M1VaRXd3LWc0ZS1JeVVYNGVtTGV2bldUZEJuTnNzRWpjTTFNWk94Vl9RZGt0U1lTM0IybEllc3VlbTdIWjBwQUpFckYtNXFnbnVnR2Z3RkNuZ1cyWFVyN0pwYVV5clVxa05JZ190QVBHLUcyYWdqdXdjNFFMaUNvanMtdWd3ajVadWk1eTFkR0ZlMDVnTTh3OURB?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_beragama",
+      "subclusterIds": [
+        "kebebasan_beragama"
+      ],
+      "matchedQueries": [
+        "Kebebasan Beragama / Berkeyakinan (KBB)"
+      ],
+      "collectedAt": "2026-09-15T17:03:18.882555Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
