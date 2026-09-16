@@ -1,15 +1,15 @@
 {
   "meta": {
-    "generatedAt": "2026-09-16T17:02:38.193447Z",
-    "lastRunAt": "2026-09-16T17:02:38.193447Z",
+    "generatedAt": "2026-09-16T21:21:48.258197Z",
+    "lastRunAt": "2026-09-16T21:21:48.258197Z",
     "startDate": "2026-01-01",
     "refreshHours": 6,
     "mode": "incremental",
     "feedsOk": 16,
     "feedsFailed": 0,
-    "totalStored": 1298,
-    "totalPublished": 1298,
-    "newArticles": 14,
+    "totalStored": 1304,
+    "totalPublished": 1304,
+    "newArticles": 6,
     "warning": ""
   },
   "clusters": [
@@ -136,6 +136,75 @@
   ],
   "articles": [
     {
+      "id": "0a174c628da025728bc13d53",
+      "publishedAt": "2026-09-16T17:22:43Z",
+      "title": "Suara kita,Hak kita: Menjaga kebebasan berpendapat",
+      "source": "Kompasiana.com",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPV3d1NndKWkRwSVU5MVRSNk44ckxIenRiNkJTcUxIN1NWMUtFQk9EOTVKQ05KTXIxZ08yTXBDYm1CTTROemRwRllqTjFMTFh2a3Y2YW1LM2RUTFRqMHFTWGdkdjRKdzlZS09NOEVKWGd6R0pOVzAzaFZrNHpHZmhrTDlKMUFDSkJWOG5vQ0ZDLXBSbnd0bDlxdEZZQWFrR050SWkyWU1jUXZzcDhfeV9oZjdGRWZTY0NaRGo0?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-16T21:21:48.258197Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "0c1d8f1ceb4cdec58c1ea8fd",
+      "publishedAt": "2026-09-16T17:02:22Z",
+      "title": "PLAVE Umumkan Jadwal Comeback Mini Album 'HYPERDRIVE'",
+      "source": "WowKeren",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE42WnFiY21XMnJ5M3h6UTN3NTNjTmJmc1pBUHpQRHEwQzBTczR1R2gzcHpKREJ1QTdycFk4WWo0UnZwNEhQdm9neE9pSXFkZncwUUtWQ2pWOFBkNDJSUjh2SUd3?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "doxxing_intimidasi",
+      "subclusterIds": [
+        "doxxing_intimidasi"
+      ],
+      "matchedQueries": [
+        "Doxxing & Intimidasi"
+      ],
+      "collectedAt": "2026-09-16T21:21:48.258197Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "2a12d26b65e37d7f0cf9db8d",
+      "publishedAt": "2026-09-16T16:15:36Z",
+      "title": "Soobin TXT Jadi Global Ambassador Dolce&Gabbana, Ini Alasannya",
+      "source": "Jawa Pos",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPeUxXNi1tVW8wOEYxN3Fjc1JLallHR2p6eU5jWC1JWTRiMzBiUUJxb3dzSEZLOVFFMmRFVGtTaWNpMTdRTi02WXJGNTcwWTVWaF8talUzTjJ1bG1YY1M4TzBhRlQ2b0RRbjliQTBRZlF0MGtESkZJR3h0VXJEamVjclpZUC10N3liaHB0My1pRlZOVnJBR2tWbGhyM0poaFBQc3NaYWo2TFl2cnVQREJ30gG0AUFVX3lxTE03OFV6UHJxRlpWZThiRGdmcE4wWXhZbmUyR0xHZzVQY285WmszbVJXSVFlQ2x3Q3RSRmFVMElhMkZuaUV2WkZ3WW9tckw4MTIwcXRtajhnalh3RXBEdWFyYXVicmd2eHZkTnplSzNLbzF4Yzk4NFFCY19jQlZ0dDE1WDNoLUE2WFFWZ1EzM092RDQwSHBSWWNDTXlKWlJDVUpic1lXQmJjV0dRVjkxcmo1TUs3Uw?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-16T21:21:48.258197Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
       "id": "1b30e6f3ca9bea9206113520",
       "publishedAt": "2026-09-16T16:00:49Z",
       "title": "Polda Jabar Tangkap Pengelola Bot Telegram yang Diduga Sediakan Akses Data Pribadi",
@@ -154,6 +223,29 @@
         "Doxxing & Intimidasi"
       ],
       "collectedAt": "2026-09-16T17:02:38.193447Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "d62e6653850d00e63a44a6ef",
+      "publishedAt": "2026-09-16T16:00:49Z",
+      "title": "Polda Jabar Tangkap Pengelola Bot Telegram yang Diduga Sediakan Akses Data Pribadi",
+      "source": "MOST 1058",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPakNLRkdUWkRaN0RLTTNzYld0bHU4UnJSRW9hVU82cE91N21sa2NxTlZkX1lncENhaWJjX3U1dEhYZ0pKblY4MndwckdrLUdwejNxUV9TeXJCODVHbGtpWm9EbUFaZ2dmaFpzcWRHQ0doOUdSWmZialZ0ZkFRRkJoLTFwNXE3dGlhdVFMUDhyZWxHdnhsQTBERkFyaFJEQklkQ0ZsQk9fUW9kNk40TXJDRndVTUQ?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "doxxing_intimidasi",
+      "subclusterIds": [
+        "doxxing_intimidasi"
+      ],
+      "matchedQueries": [
+        "Doxxing & Intimidasi"
+      ],
+      "collectedAt": "2026-09-16T21:21:48.258197Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
@@ -660,6 +752,29 @@
         "Kebebasan Berekspresi & Berpendapat"
       ],
       "collectedAt": "2026-09-16T11:41:54.197902Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "feac4a0e1a0184d85bc8d577",
+      "publishedAt": "2026-09-16T01:48:08Z",
+      "title": "Pusakademia Serukan Penguatan Hak Sipol sebagai Ekosistem Demokrasi - Jambi One",
+      "source": "jambione.com",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQM0Q3MFU3TXUydkR6MUJBRi1GS0ZXYU91WUl2ekhnaTJIcEpCNnVGcEtlZHE0Y21NdjRjeU54VkcyMnVWZllHT1RSTHkzcG1KVVdmMzhnN3NRNVR5RDIyalpCSk1wX0FaMUdmcTdpSWxyZUdaUldwSVBEWlFWem5vM0Z5MFlET1I2OWNJbnFFUl9xQ195NEFEV0ZsUFZCZldpT3BsZ1BzRXd2ZWJoeEtaaHJ4bWRyQdIBuwFBVV95cUxPSjFHdjBISjRSLS1kZnJ1Q0dMSzJSZ0xRcVJWR2l3VTJ0QU50M1N0Qk14bUNvSldOUTY3ZEZBLVNXQnhyVEVOU3NUOGJPY1RGM3AzaFlqQ3Mycl8zaVB2NGl2Qmo4X3hmNldObldielZDTjMzY0pMUEZQelM3QUE1TEJ2TC0xM1ZkRkdUZmR0cEdFNlVjWnd5eHFyM1dYYUVfaWdQRFZ3TXY5czhmc2tYWE5nVWVGNElidDVN?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-16T21:21:48.258197Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
@@ -18973,6 +19088,29 @@
         "Kebebasan Beragama / Berkeyakinan (KBB)"
       ],
       "collectedAt": "2026-09-02T11:23:57.013624Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "b8c4e7124d69356f89971d98",
+      "publishedAt": "2026-08-12T07:00:00Z",
+      "title": "Polisi Tangkap Dua Terduga Pelaku Penistaan Agama di Ancol",
+      "source": "Suara Surabaya",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPcFk2RWpPVEw4cGpKR0hZV1NJNUV4WmdBV2pqM3d3Q1J1N05yR3plMDJSQUtEREdTWjI5VUJvdkhVNWt6Y1NtWTNQYk1FT2JFcTFsUG8zUUNkem83QlhPbFNERkJrRWFBaThkNEdOS3JSUlZISkJBenFtY2RWQi1SUWFZaHFDTkp1dkxocE5uX0ctODFwNUZsXzhSV0pQUXFhY3pTaGVHVmbSAa4BQVVfeXFMTkNId1ZDNEhNSDhUU2FVS1F2dTFhN0o0V1NBajZtdEExc2l4RFZkbUk3dlB4VFhWWmU0Zk9FUi0wbkpvVTRKM2J3Xzk3TDFISE5Cdl9ZamZsZzlEYTNkRnlwd3pWNDd3d25EMVl0ME5peEhRUEI4SjZHVWRkX3NIcUhtRjRzRF9WUkpWMU1Vc214ZG93T0hhaVF2eEZQTm04TGRvT05SblhGMlh5R2hB?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_beragama",
+      "subclusterIds": [
+        "kebebasan_beragama"
+      ],
+      "matchedQueries": [
+        "Kebebasan Beragama / Berkeyakinan (KBB)"
+      ],
+      "collectedAt": "2026-09-16T21:21:48.258197Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
