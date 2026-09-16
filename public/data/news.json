@@ -1,15 +1,15 @@
 {
   "meta": {
-    "generatedAt": "2026-09-15T21:24:48.093848Z",
-    "lastRunAt": "2026-09-15T21:24:48.093848Z",
+    "generatedAt": "2026-09-16T04:53:50.781490Z",
+    "lastRunAt": "2026-09-16T04:53:50.781490Z",
     "startDate": "2026-01-01",
     "refreshHours": 6,
     "mode": "incremental",
     "feedsOk": 16,
     "feedsFailed": 0,
-    "totalStored": 1262,
-    "totalPublished": 1262,
-    "newArticles": 4,
+    "totalStored": 1272,
+    "totalPublished": 1272,
+    "newArticles": 10,
     "warning": ""
   },
   "clusters": [
@@ -135,6 +135,190 @@
     }
   ],
   "articles": [
+    {
+      "id": "d80739d9ad2332d8e7f5fdc4",
+      "publishedAt": "2026-09-16T04:39:00Z",
+      "title": "Menelaah Logika terbalik Pejabat Publik: Rakyat Menuntut Kinerja, Bukan Counter Kritik",
+      "source": "Herald.ID",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQRHMtUERvSzlvSFNUQ0Jic0NySk02Vm02c0JydEtpVU92UkhBTXNSMGEtLXJRWW1ZYTdRZkkybm0wQnhNWEZSQXlkS05JUFNncW1ILWo4eHJNb2Rsa29ubUIxUTZ2Z1FkSlRYNWd1cGNwX3NFOGFqOTFYeWVwdk9VdzA1TVdnSHVXeVRYeWl6bHZ3dXV1RkV2aHh6bGVQU1JYcklZODYyVTlRcVZidEVRUXFrcFE?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "doxxing_intimidasi",
+      "subclusterIds": [
+        "doxxing_intimidasi"
+      ],
+      "matchedQueries": [
+        "Doxxing & Intimidasi"
+      ],
+      "collectedAt": "2026-09-16T04:53:50.781490Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "3a93285f9f1cd92a3d9888c6",
+      "publishedAt": "2026-09-16T03:36:23Z",
+      "title": "tanggapan tentang perayaan hari demokrasi",
+      "source": "Kompasiana.com",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQcDlFWEVPUWtVSVV5U19IN0dHZjRuQUp2d1dPQjVDWWpQNEpjY1RIM3V6UkFJLWtqbEFnMTZkazJrSjUwM09fZEZoRmZMazFOTEhTb3U5dW5DaERfODFCLU1UUGtNZllWSkRuWXBXbzkwUElySnhXRVdWd2FJSXFMT3U3a0xEUTNzbWRjSVRBTzJHUjhLcTg4dXFhSjh5bE53TDBGVmwwR2pvSXRJbC1nRQ?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-16T04:53:50.781490Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "0de7bafb61365c053df894ec",
+      "publishedAt": "2026-09-16T03:33:45Z",
+      "title": "Intimidasi Jadi Pelanggaran Kebebasan Sipil Terbanyak pada Semester I 2026",
+      "source": "GoodStats",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNUkJXeXg0VDcxQjBKNlVNc2k5NXZYUk5CWlZSUXZZUFNacS02WHlzVnBVQVRFRHdFNkJ4VUdNNmdRMWt6eHFJcndhNjhXWE9NU0tPZXh4NXVoNi1ZTFlUU2xiT25EaE9YM2ZyOEZUdkl2Nm1ZdHhZYWFmQUU3RUU0dTktY0J2MTF0TF9zcUF3X2pZMnlHR0FWcnhybzFIWTgzQzFpTjlHdVRxNW8tNkdSSTY0SHVVSnc?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_berkumpul",
+      "subclusterIds": [
+        "kebebasan_berkumpul"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berkumpul / Berserikat"
+      ],
+      "collectedAt": "2026-09-16T04:53:50.781490Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "f6eb395831e99e5e844bdfc1",
+      "publishedAt": "2026-09-16T03:02:00Z",
+      "title": "Finneas Ikut Tinggalkan Tur Ed Sheeran sebagai Bentuk Solidaritas untuk Palestina",
+      "source": "Medcom.id",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQd1EzX0JhdXhLbkpEYVNub0VZQXhfdjlRMXl5R3A0eU1XNllfNElYMlk1MVc5bFpaZjAzV1BMeTNXYzlHUjBxOXZPVjN4YWw5VmZzR1dHLXRxWEVXak5kNmktWTJnMTM0dUdocFBCNlJvRnRhUzNJN0JoZUFvLS01VmJZb0dGeEtNOG1JRmJZemlyZy1WRElPcG96aWRHTWc4dmYwNE04SkUwSEFKODZxaG90Sk84Smgyd3ctYklVSUgtd0sx?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-16T04:53:50.781490Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "4179973dbfab90a1f0fa6af7",
+      "publishedAt": "2026-09-16T02:03:54Z",
+      "title": "Pengaruh Media Sosial Terhadap Kemampuan Berbahasa Generasi Muda",
+      "source": "Kompasiana.com",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNVFJpMnI1a3NaRFE5NVJwMDVsQVhTWkROdDBCdjRsc2dOZ1RUZkxfTTUweElEU2EzWkhkWHBqcFJQemdUQXN3bUhQc25pR1dtczkyeVZLV3htRmFHbkpYNGVILVNxUUQ4cXFtTUhid0x2Y19uUVoxbFR5TzdORFdqOFR5UTNxUVNLY2ttWVhVMjFQbXF5TDZWWC1hNEM4Y2diQjRPVUVYR2hSSXdlNU0yeWU4SGF4SlhJRDJiV3NrVTh5T2Nab0E?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-16T04:53:50.781490Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "8a119bd0f16b355d3df3d9c5",
+      "publishedAt": "2026-09-16T00:37:00Z",
+      "title": "Buntut Penutupan Rekening, Botok AMPB Geruduk Bank Mandiri",
+      "source": "Inilahjateng",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOaDdsVjRmWWpnaWY2dVBzM3BwU05YdmlYZTNHdnVTU0kwSzV5cERRMHB5ZklSN0ZWRG1JSTh0THFJTUlaaWpKM3E0bkNIa3NTajhmV1hYTU83dUh1R21KRVlvOVRBYm1xOE56bDlNV3h4VDkxR3ItcndmVEtWd0JlM3ZVZHpKalZvdmE0?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-16T04:53:50.781490Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "a737525c0ec77920f90f8ab1",
+      "publishedAt": "2026-09-16T00:00:01Z",
+      "title": "Mengurai Benang Kusut Polemik Sound Horeg Antara Fatwa, Ego, dan Pelarian Akar Rumput",
+      "source": "Radar Banyuwangi",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNb2tIMklMTHFXZ2lTWjNBSHpCN2xYZUpUd1RnSF9ydS0yeVBDN3lkamVfUG9Nc0ZkYWxzOWRfTEhURHhXdm1oWGY2b0J2UjNVZTJhUDFNU0VDOEdsVWFEVEV6UTdQSmFrM0ZoZVVHSUFyTHl3MTF1b3Zha0FFczdvSmFZTVJyM2RUak9EQUI4d0hlV0RBUVJLamRCRlgzcUZ4R0pVQWRWUUpFZFkxLV9YNkoxcFlJMWRnNnV5TUIyS0lrYzVtdVZEeU11MThVaGsyV1F1LUR3c9IB1wFBVV95cUxNb2tIMklMTHFXZ2lTWjNBSHpCN2xYZUpUd1RnSF9ydS0yeVBDN3lkamVfUG9Nc0ZkYWxzOWRfTEhURHhXdm1oWGY2b0J2UjNVZTJhUDFNU0VDOEdsVWFEVEV6UTdQSmFrM0ZoZVVHSUFyTHl3MTF1b3Zha0FFczdvSmFZTVJyM2RUak9EQUI4d0hlV0RBUVJLamRCRlgzcUZ4R0pVQWRWUUpFZFkxLV9YNkoxcFlJMWRnNnV5TUIyS0lrYzVtdVZEeU11MThVaGsyV1F1LUR3cw?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-16T04:53:50.781490Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "97e4e5f8c2acb915fff8f88b",
+      "publishedAt": "2026-09-15T23:43:00Z",
+      "title": "Peringati Hari Kebudayaan Nasional 2026, LAMR Rangkul Seluruh Paguyuban di Riau",
+      "source": "GoRiau.com",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQYjd0bEFzUFV3NGMxNDhPUkVVS0tSVWdid1I2WE9GOThaRUFvZWhjSDJrVUdjNmpZZS1LZEZiMkl4QmxmWE9tUFNZWHRpZVJrRVpvT0ZXcGhNUXNlbTdiV0lvaUZoQTdkbTF5VHVvaWMtWXdkeVBnSnpTdlpuOHB2bFNmUnJRTkhlZXA5Tnl4WXNDZjNMSEc4QnU3ckVRTm9BZ2ZKeUQwODZmbjZPWG9lQkkzRWpxaFB4S0E?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-16T04:53:50.781490Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
     {
       "id": "75cbe7cbb99b0fad0efcd23f",
       "publishedAt": "2026-09-15T13:35:05Z",
@@ -1902,6 +2086,29 @@
         "Doxxing & Intimidasi"
       ],
       "collectedAt": "2026-09-12T15:34:43.482279Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "67f22fa2304a05d444369281",
+      "publishedAt": "2026-09-12T13:25:09Z",
+      "title": "‘The Doll Ghawiah’, Babak Baru Franchise The Doll yang Lebih Kelam",
+      "source": "malanginspirasi.com",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPcEVqRU45V0hKZHZhRE5xR3JORDZCTzVja0t1MUVSa3RRNTJGOGJrbUlBeXBZQWVYVUwtZnZWTFctNWc5bVdUZGxQYjIyaFlmSHF0V3RmYm93S2RQcGZyaHJQTVJpR0VaMkxOQ3ZPZ2xPRVRyZmpBWXBrUlBnc3pISzhJY3NkZTYyUmRXVVdpbjlfQXRYYU1Kc2tfbU96YVM5dkpBZElCcjJ4RUFuX3c0a1lGYnJIUQ?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "doxxing_intimidasi",
+      "subclusterIds": [
+        "doxxing_intimidasi"
+      ],
+      "matchedQueries": [
+        "Doxxing & Intimidasi"
+      ],
+      "collectedAt": "2026-09-16T04:53:50.781490Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
@@ -26662,6 +26869,29 @@
         "Kebebasan Berekspresi & Berpendapat"
       ],
       "collectedAt": "2026-08-31T23:07:12.746081Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "36ade734d0dd7b000c5902d1",
+      "publishedAt": "2026-04-19T07:00:00Z",
+      "title": "Merasa Difitnah soal Penistaan Agama, JK: Karena di Masjid Maka Saya Pakai Kata Syahid",
+      "source": "JPNN.com",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPQnBnTXVDY3djQ2VoMHYwR3NxbjI1cm5ZRGc5LTNCdXJlWW5JTXhfU2NBRDdMMVI2UU0ybklvbHU1aFFVU3pfOW9TbWNlZVBBOXRXbUJOMVAtQnFnNGVwX041UF9mM1ZvenhkMGcyZW5xb1dBQzUzVVJTUkVhbFBQX2JuSHhpN2lZTlZzRzA1aC11QlItUUFSUzBxTGRyb3pBa1Q4SjNLWHdOTlRCSFg00gGyAUFVX3lxTFBHVFlKdG9ZUmo5X1NvSDlzSFlWM0c3VDB2MGJ4S1U5RXNrRC1QdVVGOVk2VlZPc081V1R5YnZTNWhQdnlKd2hzTC1GQXluSkNSdnJ4N1RodGU3eHpTck5ja0o0dzhIZUg2VmgwYS1iT19HNzEtSHZEOWEyWndFUU9Bd1dhcVVka19Kd201N1JFV2hISjJabFZCazFzZ20xOHFEU0tZaDg4aVRSM1dGUXRHeVE?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_beragama",
+      "subclusterIds": [
+        "kebebasan_beragama"
+      ],
+      "matchedQueries": [
+        "Kebebasan Beragama / Berkeyakinan (KBB)"
+      ],
+      "collectedAt": "2026-09-16T04:53:50.781490Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
