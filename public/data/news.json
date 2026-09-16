@@ -1,15 +1,15 @@
 {
   "meta": {
-    "generatedAt": "2026-09-16T04:53:50.781490Z",
-    "lastRunAt": "2026-09-16T04:53:50.781490Z",
+    "generatedAt": "2026-09-16T11:41:54.197902Z",
+    "lastRunAt": "2026-09-16T11:41:54.197902Z",
     "startDate": "2026-01-01",
     "refreshHours": 6,
     "mode": "incremental",
     "feedsOk": 16,
     "feedsFailed": 0,
-    "totalStored": 1272,
-    "totalPublished": 1272,
-    "newArticles": 10,
+    "totalStored": 1284,
+    "totalPublished": 1284,
+    "newArticles": 12,
     "warning": ""
   },
   "clusters": [
@@ -136,6 +136,167 @@
   ],
   "articles": [
     {
+      "id": "b98c08d7805c3445d3dc3eb5",
+      "publishedAt": "2026-09-16T10:59:00Z",
+      "title": "Film Laut Bercerita: Reza Rahadian Jadi Biru Laut dalam Kisah Penuh Kehilangan",
+      "source": "Head Topics",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQQnYwM096MmZNY2hBcFd0THJKQzBwek1CdlJEMC1VSEF4Q0tmMURuSkhsTllKOXVDTVBGY1YtYWY2QXhqODlBZkRtZHcxcXM1dFBSRmRINEhULUpMbUM5R1IzbzBUc29tWFctT0hTSkM4OVRNVEFWaFFkWWpQY04tRGlBQTZ5RjdTYlIyM19BN0E3clAxdlJjWnpn?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-16T11:41:54.197902Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "200c8f89ea61ff0f68710922",
+      "publishedAt": "2026-09-16T10:10:00Z",
+      "title": "Artis Pendukung Mundur dari Tur Ed Sheeran usai Pemecatan Macklemore",
+      "source": "RRI.co.id",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPMVJpdDVBcGFaZGtRNU5HaE8xVmhzNFVjUlNSaDdLRGhWTXRuSTZZTE1QUl9URmlENEdYRXJ4UDFZbzQ4N05mSmUxcm9JLVFWOVcyd0laSngxRllLX1hZVXNBUFhvUWpidjlzc3N2UlgwVDhEWkMxUEt6Sm1pLTdYSW12c1FPLWdub01nRGFyU1F1QmwzZDZRaUZjRlhac2xEMTI5bDRoWGt0MUVPY1B4TXRn?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-16T11:41:54.197902Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "18176cd6ac4d356424f9dd46",
+      "publishedAt": "2026-09-16T09:08:21Z",
+      "title": "DPRD Sumut Tepis Isu Kebocoran Pajak Daerah, Ketua Komisi C: Pembayaran Langsung Masuk ke Kasda",
+      "source": "nusantaraterkini.co",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOVEloYnFoTWJienRYanJ3bFVRSUVTMWR6QmY3WmtWSUhnbE5pYVpPVXV1QTY0U3Q2NEFPZzR3aFBSN2dhR0VGelFiTE1CUmNud0dGYXl1UEZFSlAyYy1hblAtN013ZnpTY3RiZGRGM09UWkNVSGhLenVwWld4QURLbkFDY2Vmb2J5cXpJZW91Q2xNS1hfeHgwSEo5NGIzMDdGNFJPdFdiX28yNHZYNGdKVW9qX0tSSEh0R2pKT0VB?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-16T11:41:54.197902Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "1238a1370c0c0bab889611ad",
+      "publishedAt": "2026-09-16T08:12:09Z",
+      "title": "Kritik Tersumbat, Jari Bertindak: Empat Arena Pelampiasan Netizen Indonesia Halaman 1",
+      "source": "Kompasiana.com",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOWi0wdHJxM0tMcWJ4Q0NfYXlIbkhWV2FXdVZySWhTaWRJTWYzaHE1V2l1NEFpVUo5eXdIR1ptbmQwOFVmRVk0Qkc4ZTQyaHh4S0lERWhPMDhDV0FTUVBQZWhoMm1UdDgzYkNrZ01wN3JBeHZ1M2NaNHl4R1pDVUZhdU1JTFZsTlAyc2JwNVQweUdGdTJxRzYzRW4xLVBfQUtRNDdMY0c4UW55R2NnZW5OWUctckYwZWJvVlh0aVVOb2FZXzhEcHQxcURfWV9pQmZmbFNz?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "doxxing_intimidasi",
+      "subclusterIds": [
+        "doxxing_intimidasi"
+      ],
+      "matchedQueries": [
+        "Doxxing & Intimidasi"
+      ],
+      "collectedAt": "2026-09-16T11:41:54.197902Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "b26b3f8dbc88e42e96cc533a",
+      "publishedAt": "2026-09-16T07:11:00Z",
+      "title": "Jaga Harmoni Bertetangga, Solusi Konflik Sosial dan Adab dalam Islam",
+      "source": "RRI.co.id",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPQjVHaTNFaFpaNjJ0eDZNQU9vaWY4TU9Bek82VENHM2xJUXpLaXl2eDlyOW9JMFFLVXNLUXRZX0k1d3FxMTUyLTF3VkxrWjNCMTJVY0dYaHE0N0dWc01wcmR4bHo2a2NNNlRCV3RJeEJQTzdwNG5qLS1yNktuc21JUHBlLXNtZTRiX1ZVR2Q0VXhJQ1FkeXZMemw1bHBZajRXYnlxQjM0UGdvQ2dh?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-16T11:41:54.197902Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "4bcfe97934c9500496d67b8b",
+      "publishedAt": "2026-09-16T05:58:06Z",
+      "title": "September Hitam: Kebebasan Berpendapat Harus Tetap Damai dan Bermartabat",
+      "source": "Kompasiana.com",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQeGVKNVBQOGlVeG8wUlI4aDNGdTJ4LVBsaHQzZDZGdE4xQzBzTkdRNzFxRlFlcDl4Z1pyZVhlXzZlVi1nVWd6bmFkaW9QTk5pU2p3dklrNU5pRURRdTVkRnVxYV9maU0wLWdwOGFLXzhBVTFWcDA4QkRBel9hUWhkdjR5SkFLV3ZESk9YNTZNWFVBM0YyYmxPLXBZVGRDdjBUYjRVQ1RPcDJGRlhYZVJBc004cnFzck9hOTZPeV9KWl9ZYjFxamNLdVllUjRoM0R1WVE?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-16T11:41:54.197902Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "92bdd77fb266f8462a051f14",
+      "publishedAt": "2026-09-16T05:49:56Z",
+      "title": "Dorong Keadilan Gender, BAPPEDA Sumenep Terapkan PUG Sejak Tahap Perencanaan",
+      "source": "suaraindonesia-news.com",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOLUM1ZHBja1RlRl9LenVGNG4wYUNrcUNGOVIwWGVSS1ZjTEtBTk02Zll2Rmtoc2dqMnRKeDNNNW40UVBoQ3p6TDhnTmNYVnc4ekFLb0ZXQTRpQzVNbXZuQkNPX2g4X281c1p5OXdwLVFLX0RoRktwM0xZc0VsNHI3ZndFRlQ0bnBTMFUwLTVwUHdQZ2lrRHJDUDcydlZmWHl4d19QSlBtaFdzX2F1?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-16T11:41:54.197902Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
       "id": "d80739d9ad2332d8e7f5fdc4",
       "publishedAt": "2026-09-16T04:39:00Z",
       "title": "Menelaah Logika terbalik Pejabat Publik: Rakyat Menuntut Kinerja, Bukan Counter Kritik",
@@ -228,6 +389,29 @@
       "reviewNote": ""
     },
     {
+      "id": "1b6c338dade1cba934665a9b",
+      "publishedAt": "2026-09-16T02:30:34Z",
+      "title": "Jalan terjal demokrasi Indonesia:refleksi hari demokrasi internasional 15",
+      "source": "Kompasiana.com",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPWS1aUEllNUZyV2I3Z1dDV0ZrakpPQS1GSFVKRXdaU2N4Nm5Hb191Y0psMlFKYjl4NllDVnhOdlN1ejgwSEoxcjVMbjFRWVhjRWQ4VmRmRGMxeDFacnFMeFZKNnpmSVlDcGRWTFJFX19TV3dua2tfWG5rTE0zV3djZDZwN0dGWDZFd2E5VTZ0STVkNVhCRWVlTG4taGU0MnJFY2hCS0hWdVhVT2Q5UHZqUGxWcE82Zzk2QjZVVW84ZU5VaUFBNWM3ZlpySjVQcFNabzB2ZTMtMA?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-16T11:41:54.197902Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
       "id": "4179973dbfab90a1f0fa6af7",
       "publishedAt": "2026-09-16T02:03:54Z",
       "title": "Pengaruh Media Sosial Terhadap Kemampuan Berbahasa Generasi Muda",
@@ -246,6 +430,29 @@
         "Kebebasan Berekspresi & Berpendapat"
       ],
       "collectedAt": "2026-09-16T04:53:50.781490Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "2f3b5d85bffa357c66692827",
+      "publishedAt": "2026-09-16T01:48:08Z",
+      "title": "Pusakademia Serukan Penguatan Hak Sipol sebagai Ekosistem Demokrasi - Jambi One",
+      "source": "Jambi One",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQM0Q3MFU3TXUydkR6MUJBRi1GS0ZXYU91WUl2ekhnaTJIcEpCNnVGcEtlZHE0Y21NdjRjeU54VkcyMnVWZllHT1RSTHkzcG1KVVdmMzhnN3NRNVR5RDIyalpCSk1wX0FaMUdmcTdpSWxyZUdaUldwSVBEWlFWem5vM0Z5MFlET1I2OWNJbnFFUl9xQ195NEFEV0ZsUFZCZldpT3BsZ1BzRXd2ZWJoeEtaaHJ4bWRyQdIBuwFBVV95cUxPSjFHdjBISjRSLS1kZnJ1Q0dMSzJSZ0xRcVJWR2l3VTJ0QU50M1N0Qk14bUNvSldOUTY3ZEZBLVNXQnhyVEVOU3NUOGJPY1RGM3AzaFlqQ3Mycl8zaVB2NGl2Qmo4X3hmNldObldielZDTjMzY0pMUEZQelM3QUE1TEJ2TC0xM1ZkRkdUZmR0cEdFNlVjWnd5eHFyM1dYYUVfaWdQRFZ3TXY5czhmc2tYWE5nVWVGNElidDVN?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-16T11:41:54.197902Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
@@ -435,6 +642,29 @@
       "reviewNote": ""
     },
     {
+      "id": "5c404917e02ae3d16054fc40",
+      "publishedAt": "2026-09-15T10:56:25Z",
+      "title": "Aliansi Malang Kecam Arogansi di Gedung Dewan",
+      "source": "Malang Posco Media",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1XM0llbE5GTXRUVDluRWItbUdxTVc4VnJvNHZTX0M4OHB1VHJfQkdzQ0gyMW5qOENJMVh5Smg1eG5TTnJ1Y0k5dDVfeEV1d2h5c3o5T3pOUWRWby1xX2VwNDhaYk92V1ZjbUtucXhLUGRFWVpxcWxfN0xHdW02MkU?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-16T11:41:54.197902Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
       "id": "e59f132e64b9f5a47dc7ab85",
       "publishedAt": "2026-09-15T08:30:17Z",
       "title": "Protes Pemblokiran Rekening Sepihak, Massa AMPB Geruduk Kantor Bank Mandiri Pati",
@@ -522,6 +752,29 @@
         "Kebebasan Berekspresi & Berpendapat"
       ],
       "collectedAt": "2026-09-15T11:49:16.383779Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "7f05cb1f4f29b9aec3f56f7e",
+      "publishedAt": "2026-09-15T07:30:00Z",
+      "title": "Diperingati Setiap 15 September, Ini Sejarah dan Asal Usul Hari Afro Sedunia",
+      "source": "Katakini.com",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOZ2ZkUnVha3Z0SGxjZEFRaGRhTVAxMXFsRnMwNVNQcDBIN2dURkFXSWgzRDZac0huUEV6Sm9tcEowb0RYaG5RcXFzZGtUaG1TZi00b0o2MFZUUU4wdDVuX3N5d0pIUFlQOVhXQTdhVjVBRkt0cTNzM1N2UGZzMUdKc0hCT0hOSjk5NlhKeWc0OXE1QUE0bTNJU3FGUW5PZHhjM1ZjYUd1bHRudVVxYzBFZDN2dXpSQnM?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-16T11:41:54.197902Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
@@ -27329,6 +27582,29 @@
         "Kebebasan Beragama / Berkeyakinan (KBB)"
       ],
       "collectedAt": "2026-09-03T11:20:00.602627Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "cc20421faafb6e6677bc663a",
+      "publishedAt": "2026-04-14T07:00:00Z",
+      "title": "Trump Hapus Foto AI Dirinya Mirip Yesus Usai Dianggap Penistaan Agama",
+      "source": "detik.com",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOMHlrZDFlRnFXYzJnTDhIREx3TUVZdjFsWTVKV01ydFUxNC1YOVh4R3dBNkZXM0MzMFp0QnlWSFVSM0lyZmZoQ1drV1pQdllWN3otSTJqWW5DSzBWczQ0aHZITEZFMTBELTg2N0V6Q0JKZkd6Y015eF9Id2huc2lVdHVBZmdPdUxlTHpEdktMcDB0a3c5dVZLSkxfMXpmZkZ5VmxUUjQ5QV9ZdWtneE41ZHliZmdhUdIBuwFBVV95cUxQRTFub1lVbV9hb2t3Z3loZWdvZFQ2SFpILWFvWGFyLXNrRUVkZE9tbjlpWEc2d3VTRkxpODlTUXhVaG5EN2pGNWVuREw5TDRHQkhjNFc2dW4yZzc2TGlfOXVPVGpiSThfQklZcVJDcGdSa25oWXI5aGlkQUVWanRPMVk1RDVlUVd2dnNRU05yX2xqS0NHX29aa0RTMU5YR00yMmxvNFlDUnExZV9WeHVVWWdfUlFpUkZIUHlN?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_beragama",
+      "subclusterIds": [
+        "kebebasan_beragama"
+      ],
+      "matchedQueries": [
+        "Kebebasan Beragama / Berkeyakinan (KBB)"
+      ],
+      "collectedAt": "2026-09-16T11:41:54.197902Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
