@@ -1,15 +1,15 @@
 {
   "meta": {
-    "generatedAt": "2026-09-16T11:41:54.197902Z",
-    "lastRunAt": "2026-09-16T11:41:54.197902Z",
+    "generatedAt": "2026-09-16T17:02:38.193447Z",
+    "lastRunAt": "2026-09-16T17:02:38.193447Z",
     "startDate": "2026-01-01",
     "refreshHours": 6,
     "mode": "incremental",
     "feedsOk": 16,
     "feedsFailed": 0,
-    "totalStored": 1284,
-    "totalPublished": 1284,
-    "newArticles": 12,
+    "totalStored": 1298,
+    "totalPublished": 1298,
+    "newArticles": 14,
     "warning": ""
   },
   "clusters": [
@@ -136,6 +136,167 @@
   ],
   "articles": [
     {
+      "id": "1b30e6f3ca9bea9206113520",
+      "publishedAt": "2026-09-16T16:00:49Z",
+      "title": "Polda Jabar Tangkap Pengelola Bot Telegram yang Diduga Sediakan Akses Data Pribadi",
+      "source": "most1058fm.com",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPakNLRkdUWkRaN0RLTTNzYld0bHU4UnJSRW9hVU82cE91N21sa2NxTlZkX1lncENhaWJjX3U1dEhYZ0pKblY4MndwckdrLUdwejNxUV9TeXJCODVHbGtpWm9EbUFaZ2dmaFpzcWRHQ0doOUdSWmZialZ0ZkFRRkJoLTFwNXE3dGlhdVFMUDhyZWxHdnhsQTBERkFyaFJEQklkQ0ZsQk9fUW9kNk40TXJDRndVTUQ?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "doxxing_intimidasi",
+      "subclusterIds": [
+        "doxxing_intimidasi"
+      ],
+      "matchedQueries": [
+        "Doxxing & Intimidasi"
+      ],
+      "collectedAt": "2026-09-16T17:02:38.193447Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "7e83f39214e706ca34ca8d7d",
+      "publishedAt": "2026-09-16T14:30:07Z",
+      "title": "Empat Musisi Keluar Tur Ed Sheeran, Dukung Macklemore",
+      "source": "Adara Relief International",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPTkMyQWdzcWEzVFE0TmtMNjJVZ0p5M1plV29TS29Gam95T19TV0RrcWZkV01uM2RMVFVsRkR1c0pFdHJEcF9JVzlxMEhFMXRWd1VkU291Q0piZkV4c1pkelBoa215a1otV2lZQmNoUzlNVS1FeHpzekVtM1l0NVhSUHlEZFk4QQ?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-16T17:02:38.193447Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "3f63155d88733419d376b5ac",
+      "publishedAt": "2026-09-16T13:38:29Z",
+      "title": "Soobin TXT Jadi Global Ambassador Dolce&Gabbana",
+      "source": "jawapos.com",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOWVNDc0FjUVA1R2xWVG5oaTdoSk9UUTMyczVuV2VDT0d5Y1ItX2xCQTI3ZUJ4MElFeEUyRTU1TUx6NFdkamdmb1J5N3FDREd1SEptU3JnZ1ducWIyelQtUXBWX0FyRzdNUW5tRl9xOG1kT0tOT2duMW1EVERsRlU3cWNKZUlNSGtPUTFkVjR5cG1pWENUSWtoZ1R6UmxVR1U0?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-16T17:02:38.193447Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "d24a0460e09bb2c49ee90268",
+      "publishedAt": "2026-09-16T12:49:00Z",
+      "title": "Usai Ngaku Dilecehkan, Pelapor Betrand Peto Kini Diduga Jadi Korban Doxxing",
+      "source": "Grid.ID",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxObTRMWUVIaHlUd2ZaM1VWdjQyWjd4X0lDalhxbTViN0N2R19yRFB1Y0l4aU9ndVNYcFdKVXlFOHdoMUdXcWxId1Y4aFloS1prUWNUQ3NTWGJhM2Y0TFI2X2dwOFhjQnBtTXRBT3l2TVlGS2hXaTRyS1hkeWhZczhKWW5STUVsbDJ0ZVc1Sm1wUkFZalJTUldrVThReHVfY2R5eU5ZUlBsQkZrd2lGeFE?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "doxxing_intimidasi",
+      "subclusterIds": [
+        "doxxing_intimidasi"
+      ],
+      "matchedQueries": [
+        "Doxxing & Intimidasi"
+      ],
+      "collectedAt": "2026-09-16T17:02:38.193447Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "cb9ccfac71eacc37e70f0786",
+      "publishedAt": "2026-09-16T12:40:00Z",
+      "title": "Mediasi Berujung Kesepakatan, Kasus Pesan WhatsApp kepada Anak di Pemalang Diselesaikan - Suara Merdeka",
+      "source": "Suara Merdeka",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOZ2hmU0xSLVhUMTZCa2pSSnNSTWFoeFM4YmNBcUxLYkxOdWdsVENjUWd2Nkt5dlFJYWJKVkJqc3RoYXVWNjNQUUkxQUtLVWdxQndGamM5eW84ekZWYm9NOWVnWnBfYzl3RDk3Qk56U1QyWjhZOXJzaVg2ZldYU2VzZExraUtaMW5kVkc5Y1NheHVfYnMyTDExblRhengzdTVTUVFXZjhoR2Rsd1JmZ3VtUFRFTjBEMEpQenZYNUF0QmJLMG5hck4wQVQ2MUM3NS0tZmZYeWFvS0R1QdIB2gFBVV95cUxOZ2hmU0xSLVhUMTZCa2pSSnNSTWFoeFM4YmNBcUxLYkxOdWdsVENjUWd2Nkt5dlFJYWJKVkJqc3RoYXVWNjNQUUkxQUtLVWdxQndGamM5eW84ekZWYm9NOWVnWnBfYzl3RDk3Qk56U1QyWjhZOXJzaVg2ZldYU2VzZExraUtaMW5kVkc5Y1NheHVfYnMyTDExblRhengzdTVTUVFXZjhoR2Rsd1JmZ3VtUFRFTjBEMEpQenZYNUF0QmJLMG5hck4wQVQ2MUM3NS0tZmZYeWFvS0R1QQ?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-16T17:02:38.193447Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "26f847b94056ed432addb3dd",
+      "publishedAt": "2026-09-16T12:26:54Z",
+      "title": "Pelajaran Dari Pekalongan: Saat Perayaan Berubah Jadi Penodaan",
+      "source": "Kompasiana.com",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNT1BpUHdpaURSQkJjaEtRNS1SZ0Jya2NucDdOSjk3SlRZTEJzbUlobGhEWHZISkdVekxXWVNyNmhfb1E1RUhYekxXVy00eVB6VTFHY0pQaVZ4bVU1OVVwd3NVNXQ5NDVpcXZzUzZkSUhRaFRfSmRkclVCbUVxSlhYckUtWWhDWWtfcWpaVzJlbDhIZnRyOU5DQ25aVzFHckw5NlJkanp2aExaSDZaZkQ1MGRkTERIZC0wZF9KenpkUlJ2LWI2Tmdha0p3?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-16T17:02:38.193447Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "3ddbbf45febcb99cdea85b7c",
+      "publishedAt": "2026-09-16T12:15:15Z",
+      "title": "Pengaduan Perempuan di Ranah Negara Naik, Komnas Perempuan Soroti Kemunduran Demokrasi",
+      "source": "NU Online",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNbEpvMnM0ZTBaZWNyYXBFRXFnWEYzTjRiZ0RCWjloZXlvT1pPLXBOYlEzQ0M3WEJFZkN2NGZROWY4UmI1a1ZtSWlEcG9jTTVVQWxMdWw0OG9hckJKVEt4dWZfVkhlZVZSdDJWNGxJV1lFMC1NTVBFdUswby1mUV8xdWsxa1BQMkM4aldKTTJqY1c1VWhmX01wWUV4b2FvTFNzT2FRa1VZRGYwT25UcHFPMEMxZEJ2aXZqeGVkbG5BWGdwNHpYd1HSAcYBQVVfeXFMTWxKbzJzNGUwWmVjcmFwRUVxZ1hGM040YmdEQlo5aGV5b09aTy1wTmJRM0NDN1hCRWZDdjRmUTlmOFJiNWtWbUlpRHBvY001VUFsTHVsNDhvYXJCSlRLeHVmX1ZIZWVWUnQyVjRsSVdZRTAtTU1QRXVLMG8tZlFfMXVrMWtQUDJDOGpXSk0yamNXNVVoZl9NcFlFeG9hb0xTc09hUWtVWURmME9uVHBxTzBDMWRCdml2anhlZGxuQVhncDR6WHdR?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-16T17:02:38.193447Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
       "id": "b98c08d7805c3445d3dc3eb5",
       "publishedAt": "2026-09-16T10:59:00Z",
       "title": "Film Laut Bercerita: Reza Rahadian Jadi Biru Laut dalam Kisah Penuh Kehilangan",
@@ -177,6 +338,29 @@
         "Kebebasan Berekspresi & Berpendapat"
       ],
       "collectedAt": "2026-09-16T11:41:54.197902Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "ff81dbbe5d3e31973de7821f",
+      "publishedAt": "2026-09-16T10:00:00Z",
+      "title": "Dampak Isu Politik Konser Musik Terhadap Keputusan Musisi Pengisi Acara - Poros Jakarta",
+      "source": "porosjakarta.com",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOeXhsU2dDNFNKSnV5alF2aDRkdTdCbFhuMEpqZkt6cUk0VTlWbnphLVVfbFozSHhCZmhEUWJQcFJPaWV5cmw0eXBTMTF6ZjRlc3NLd3RiWE5CR1FKNnF3TnIxVlNqS2c1aEpyN0xyMDc1QzZ0azZkUmVibDl2QUdRYXo3Rllvc2tqaXRyc2Y2bEhPX2YtNVNIZG5kTlphc093U2pLMjN4M3RfelpzM050NzdwekJ2YU3SAbwBQVVfeXFMTWxBUHc3OG9RNkhsLUpfZjZ6RXZTb0JXQWRpZ0xnVU13clotbC13bXphcks1Q2IwRFdvOHBsYms4RF9TV0FKc1M5YmprTG9XNVV6eGg4dTlBejd3X2xnNVB0MUZxX0JPRFM2ZTIwSTFBcEM4NTdCYVJGb1UzZXptZWpLOWt1LW5NWVp4WjhHYTlJQWlfN0ZsUDFFXzVKY1REd183Wk5ZNThqV2YwZXExaXNyY0ZzZDZxZGhSejg?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-16T17:02:38.193447Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
@@ -384,6 +568,29 @@
         "Kebebasan Berekspresi & Berpendapat"
       ],
       "collectedAt": "2026-09-16T04:53:50.781490Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "dca4b4b167d85a308349446e",
+      "publishedAt": "2026-09-16T02:46:02Z",
+      "title": "Macklemore Terhenti, Dukungan Meluap Setelah Dicoret Karena Bela Palestina",
+      "source": "Universitas Teknokrat Indonesia",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQeXJIa3Q3ZmNmMFhnWWFPdFZQeUJJdkYwOEUzc182YWE0R090dFdQeU1fTHR1YkhNaWI3Ui1LY3l3ZjhkRTREc2xQSEh6NHVmTm5kVnpZc1dmbDRxaG1TWFN6WmtrZXVJdFNFcjZDam9od3BzeHlEajBvZEt6QUhxaGFmVXd3U0t5T21nbE1sMmpUVTA3WDNJMzFUOE54R3Z5OFFRelVwVGF6VXVq?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-16T17:02:38.193447Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
@@ -706,6 +913,29 @@
         "Kebebasan Berekspresi & Berpendapat"
       ],
       "collectedAt": "2026-09-15T11:49:16.383779Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "b71e2e93931e6349dc719ad7",
+      "publishedAt": "2026-09-15T08:12:00Z",
+      "title": "Aliansi Masyarakat Kabupaten Malang Datangi DPRD, Minta Usut Insiden Kekerasan - memorandum.disway.id",
+      "source": "memorandum.disway.id",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOY0VqYmI1TU5NdzlDT3pVaG5zeGdFNFBRQlQtZm1hOWQ0RzhIRGxuYlFKaVlCX0Q3c2s0V1hqMHhtb0RSQ0stOFMyLVRlRjlYRnJ3UEU0RlpUSjg4VWt6bVhyUUY0ZlAxTm4yZnFkdWhlTGY3ME4zelRqWmhXX1dDcHdmY2F3SjFmaUpRbVZUZkQza3BZVTdtMzF5RGJYejJvT2JfUTlreGhGQTRtY0pKaVBQUXMtbjJt0gG4AUFVX3lxTE5jRWpiYjVNTk13OUNPelVobnN4Z0U0UFFCVC1mbWE5ZDRHOEhEbG5iUUppWUJfRDdzazRXWGoweG1vRFJDSy04UzItVGVGOVhGcndQRTRGWlRKODhVa3ptWHJRRjRmUDFObjJmcWR1aGVMZjcwTjN6VGpaaFdfV0Nwd2ZjYXdKMWZpSlFtVlRmRDNrcFlVN20zMXlEYlh6Mm9PYl9ROWt4aEZBNG1jSkppUFBRcy1uMm0?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-16T17:02:38.193447Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
@@ -15160,6 +15390,29 @@
       "reviewNote": ""
     },
     {
+      "id": "c7c63499a35c8b488137e18b",
+      "publishedAt": "2026-08-18T07:00:00Z",
+      "title": "Dari Challenge Berhadiah Miras, Berujung Jerat Pidana",
+      "source": "pusiknas.polri.go.id",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOZWZISDVUeEdxOEJEVDdaZ0p6dXFEbTkwYk5NTWplU0xqWlRleUpJQ1ZPeDllYkxKZnl6MzNGa2U3a1pRbzcwYU5kaFdfb3BVY3dwbHNlZ0pDVHpuc3R3ejBFTFdoU0p6SGZKWXhKSmZsaFNSM0ZpVlZSWjVUQmhMWjlaU2FVSE1maHVDcXExdGlzTWI5R0JPS1VLakg1Zw?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_beragama",
+      "subclusterIds": [
+        "kebebasan_beragama"
+      ],
+      "matchedQueries": [
+        "Kebebasan Beragama / Berkeyakinan (KBB)"
+      ],
+      "collectedAt": "2026-09-16T17:02:38.193447Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
       "id": "b55271dc4133d678bbf53e1b",
       "publishedAt": "2026-08-18T07:00:00Z",
       "title": "Aktivis Blora Jalan Mundur, Soroti Dugaan Pembungkaman Proyek Sekolah Rakyat",
@@ -18513,6 +18766,29 @@
         "Kebebasan Beragama / Berkeyakinan (KBB)"
       ],
       "collectedAt": "2026-09-01T21:05:00.328305Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "72b024c852e6bad1da8ffd43",
+      "publishedAt": "2026-08-12T07:00:00Z",
+      "title": "Polisi periksa secara mendalam kedua pelaku terduga penistaan agama",
+      "source": "BeritaKaltim.Co",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPaHRmT05XTnc2QlA5RlhVTnJGN0xxNVRXZ1lFSmNZTHNwYVdxa2hvcDlNWkREdGc1aFVQNE92ejNiRFdxeUpveGw5TS1hNTZVeUhFTkh5cEpPSWZTV1JkcnlHcnVOZFJsc3pyOTUwM2FoMWdZcWVqU0RONzZhclBOZlR1UXVnWDU1c09weHRCMFZtMmw2UG8wMXE2ajdDV1JPRkdWYXhn?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_beragama",
+      "subclusterIds": [
+        "kebebasan_beragama"
+      ],
+      "matchedQueries": [
+        "Kebebasan Beragama / Berkeyakinan (KBB)"
+      ],
+      "collectedAt": "2026-09-16T17:02:38.193447Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
@@ -27794,6 +28070,29 @@
       "reviewNote": ""
     },
     {
+      "id": "39e2b1b99e0c840f8c78d886",
+      "publishedAt": "2026-04-13T07:00:00Z",
+      "title": "JK Buka Peluang Dialog soal Laporan Dugaan Penistaan Agama",
+      "source": "RCTI+",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQeFRmNXFFbjF3bF84RXhEeExIOFNJNFVVQmVjcG4wUEluN0U4X2MyUjY5ejMzSktVbG4wTUpfSTV5ZTFtT0JJY19lbWFwemk3WjV2UXg5cGtXcWhXVldLYWlqR1J1NlBJNGtocGh2NUFqSDA0eFBteFV2UWNHTng4djFxRWpIRjVTUEw4eUJTT3EzTXFaZ09LS1Ftc2h5V0FqUmFiOFhJVzRBd1duZEE?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_beragama",
+      "subclusterIds": [
+        "kebebasan_beragama"
+      ],
+      "matchedQueries": [
+        "Kebebasan Beragama / Berkeyakinan (KBB)"
+      ],
+      "collectedAt": "2026-09-16T17:02:38.193447Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
       "id": "9c4f91de68281a2e338d03d4",
       "publishedAt": "2026-04-13T07:00:00Z",
       "title": "Ceramah 'Mati Syahid' JK Berujung Laporan Penistaan Agama",
@@ -27881,6 +28180,29 @@
         "Kebebasan Beragama / Berkeyakinan (KBB)"
       ],
       "collectedAt": "2026-09-05T04:34:32.550282Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "034f58c507a43372c0073b03",
+      "publishedAt": "2026-04-12T07:00:00Z",
+      "title": "Polres Lebak tetapkan dua tersangka kasus penistaan agama",
+      "source": "banten.antaranews.com",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQdGhlRkVQQlRId1NXR09Kc3RVd2d2c0N1ZmMxR1Jlb21qX2xXWWR1Nmd3Mk9xQzEweFZ3eEZOS0JiclgwVmRreWxVTnEyclFxQWJGV1lwVnlVQ2NPNkw2eTRieU5HbGlZSXFJcGhibGlCTjMwMVVkTTRZZTBSTTdjQndkV2ZkWWNYdzJlOWdEa2xpa2ktQ3pPMVJqMWItMXpWSHBF0gGoAUFVX3lxTE42X3BrOGY3LVh5VjFPUEExdnhuMUU1WWxxeVhWdXBXckdwOTdZQTFkY3paVjZLcnJQdUNNeURyVWFvQV8xNFZEMUpYMkhnUXNBRHd2WXFPTEVuXzJTQl9LOHN1VVIwQ1ZNbDRpcDdtTUxoa2FZSzZZazZkNWlFR1ctbFRuNm1KakFtY19KeTE1UzNLR2tnd0JhdzUzaV9NZER0VWsxTEpaSg?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_beragama",
+      "subclusterIds": [
+        "kebebasan_beragama"
+      ],
+      "matchedQueries": [
+        "Kebebasan Beragama / Berkeyakinan (KBB)"
+      ],
+      "collectedAt": "2026-09-16T17:02:38.193447Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
