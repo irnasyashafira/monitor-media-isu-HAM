@@ -1,15 +1,15 @@
 {
   "meta": {
-    "generatedAt": "2026-09-17T17:03:25.686618Z",
-    "lastRunAt": "2026-09-17T17:03:25.686618Z",
+    "generatedAt": "2026-09-17T21:25:54.949621Z",
+    "lastRunAt": "2026-09-17T21:25:54.949621Z",
     "startDate": "2026-01-01",
     "refreshHours": 6,
     "mode": "incremental",
     "feedsOk": 16,
     "feedsFailed": 0,
-    "totalStored": 1344,
-    "totalPublished": 1344,
-    "newArticles": 8,
+    "totalStored": 1346,
+    "totalPublished": 1346,
+    "newArticles": 2,
     "warning": ""
   },
   "clusters": [
@@ -571,6 +571,29 @@
         "Kebebasan Berekspresi & Berpendapat"
       ],
       "collectedAt": "2026-09-17T04:56:50.146941Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "86b7f5a407d6cf0e93c94965",
+      "publishedAt": "2026-09-17T01:58:00Z",
+      "title": "Sidang Ijazah Jokowi Hari Ini: Roy Suryo Siapkan 10 Jawaban untuk 3 Dakwaan - Suara Merdeka",
+      "source": "Suara Merdeka",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPbE1wcUtLTDNEcDFBSlk5ZUJwWVJ0VWVUVHB4aTlzaUJmM1NJWFZYbXJOYUdEMmVtS0JqRXBmTDBTMFlDOEtqSUdHZmNialBxSWN6X3RpZnpvWVR3M3FQTXFEOHBTcHpRLVBQd045NmJpbEJxUFlIZHF2ZFQzWjFJUFY0X29ZTWhmNXl4VXVsajZwY2xVcVEzNk94R0NQUi1qQTZOblRKdV9LMy0xZHhnZmxLLTVOZEpxQW11Y29KQ09aQU8ydlhyWUpR0gHPAUFVX3lxTE9MM3NoVEprRWpVdDBBRmYxR3g4Tkg3RXdoYldwNlBFS1paRE9mSk5aQ0gwMGpZRTVVdUZ2bnNMSkRISWh6X2JHR1pXWE5lRGlhaDFLYnExaFFvLXd4WWFsNXFPcWVrdWZ1dHZGb05PaVhoTWVoRkdWUTFXQ1RFazFjY3NMek5GdDdhU3Rpb1AzWC13ajdJOEZkeGtfLVpNa1BaTnQ3WnRXU0dCQ19qZVhVcWJZRXZiNUJtQzJCNXIyVHlHV1BubnlXTGJ2b1o1QQ?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-17T21:25:54.949621Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
@@ -1698,6 +1721,29 @@
         "Kebebasan Berekspresi & Berpendapat"
       ],
       "collectedAt": "2026-09-15T17:03:18.882555Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "2ec2f0299c140079a7755706",
+      "publishedAt": "2026-09-15T12:38:32Z",
+      "title": "“Berkas Rahasia” dan “Tuduhan Provokasi”: Senjata Israel Bungkam Suara Jurnalis Palestina",
+      "source": "spiritofaqsa.or.id",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPM3RJb1A0VnRJRHlfYTFuQzlRSDB1YnZydVF5Um50bUdvazdSa3NELWRyYk5ZYWpPTmNwOU9mWTVNTGhfaXA1RmM4SnJ0Z1FlemZGbERnWW9QVFBKNk82dHIyS1BiRndYQ3NOMWllVkUxVmJINlAxMlBFaUktTmpBUHNQM0hlcUN1X2N2anI4VUVCSEFJZEtXWFZCaU54SGQwTDRrVE5lWnp4dW1TM2UySEtKLTkzN3c?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-17T21:25:54.949621Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
