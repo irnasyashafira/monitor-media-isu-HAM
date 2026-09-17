@@ -1,15 +1,15 @@
 {
   "meta": {
-    "generatedAt": "2026-09-17T11:47:04.082749Z",
-    "lastRunAt": "2026-09-17T11:47:04.082749Z",
+    "generatedAt": "2026-09-17T17:03:25.686618Z",
+    "lastRunAt": "2026-09-17T17:03:25.686618Z",
     "startDate": "2026-01-01",
     "refreshHours": 6,
     "mode": "incremental",
     "feedsOk": 16,
     "feedsFailed": 0,
-    "totalStored": 1336,
-    "totalPublished": 1336,
-    "newArticles": 17,
+    "totalStored": 1344,
+    "totalPublished": 1344,
+    "newArticles": 8,
     "warning": ""
   },
   "clusters": [
@@ -136,6 +136,52 @@
   ],
   "articles": [
     {
+      "id": "e11c7e9f4b86b7866437d18a",
+      "publishedAt": "2026-09-17T16:38:59Z",
+      "title": "Forum Koordinasi Kebijakan HAM 2026 Jembatani Aspirasi Masyarakat dengan Pemerintah",
+      "source": "akurat.co",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQeG5TX3plaEs0YTRycGVOREdneHJOQ3Q4WnhKSHRieC1qX0tfNlVnaHdXMUtJQVhjdWc5RVYzZ0YyQUx1bFRoZ2xVb1MtTmZ5aG02cGlfQlUtSTZTai1oazA1RXhhSGEwZ2txNkFIVnFOVC1LcGM3aXlMYnRqSHdxb2hjUW5xU0Eyd0dHZTFDYzVMd0NIT0p5OUstaERWaGQ5dHJ6Z25XQ1h1b0lJeGdJQU1yLXZUTnI1dXFlWUhR?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-17T17:03:25.686618Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "1de9abef1dfc28adf4755876",
+      "publishedAt": "2026-09-17T13:00:00Z",
+      "title": "September Hitam Jangan Menjadi Panggung Mobilisasi Kebencian yang Merusak Demokrasi",
+      "source": "PT Suara Dewata Media",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPdk9WbVlTeDBCbVlmQm1BcWNqRVFDME03S2FQNVJwcHJHUkVPUGtOcmRaeWFnNWtIMlB3eU93VUY2ZnoxdnJWcEhVbGxTU3c4eGU2UnFvY01INGFwUmxYeGZxVHVOWHNyaXhPV3JTTUs5WGpETVhic3V3MGpVcmxCSkQyUkNMRzlVZzlHbW9SZTdwWXJIV0w1RXFjVHZBVUhXRkNLc2FFYjB3QU5UMUR4S01aUk55VURyZl82bUhQbVJ3ZFpoLXF1akhjaw?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-17T17:03:25.686618Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
       "id": "038c6e9d981894823e36392b",
       "publishedAt": "2026-09-17T10:00:22Z",
       "title": "Civitas Akademika UINSA Ungkapkan Aspirasi Penolakan terhadap Rektor Terpilih",
@@ -182,6 +228,55 @@
       "reviewNote": ""
     },
     {
+      "id": "43bdf0bfe0fc2bdfa6796e24",
+      "publishedAt": "2026-09-17T08:52:08Z",
+      "title": "Oknum Pejabat Dinas Kabupaten Bogor Diduga Bayar Buzzer TikTok untuk Bungkam Jurnalis Kritis",
+      "source": "reaksi media",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNSHpPbHVXc3haUDJvTWlVLTV6LXZWZlVXQ2dtd3hpemhJR18wLTdtUnU5MWV1RW9oZDZfU21HcGRKamUtRWl3MXdOenpPVkpwZjd6TzY3bUZYTmR3UWZGQVlqSDMzWUc3eHhsdHk5SnZVcmNOTFJuZmJHUll3My1HYWU4YlZCN2NyaGE0eXZHdTBnNEVMei1kbGliQjVqUHcwdjZKU25fN3A2ZGdZLUhOeFpPdGdMQVJh?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital",
+        "sipol"
+      ],
+      "primarySubcluster": "doxxing_intimidasi",
+      "subclusterIds": [
+        "doxxing_intimidasi",
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Doxxing & Intimidasi",
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-17T17:03:25.686618Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "a0a0a5e5a09f687b3843614e",
+      "publishedAt": "2026-09-17T08:19:59Z",
+      "title": "Ed Sheeran Kehilangan Band Pengiring Usai Macklemore Dicoret karena Isu Mendukung Palestina",
+      "source": "Opsi.id",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQRTgxSFNWNEVxdUl4Q0tHeUdfM1YyMnVxNFhhMTRNX200azVHUjBzY0E3U1FSZEFvbXpVZUplZkJtN2ZtekI4MnQzMUJSOEhaSmxpWVJacmhHamJ0NDJuSE5TRVBpR0FheHhIUkViZjVSRjZETmFFN3l3RlozTEVlZVV2bTFpYVpjeFk5U0R0Vkt5YnBPR09ldGV1MTRSWjJIcUFDZlRoTC1kZHFK?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-17T17:03:25.686618Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
       "id": "8db971f63abbc2f444effd04",
       "publishedAt": "2026-09-17T08:10:42Z",
       "title": "Poster Garuda Luka dari Pati, Simbol Penolakan Pembungkaman Suara Rakyat",
@@ -200,6 +295,29 @@
         "Kebebasan Berekspresi & Berpendapat"
       ],
       "collectedAt": "2026-09-17T11:47:04.082749Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "052301b3d66e8b50932acdc4",
+      "publishedAt": "2026-09-17T07:51:25Z",
+      "title": "Mempelajari Demokrasi untuk Generasi Emas",
+      "source": "Kompasiana.com",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOOUNLZnRGQ1ZTQzdwVm95SVBVTU13QnlxRHY4VnJ0elFUOXFDTFU2cFluM292NXhqLWU3c3ZCX2w2WDRxN1NOUjRYOXppa2M3YndlTG1MWmdDMTBRdlRZclZ0TmlOa2ZGekc3TTJDNkhkXzVqSlpUREl4SlZ0UFJQWUo5OFo3bE0zSGUyR3F4ZXA0NUZjdVdIdEFLaHZrdWlHbDBOMTdXbGVlaWN2THRGV3BOdVBwZ1Bm?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-17T17:03:25.686618Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
@@ -412,6 +530,29 @@
       "reviewNote": ""
     },
     {
+      "id": "cba52cffdb5f12d89c54af02",
+      "publishedAt": "2026-09-17T02:01:00Z",
+      "title": "Dari IndoBuildTech hingga CSR, Coway Perluas Kehadiran di Surabaya",
+      "source": "merahputih.com",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9Lb2w0d3I4YUtwbTNuZ3ZSNnRDYjBNNkNwR0IxdGRCMHZZQ3BWRnpHaFJwNEh3WnpZbWEtYXpPbGR0VTJJRmxha3B2LXVIdzh6aFJwVGV4TmE2aUxHNGs5WEJSQnZiMEx4dm1sdEFfZGNhYnVTWklpRG1odDFCQdIBfkFVX3lxTE9Lb2w0d3I4YUtwbTNuZ3ZSNnRDYjBNNkNwR0IxdGRCMHZZQ3BWRnpHaFJwNEh3WnpZbWEtYXpPbGR0VTJJRmxha3B2LXVIdzh6aFJwVGV4TmE2aUxHNGs5WEJSQnZiMEx4dm1sdEFfZGNhYnVTWklpRG1odDFCQQ?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-17T17:03:25.686618Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
       "id": "b5d63fcc9c26f4bf9ef18ac1",
       "publishedAt": "2026-09-17T01:58:48Z",
       "title": "Macklemore dan Robert Kraft Alokasikan Dana Kemanusiaan untuk Palestina",
@@ -614,6 +755,29 @@
         "Kebebasan Berkumpul / Berserikat"
       ],
       "collectedAt": "2026-09-17T04:56:50.146941Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "44cc731c37e8abc3d138859f",
+      "publishedAt": "2026-09-16T22:30:00Z",
+      "title": "Tolak MBG, Pelajar Jayapura Desak Pendidikan Gratis, Sejumlah Massa Tangkap Polisi",
+      "source": "netralnews.com",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNV0llQ0FTak9rSmtSSlNaSElkNGItMDdBRFNya0dmNHVabzhZSHdhNzcyME0tVjc5TndINms1dXM0S0wwM3Y3cC1Wc0Z0UHRZT3ZWZHgydkFsbVQ3TEZUYmJGZ183LVB6MGJoejVremxJaHY4VVVHeklzZzFGSVZpSXV1QVVXZ1BndWJlLTk1dlVoenBLTWNSaVY3cmJFSXU1cXl0VlZCMmx0eXBKZmNHQkxkN2o2ckotV2ZodA?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_berkumpul",
+      "subclusterIds": [
+        "kebebasan_berkumpul"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berkumpul / Berserikat"
+      ],
+      "collectedAt": "2026-09-17T17:03:25.686618Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
@@ -1419,6 +1583,29 @@
         "Kebebasan Berekspresi & Berpendapat"
       ],
       "collectedAt": "2026-09-16T04:53:50.781490Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "91ff10ac0c5953d9ce6f442f",
+      "publishedAt": "2026-09-16T00:37:00Z",
+      "title": "Buntut Penutupan Rekening, Botok AMPB Geruduk Bank Mandiri",
+      "source": "inilahjateng.com",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOaDdsVjRmWWpnaWY2dVBzM3BwU05YdmlYZTNHdnVTU0kwSzV5cERRMHB5ZklSN0ZWRG1JSTh0THFJTUlaaWpKM3E0bkNIa3NTajhmV1hYTU83dUh1R21KRVlvOVRBYm1xOE56bDlNV3h4VDkxR3ItcndmVEtWd0JlM3ZVZHpKalZvdmE0?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-17T17:03:25.686618Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
