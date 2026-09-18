@@ -1,15 +1,15 @@
 {
   "meta": {
-    "generatedAt": "2026-09-18T11:21:20.512119Z",
-    "lastRunAt": "2026-09-18T11:21:20.512119Z",
+    "generatedAt": "2026-09-18T16:27:58.243623Z",
+    "lastRunAt": "2026-09-18T16:27:58.243623Z",
     "startDate": "2026-01-01",
     "refreshHours": 6,
     "mode": "incremental",
     "feedsOk": 16,
     "feedsFailed": 0,
-    "totalStored": 1356,
-    "totalPublished": 1356,
-    "newArticles": 10,
+    "totalStored": 1365,
+    "totalPublished": 1365,
+    "newArticles": 9,
     "warning": ""
   },
   "clusters": [
@@ -136,6 +136,75 @@
   ],
   "articles": [
     {
+      "id": "507a6328d2be71d1a5808779",
+      "publishedAt": "2026-09-18T11:33:56Z",
+      "title": "Crocs Echo II Ajak Tampil Berani dan Percaya Diri dengan Gaya Sendiri",
+      "source": "Beautynesia",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQeURnc1lQb1JlRHBVaXBUTUp2UWppMGNtWFYwYkVwNkVvcldxVk83RG9TMVBOeFE0c2w5a2FabzB3Mi1RNDlmdnJaV2kwN1ByTDZBMzNMN3JUSmdNTzhDblJIMmI3RjBwSjBTUWpfc01EckNWSTN1OWxmRUJOUXVtT2JPWkV4VzF6TGkxRjk2YVZTSVdzdWF2bXRjOUtuRlh2S1JzQ25hSm4yOEJSbkdGbno3MHFlWkdiUzlRNjZGRkFYOWZFeklmOHpJemdNakRJVGNTNm1UONIB1wFBVV95cUxQeURnc1lQb1JlRHBVaXBUTUp2UWppMGNtWFYwYkVwNkVvcldxVk83RG9TMVBOeFE0c2w5a2FabzB3Mi1RNDlmdnJaV2kwN1ByTDZBMzNMN3JUSmdNTzhDblJIMmI3RjBwSjBTUWpfc01EckNWSTN1OWxmRUJOUXVtT2JPWkV4VzF6TGkxRjk2YVZTSVdzdWF2bXRjOUtuRlh2S1JzQ25hSm4yOEJSbkdGbno3MHFlWkdiUzlRNjZGRkFYOWZFeklmOHpJemdNakRJVGNTNm1UOA?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-18T16:27:58.243623Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "c4be16bd5ab6973041e6b14f",
+      "publishedAt": "2026-09-18T11:30:00Z",
+      "title": "Pelapor Betrand Peto Buka Opsi Laporan Baru usai Diduga Alami Teror dan Doxing",
+      "source": "celebrity.okezone.com",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOSnQ4M09ydmZSc00yQlptZGRiR0RRTVkxUVktbHBtRHRNSEpEcTUwaHNmbTh4QXA5d0N6MDhCTUlFaEw3RXozQXpGN2U1Tk5TYUhzZC10ZHJpM1BhOWtXUVk3V1Bsal9rZ0FHSWwzRXozUDRWaHBpTGVDQU1ZNmV2czhEWFpERU5sTE1VejUtQ2JlbWkyX3M0eWtJdDJlYUZhanZDVFotYXR1Nks3SHhTdkl6Z3p5Zmp6ckxNR09uWmdNWllyWTFWSUFBQVNLMjDSAc8BQVVfeXFMTkp0ODNPcnZmUnNNMkJabWRkYkdEUU1ZMVFZLWxwbUR0TUhKRHE1MGhzZm04eEFwOXdDejA4Qk1JRWhMN0V6M0F6RjdlNU5OU2FIc2QtdGRyaTNQYTlrV1FZN1dQbGpfa2dBR0lsM0V6M1A0VmhwaUxlQ0FNWTZldnM4RFhaREVObExNVXo1LUNiZW1pMl9zNHlrSXQyZWFGYWp2Q1RaLWF0dTZLN0h4U3ZJemd6eWZqenJMTUdPblpnTVpZclkxVklBQUFTSzIw?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "doxxing_intimidasi",
+      "subclusterIds": [
+        "doxxing_intimidasi"
+      ],
+      "matchedQueries": [
+        "Doxxing & Intimidasi"
+      ],
+      "collectedAt": "2026-09-18T16:27:58.243623Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "816a967a6cac57933fa3a0ec",
+      "publishedAt": "2026-09-18T10:57:13Z",
+      "title": "Pengamat Tetap Takhta Suci yang baru untuk PBB: Ujaran kebencian bukanlah kebebasan berekspresi",
+      "source": "Vatican News",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNWUctZTB6NmNIT1VUQVZONF92RXR0X3liRlJ0VC05OHM3MGxCeHN3RmdkeVBWc2hCYlRvX2JhT0lmZHB6RjJ3T3JEejk3M0p2YWE2MG9LdzBSOGlkTVZzSGtXUEU2c0k4YTBOb1doNF9PMEVRN1gzaXpydjFQSFNHcGY5d2p4S0YxWWluSE92T2xsOXM5WENMTVF0Y0VOUFI4SFo5Y3hIMkZYMUx0TzFQN1pXeFNMMUwxYWNyenpsa0o4QQ?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-18T16:27:58.243623Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
       "id": "279f8f80c42462d075e8b50b",
       "publishedAt": "2026-09-18T10:31:00Z",
       "title": "Oliver Sykes Kritik Pemecatan Macklemore dari Tur Ed Sheeran: Empati Kini Dianggap Pengkhianatan!",
@@ -182,6 +251,29 @@
       "reviewNote": ""
     },
     {
+      "id": "89912c293e5649ad81fda3dc",
+      "publishedAt": "2026-09-18T10:17:17Z",
+      "title": "PBB ke-81 Dipastikan Panas, Presiden Iran dan Menlu Rusia Resmi Kantongi Visa AS",
+      "source": "Kaltim Post",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNYUNOMWV2cW9qSUotblp1LU9IMnNLaGNSNk00YlMxMmx0aEo4Slh6TklfT3V6QUg5MU9OVHpaeU10Vng1MmZlUnl3ak5WM2lrLUhHTTZmU2tpS2dJbmpJVVFfc2drQjdtU2JZLVl3Y0ZYNkdaMDJWcGUtd0wtaDFzcU9HRzlLdTNUWU5QMDhxc2lMdTNFR0kzX0FVazJ1dWJGSThPUGd5ZEpkLW9jaVdIWGJkTnJjSnBCNy1pRVhINDFOMGNoSmfSAcsBQVVfeXFMUDZ1LVlSWm50RWNtcXd6dHJBNk9FakZ4ajUzMGlLU0J4R2tsV3pvQ3RjVnJOY0VRRDhOcnJHazM5UGhUOWJ5TnNlUlVFbTFsVnZhZk56Rlg0d2JORTZ1cEUtWHBKcUFMNXZSUDV3X0NMemhuQTdTUHhOenJiUllEdHl5Rm5oNS1hdExQdEpVc1J2Y25GVy1HZWRqLXRPUFU2ZU1HcFNPTENDOHBCbm5IeVZHS2NYMnU4LXRDOUFJLTJxRFFNMXQ5djdlTDg?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-18T16:27:58.243623Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
       "id": "436a1e4b32e02686aac0fa3a",
       "publishedAt": "2026-09-18T10:14:52Z",
       "title": "Judol, Ketika Kemenangan Cuma Ilusi dan Negara Sibuk Sendiri-sendiri",
@@ -200,6 +292,29 @@
         "Sensor Konten"
       ],
       "collectedAt": "2026-09-18T11:21:20.512119Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "892f3909f2a55b7d90315ed4",
+      "publishedAt": "2026-09-18T10:02:25Z",
+      "title": "Lawan Manuver AS, 152 Negara Pasang Badan Gagalkan Upaya Pembungkaman Palestina",
+      "source": "Kaltim Post",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOYmEwNDU1M2xnNGNhZl9NQzJtWjBmMHZuVFFrTV9uQVNmbGljZEg5bkNVUExDakxCcEE2V1VzdEVpMy1xb25kR1JDWkVVR1NDbWhBZjdMSmtuZ29wOF8taml1WmlDNHVfRzBkWk9IZDBGWmNYNEJiV0Y1VzRjYWJVY3Z0YmlLa2dyaFB2ZXI0MjJLQmJpZ2ZYTTZjUkQtLXE3WXNITlRROEhTWUk0OW1ZblhBUDVOdlFOOElsYS1JSjgxM1Rn0gHKAUFVX3lxTE9LTGNhYjJHSk5rcl9PcTM3OVl3YlI2b1BjZVRtYWJXVTZMS2xQUTdtLU9KMGVSeUx6azRMRUxvS0gyOTVtbTBnQWJNOWowUW01cWtRTF9YNWdFWWpmN2ZjdnJhQl9RdE55VmItMHBnMU1MQldOaUdUN0NTM0NuUDVvbTZMZlBad0FMVWlDNER2SXFJZ0dYbmZOQUdoS0hYQXBkalpXeGhoOEk0UXJQQnJDajJQNTV6SnVheVVPVVdkc0IySkVENDhnYXc?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-18T16:27:58.243623Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
@@ -246,6 +361,29 @@
         "Kebebasan Berekspresi & Berpendapat"
       ],
       "collectedAt": "2026-09-18T11:21:20.512119Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "ef35655779caeda9dc158c1c",
+      "publishedAt": "2026-09-18T08:44:22Z",
+      "title": "Macklemore Dicoret dari Konser Ed Sheeran, Bagaimana Seharusnya Artis Bersuara di Atas Panggung? - Jurnal Gaya",
+      "source": "jurnalgaya.pikiran-rakyat.com",
+      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNNVd5d0tnc2k2dzBiSWd3YmxlUGkzZWpFbk8tUDlDTnVDMmprMEJnVnNjbGpyQU01ajA3UWZ2ZzhvLU1JVU45SXlUM1hJVmVNYUtESlN6UmUzaVBHTWh4cVJXVmt4MktwSmttNWVJWkE1VmVCSThKT0JFbFdYVl9aN01JVlBjOXFfcGRSNERISlcwWXpHWnFScFpNYUJ5YktxdjFYMllFOGFfTEtBYURyWGViaVJmbGFLWjdrcXlUcWF0S1VsMDl3TUxzNzZGbHFFY3NEWlBOTzQxV3I0VkdYMUhoUXJMZ0V2aV9RX1RGZ3JEUdIB9wFBVV95cUxPbnlRX2hxc2hXM2xJWnU0OVdnUkh6WVpZdVBCYnpXZ00wNDVrQXBfUU1jR2dLUEhQdHNTSGwxNi03WFd2RFJma2NXNU15OXVKSG4yd2NjeEpOZjIyV0xVT2NEQlNJeTJvOG0wNDBHZXFwTUdvYmpDYVJGU1FrLTVRT3Ztenh3Zi1wbFFVUEV2cWRkb3BGc3FYX19NNGZmb0xQT3hMQ0duRkNpQTQ1b0hVWjBoRG5oU3NTQ3dhRmFyWjR2TDd0Vnh4cGNodFlPOGg2am04RmJrTzg3WFo3dWxzaEUxbWMxVFZoVUpCR3NQVkd5SXVJYzJj?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-18T16:27:58.243623Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
@@ -338,6 +476,29 @@
         "Kebebasan Berekspresi & Berpendapat"
       ],
       "collectedAt": "2026-09-18T11:21:20.512119Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "b8ba36c82edfb374be347632",
+      "publishedAt": "2026-09-17T23:37:00Z",
+      "title": "TAUD Desak Polisi Hentikan Kasus Dua Tersangka Demo Agustus",
+      "source": "Tempo.co",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNWmNKQk4yb0ptOGdFSDBlN2s3ZFptQ05iSDRaMUcxZHpSSU9DZk5GYWlDdHZ5dUs4QlBySG92aXBPODZSanM3Rm5IcmZCcjh5S1JEN0ljYXB2SHRNeTNXdmpqa0RrSEVWQkFZNnVadTRBT0JKTjJQeHROUlVHMXpDa0x3Yk54a09qbUtDOGVYdGtZSDVuV05CLXBn?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-18T16:27:58.243623Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
@@ -548,6 +709,29 @@
         "Kebebasan Berekspresi & Berpendapat"
       ],
       "collectedAt": "2026-09-17T11:47:04.082749Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "bbd4f7a0a3579f9486bba969",
+      "publishedAt": "2026-09-17T06:07:18Z",
+      "title": "Massive Attack Kritik Ed Sheeran Soal Netralitas Palestina",
+      "source": "Limapagi",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE8xT04wMGtQZnU2bndSVkRBWklkNXgtZnZUOXVLNXdCREVBaER5dzZ6a1Z5YzhMU1lRcGpKSWY1bU5oUWpKOGhVX1QyX2RaSXNiSG9sYm9RcTRVZ1BIa2FSai1vMzJycVNhYmFoS3V4NWNZUWN3?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-18T16:27:58.243623Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
@@ -1445,6 +1629,29 @@
         "Kebebasan Berekspresi & Berpendapat"
       ],
       "collectedAt": "2026-09-16T17:02:38.193447Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "5394528def436ea56ccf92d1",
+      "publishedAt": "2026-09-16T10:00:00Z",
+      "title": "Dampak Isu Politik Konser Musik Terhadap Keputusan Musisi Pengisi Acara - Poros Jakarta",
+      "source": "Poros Jakarta",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOeXhsU2dDNFNKSnV5alF2aDRkdTdCbFhuMEpqZkt6cUk0VTlWbnphLVVfbFozSHhCZmhEUWJQcFJPaWV5cmw0eXBTMTF6ZjRlc3NLd3RiWE5CR1FKNnF3TnIxVlNqS2c1aEpyN0xyMDc1QzZ0azZkUmVibDl2QUdRYXo3Rllvc2tqaXRyc2Y2bEhPX2YtNVNIZG5kTlphc093U2pLMjN4M3RfelpzM050NzdwekJ2YU3SAbwBQVVfeXFMTWxBUHc3OG9RNkhsLUpfZjZ6RXZTb0JXQWRpZ0xnVU13clotbC13bXphcks1Q2IwRFdvOHBsYms4RF9TV0FKc1M5YmprTG9XNVV6eGg4dTlBejd3X2xnNVB0MUZxX0JPRFM2ZTIwSTFBcEM4NTdCYVJGb1UzZXptZWpLOWt1LW5NWVp4WjhHYTlJQWlfN0ZsUDFFXzVKY1REd183Wk5ZNThqV2YwZXExaXNyY0ZzZDZxZGhSejg?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-18T16:27:58.243623Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
