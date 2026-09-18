@@ -1,15 +1,15 @@
 {
   "meta": {
-    "generatedAt": "2026-09-18T16:27:58.243623Z",
-    "lastRunAt": "2026-09-18T16:27:58.243623Z",
+    "generatedAt": "2026-09-18T20:56:38.552092Z",
+    "lastRunAt": "2026-09-18T20:56:38.552092Z",
     "startDate": "2026-01-01",
     "refreshHours": 6,
     "mode": "incremental",
     "feedsOk": 16,
     "feedsFailed": 0,
-    "totalStored": 1365,
-    "totalPublished": 1365,
-    "newArticles": 9,
+    "totalStored": 1366,
+    "totalPublished": 1366,
+    "newArticles": 1,
     "warning": ""
   },
   "clusters": [
@@ -135,6 +135,29 @@
     }
   ],
   "articles": [
+    {
+      "id": "5a7ec36741fdcedf580c726d",
+      "publishedAt": "2026-09-18T16:25:00Z",
+      "title": "Heboh! Oknum Wartawan di Pemalang Disebut Terima Titipan Uang dari Teddy Setiawan Diduga untuk Bungkam Berita",
+      "source": "Berita Bersatu",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQY3FpbFFNWkliWTFlYnBZOXdkaExPMG1BLThnTzM3UmxMOUhpejhmRjRPc3JrTDMyZHBaQUI4azVaV3ZVX1VOZ0xpR3hFR2tjNWhjSG5nelRheVpPdEFtU25hMGVhY3NoRk5iUzV0ZjJLcEpoYm12RTN4bUdyLUMxQ2VvOHItTFpseGZNbURMbmctN3QtRV9YODFmVWhNZjE1NndJOFlJUEtXRlBQaUdhc1RpY0JsZHlkcURlOTk5VjlESkR0MEdvSlQyWklvcnh3RjFlQWIzT1lDd1R2bTBQa3lQXzE?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-18T20:56:38.552092Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
     {
       "id": "507a6328d2be71d1a5808779",
       "publishedAt": "2026-09-18T11:33:56Z",
