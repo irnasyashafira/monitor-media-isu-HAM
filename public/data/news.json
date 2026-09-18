@@ -1,16 +1,16 @@
 {
   "meta": {
-    "generatedAt": "2026-09-18T04:50:15.999435Z",
-    "lastRunAt": "2026-09-18T04:50:15.999435Z",
+    "generatedAt": "2026-09-18T11:21:20.512119Z",
+    "lastRunAt": "2026-09-18T11:21:20.512119Z",
     "startDate": "2026-01-01",
     "refreshHours": 6,
     "mode": "incremental",
-    "feedsOk": 0,
-    "feedsFailed": 16,
-    "totalStored": 1346,
-    "totalPublished": 1346,
-    "newArticles": 0,
-    "warning": "16 feed gagal; feed lain tetap diproses."
+    "feedsOk": 16,
+    "feedsFailed": 0,
+    "totalStored": 1356,
+    "totalPublished": 1356,
+    "newArticles": 10,
+    "warning": ""
   },
   "clusters": [
     {
@@ -135,6 +135,213 @@
     }
   ],
   "articles": [
+    {
+      "id": "279f8f80c42462d075e8b50b",
+      "publishedAt": "2026-09-18T10:31:00Z",
+      "title": "Oliver Sykes Kritik Pemecatan Macklemore dari Tur Ed Sheeran: Empati Kini Dianggap Pengkhianatan!",
+      "source": "Medcom.id",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNRWc5MmI0RXFSaFZBaDhHaGdVTVBNYlNuUHh5Z1JCODZ5VXJidHhqNjNfN3dMT2ZtNlJFUFpwZWlJcGNLckxUdmtnak1tNmt2dWJrZ1MzM29iT3M5eXpmeGRCSlEwRjhSRDlmMjBrTlVoU2dOQUxaUkNxMjRNcHhZY3RmYnBPQU1OV1oyelB4SGVDT0ZiU0RKV3hYUUF5X3VzeWpYWHlEZzFNZGVyWl92ZmRxM2hDbllnM0hSdjZ0dTRRNHJOZm5EZUo3S0I4TkU1WlF3Q1JLNA?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-18T11:21:20.512119Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "c2263d93d35436b7bda0d53f",
+      "publishedAt": "2026-09-18T10:17:20Z",
+      "title": "Tugas Mata Kuliah Ilmu Negara",
+      "source": "Kompasiana.com",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOTnE0RnE4YVdhX1R0MVlrTl8yM0hTWWJvUlphazdsdVN6TnFDaWpsTU9JZWJzWlRFRnBpcHpma3RSQkQ3cW41UmxiODlFWm5rZlRvSU9OT2xkdXB2RWRjMXhhMW5jOUxWSU4zQ1oxSXdqTEdOTEVGdEtHVzlOc1JBZ3JsOERndkRqUkNRTHdQem1LSEJRbEVOUDlkZ0g?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-18T11:21:20.512119Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "436a1e4b32e02686aac0fa3a",
+      "publishedAt": "2026-09-18T10:14:52Z",
+      "title": "Judol, Ketika Kemenangan Cuma Ilusi dan Negara Sibuk Sendiri-sendiri",
+      "source": "Kompasiana.com",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOeFlUVmI4ZDlLd2tudUN3N2EwUFNZbkozOFZPXzJDQjBxUU13blJGaDhOaU9EZk9PMXhXNFV0VGh3b0k1SlhyYzJkRkJLdE5MUUNrMlRsbHBpeUVpbi16ZTN1RGF6OEpiREVLNUVRQko0djVqc2ZvXzZ6TUlXOU01cy1sRlVoZy1jZHF0VG1waWFGeWR3bkhsYzRjNmhwc295aFJldlVPTzducENtWXdCV1NHRjhBbGFjbTduclQ5a09lZ0g0b3JkeHJvVm8yeFc3RVE?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "sensor_konten",
+      "subclusterIds": [
+        "sensor_konten"
+      ],
+      "matchedQueries": [
+        "Sensor Konten"
+      ],
+      "collectedAt": "2026-09-18T11:21:20.512119Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "267cf409b3f49c6d11b90dc7",
+      "publishedAt": "2026-09-18T09:44:55Z",
+      "title": "Korban Dugaan TPKS yang Seret Betrand Peto Mengaku Dapat Teror, Ancaman hingga Data Pribadi Disebar",
+      "source": "TribunWow.com",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOMXhid3hZZU1FM1NYUVR5UFR4UldYU2piR1pENjl4U2xmTEtYcFA5aUY4NmFjMHY2V1AxZlMtaHBYUHBBUmN4OE83TUN3dnVmVnVESExsbGZ3QjBRM2FYVlFwVlVSMXVSaWltcmJJS0dMT2VuaFZTc2gwamlZLW04eGVseGNacGdRLVpwZ2p2Tm5IMEZUUG1wSVNVRlk3WENDZXhpRW1HeVdVYTlqa29KaFo0RjlPa05DS2ZPdFpnM2FQc2lsNUtuU0c1dW44OHpKZ2ktTw?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "doxxing_intimidasi",
+      "subclusterIds": [
+        "doxxing_intimidasi"
+      ],
+      "matchedQueries": [
+        "Doxxing & Intimidasi"
+      ],
+      "collectedAt": "2026-09-18T11:21:20.512119Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "33e7587ece8c7b98d9af83b6",
+      "publishedAt": "2026-09-18T09:25:41Z",
+      "title": "Lontarkan Komentar Bernada Hinaan, Akun Anonim 166 Dipolisikan",
+      "source": "| Barta1.com",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQLTR0M2dNRXk2bjJwRS1aYWdOUjNjWFNlOU03a2pQMnJKTnhEUzdNd0d1YndqOFpxLXF0ZkRWMjNIZGlMUDQ5V1FhOTVlOGN2aDRFX3UxRUxyLTRzN1p4enp2emoyUElHYVhYVVliS1oxN01QV0tLalBBM09jaVhsUWxRX3dubFJPeTJFRUhaYk5PWF8zOUtHVWpHTFhvWmFNWllLT29XZms?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-18T11:21:20.512119Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "8d8648a3ec8832ceed534870",
+      "publishedAt": "2026-09-18T06:07:31Z",
+      "title": "Memaknai Hari Demokrasi Internasional",
+      "source": "Kompasiana.com",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOQzlKSW1oZ3pjRHFPY0wyNHE2cjZ3cG0wS0poZmdlM2pfTE5kMGw3bW96REcxMVJNVm40ODhheFFjb3JaVFVkTzVvb1kxUGZNUWNzU25sT0tSMGV3UmlkX0RGdDNLUXowYUc1S0FRa1Z2NWlpTHJidWVySDlDejk1ZnY5SUp2LWhpdi0tS0hndnd4WEtuX1k4MTRhX3lZdHZWVy1PbTRYTjM?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-18T11:21:20.512119Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "b848e8879d0d37a864c33559",
+      "publishedAt": "2026-09-18T03:14:08Z",
+      "title": "Dosen UINSA Surabaya Ungkap Pembungkaman Akademisi: Mayoritas Diam, Takut Disanksi",
+      "source": "beritajatim.com",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOc0JVRVFab0trcENXLThZa3ZSRzJ6OTdBU2hnZFR0ZVhpMFotdm1OTURRLWdEOWtHUUJCeXBBNzlwakMtNVpMajRxaUxKQTRBRzJBNVo5YjhpMTNBdGNudTFqZGY0Ym1ERWNkUV9tcGNoa1hjUXp1TUg4dkw5VG5oMGFYeEktOWtxTnRDQ180U1J1U1ZBZXNWOThNSzNmTVFmcVZvWEJhYw?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-18T11:21:20.512119Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "2429b08e6a27ef1850ccc2e8",
+      "publishedAt": "2026-09-18T03:03:27Z",
+      "title": "Organisasi PEN America Dipimpin Veteran Perang Irak dan Pro-Palestina",
+      "source": "detikcom",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQV0phbFdkUi1kWUpqSDlYY08zQjlod2EzWTBjRTJNUEcwd2dGUWtqRnhvOGcyT1VDRm1GYzJRdzgtNk5uZ09yNGNVM1RBekxlNEswUzFaTUVVdG5iQThySG9kZ3VEQXpIajl1dEVhLU5YcGhISm1zUi1NcFFnMVlpakNxT2lDQWlnWHRSdENwcWxMTE5SMlNLbGVzOFM4ckQ0eW9BQUcyc0UzRDYzOUt1UC1ubW1Dejd40gG4AUFVX3lxTFBXSmFsV2RSLWRZSmpIOVhjTzNCOWh3YTNZMGNFMk1QRzB3Z0ZRa2pGeG84ZzJPVUNGbUZjMlF3OC02Tm5nT3I0Y1UzVEF6TGU0SzBTMVpNRVV0bmJBOHJIb2RndURBekhqOXV0RWEtTlhwaEhKbXNSLU1wUWcxWWlqQ3FPaUNBaWdYdFJ0Q3BxbExMTlIyU0tsZXM4UzhyRDR5b0FBRzJzRTNENjM5S3VQLW5tbUN6N3g?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-18T11:21:20.512119Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "7839a3bf9e27dface2d751bf",
+      "publishedAt": "2026-09-18T02:12:39Z",
+      "title": "JPU Gugat Roy Suryo atas Tuduhan Serang Nama Baik Jokowi soal Ijazah, Sementara Terdakwa Pilih Lawan Tuduhan dengan Argumen Keras di Pengadilan – Berita Hari Ini",
+      "source": "Universitas Teknokrat Indonesia",
+      "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOYnNkU1c4R2ItbWl4UWIydlVyX09id3NzaUdkbHEtN1VoUzM5N3l3b1N1ZHFjX29Iemw1d2tGbklRT0RRZmMyb3ZZdnFXT1Q2UUI4R0lFaEFaVnV1OXhGcUpFYnVkYWdmdjVFTVhIU1czSm1DellOQUpNaTlMcTBPT1Fxb1B3d1VyXzZ4Ym5uR3ZETTNpRDVWWU1jQVZHQjZmN0pTeXpOWnNja2RHOFg4SVRGRkRsM20yelY0RWYtZ3RNQ1FZRDIwYTBKeVhoRVlnbzVqbzhhOTRpMGVFcWs2UEhoTUNvUGlQVFpuYVk1Tkl3QkxlQkd5eDh3bEpRUWRmeFctM3JEdEE?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-18T11:21:20.512119Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
     {
       "id": "e11c7e9f4b86b7866437d18a",
       "publishedAt": "2026-09-17T16:38:59Z",
@@ -28597,6 +28804,29 @@
         "Kebebasan Beragama / Berkeyakinan (KBB)"
       ],
       "collectedAt": "2026-09-03T04:37:14.681182Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "bc3dbd9b74a8096668fc659c",
+      "publishedAt": "2026-04-18T07:00:00Z",
+      "title": "Jusuf Kalla buka suara atas tuduhan penistaan agama dalam ceramahnya",
+      "source": "jambi.antaranews.com",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQeVVjMS1YeG5lczI4TWt5dTdYdFdxSm1HbjUzUnhxRm9zbVhyYzhFZ010Und6UEMzQW9COTZ2c2ZOdTBFZ3R1WTY5TEtPTWZ5Q21PNFNOVnEwOGhscjZFQVlzY3A2cHV1UXVVS3RvN3I2X2J6OVd3cU9HTkhGdTVrX0JZV0VzMzRWR2ZJZnJsLVZOUVVjdHBXUXMtZWJua0tiQ1FtSk82ZHZ0LWl0OGJmTw?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_beragama",
+      "subclusterIds": [
+        "kebebasan_beragama"
+      ],
+      "matchedQueries": [
+        "Kebebasan Beragama / Berkeyakinan (KBB)"
+      ],
+      "collectedAt": "2026-09-18T11:21:20.512119Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""

@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-09-18T04:50:15.999435Z",
-  "lastRunAt": "2026-09-18T04:50:15.999435Z",
+  "generatedAt": "2026-09-18T11:21:20.512119Z",
+  "lastRunAt": "2026-09-18T11:21:20.512119Z",
   "startDate": "2026-01-01",
   "refreshHours": 6,
   "mode": "incremental",
-  "feedsOk": 0,
-  "feedsFailed": 16,
-  "totalStored": 1346,
-  "totalPublished": 1346,
-  "newArticles": 0,
-  "warning": "16 feed gagal; feed lain tetap diproses."
+  "feedsOk": 16,
+  "feedsFailed": 0,
+  "totalStored": 1356,
+  "totalPublished": 1356,
+  "newArticles": 10,
+  "warning": ""
 }
