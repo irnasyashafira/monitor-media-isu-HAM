@@ -1,16 +1,16 @@
 {
   "meta": {
-    "generatedAt": "2026-09-17T21:25:54.949621Z",
-    "lastRunAt": "2026-09-17T21:25:54.949621Z",
+    "generatedAt": "2026-09-18T04:50:15.999435Z",
+    "lastRunAt": "2026-09-18T04:50:15.999435Z",
     "startDate": "2026-01-01",
     "refreshHours": 6,
     "mode": "incremental",
-    "feedsOk": 16,
-    "feedsFailed": 0,
+    "feedsOk": 0,
+    "feedsFailed": 16,
     "totalStored": 1346,
     "totalPublished": 1346,
-    "newArticles": 2,
-    "warning": ""
+    "newArticles": 0,
+    "warning": "16 feed gagal; feed lain tetap diproses."
   },
   "clusters": [
     {
