@@ -1,14 +1,14 @@
 {
   "meta": {
-    "generatedAt": "2026-09-19T11:04:54.365018Z",
-    "lastRunAt": "2026-09-19T11:04:54.365018Z",
+    "generatedAt": "2026-09-19T15:54:57.473689Z",
+    "lastRunAt": "2026-09-19T15:54:57.473689Z",
     "startDate": "2026-01-01",
     "refreshHours": 6,
     "mode": "incremental",
     "feedsOk": 16,
     "feedsFailed": 0,
-    "totalStored": 1377,
-    "totalPublished": 1377,
+    "totalStored": 1380,
+    "totalPublished": 1380,
     "newArticles": 3,
     "warning": ""
   },
@@ -154,6 +154,29 @@
         "Kebebasan Berekspresi & Berpendapat"
       ],
       "collectedAt": "2026-09-19T11:04:54.365018Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "12b36b857e4dc07f67ba40b8",
+      "publishedAt": "2026-09-19T09:23:53Z",
+      "title": "Kontraktor di Pemalang Disorot: Isu Monopoli Proyek, Pernah Diperiksa KPK hingga Dugaan Pembungkaman Wartawan",
+      "source": "Berita Bersatu",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNQ2prSDlPejVwb25zMzhGQW02X01RWkRIa2oxUGE3RkY4cmVoZ2ItLW5QMEN6cEdUVWVPdUJYLTFYNUpZWkZQenRwSVNEV0JjZkRaTXRyRGk0STB2OWhFUUdZMzZXWGY0eWs2aThidmY4NDZjMDdRaXpHajhCSUhLSzh3SURfeURKakx6R0kzQlRtaFhjdzhVUVlMTWhoYkkyY01rVjRjRE5PYVdaMUdwMmNiQVdrSndaMVpQZllqZ1o5Si12RE5sZUs5cnFCZnlWcWFQZ1RDZEdIUE1tOGxGU2NaTQ?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-19T15:54:57.473689Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
@@ -591,6 +614,29 @@
         "Doxxing & Intimidasi"
       ],
       "collectedAt": "2026-09-18T11:21:20.512119Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "3e7d07c1b1e6eb9582e3696e",
+      "publishedAt": "2026-09-18T09:44:55Z",
+      "title": "Korban Dugaan TPKS yang Seret Betrand Peto Mengaku Dapat Teror, Ancaman hingga Data Pribadi Disebar",
+      "source": "wow.tribunnews.com",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOMXhid3hZZU1FM1NYUVR5UFR4UldYU2piR1pENjl4U2xmTEtYcFA5aUY4NmFjMHY2V1AxZlMtaHBYUHBBUmN4OE83TUN3dnVmVnVESExsbGZ3QjBRM2FYVlFwVlVSMXVSaWltcmJJS0dMT2VuaFZTc2gwamlZLW04eGVseGNacGdRLVpwZ2p2Tm5IMEZUUG1wSVNVRlk3WENDZXhpRW1HeVdVYTlqa29KaFo0RjlPa05DS2ZPdFpnM2FQc2lsNUtuU0c1dW44OHpKZ2ktTw?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "doxxing_intimidasi",
+      "subclusterIds": [
+        "doxxing_intimidasi"
+      ],
+      "matchedQueries": [
+        "Doxxing & Intimidasi"
+      ],
+      "collectedAt": "2026-09-19T15:54:57.473689Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
@@ -1422,6 +1468,29 @@
         "Sensor Konten"
       ],
       "collectedAt": "2026-09-17T04:56:50.146941Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "5cc359875878a9238b04bdbd",
+      "publishedAt": "2026-09-16T23:56:04Z",
+      "title": "Bos Xiaomi bicara kemungkinan boyong mobil listriknya ke Indonesia",
+      "source": "bali.antaranews.com",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOS3VLcXk1QzJ4bE1rZFFocGl2N2dzZkE2bzVfZmhIYW0xV1cyWllqS2pibnRReWNvci14QlNWZFZKSXc0a05RSW8zdXJZdzVwV1ZzNXRGZmtSZmZwcHZZcldfcFJHazVHYkpIeXJVMTFOOWM5WmpfUGRKYjREUTZ6VkdCSFdZUmZ0RkR1NUZQeUFSNXV4Zlk4SnRMb1RYQk91SkJfUFBXUzYzX3df0gGyAUFVX3lxTE5pVjYyeGxmaVZldF9zMXpzSFQ0bldVckprVnJhbWJQdFlpNnNTcVUyU2ZNTXVnWkVRYWtFWjB1RXVDUzNYdHE1ck5JdVdGUHI0cV9VVmJHaFhkWW1ybmxmazd2WE1tMlVOMXJfREZDS0VxdndmUi1MTVdDQV9XRjZ1TGE5eUk2Ul9rNnpKOUVxOTF4T1l1dXR2cFJ1V2VJYU9LU0kzR1N6NHZKZ2pFSFZDZFE?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "sensor_konten",
+      "subclusterIds": [
+        "sensor_konten"
+      ],
+      "matchedQueries": [
+        "Sensor Konten"
+      ],
+      "collectedAt": "2026-09-19T15:54:57.473689Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
