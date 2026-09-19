@@ -1,15 +1,15 @@
 {
   "meta": {
-    "generatedAt": "2026-09-19T04:41:47.580497Z",
-    "lastRunAt": "2026-09-19T04:41:47.580497Z",
+    "generatedAt": "2026-09-19T11:04:54.365018Z",
+    "lastRunAt": "2026-09-19T11:04:54.365018Z",
     "startDate": "2026-01-01",
     "refreshHours": 6,
     "mode": "incremental",
     "feedsOk": 16,
     "feedsFailed": 0,
-    "totalStored": 1374,
-    "totalPublished": 1374,
-    "newArticles": 8,
+    "totalStored": 1377,
+    "totalPublished": 1377,
+    "newArticles": 3,
     "warning": ""
   },
   "clusters": [
@@ -136,6 +136,52 @@
   ],
   "articles": [
     {
+      "id": "ec88c72057756c270bc1f500",
+      "publishedAt": "2026-09-19T10:30:00Z",
+      "title": "Simbol Pemberontakan dan Kebebasan berekspresi di film \"Cruella\"",
+      "source": "Kompasiana.com",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQVzdVOHFsY095SXdyVzZ3X0hLT1R3LW9LZENaeDVnUFZlU0tjaDBBVDRIVl8tMFNVbWxUaUhqR2tfWWMwMDdWX1pjYkZZRE5KTnRGdFV6UFBnTFQ4Ui16UEtTZ2RCdWtrZ1F3MzFfcUIwdkU1MTF5WV92Q1poR0dYZGFGXzdnYmpZNWZheUpZWWtmanlmZHhCVXV4dHpES0s4cklWblluSDBXQ3lwcTVxVWduVmVMcUx5WjBYQk9vaUxyb0hNZzZF?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-19T11:04:54.365018Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "ef2efc2e4fa5858c71a8772b",
+      "publishedAt": "2026-09-19T07:31:05Z",
+      "title": "Kronologi Kontroversi Macklemore dan Ed Sheeran: Diboikot Karena Bela Palestina",
+      "source": "WowKeren",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFByZW9RNVNrcVUwUDlxYUttTjNOcFZERDhOR2pvSTNkT1pLMlpSaWNlYU51cWFwaWp5bUlJcWZfQmRhX1ZKYUtUbFVzTEY3ZUgydGFReERSNGVZUUpLcTl3Sml3?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-19T11:04:54.365018Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
       "id": "0945550ad057d358cee847b0",
       "publishedAt": "2026-09-19T03:59:00Z",
       "title": "Tomy Wiria Diputus Bersalah, KABUD Pertanyakan Fakta Persidangan",
@@ -223,6 +269,29 @@
         "Kebebasan Berekspresi & Berpendapat"
       ],
       "collectedAt": "2026-09-19T04:41:47.580497Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "6a985839d5b9c98d3de0deb7",
+      "publishedAt": "2026-09-19T01:14:21Z",
+      "title": "ANW Mengaku Jadi Sasaran Doxing Usai Laporkan Betrand Peto",
+      "source": "KuatBaca",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOT1F0S2ZIOHk2bVhJZW1qdU9ZZFp2djhQMVU1RklOTHFMMVpydmZxQ0F0YTlORTloaFJoeThoOFh1MlhTZEZUeE85d2IzekRrWnBPcFhlMHpKTGdvQU5HMGJDckNlQk5PMDl0RV9SeVdBV3Rsc19uMWxDaHd0bFpTOHE4d284Y1lQdTNWSF9Wd0t0dEh1ZjlmMkFiWUxFZndxUG5Db2RpOFRNX0JMODln?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "doxxing_intimidasi",
+      "subclusterIds": [
+        "doxxing_intimidasi"
+      ],
+      "matchedQueries": [
+        "Doxxing & Intimidasi"
+      ],
+      "collectedAt": "2026-09-19T11:04:54.365018Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
