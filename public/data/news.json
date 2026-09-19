@@ -1,15 +1,15 @@
 {
   "meta": {
-    "generatedAt": "2026-09-19T15:54:57.473689Z",
-    "lastRunAt": "2026-09-19T15:54:57.473689Z",
+    "generatedAt": "2026-09-19T20:44:39.603354Z",
+    "lastRunAt": "2026-09-19T20:44:39.603354Z",
     "startDate": "2026-01-01",
     "refreshHours": 6,
     "mode": "incremental",
     "feedsOk": 16,
     "feedsFailed": 0,
-    "totalStored": 1380,
-    "totalPublished": 1380,
-    "newArticles": 3,
+    "totalStored": 1384,
+    "totalPublished": 1384,
+    "newArticles": 4,
     "warning": ""
   },
   "clusters": [
@@ -182,6 +182,29 @@
       "reviewNote": ""
     },
     {
+      "id": "6fa83b34f5bfcdca326dae3d",
+      "publishedAt": "2026-09-19T09:23:53Z",
+      "title": "Kontraktor di Pemalang Disorot: Isu Monopoli Proyek, Pernah Diperiksa KPK hingga Dugaan Pembungkaman Wartawan",
+      "source": "beritabersatu.com",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNQ2prSDlPejVwb25zMzhGQW02X01RWkRIa2oxUGE3RkY4cmVoZ2ItLW5QMEN6cEdUVWVPdUJYLTFYNUpZWkZQenRwSVNEV0JjZkRaTXRyRGk0STB2OWhFUUdZMzZXWGY0eWs2aThidmY4NDZjMDdRaXpHajhCSUhLSzh3SURfeURKakx6R0kzQlRtaFhjdzhVUVlMTWhoYkkyY01rVjRjRE5PYVdaMUdwMmNiQVdrSndaMVpQZllqZ1o5Si12RE5sZUs5cnFCZnlWcWFQZ1RDZEdIUE1tOGxGU2NaTQ?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-19T20:44:39.603354Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
       "id": "ef2efc2e4fa5858c71a8772b",
       "publishedAt": "2026-09-19T07:31:05Z",
       "title": "Kronologi Kontroversi Macklemore dan Ed Sheeran: Diboikot Karena Bela Palestina",
@@ -343,6 +366,29 @@
       "reviewNote": ""
     },
     {
+      "id": "feec44f0a85f2b59a84aa57a",
+      "publishedAt": "2026-09-18T16:25:00Z",
+      "title": "Heboh! Oknum Wartawan di Pemalang Disebut Terima Titipan Uang dari Teddy Setiawan Diduga untuk Bungkam Berita",
+      "source": "beritabersatu.com",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQY3FpbFFNWkliWTFlYnBZOXdkaExPMG1BLThnTzM3UmxMOUhpejhmRjRPc3JrTDMyZHBaQUI4azVaV3ZVX1VOZ0xpR3hFR2tjNWhjSG5nelRheVpPdEFtU25hMGVhY3NoRk5iUzV0ZjJLcEpoYm12RTN4bUdyLUMxQ2VvOHItTFpseGZNbURMbmctN3QtRV9YODFmVWhNZjE1NndJOFlJUEtXRlBQaUdhc1RpY0JsZHlkcURlOTk5VjlESkR0MEdvSlQyWklvcnh3RjFlQWIzT1lDd1R2bTBQa3lQXzE?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-19T20:44:39.603354Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
       "id": "63cb2e8e5f8350066109d249",
       "publishedAt": "2026-09-18T13:45:43Z",
       "title": "PP TUNAS Masuk Sekolah, Orang Tua Siswa SMAN 1 Jakarta Dibekali Perlindungan Digital Anak - G-news.id",
@@ -366,6 +412,29 @@
       "reviewNote": ""
     },
     {
+      "id": "49bfaa463bc093d391427f8c",
+      "publishedAt": "2026-09-18T13:00:00Z",
+      "title": "September Bergerak, PMII Tuban Gelar Aksi Diam Tolak Pembungkaman Suara Kritis",
+      "source": "blokTuban.com",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNc2FZUEZIbUNKQWM4dTNEa1lVaS1SNFlTYURZNVdzbkVxZkZ0U1V1SEh2aU0zMy1kRzJsazVPZHhEV1kybGlfWWF6d1FGbmdfUFQ4OHczdjlQOWZYbXRzcDlaRFczMlIxQ0RvWktfcVRKaU1UamJJcnh5ZUV0VFBKazNVUXNOZkRfMGpiSGE2NlNuUnhteUM1MURsOERURFhOT2FyYWNhTTFXeGlfMUEw?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-19T20:44:39.603354Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
       "id": "507a6328d2be71d1a5808779",
       "publishedAt": "2026-09-18T11:33:56Z",
       "title": "Crocs Echo II Ajak Tampil Berani dan Percaya Diri dengan Gaya Sendiri",
@@ -384,6 +453,29 @@
         "Kebebasan Berekspresi & Berpendapat"
       ],
       "collectedAt": "2026-09-18T16:27:58.243623Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "0f2e366c7784197b0523a287",
+      "publishedAt": "2026-09-18T11:33:56Z",
+      "title": "Crocs Echo II Ajak Tampil Berani dan Percaya Diri dengan Gaya Sendiri",
+      "source": "beautynesia.id",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQeURnc1lQb1JlRHBVaXBUTUp2UWppMGNtWFYwYkVwNkVvcldxVk83RG9TMVBOeFE0c2w5a2FabzB3Mi1RNDlmdnJaV2kwN1ByTDZBMzNMN3JUSmdNTzhDblJIMmI3RjBwSjBTUWpfc01EckNWSTN1OWxmRUJOUXVtT2JPWkV4VzF6TGkxRjk2YVZTSVdzdWF2bXRjOUtuRlh2S1JzQ25hSm4yOEJSbkdGbno3MHFlWkdiUzlRNjZGRkFYOWZFeklmOHpJemdNakRJVGNTNm1UONIB1wFBVV95cUxQeURnc1lQb1JlRHBVaXBUTUp2UWppMGNtWFYwYkVwNkVvcldxVk83RG9TMVBOeFE0c2w5a2FabzB3Mi1RNDlmdnJaV2kwN1ByTDZBMzNMN3JUSmdNTzhDblJIMmI3RjBwSjBTUWpfc01EckNWSTN1OWxmRUJOUXVtT2JPWkV4VzF6TGkxRjk2YVZTSVdzdWF2bXRjOUtuRlh2S1JzQ25hSm4yOEJSbkdGbno3MHFlWkdiUzlRNjZGRkFYOWZFeklmOHpJemdNakRJVGNTNm1UOA?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-19T20:44:39.603354Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
