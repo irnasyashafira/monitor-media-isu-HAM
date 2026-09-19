@@ -1,15 +1,15 @@
 {
   "meta": {
-    "generatedAt": "2026-09-18T20:56:38.552092Z",
-    "lastRunAt": "2026-09-18T20:56:38.552092Z",
+    "generatedAt": "2026-09-19T04:41:47.580497Z",
+    "lastRunAt": "2026-09-19T04:41:47.580497Z",
     "startDate": "2026-01-01",
     "refreshHours": 6,
     "mode": "incremental",
     "feedsOk": 16,
     "feedsFailed": 0,
-    "totalStored": 1366,
-    "totalPublished": 1366,
-    "newArticles": 1,
+    "totalStored": 1374,
+    "totalPublished": 1374,
+    "newArticles": 8,
     "warning": ""
   },
   "clusters": [
@@ -136,6 +136,98 @@
   ],
   "articles": [
     {
+      "id": "0945550ad057d358cee847b0",
+      "publishedAt": "2026-09-19T03:59:00Z",
+      "title": "Tomy Wiria Diputus Bersalah, KABUD Pertanyakan Fakta Persidangan",
+      "source": "rri.co.id",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPdXBGbVJ3M3FtMzhzc1QyckhLUEhKVnN1YlNVLUxCbVA0a2pnSVpZX01adnIxZkNVZDQ3WVZWV1lqQml6X1RabFZRVHVXMTVfVUtFOU9vZzR5NmVLVUNNOERXUUdBUzVTT3IydEpTdHlVcUotTXljT1hKbjU3RjV6cWJ4NnZxWEktbXNVS0ttZHk5bHZxcHFXempxT0syUmdLY29xTkg2aUtEeTBFN0VN?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-19T04:41:47.580497Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "9fe8f2cfb5a8a0679ea9159b",
+      "publishedAt": "2026-09-19T03:58:00Z",
+      "title": "KABUD Keberatan atas Putusan Tomy Wiria di PN Denpasar",
+      "source": "rri.co.id",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOOHVGazlPWk5lNnVuYUZiYUlvZkw3RTBMNWJKeXctNzdiSzZjVWF6UGlKYkhIaUUzSF9TTm4wczlTN2cxZGpLWVB5OWZyVFByQTJfSExlZkpwdXBpRU5WRFFLaW9ja08yUl9NbWcwdlBJTjk3RVloU1pqRUZTVzBHMndLRTJqRS1rR2ZpcTRQN3VhU29TQUpsV3RFdkhxVy1lSkdN?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-19T04:41:47.580497Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "28a932c611bd7789fd3c6938",
+      "publishedAt": "2026-09-19T02:44:34Z",
+      "title": "Prabowo Ingatkan Demokrasi Bisa Dibajak Uang, Singgung Buzzer hingga Suap",
+      "source": "VOI.id",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNSzU1al9laEVwWTVSNzdnN2hLR0NFNW91eVdIOEdaMHRqclpPa0F2bFFhd1IzYnR3ejVRdzU3OXhCaG82ZGRYbC11dkFYcFNKLWowZXpKaElGUWVmMnloUWVOVzNkMm4wWFBrSjM1dkJZVzZxTDdTYkZPYW1UbW5nS2tvZGNNeFQ2T1h6eElmSkdURWVjQXNITFhmZTZWXzjSAZ8BQVVfeXFMTUs1NWpfZWhFcFk1Ujc3ZzdoS0dDRTVvdXlXSDhHWjB0anJaT2tBdmxRYXdSM2J0d3o1UXc1Nzl4QmhvNmRkWGwtdXZBWHBTSi1qMGV6SmhJRlFlZjJ5aFFlTlczZDJuMFhQa0ozNXZCWVc2cUw3U2JGT2FtVG1uZ0trb2RjTXhUNk9YenhJZkpHVEVlY0FzSExYZmU2Vl84?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-19T04:41:47.580497Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "617694f1fa1a2ac678ccc73c",
+      "publishedAt": "2026-09-19T01:19:45Z",
+      "title": "Trump Usir Tiga Media Besar AS",
+      "source": "TVRI News",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNa2Y1STltUTRkNHlyQlhQV3djUkVDMEhRWVNjYmNsWHFibkZwem1EZjQtbFMzSVAtd09vUGl2UEJsQlFlNGhWTEQ0WDNiazRiaUZaVWVsQjMzTVlSV2V4aFRsVzljbi1uejB4TW5MZmtjT21idDBHN2tROHgwbkxUZk01VVB3eEE?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-19T04:41:47.580497Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
       "id": "5a7ec36741fdcedf580c726d",
       "publishedAt": "2026-09-18T16:25:00Z",
       "title": "Heboh! Oknum Wartawan di Pemalang Disebut Terima Titipan Uang dari Teddy Setiawan Diduga untuk Bungkam Berita",
@@ -154,6 +246,29 @@
         "Kebebasan Berekspresi & Berpendapat"
       ],
       "collectedAt": "2026-09-18T20:56:38.552092Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "63cb2e8e5f8350066109d249",
+      "publishedAt": "2026-09-18T13:45:43Z",
+      "title": "PP TUNAS Masuk Sekolah, Orang Tua Siswa SMAN 1 Jakarta Dibekali Perlindungan Digital Anak - G-news.id",
+      "source": "g-news.id",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOeWk5WDlxeURoaHJYeWxHV003QllUOE5pbFNMMktmR19WY3hpWGdBSFBWeDNnQ1ZQLWVDWVl2Z1lGYWltbFRfVTB1d3AwQXppNDVlR1I5NnJLWmtzejM2QlRrTlhOLTJvMkdGal9YVUZ5VzU5LWczeU1XUW9FR29hVUxFa3NiMVF2NlBvNkx0WjlMTFZlend5dVB4Nmh1WnJLRnVYOW5oLWw0QkNGSldKdkNYYmVfM01fZFExaEl0ZUJwRjhxTHM5bGtld3nSAdIBQVVfeXFMTVpDN3Q3azVfRTkydHZXNVliLVFzSExObVNKWEdzOXJoazd5NWIyN0hUWHVSZGgxSFJRWHZ4Z0ZWQ3JRTG41RWNiVmpjNFlsZkJHY3lxY2dUMFZ4Tl9LbFltZmYydXl6RzMyOWpYcVdkNlVWVTBXbW1mNUszZ0d6NzBoaUFoT01qSTBsY2VFc1hjUUZNSHE0MklhR3RQT1phYkQ3cmlZSS1tTEp0UjYxZTFnVXVZUWVTbl9kbDhpZnkxa1RSU2JBejBoSElnYS1mWC1B?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-19T04:41:47.580497Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
@@ -223,6 +338,29 @@
         "Kebebasan Berekspresi & Berpendapat"
       ],
       "collectedAt": "2026-09-18T16:27:58.243623Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "a01c00a29430789d7315bccf",
+      "publishedAt": "2026-09-18T10:57:13Z",
+      "title": "Pengamat Tetap Takhta Suci yang baru untuk PBB: Ujaran kebencian bukanlah kebebasan berekspresi",
+      "source": "vaticannews.va",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNWUctZTB6NmNIT1VUQVZONF92RXR0X3liRlJ0VC05OHM3MGxCeHN3RmdkeVBWc2hCYlRvX2JhT0lmZHB6RjJ3T3JEejk3M0p2YWE2MG9LdzBSOGlkTVZzSGtXUEU2c0k4YTBOb1doNF9PMEVRN1gzaXpydjFQSFNHcGY5d2p4S0YxWWluSE92T2xsOXM5WENMTVF0Y0VOUFI4SFo5Y3hIMkZYMUx0TzFQN1pXeFNMMUwxYWNyenpsa0o4QQ?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-19T04:41:47.580497Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
@@ -315,6 +453,29 @@
         "Sensor Konten"
       ],
       "collectedAt": "2026-09-18T11:21:20.512119Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "7ebc004e99c30eb01c92dc16",
+      "publishedAt": "2026-09-18T10:03:02Z",
+      "title": "Tegakkan Etika Digital: Bupati Welly Titah Lapor Akun \"Anonim 166\" ke Polres Talaud Atas Dugaan Pencemaran Nama Baik dan Serangan Pribadi - Sulut Zone",
+      "source": "SulutZone.com",
+      "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQd2I3SGxmbXF0R1ZKcC1MNW1NdS1FS09RZG9xMVotQzJJOVc5Yjk3X01MYTNNblVHc3hDajBoR2s2bHV6MFJSVUcxWDh1YS00QTF1VXhwd0lfekF2SVdkem9jd1hyRklUTEw4WjFkekF6VVMwUUtZZF9aV1ktUDdwdWRaa201VWZMSzBkT3FiTVBfXzFRMUNOaXNFc1U3SGIwamQ3SnZWQkJqRDBENk5PQVNDRlh4UjFuaDJLZGpoaDkteFFnb1JjeVdVMmN5c2s2LWtiTHMwYnpDZVp5cFNYMDQwOUhveWNMMUQxME5mSExac0VvTDdRaEZoUldXZWhmMHJmckJ5c29ldVnSAZACQVVfeXFMT3U0bWhNMkQ5SkdHRFdkY0hsZkJzR1pybTJTRUtEcWJUU1Zrekg2aHhYeG9xSlpZRUNqR001Z0RZc3BWenBqeHVGNzdFMkpLQV9kdGo2S3Fad0dQWmZ1eS1jOUI2ay1FSlRMNVNZREZqWHRyTlNtMGVMVmU3RXBjV3gyVUhHa3FHUDhiNlBOdzJCNTl0d3c2WVAyNEFFdTB3U0RTbGdQZFNWenQwOUNydXFUa080TlNMWGxvYkZReFJYazZnQ2F5bEZpTE9SMFhXTk9BT1EzbGpraXg1eDR3NUE3d3ZWUzNSMzJma3V5OTBwZVhlNzdERjZWQngwd3JhWGEtRURYYWFmS1ItRUZUZFI?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-19T04:41:47.580497Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
@@ -640,6 +801,29 @@
         "Kebebasan Berekspresi & Berpendapat"
       ],
       "collectedAt": "2026-09-17T17:03:25.686618Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "f99dde6c392be05a3bf402cf",
+      "publishedAt": "2026-09-17T08:52:08Z",
+      "title": "Oknum Pejabat Dinas Kabupaten Bogor Diduga Bayar Buzzer TikTok untuk Bungkam Jurnalis Kritis",
+      "source": "reaksimedia.com",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNSHpPbHVXc3haUDJvTWlVLTV6LXZWZlVXQ2dtd3hpemhJR18wLTdtUnU5MWV1RW9oZDZfU21HcGRKamUtRWl3MXdOenpPVkpwZjd6TzY3bUZYTmR3UWZGQVlqSDMzWUc3eHhsdHk5SnZVcmNOTFJuZmJHUll3My1HYWU4YlZCN2NyaGE0eXZHdTBnNEVMei1kbGliQjVqUHcwdjZKU25fN3A2ZGdZLUhOeFpPdGdMQVJh?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-19T04:41:47.580497Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
