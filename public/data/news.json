@@ -1,15 +1,15 @@
 {
   "meta": {
-    "generatedAt": "2026-09-20T16:11:03.035720Z",
-    "lastRunAt": "2026-09-20T16:11:03.035720Z",
+    "generatedAt": "2026-09-20T20:52:05.312787Z",
+    "lastRunAt": "2026-09-20T20:52:05.312787Z",
     "startDate": "2026-01-01",
     "refreshHours": 6,
     "mode": "incremental",
     "feedsOk": 16,
     "feedsFailed": 0,
-    "totalStored": 1419,
-    "totalPublished": 1419,
-    "newArticles": 7,
+    "totalStored": 1424,
+    "totalPublished": 1424,
+    "newArticles": 5,
     "warning": ""
   },
   "clusters": [
@@ -136,6 +136,29 @@
   ],
   "articles": [
     {
+      "id": "0d3d5358b9ec4dd0790af4b0",
+      "publishedAt": "2026-09-20T18:58:00Z",
+      "title": "Update Kostum & Gaya Rambut 2026: Personalisasi Tanpa Batas di Sakura School Simulator",
+      "source": "Industry.co.id",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNMllINVBkVHM4NHYteVh3N1J4SVN4dHFsU1dCTjctRXhDb2xqSkJJNGFLdlJvUTZqS2Q5cFRaUHJBVWtuSVJGS3NZQ2dvTWxYTmJpTjFNb1JmaWZVMGxDQm9iLXRuVkNCNXRNei1KU1diMXJjR28zbHJRODNNNGtmd0U0cllhMlZtTGNNR2I0QmNYOG9YZGlSaG9GUTdITlhlb1IyYU5MU2JUdDZZb0dyZXNPNUM3TG0tM0hiZWJ4WQ?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-20T20:52:05.312787Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
       "id": "8d50126dae282c2187497a72",
       "publishedAt": "2026-09-20T15:33:00Z",
       "title": "Macklemore, Ed Sheeran, dan Batas Netralitas",
@@ -223,6 +246,29 @@
         "Kebebasan Berekspresi & Berpendapat"
       ],
       "collectedAt": "2026-09-20T16:11:03.035720Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "6d51aa00cab32c8b212f73bc",
+      "publishedAt": "2026-09-20T14:03:17Z",
+      "title": "Pengamat : Kebebasan berpendapat dengan damai, bagian dari hak asas manusia yang harus dihormati",
+      "source": "Patra Indonesia",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOWGV5X3I4WTNzZ1Yzd2gxdlp2V3AtVEtBV18zbzdEQXlaY29oZzJib3hyYkdMZmt1T2hmU2o0QkxIbXJtY1Q2NThOdFRnWjZJbXp1NWV6X21ENkZubFJSRHNIaE9HaGl0Q3lIcDhLczlzSTNHWlpBSlhySGRVR3FoMVM5VDN0MXB5ZER6SVBjV2tCNjE2bWNHQnY4M3Q5SVRjRFhlM3pvOWxKcFZYNzFLREhrZXZyX2tYYmx3YjlB?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-20T20:52:05.312787Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
@@ -481,6 +527,29 @@
       "reviewNote": ""
     },
     {
+      "id": "b5a11ccef0ea9028ae8f4125",
+      "publishedAt": "2026-09-19T07:31:05Z",
+      "title": "Kronologi Kontroversi Macklemore dan Ed Sheeran: Diboikot Karena Bela Palestina",
+      "source": "wowkeren.com",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFByZW9RNVNrcVUwUDlxYUttTjNOcFZERDhOR2pvSTNkT1pLMlpSaWNlYU51cWFwaWp5bUlJcWZfQmRhX1ZKYUtUbFVzTEY3ZUgydGFReERSNGVZUUpLcTl3Sml3?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-20T20:52:05.312787Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
       "id": "0a8a94c74d4b075d468a5961",
       "publishedAt": "2026-09-19T06:02:38Z",
       "title": "September Hitam: Menolak Lupa, Menjaga Indonesia Tetap Damai",
@@ -545,6 +614,29 @@
         "Kebebasan Berekspresi & Berpendapat"
       ],
       "collectedAt": "2026-09-19T04:41:47.580497Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "be3d72f46170e17d0a05bec7",
+      "publishedAt": "2026-09-19T03:43:23Z",
+      "title": "Demi Menjaga Martabat Keluarga dan Kebenaran Fakta: Bupati Welly Titah Tempuh Jalur Hukum Atas Dugaan Fitnah Akun \"Anonim 166\" - Sulut Zone",
+      "source": "SulutZone.com",
+      "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOVEo1WmF2VkdHZGJ3MkVCUjdxMUtUVDh2d2lBOXQ3NjBac09ORUhQaWFYTHYyZVpaYkpRTmR2Wm9Ob1IwU1ZGQ2hsem5odGlwZ3hYQW5hYks1bGN4TDZkUGJ2aFNETkpUTTlPU215d0M3RmE5SXJyZkE5ZVdJMkcycm9PZ3UteVJORFNZZk90TmZDWDE5Ujd3ZjRLMnFNN2lCanphRUNKeFgyWnhFTjdST0dreUsyTGVQV2dOTkF4UTNQRXFHbmU1bUllQlpKXzF4SXotRW9lSlNYNG5SUDVzYmNvZFFwd1VWWk13RF8tT1E0V3Z0Q2R3NnI3Q0XSAYICQVVfeXFMUHlNV0JkOXE3LWdtdUdKazc3UTNkTzVwWS1qM2p2akZIdVlTaEhnUXVLbmZ3cnZKSEtOVWEzX0lEUzVHRU5SM1R1cWtGNGNFQzNkUGU2Y1JJQXFWTHpfZV9LN1ZBVzdyWFJLM0c0U3g0RlVlcHJjZGdJUlNaMWpnV3pVWDE0ZDBYYWNmcEtrUE1KNFBNZ2FiT2dSNUJ2VVhLN1BQRFdMZGhRa2x4bmVvR20yNjM1ZF9TZHY1WHUxVlBHUkpEalpFanE3Y1lCZXZCMHNjTndBdkkyUkYyRTZHaEViWHFlcFQyT0tpQjhqVHk0QUZPSzRoUldtMk8xSThQSHZB?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-20T20:52:05.312787Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
@@ -30552,6 +30644,29 @@
         "Kebebasan Beragama / Berkeyakinan (KBB)"
       ],
       "collectedAt": "2026-09-03T21:05:11.164342Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "faca3aa30a60c9ad6342f370",
+      "publishedAt": "2026-04-14T07:00:00Z",
+      "title": "Pernyataan Jusuf Kalla Tak Penuhi Unsur Penistaan Agama",
+      "source": "rmoljatim",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQeVpxS21SQjJERnNleFNxZTBkdXpfSUdkaWR1RGQtdUsxQVg1b1RSVGNpdDJCN0ZRNm9CRF8xb3huWEZRRTgySW9STW53NWFaNXJmaHdSVVBGekpza3dlRFRvQ3AyQjJfYmNoUm9ra3JmdFAxb3FjVHRhcXJTLWpuZzVRcDZ5Zjg?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_beragama",
+      "subclusterIds": [
+        "kebebasan_beragama"
+      ],
+      "matchedQueries": [
+        "Kebebasan Beragama / Berkeyakinan (KBB)"
+      ],
+      "collectedAt": "2026-09-20T20:52:05.312787Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
