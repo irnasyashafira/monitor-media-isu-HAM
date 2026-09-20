@@ -1,14 +1,14 @@
 {
   "meta": {
-    "generatedAt": "2026-09-20T04:58:33.435835Z",
-    "lastRunAt": "2026-09-20T04:58:33.435835Z",
+    "generatedAt": "2026-09-20T11:29:46.937509Z",
+    "lastRunAt": "2026-09-20T11:29:46.937509Z",
     "startDate": "2026-01-01",
     "refreshHours": 6,
     "mode": "incremental",
     "feedsOk": 16,
     "feedsFailed": 0,
-    "totalStored": 1398,
-    "totalPublished": 1398,
+    "totalStored": 1412,
+    "totalPublished": 1412,
     "newArticles": 14,
     "warning": ""
   },
@@ -136,6 +136,144 @@
   ],
   "articles": [
     {
+      "id": "a04881bae431dadfbaf9ff8f",
+      "publishedAt": "2026-09-20T11:16:00Z",
+      "title": "'Bukan Otoritarianisme Biasa', Pengamat Bongkar Sisi Gelap Undang-Undang Kesatuan China",
+      "source": "gosumbar.com",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNbThxalNBOTNRZW1oTDRjMVo4SG9GSWVNUklyeFExY2d5eEhWMHl5ZkxmanpSa1dGQUF0aXFjanlPMFBEYXVQRjIxNmpZbWRXSlVjVWNaTWVIYlJlendoMlA5WWhpWGpieEQtM21JZHo2YjgwNUdwVzF3aWpKNzlvVVRfYzVscEZ1RUc3VWJvTW5mZWpHMzZCTW9iNTNuUmRjaUFzNzBtYV9hYlBmSmZwWVFDNVFRa0ZyR3ZMMzR6NEpYNlcwYmdYOUZidw?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-20T11:29:46.937509Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "c2e16143017d384bbd49d24e",
+      "publishedAt": "2026-09-20T10:42:54Z",
+      "title": "Hari Demokrasi Internasional, Sejauh Mana Rakyat Memegang Kedaulatan?",
+      "source": "Kompasiana.com",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPdVQ2TDZ5WGlyUzN3WjJ5WGFnYjRNMHNnQUprVlpvZUJ0MjBUdXJGZFNIZ2hlc2p5Ty1rdy1sTkFFSDY2cVdzeFRoZnNhZjkybjdHZlZDbkJKU216T0E0QVZXVXROZGY2M1djZHNuQ0IzdWxHaFhhZTFPR2xxY1VPNzk1amJwR0F6NDNrSVVpekRyVWtXTldkNkR6Nk1nSDFoQ0tGaWZmR2tEa0ZSTjR1d2QyV0xsanhSenhnVEd4VXhTTmdjVHJyN3NoV3ZOZVZldDEzWQ?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-20T11:29:46.937509Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "4ecbbc5bb1dab63e2a088a67",
+      "publishedAt": "2026-09-20T10:15:37Z",
+      "title": "Ed Sheeran Buka Suara soal Kontroversi Macklemore dan Gaza",
+      "source": "Pontianak Post",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNMkgzVDdDY0lRT01DWkVNUEhPMXRpUENBWjh3bnZvNGtwZkZjTFR5MTFzOTFKejA5d3pXLWtxeXlqWFZ0ZjlvMVEtQnRnbW96VThlcVBvVGxGUXV6b1ZNNGUwM1kxT0NzZkx1ZXNyRlByOG5reExGdDZNVWJveHQtWEhQeUR3a002STZfamZmX3ZadWZpc1RxT0NfQS1aWGN4eGVyS0N0cDY0aEdKMEZQaGtLZERTbFpm0gG-AUFVX3lxTE1tejl2aS1uTlhNYzNoVFJRazY3MFBJbUNiTlFjV3hxTTFFMjhTR0ZUb1NrVnJqaG85azNQX1kwY1JqWGpDckp5M0d1N1VwNWlJc19tWW0zdVZlb0FkMWhqbUduRzNEXzdjRy1McWYxZWYxSEk1TGRuaVk4aDRNLXB3X05nQWlUY3A2ZEV2d0UzYzdQaTFJLVo3Qzd5OGJaRktEbTNvTHB6T1J0dVZVejlWNTlCTTVhQTFCLTZkeHc?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-20T11:29:46.937509Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "b47295599ace95f940ec80fb",
+      "publishedAt": "2026-09-20T06:30:25Z",
+      "title": "Ed Sheeran Minta Maaf Usai Kontroversi Pencoretan Macklemore",
+      "source": "pdiperjuanganbali.id",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOLXRxZjQ5NDRHaWk0MW9MS2JQc3NfdldINnlMaGJvVEdCTUdYVHRwTDJaREdlOUNGY09WOXhWSVBrLWdLa0VoU0I0eUdEWVYwSUpwaGVLVXMyRnNwTmp4YkJzUzgtTlN0aEpHcS1RdU5ISVloRkZnbkFqdjFGTzdVcDVTNA?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-20T11:29:46.937509Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "0fba70fecacc08266b566f28",
+      "publishedAt": "2026-09-19T13:54:49Z",
+      "title": "Surat Untuk Tuan Presiden Halaman all",
+      "source": "Kompasiana.com",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPMjhNSkJSM3ZCQmtUS0dOcDJQU2FzTFdocmVMZWZEdTJFSmItREZNME1SZjQ4WmxNSmgyaDFTbG1hXzRUN0c0QXVwQkx4TzlhUW1POFRueUhYaHhURXZyT0U5SkRTWDlzRHlXSVp4blBJM2E1RlhRbEtiSFY1MUNleFFWMS00a1VoMm5oNkt6Tk91OURZVkZsUk1odEY?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-20T11:29:46.937509Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "5752eabda4e46f695157d4b9",
+      "publishedAt": "2026-09-19T13:33:20Z",
+      "title": "Trump Blokir CNN, MS NOW dan Politico dari Gedung Putih",
+      "source": "kontan.co.id",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMVh1X2hTQWl1dGFsQkVlNU9uVFJPN0RRY3VuSWhjVXMybjEyVUsyQXBmQVplUTVZNTdhb08tYW1MSkQ1S0RnREpwM3RiakFGemY5eUV0Qzk0TUU4cklCMURyUUoyYWtGY010TXJOVVM1OHdtRUM2UGtScHdRdnVGVzl4ODFaWTZpUnhtcjhjSkR1MkpTSnpnMkxR0gGMAUFVX3lxTE1DZEZRanVwLU05N3ZEbDd0T3ZtaU9yOTRlal9FRUp6eWQyc01hNG9fTFZrYUxRMzJyU1ZFZXpOMkJRMWJYTFBwWVdNcnU1V0czamRWRnNEZzNpTUNYS294SXRzQ21BakNMT2RicGNDTmRRYkprYWpzc1FDWDQyMTc2YjZmYkVOdWJuWkZB?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-20T11:29:46.937509Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
       "id": "ec88c72057756c270bc1f500",
       "publishedAt": "2026-09-19T10:30:00Z",
       "title": "Simbol Pemberontakan dan Kebebasan berekspresi di film \"Cruella\"",
@@ -228,6 +366,29 @@
       "reviewNote": ""
     },
     {
+      "id": "0a8a94c74d4b075d468a5961",
+      "publishedAt": "2026-09-19T06:02:38Z",
+      "title": "September Hitam: Menolak Lupa, Menjaga Indonesia Tetap Damai",
+      "source": "Kompasiana.com",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPV1FxOVh2dWItZGQtcEhFdTdwQ1N4b0x5bXlBWkpRdmNKSjFqcG0yNl9XbmQxQU1HdGFRekxNdE95bXZzUGV4Rk1rRVpydmxGa09STXdlRElscWw1a0NIQVJmc2ZIUVV5TDBnVmtqMy00VFNxUVNnQk1URlY2c3ZwWmlwN2FKekEzRG9ULVhpRFNRQVpXbWE2R1NaeW0yaEJKZndJMWdPS28wa0ctT2RUU2VEUXRZY3BN?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-20T11:29:46.937509Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
       "id": "0945550ad057d358cee847b0",
       "publishedAt": "2026-09-19T03:59:00Z",
       "title": "Tomy Wiria Diputus Bersalah, KABUD Pertanyakan Fakta Persidangan",
@@ -292,6 +453,52 @@
         "Kebebasan Berekspresi & Berpendapat"
       ],
       "collectedAt": "2026-09-19T04:41:47.580497Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "e3e6bb665f8be6a470b96b09",
+      "publishedAt": "2026-09-19T02:30:37Z",
+      "title": "Trump Melarang CNN, MS NOW, dan Politico masuk Gedung Putih",
+      "source": "Energy World Indonesia",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQN1lvWU5hT3FpX1NXeERFc3FPUXhxX19RajZlbFdDTTNELXhpSmVfczRDTUNrcjBMTS0xd1FFMzRoc01KVW1xWEp2cHR0dVNRcmNNRmJicU1zZ184LUNDT2FKTjJjalJrZEdzek4xUjdyanVDWTBwalJBNjBfeWctd2VOSDdMR3JWcHAwY3FteERhQnFjZHNlSF9JZWFPTTF50gGgAUFVX3lxTFA3WW9ZTmFPcWlfU1d4REVzcU9ReHFfX1FqNmVsV0NNM0QteGlKZV9zNENNQ2tyMExNLTF3UUUzNGhzTUpVbXFYSnZwdHR1U1FyY01GYmJxTXNnXzgtQ0NPYUpOMmNqUmtkR3N6TjFSN3JqdUNZMHBqUkE2MF95Zy13ZU5IN0xHclZwcDBjcW14RGFCcWNkc2VIX0llYU9NMXk?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-20T11:29:46.937509Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "3565195247a702d38689dcc7",
+      "publishedAt": "2026-09-19T02:08:00Z",
+      "title": "Kuasa Hukum Korban Dugaan Kekerasan Betrand Peto Pertimbangkan Laporan Baru soal Teror dan Doxing",
+      "source": "RCTI+",
+      "link": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxNVlhNLWVPVEtoR3RTUFh1dWFCanV3cFNZWEw3em8wQ0FsWlRNeHlCdUlGMHVpaC05Q3Y5ay1oMWdlczA1S3hXLU1Rb1I3QV9ybWtMTHVvWlk5ZGgyUF9YWEl1WlNvWGFySHpsLVNYSllaamx0MzRTd3ZsTFNkMGl1QXRTcHJoVFQ1T2JDcVE2ZTRYY3NhNnFlYmZrYXMyMTdkc0xfTFhqNWtSQXJFZmFWd0hvMi1EYmxUM3dIQk1OckFBa1BOYm9mczdvVDEzNTZNSjdqT0V4MHQtZXc1U2JybFdwd3B5U1huR1dfemJBUjhrblpJWHBOQUdUNGFZMWs2V1ROQk9WTVU2aDJzaEZhbHdseXRsdHhkX1Y5b0RuOFZpX1JCV1RCa2hmTzFMWk9NaGxyVmU4RF8wOFMzbV9qUndWYjRnbTN4?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "doxxing_intimidasi",
+      "subclusterIds": [
+        "doxxing_intimidasi"
+      ],
+      "matchedQueries": [
+        "Doxxing & Intimidasi"
+      ],
+      "collectedAt": "2026-09-20T11:29:46.937509Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
@@ -849,6 +1056,52 @@
       "reviewNote": ""
     },
     {
+      "id": "d072898428a71820c6a995e8",
+      "publishedAt": "2026-09-18T05:48:00Z",
+      "title": "Pelapor Betrand Peto Diduga Alami Teror dan Doxing, Siap Lapor Polisi!",
+      "source": "RCTI+",
+      "link": "https://news.google.com/rss/articles/CBMiogJBVV95cUxPMG13STF2bmRpb3RQVWc4Wm50OGFQdEpsVHM2QnpwdnJuWEI5bC1HXzNxcjBRYnVUYWVSN0RhSzlsY3NaeFZXd3FzSW1VUGY3VWtFOUVsU0lWb3ZPcU5KVzVaN0JyNDhFRVRudGo3T2prV2YyWTBmWkRlUk1WMjlQckFFd1c2WnUxZTZoWUlHSkhFT2E1R1dGajhVOV9wMktHM3JSRGJNX08tSThJMXVPTXJOWkV5ZFpHeV9KTWlxX25xY3ZxdnpWamY0QjdRVmd3THdiMEJ3SlZsMkl4R2tXczdhMHQyVkR3d2hYQmllSk9NR2J6SUd4N3VjR0s5OG5jYTJTcTRvWFgzWkhiQ1EtaVlObEpMN05tMG94MENpZjVyZw?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "doxxing_intimidasi",
+      "subclusterIds": [
+        "doxxing_intimidasi"
+      ],
+      "matchedQueries": [
+        "Doxxing & Intimidasi"
+      ],
+      "collectedAt": "2026-09-20T11:29:46.937509Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "a8d00ba531987ddcc1c0cff9",
+      "publishedAt": "2026-09-18T04:40:20Z",
+      "title": "Demokrasi Indonesia Saat Ini",
+      "source": "Kompasiana.com",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOdTd6SHMtTXV5YzhzeFFjM1d4SnRQdXFGOGpGc0w4SUNKd2k2U3JqSmNwanp6bnRoMkdrZkhRREN2QXNKVnVfUzZpR3pkLXhBaW5HSTRIZUczMmZEM2FUck04UERGTmpMUWVXc1FOdjZMUExFZGFMMDhNWkFqM3pXdERpLUhlWEZNQ1U0SG9ENzhSSkFLZTVXeGFoMA?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-20T11:29:46.937509Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
       "id": "b848e8879d0d37a864c33559",
       "publishedAt": "2026-09-18T03:14:08Z",
       "title": "Dosen UINSA Surabaya Ungkap Pembungkaman Akademisi: Mayoritas Diam, Takut Disanksi",
@@ -890,6 +1143,29 @@
         "Kebebasan Berekspresi & Berpendapat"
       ],
       "collectedAt": "2026-09-18T11:21:20.512119Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "1a5ce803724f4ed30e0e0fe6",
+      "publishedAt": "2026-09-18T02:15:00Z",
+      "title": "Parlemen Jalanan Sebagai Sekolah Politik Halaman 1",
+      "source": "Kompasiana.com",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQTzJhdXlLdjZuWHA2bkJuMXVjYWxVMWgwR01VLXVmQXNxbmVxaVRNVTJPQ3FIRU5HVUhBMk5vNWY2Q3dtaXktWWdLd2VhRm54ZXQ1alY4X1RYaTQtS0tLQ2dEYUFCWEJKREhaWE95b1hBOWYteHZfeWc3ZTdMY2tyME8zb0thbEoyaE1RLWtRNFQxUWtBSUpvYWVlbjNHTDRkc0ZJcWpxTHVWeEpadUE?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-20T11:29:46.937509Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
@@ -1005,6 +1281,29 @@
         "Kebebasan Berekspresi & Berpendapat"
       ],
       "collectedAt": "2026-09-20T04:58:33.435835Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "cefc6b1c71a83a1215b7f353",
+      "publishedAt": "2026-09-17T12:24:00Z",
+      "title": "Perayaan Hari Demokrasi internasional Halaman all",
+      "source": "Kompasiana.com",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQbUNfR2JNUVdMZ3ZLbGMzdElBWTl3VmU1U3RDb3hYeEJnZzJyaVE3c3FjdnFTRGZlbFF6RlNrWEtvalR6SmJyU2k2WWM5bDYxM01fWng0MUk0bjh4YUl4TGtMLU9BQ2RXLVowVVRvUEN3Y2lmM0VZTTRoUk9LRkdOdGRYMFN1R2EwdTRVREVUVHdEcmo2RmtGVE13dF8tbEpRaVNDeE5WbHQwUGpWOGRhUEFYQURDUQ?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-20T11:29:46.937509Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
@@ -24657,6 +24956,29 @@
         "Sensor Konten"
       ],
       "collectedAt": "2026-08-31T23:07:12.746081Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "8a30c4e699a7c096b43efabe",
+      "publishedAt": "2026-07-10T07:00:00Z",
+      "title": "Konten Penistaan Agama di TikTok Berujung Penjara",
+      "source": "AJNN.net",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOY1hnY2pobGcxSDg4VU1pZVB1QUdDQVpwRlpMVXg4RUpJS2FDbjUwbnVmbF9HaHM4RmR4X2tlZUxYaEkzN3Jkc09TZkhmRk9WcGVUWkp4bkZlV3A4d0NjcmFZUW1heWs0bnV0NXEzdTN2a3NMaVFtVzJ5dUp1X3NjOUtpUThWYmZmS3BqTldqZ9IBjAFBVV95cUxOeHAzblNPQlh2bzlYaVZoMlRfTUJMOEVVMG1JSXhidHktQmw1bjFSSG1uMlkwSWFDLWx3RWZ1RlVaQ1BXSjVZUEJjUWxRa0Q2S0dkdDM5MlpUVldTd0VnUTBLSVI1ZGNQTWRKTVl6RVZQQmZ0TkxSNGNiM0VCel9LV3NVeW5yT3B0eEhYcw?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_beragama",
+      "subclusterIds": [
+        "kebebasan_beragama"
+      ],
+      "matchedQueries": [
+        "Kebebasan Beragama / Berkeyakinan (KBB)"
+      ],
+      "collectedAt": "2026-09-20T11:29:46.937509Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
