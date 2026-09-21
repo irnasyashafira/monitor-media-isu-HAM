@@ -1,15 +1,15 @@
 {
   "meta": {
-    "generatedAt": "2026-09-21T12:54:34.341535Z",
-    "lastRunAt": "2026-09-21T12:54:34.341535Z",
+    "generatedAt": "2026-09-21T22:00:21.817780Z",
+    "lastRunAt": "2026-09-21T22:00:21.817780Z",
     "startDate": "2026-01-01",
     "refreshHours": 6,
     "mode": "incremental",
     "feedsOk": 16,
     "feedsFailed": 0,
-    "totalStored": 1452,
-    "totalPublished": 1452,
-    "newArticles": 19,
+    "totalStored": 1462,
+    "totalPublished": 1462,
+    "newArticles": 10,
     "warning": ""
   },
   "clusters": [
@@ -135,6 +135,75 @@
     }
   ],
   "articles": [
+    {
+      "id": "4dd26e8893abcb0f148e7a4e",
+      "publishedAt": "2026-09-21T20:57:25Z",
+      "title": "81 Tahun Berdemokrasi Publik Terus Mendapat Represi",
+      "source": "Kompasiana.com",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPTWgwQmlER3RiMHZiSVNqSmtQZlZXMU1CRVdnVkZzRTBKRGNIeHJCVGg5bDdwbFYzeHNsUkc1aDBZVktGcVhtOEttXzA1dmZPdk1Ra1hOeDdQcm9nakhsTUFpZ0N3a2N0TWUwMWFrM3drY0JxdWFtQ2dBVm5jMHR6TkFxZ09YSms3ZFJHc29sbkk5OWo0a2VoaXhPYzdEU01VaV9Hd2tzbHQ2REMybDkzTlJwWjlXdDRuakVwZ1ZoNWsySlp1MVNr?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-21T22:00:21.817780Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "67b653b9c6af20adf7944c0b",
+      "publishedAt": "2026-09-21T14:03:57Z",
+      "title": "Ketua HMI Mempawah Diduga Diteror Usai Soroti Oknum DPRD, HMI Singkawang Desak Pengusutan Transparan",
+      "source": "Media Kalbar News",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQbG4xaUlBcGU0QzFucUJIY1RSM3NNQ19qb2p2dzZpYXNvWk14TExtVC13MkVDSzB4c1M1eTBPQnVXeE8yTkEzZGR1Rk1aUGNweXpzXzhGS3ExWDRLWDRkY08zV3FENDU4akxsNzFCUEUyNF9FSnpEaGpLR0pTWkNKc1Iyak9jMVVWbjlCY2Y0OFNXeWpnb2lVQk9BOGhzS251SGxvVi1TYW5sMm1jQXZGN0lRWkRXT2g1MGhGMDdGckpEZlNEdzdF?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-21T22:00:21.817780Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "a75cd1f5ace2a2c78e85b15e",
+      "publishedAt": "2026-09-21T13:32:26Z",
+      "title": "Tiga media AS gugat Trump usai dilarang meliput di Gedung Putih",
+      "source": "ANTARA News",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQTHpBOTlaZE94S0ZGdjVlVGJZX0o3T21jVDMwc1oycGFvS3dlVVlFNVZIZXNzbTVOaFo3c2xhaUdaU2xkNEZmQjVUeWxkczRLeVhHRlR3T0dsOEV0OGdEc1hLVkZMOUJveVBJWlU2NkM0bC00QzBlcHRWTVBBNEE3bzVnVUZTNEVyZ3M0NEU3dFpQc3ktRFJ5TDJ3T2lUejluTGhzeXoxVy1CU2JtU0FB0gGvAUFVX3lxTFBMekE5OVpkT3hLRkZ2NWVUYllfSjdPbWNUMzBzWjJwYW9Ld2VVWUU1Vkhlc3NtNU5oWjdzbGFpR1pTbGQ0RmZCNVR5bGRzNEt5WEdGVHdPR2w4RXQ4Z0RzWEtWRkw5Qm95UElaVTY2QzRsLTRDMGVwdFZNUEE0QTdvNWdVRlM0RXJnczQ0RTd0WlBzeS1EUnlMMndPaVR6OW5MaHN5ejFXLUJTYm1TQUE?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-21T22:00:21.817780Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
     {
       "id": "1c2d5ba82f39ede5daa8c241",
       "publishedAt": "2026-09-21T12:37:43Z",
@@ -297,6 +366,29 @@
       "reviewNote": ""
     },
     {
+      "id": "8708f1a7edb7c92eca3e1279",
+      "publishedAt": "2026-09-21T09:13:26Z",
+      "title": "Reaksi Atas Vonis PN Denpasar, Gerakan Sudirman Berseru Desak Pembebasan Seluruh Tahanan Politik",
+      "source": "majalahfakta.id -",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNQmx2MWxoMXJtMUI2UW1CTTlYaW1kNlhHSUIwM2V2MllrbWhTNDJHSGNSc0V4X0IxY0pqMWxuUmxVQy11V3ctT1dTTlFNWnVXZHF3QVhZSU9YYWF2X2t4aUpOejNuR3lMUnh4eGd2YUl1eW5xU29QdWZtNTJRM09MeUVIR255cDB2RUl1YWE5cEpFZUlQNEp2YVpHUHZDeFdOa254OGNXR01PTG1ZTkg0Ul96UG5xQ0NFR2pfaA?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-21T22:00:21.817780Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
       "id": "8314accb6ff59334219ecd82",
       "publishedAt": "2026-09-21T08:37:48Z",
       "title": "Demo Mahasiswa UINSA: Tuntut Transparansi Rektorat Tanpa Harus Merugikan Rekan Sendiri",
@@ -338,6 +430,29 @@
         "Kebebasan Berekspresi & Berpendapat"
       ],
       "collectedAt": "2026-09-21T12:54:34.341535Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "117338020c841fae0cdde867",
+      "publishedAt": "2026-09-21T07:54:00Z",
+      "title": "Menengahi Polemik Sound Horeg, MUI Jatim Tekankan Pentingnya Toleransi dan Ketertiban Umum",
+      "source": "MUI Jatim",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPRnJObmZvOWlxMkJsWHRBZE5ycnlqZms4aE9DRFh2aGtYOWlHY0hYMnhmby1YeHU5dm1IZDNyM0pjZWNhWW04NkNBYkNlQjJTSnFhdjZIekw5LUFLUE5FMGZYbWhIZWRrRnFtdlRNVHM4VldvRll1a3RCNk92MnpMMTdIOWJxalJ5RTZGNkY5d2lIV3Qxak5VVWhZd3pvd0tLMUc5TzM2WFFsZkpyYWxhclZmZXg3QUtXNVFOcGhIRzk?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-21T22:00:21.817780Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
@@ -435,6 +550,29 @@
       "reviewNote": ""
     },
     {
+      "id": "e24f26cb30f4957d24aca4c1",
+      "publishedAt": "2026-09-21T05:30:38Z",
+      "title": "Harga Tiket Konser Ed Sheeran Anjlok Usai Macklemore Didepak",
+      "source": "WowKeren",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9WOHRhUlpERGhqR1ZQMVhEZlBwbnVBb1c2REtPY0V6Z1h6Y2VSUEEta2xjODZJUlh4MDlZRGZ1VUxqOWcxdkNPY2UwRUNXM1Bucy1DTmZlYW0wbldRcE50bHpR?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-21T22:00:21.817780Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
       "id": "22bac14074666085dffaaecd",
       "publishedAt": "2026-09-21T03:35:00Z",
       "title": "Jantung Bisa Kasih Kode 10 Tahun Sebelum Menyerang, Tandanya Bukan Nyeri Dada",
@@ -453,6 +591,29 @@
         "Kebebasan Berkumpul / Berserikat"
       ],
       "collectedAt": "2026-09-21T12:54:34.341535Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "884968449c27d61b3bbf7c8c",
+      "publishedAt": "2026-09-21T03:13:00Z",
+      "title": "Ibadah Jemaat GKPI di Tangerang Dibubarkan Warga, Polisi Turun Tangan - Sewaktu",
+      "source": "sewaktu.com",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOU1RPUUFGX3JxSjltd0kzRUJ0eU9kQnR6TnFzck1Fa3lhZ1AzN1lFTHJGRXcyb0dkakh0bUFBSTlJU1hDNmU1cVp3c3dNTHVtNWtyNDJzZE54eUZmckhUeUJfdk5kSDMtSnZwWmdlRHl5Qk1aZ2M4RVZscXI0ZWVMV0pVbGJpOTQ4M1NVQzE1dnAwOHJZQ0pybWx6VmtiRTh4VVMwTkpKdDFNLXQ4Vmh5c05MWdIBswFBVV95cUxOU1RPUUFGX3JxSjltd0kzRUJ0eU9kQnR6TnFzck1Fa3lhZ1AzN1lFTHJGRXcyb0dkakh0bUFBSTlJU1hDNmU1cVp3c3dNTHVtNWtyNDJzZE54eUZmckhUeUJfdk5kSDMtSnZwWmdlRHl5Qk1aZ2M4RVZscXI0ZWVMV0pVbGJpOTQ4M1NVQzE1dnAwOHJZQ0pybWx6VmtiRTh4VVMwTkpKdDFNLXQ4Vmh5c05MWQ?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_berkumpul",
+      "subclusterIds": [
+        "kebebasan_berkumpul"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berkumpul / Berserikat"
+      ],
+      "collectedAt": "2026-09-21T22:00:21.817780Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
@@ -1235,6 +1396,29 @@
         "Kebebasan Berekspresi & Berpendapat"
       ],
       "collectedAt": "2026-09-20T11:29:46.937509Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "f2987eca41baabeb3bc1d912",
+      "publishedAt": "2026-09-19T02:30:37Z",
+      "title": "Trump Melarang CNN, MS NOW, dan Politico masuk Gedung Putih",
+      "source": "energyworld.co.id",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQN1lvWU5hT3FpX1NXeERFc3FPUXhxX19RajZlbFdDTTNELXhpSmVfczRDTUNrcjBMTS0xd1FFMzRoc01KVW1xWEp2cHR0dVNRcmNNRmJicU1zZ184LUNDT2FKTjJjalJrZEdzek4xUjdyanVDWTBwalJBNjBfeWctd2VOSDdMR3JWcHAwY3FteERhQnFjZHNlSF9JZWFPTTF50gGgAUFVX3lxTFA3WW9ZTmFPcWlfU1d4REVzcU9ReHFfX1FqNmVsV0NNM0QteGlKZV9zNENNQ2tyMExNLTF3UUUzNGhzTUpVbXFYSnZwdHR1U1FyY01GYmJxTXNnXzgtQ0NPYUpOMmNqUmtkR3N6TjFSN3JqdUNZMHBqUkE2MF95Zy13ZU5IN0xHclZwcDBjcW14RGFCcWNkc2VIX0llYU9NMXk?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-21T22:00:21.817780Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
@@ -30994,6 +31178,29 @@
       "reviewNote": ""
     },
     {
+      "id": "939a3e945d31a9afe04d744e",
+      "publishedAt": "2026-04-18T07:00:00Z",
+      "title": "GAMKI Minta JK Hadapi Proses Hukum, Dugaan Penistaan Agama Diminta Diusut Tuntas",
+      "source": "Opsi.id",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOSURZQjdHeThZR0tRemxDLUlrUWF6dl9vS29yeWk0Z1Y4WG81NnpJcWloaUJjXzhJV0xsUzhpaHY1ZVEzUzZUcFRFaFItMnoyYVBHTUVJdng0anFGVGFkVDh6VkRvSUVocUxGTU0weWJ1ZVR2X3djd2VZS3AxRmgtNmpNLW95WUtlemoxNndvb3JXMERjamEzZEJWQ1o?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_beragama",
+      "subclusterIds": [
+        "kebebasan_beragama"
+      ],
+      "matchedQueries": [
+        "Kebebasan Beragama / Berkeyakinan (KBB)"
+      ],
+      "collectedAt": "2026-09-21T22:00:21.817780Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
       "id": "28097e1e0edd80612e67bbed",
       "publishedAt": "2026-04-18T07:00:00Z",
       "title": "Dilaporkan dugaan penistaan agama, Jusuf Kalla pertimbangkan langkah hukum",
@@ -32231,6 +32438,29 @@
         "Doxxing & Intimidasi"
       ],
       "collectedAt": "2026-08-31T23:07:12.746081Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "53aa3266e425b6393dde639f",
+      "publishedAt": "2026-03-23T07:00:00Z",
+      "title": "WN Swiss di Bali Jadi Tersangka Kasus Penistaan Agama karena Hina Nyepi",
+      "source": "Kompas.com",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOSnd2UVhkN19icEppUnloMjlteGxkb2JaZlJVLVpueU41cGtRcWZiNDdoYWJZT0IxUGZ3bXllcjhHN2dpNzFGUWVUX0xFYjN6bEtBTGF3ampRaW1TNjJ2eC1ENXFHaUdMdGxaaHhzMFJkeDdqMXBZcTFHcGNEZVZLWGhqVGMtVE14RlN1S2lGTHRiYk12dEwtRHh2QWxQdHByN1RQcE1FUkRBNGZGdGxoUzMzeUNfVnl2aF9lYzcwMzlOVmM?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_beragama",
+      "subclusterIds": [
+        "kebebasan_beragama"
+      ],
+      "matchedQueries": [
+        "Kebebasan Beragama / Berkeyakinan (KBB)"
+      ],
+      "collectedAt": "2026-09-21T22:00:21.817780Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
