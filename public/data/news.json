@@ -1,15 +1,15 @@
 {
   "meta": {
-    "generatedAt": "2026-09-20T20:52:05.312787Z",
-    "lastRunAt": "2026-09-20T20:52:05.312787Z",
+    "generatedAt": "2026-09-21T05:01:47.113181Z",
+    "lastRunAt": "2026-09-21T05:01:47.113181Z",
     "startDate": "2026-01-01",
     "refreshHours": 6,
     "mode": "incremental",
     "feedsOk": 16,
     "feedsFailed": 0,
-    "totalStored": 1424,
-    "totalPublished": 1424,
-    "newArticles": 5,
+    "totalStored": 1433,
+    "totalPublished": 1433,
+    "newArticles": 9,
     "warning": ""
   },
   "clusters": [
@@ -136,6 +136,98 @@
   ],
   "articles": [
     {
+      "id": "cd056bf5a5e1b1c431595492",
+      "publishedAt": "2026-09-21T02:36:33Z",
+      "title": "Cara Blokir Situs di Browser Chrome dan Edge Pakai Ekstensi Gratis",
+      "source": "TribunTrends.com",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPdTBGZkVQQVliMi1jQjMzRUFKRUVKX2g3Ym5XQXpnWHltd3FkSUFEeDFYc0dvbC03bUlhZFMtVkVGcE5yZm55RjJwZi1DRVViSWtONjhNeFJsUFdLakJoN3JOSE9yME1XUXlxT1Y2UWZ4RFFRbGVVcGtYZmgySEl4S1UxS3U5MXVLSlBROE5fTXZ5Rkt6QWRGSjdkeW0yb20teDZpcVl6U3ZBUnF6Z1E?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "sensor_konten",
+      "subclusterIds": [
+        "sensor_konten"
+      ],
+      "matchedQueries": [
+        "Sensor Konten"
+      ],
+      "collectedAt": "2026-09-21T05:01:47.113181Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "88f57a468246dcf401960191",
+      "publishedAt": "2026-09-21T02:07:00Z",
+      "title": "Aparat Diminta Harus Terapkan Nilai HAM saat Tangani Unjuk Rasa - disway.id",
+      "source": "disway.id",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQSGhsOUlJcHNib1VTV09RZWRMU3pqbVVQazRXX2xnSkdjVUNidTh1d0hyMENhOE5MR3VaWmEtRGphdE44VzR3UHlQanBsbzBVOTdSYU5FanlzVDdLY0pKSGFQdE5hVW54N2tjVnd2VFo3cnlOc0NsT3BnZFRwTzVKdEctLUNGd2o2dzAzSFR3TkZ3ZV9DYWx30gGXAUFVX3lxTFBIaGw5SUlwc2JvVVNXT1FlZExTemptVVBrNFdfbGdKR2NVQ2J1OHV3SHIwQ2E4TkxHdVpaYS1EamF0TjhXNHdQeVBqcGxvMFU5N1JhTkVqeXNUN0tjSkpIYVB0TmFVbng3a2NWd3ZUWjdyeU5zQ2xPcGdkVHBPNUp0Ry0tQ0Z3ajZ3MDNIVHdORndlX0NhbHc?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-21T05:01:47.113181Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "ff8b27f8f2d755a637affd35",
+      "publishedAt": "2026-09-21T00:31:48Z",
+      "title": "Doxing: Senjata untuk Membungkam Suara Kritis",
+      "source": "kompasiana.com",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQRUpRaDZQNm1LZngzcG9GaVkwVUt0bU5wNDU0RktyVGlEa1YxTlFJTHd5aUNzSGY3OUllM29Pdk9YNV9BaHdiMURpNHBxYzFCdE1fVEROV0dYbWxiODhTU283d2JpUE9Tb25yWk1yeGZZUi1JVzRZNEh0OTN2cUhIUUtpWmpCTUhIXzhldGNTR3Ntemh5Zy14eXgtS0dfUXYyNFdCczVlS3ZfWlBOcEotZ1BFRndXWFdHdXc?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "doxxing_intimidasi",
+      "subclusterIds": [
+        "doxxing_intimidasi"
+      ],
+      "matchedQueries": [
+        "Doxxing & Intimidasi"
+      ],
+      "collectedAt": "2026-09-21T05:01:47.113181Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "54d0a96f7eb4eafca240380c",
+      "publishedAt": "2026-09-20T22:58:32Z",
+      "title": "Bocah 7 Tahun Jadi Korban Dugaan Pencabulan, Diiming-imingi Rp 10 Ribu",
+      "source": "Merdeka",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOVjR1OXYzdFBrMEJ2SVpzMzBFaXJGbXNXNGRjT3k0ZHZNZURoeVNqdm8yS3E2eFJxVEpvX1NKTGdZQm8zRzJEV0hNMDR5cHlVRm43Wnp4TkNidEFoLUxvR1JsNDZ1aHhJSjFpcWNESFZhb2ZycEM4U1N4SUYxLW9xN09nd3RWMF92ZVNESFQxSjVabUZ0ZXJ5Rm50WTlidEY1bThTMW15YjVCY1Q4WVJZanBGXzVLcTA?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-21T05:01:47.113181Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
       "id": "0d3d5358b9ec4dd0790af4b0",
       "publishedAt": "2026-09-20T18:58:00Z",
       "title": "Update Kostum & Gaya Rambut 2026: Personalisasi Tanpa Batas di Sakura School Simulator",
@@ -177,6 +269,29 @@
         "Kebebasan Berekspresi & Berpendapat"
       ],
       "collectedAt": "2026-09-20T16:11:03.035720Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "30059083a9a0769a40567c81",
+      "publishedAt": "2026-09-20T15:03:00Z",
+      "title": "Ray Rangkuti: Aparat Harus Praktikkan HAM saat Tangani Unjuk Rasa",
+      "source": "SINDOnews Nasional",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxORGE0N1NsbnM1Zmc5eUc4MHZ1Z0g5OXlkeEdkTEdTamxQcGNyVTdILTNPY1g0N1oteFV1eUVZSG9OVlVSY1BhbkRpb2Z4MFlSSGZBWjR4QWUyd0h5dG1qa2NScUtCdE1rcWQ4M1IzWU01ck01UDdSRlhBRktDOUlXU0hWWTIyU0JSeTJfOGc4VTA4NEtnb2VpUE1YR00zVTZUNk02X0dNcDdFb3hjekphYkYzUHhFVWh2eEI4ZXZSX0hBSnPSAcQBQVVfeXFMTUo3WUhTaFZuanRhVkNpQmd0NVMwYWI0SUxrVlZlaTRON293X2hWOFZkZTNuNGhnNm5oWG5PdUdUSWNrY1ZzWTJGY0JReGt2MEpLQndKMTRPXzUzWUEzQnZuLWd5U05PS2RFSG1BeHQ5dlZlNy1KWlVqTG55M3lJdEhaLWVZVG82WHVpY1JUcGVhczFNZUo5WFZwMTJfbjZRbWx5LV9hQkNGelBlbFl0N3d2M1pQYkpza3FhSnA4bzM2YzRqeg?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-21T05:01:47.113181Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
@@ -274,6 +389,29 @@
       "reviewNote": ""
     },
     {
+      "id": "cc4b6e51d2d3cd523d3d7e04",
+      "publishedAt": "2026-09-20T12:52:10Z",
+      "title": "Trump Siapkan Pasukan AI, Bakal Tunjuk “Kaisar” untuk Pimpin Kecerdasan Buatan",
+      "source": "Kaltim Post",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOMjFQSTZLUFI2emNESlU1cmRYWWVFWFdoSXBfZTdNd0JFal9GYURnbGxmNHo5bmxvMHJ1bVB2WXJDWWp5MVZpcWE0VG8zZFdVaXB3MzFjS19DRE1TYWhWTHVqbllBQTUwbEFmWmd1OG5uUExKbDlCWl9sbFRDRW1nY2ZHYkg5OVgyeWZPZDM2MWVWUnE0dGM5RUpxWWlPZGZ5Wi1mTjhTZUtscHIydGVFRERXRzZvYWRHSWxaNEo2X3hWZEc2ZHJKTHdDdGjSAdIBQVVfeXFMTjJGRnE5YmtDY3hiQ0hfMWVQdllpeWpXMjkyZzJjRkFYdU9sS0Y2UzRyZ2NOS213SU52OVlQWjA4N1lUeVBrOWtCMWt5TnBKbllwbncwVko1ODQyZ0JZT0J4Q3NOd1pHb1UxY0E4RWtiLW5TMldQNnpIczJqVlRKbHNVMjZ1dEc3VGJBa2hzNFplZElEdkluWjhjbWVWbktmYmRrWVVFT1JPdDMtbmc1TWRsQkRGeEFYaVVjR0hDM3EwTDJxVkZkZWtVMU9Md21iQ3Vn?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-21T05:01:47.113181Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
       "id": "a04881bae431dadfbaf9ff8f",
       "publishedAt": "2026-09-20T11:16:00Z",
       "title": "'Bukan Otoritarianisme Biasa', Pengamat Bongkar Sisi Gelap Undang-Undang Kesatuan China",
@@ -361,6 +499,29 @@
         "Kebebasan Berekspresi & Berpendapat"
       ],
       "collectedAt": "2026-09-20T11:29:46.937509Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "1d6986ca3f5da948fe21a993",
+      "publishedAt": "2026-09-20T04:03:56Z",
+      "title": "Golok Ancam Jemaat GKPI Rajeg, LBH Gekira: Negara Jangan Kalah oleh Intoleransi!",
+      "source": "Japos.co",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQQzNUa2QxLVJYT0djb3g0TjRRZlB4aUlwUVNyNUgtbWR6bTZNNHE1eEhfbjUyQ19sTlFjSTdpbDVxeTNINnhncmZmTnJScUFhYnR5a0k2SWkwa3dmeko0QjRNMmM4M3Z4cGZxb1c5M2hjZDVxelJVUHRHbTJUb2hOeHVSaEstTlhJeElPUHgzdnNOZ3NHbmRXSlBjV2tJblBIWnNnenVGMUNMUG0zSmlj?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_berkumpul",
+      "subclusterIds": [
+        "kebebasan_berkumpul"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berkumpul / Berserikat"
+      ],
+      "collectedAt": "2026-09-21T05:01:47.113181Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
@@ -1212,6 +1373,29 @@
         "Kebebasan Berekspresi & Berpendapat"
       ],
       "collectedAt": "2026-09-18T11:21:20.512119Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "1696b0e36b473b45bc4eef20",
+      "publishedAt": "2026-09-18T09:25:41Z",
+      "title": "Lontarkan Komentar Bernada Hinaan, Akun Anonim 166 Dipolisikan",
+      "source": "barta1.com",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNTUtvUU5UbkJ1a2FianNjb3VxRDV0T255NkF1OFZRWGNyTE5rZHpVeFA5NUpHZWE1TGFqb1FIeEx3RFV0MlRmY0NuWTRvSkZERlNUUUNhSE1INS00Um1vaWFYS0lQTzJnbktYaFZBVUotQ0hHTUVRSEIyVGxkY2ctdzhUbFZCdHB2RG9lTHVudkFLSndKLUh3?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-21T05:01:47.113181Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
@@ -19321,6 +19505,29 @@
         "Kebebasan Beragama / Berkeyakinan (KBB)"
       ],
       "collectedAt": "2026-09-02T11:23:57.013624Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "ab97b06d6ef4a7f6013fe172",
+      "publishedAt": "2026-08-13T07:00:00Z",
+      "title": "Tersangka Penistaan Agama Jadi 4 Orang | Liputan6 - SCTV",
+      "source": "vidio.com",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPMkl6ZjMzcGhYeG5UNWJLOTAwdlRWTkVWcHB4cS1yYUprdzNXUmRJR3pzTGhDQmVCR2JySnRWcUU4SUc4S0pqN3RoaHJQanV6dkNhdThhb29ldW1Yb3NUNS1WM3FMa2s3VHcwMFg3dG9FTElWSU5NVmoxVVd4MlNTUjR2LWVSVGJuQVdJ?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_beragama",
+      "subclusterIds": [
+        "kebebasan_beragama"
+      ],
+      "matchedQueries": [
+        "Kebebasan Beragama / Berkeyakinan (KBB)"
+      ],
+      "collectedAt": "2026-09-21T05:01:47.113181Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
