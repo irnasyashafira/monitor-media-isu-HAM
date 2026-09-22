@@ -1,15 +1,15 @@
 {
   "meta": {
-    "generatedAt": "2026-09-22T11:44:46.274038Z",
-    "lastRunAt": "2026-09-22T11:44:46.274038Z",
+    "generatedAt": "2026-09-22T17:00:01.895013Z",
+    "lastRunAt": "2026-09-22T17:00:01.895013Z",
     "startDate": "2026-01-01",
     "refreshHours": 6,
     "mode": "incremental",
     "feedsOk": 16,
     "feedsFailed": 0,
-    "totalStored": 1494,
-    "totalPublished": 1494,
-    "newArticles": 11,
+    "totalStored": 1503,
+    "totalPublished": 1503,
+    "newArticles": 9,
     "warning": ""
   },
   "clusters": [
@@ -135,6 +135,144 @@
     }
   ],
   "articles": [
+    {
+      "id": "8ec93f62ea45eb1799c05465",
+      "publishedAt": "2026-09-22T15:48:13Z",
+      "title": "Memaknai dan Merayakan Hari Demokrasi Internasional Untuk Indonesia",
+      "source": "Kompasiana.com",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNczJ2NXgtOFJXUlNGeUI4NHdsMC1YYmNFbllRMlF4WEtwVUJhdF81bGpiR2drMzRnaDFFZUNFZEtXbUZxSXBORmx0Mkk4YTFkZnUwQnR2WWl5SkkzUHBMNjVmbmVPQXNWNU5Hd28yX09SeW1QTGMxRGFpNkxBazV6MDJraF93LXY2cS0wQzB6RGRjdzVKNElLNVFaVWtNRXJTVVF2NWdqNUJMajZtLXIzellnRlFTMXpoM1dlZUFqWHg3LTZaXzNCakI4OTNBdw?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-22T17:00:01.895013Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "5c6560eddada81c9041dc71d",
+      "publishedAt": "2026-09-22T15:34:54Z",
+      "title": "Memaknai dan Merayakan Demokrasi Internasional di Kehidupan Sehari hari",
+      "source": "Kompasiana.com",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOZGdCT2stQ1VRM3JUb2J2bTFnMmlTTVdLTkd4bEh1M2pfaHVadVlVTGhFVWV6SkgxSklPZ0swYzNCMFZfUF90WWdXYkpwYkhSSVZZTWNMWXlnMk5WNG1ROVhYRmozb1BPa2hkSHo4NldlQ0FHU2tza1VEZ1drQXJvSWJ3dGhDOWJ5RVgxbmFraExfRTlLeGJuN2NocW42U2RUUHF3M0dMZ2Y2emw0VEt0V01LZXFmYWVLM0JnbnVGM1kxeWhLVDVwTVV0ZG9Dd0ItelRvNnlR?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-22T17:00:01.895013Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "fd821ce7b8ea6d7058760f28",
+      "publishedAt": "2026-09-22T14:40:19Z",
+      "title": "Raih Juara di BRIN, SIDA-AI Buatan ITS Siap Perkuat Peringatan Dini Bencana Sidoarjo",
+      "source": "fixsnews.co.id",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPa1dMalNOSWVIYU14WHVGRW11MFBWczhidjc1N0N0QktoelhDbjR0YjBJdFFESnBjTFJzQm5FaHNoelRxTDBsWWEyNEF0V3llc1h6aENRZTQxUFVWUlBhYmZidGhab01WUUJESDA3UVR1VW96dTJmN0t4amF2MXctLVNtdmdsMktsV0hkYWFOVFR2RTYyblFoc1N6a3dGRktQQUVTbTRJU3Z6NzQ?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "sensor_konten",
+      "subclusterIds": [
+        "sensor_konten"
+      ],
+      "matchedQueries": [
+        "Sensor Konten"
+      ],
+      "collectedAt": "2026-09-22T17:00:01.895013Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "a54d0b94f77d035746762ee2",
+      "publishedAt": "2026-09-22T13:51:00Z",
+      "title": "AS Tolak Visa Tim Pers Kepresidenan Iran, Teheran Tuding Trump Takut Kebenaran",
+      "source": "Inilah.com",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPUmNfVk0yamNiaThydWdhZF9EaVlNOXhCMVVwa1JjeFlFSE9YQWs5dVhrUUVxWmpRQURTWVFqeVlYUDdQSkNPaWo3clF2bElpcVJYRHEwcG4wS1JnakF5SXV6b3FCTENaNVhlWW42T0JVc1B1Y1BGbXBxY081MDZCYUVrUW56cFFja0FWRlhfQW1TRjhqTjF3YmFYb0tUZFFGTFE?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-22T17:00:01.895013Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "52f846363cae8970432c4660",
+      "publishedAt": "2026-09-22T13:38:46Z",
+      "title": "Trump Bungkam Media Kritis di Amerika; CNN, MSNBC, dan Politico Diblokir dari Gedung Putih",
+      "source": "parstoday.ir",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxObnNXUUVSVTRkZzRMNTIzTF81V0tSdlEyQTYzWjhBUUotazB2eG1qNC1KaDJCSFI4dkFHSV9ocmxyeFp3WndKY1ZrUEZsMk56UWlBdEJGMG0xMEtOajJ4VjlPOVAwQ1d4SGxIZlVOZHdUdXlZQ3E4TXZDMzdwWDA5ZmdGZVhfYWh1QllXeDM4alBkNTZ3Ni1PNzFLRWwxRGRaOGJCVEJNSW5iWHZkbXFxRGdOTUd0NUY4Q25ZZTd6VXdPZlNaNnlIajR3?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-22T17:00:01.895013Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "88955b6f62b019dbb2dbab84",
+      "publishedAt": "2026-09-22T11:54:16Z",
+      "title": "Tanggul Lumpur Sidoarjo Terancam Ambles, ITS Siapkan AI untuk Deteksi Dini",
+      "source": "cakrawalanews.co",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPbWM4TDdjRGh4UzRweEtkNGFveWVYb2p0SGhRM1IyUUQwQllUdU91QzhHbFlRTnFfNTNDMEdFd1JWVXY0cWkwRXRGMFk3UGxBRF9lZXcxdDBlX3FFQlNlVEh5cjFqQjFUZFYyUVBRLTVXcGxyX0FNbmtkT0tKdGNabS1FWl9SNnk2ckdBZjNqSy1MYVFIRWo1eXVCc2MtTXpITXZMckk3Q3ZZUQ?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "sensor_konten",
+      "subclusterIds": [
+        "sensor_konten"
+      ],
+      "matchedQueries": [
+        "Sensor Konten"
+      ],
+      "collectedAt": "2026-09-22T17:00:01.895013Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
     {
       "id": "e001555b850a7552c29a543a",
       "publishedAt": "2026-09-22T09:56:25Z",
@@ -1350,6 +1488,29 @@
         "Kebebasan Berekspresi & Berpendapat"
       ],
       "collectedAt": "2026-09-21T05:01:47.113181Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "b7f977c1b0032f5d9f120e63",
+      "publishedAt": "2026-09-20T14:45:41Z",
+      "title": "Demokrasi Di Negara Yang Gemar Membungkam Halaman all",
+      "source": "Kompasiana.com",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPc3J1bEtPQUd3MmtkUDBjcU1peldJWGMxdHpnYlFBWjh5RHZELUw3SUR6N3pmSWNEcnZZLWtyMGsyTTJYb1B2THlZaEFDR2F5eDk0ZGxqd3VrUUJxNWtZbUY0bFhoUkJoNzlHOVV2LTN6aWZUbUI4R0V3dXJQRHRZc2NWU05yblF2RndYWXFNRnE3RDhKa3lUSFhaZ2Y4MWlnMUVjVWMtUzR6aTRmWW1iR1d0QlZyeDdwTDF0c0Y5OA?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-22T17:00:01.895013Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
@@ -23328,6 +23489,29 @@
       "reviewNote": ""
     },
     {
+      "id": "2c5182fa1caf54b5aad507b0",
+      "publishedAt": "2026-08-12T07:00:00Z",
+      "title": "Komisi III DPR pastikan kawal kasus penistaan agama di festival musik",
+      "source": "antaranews.com",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPaHlmZTdQMFNsM2oyYm9RWFlkX1ZBTTlhR1lxODc0NWlOa1VFbmJERzZQYUIxXzY4ak8ydXpYcVdnZHExWjlHd3cxZkJZLWhTUzdzQW5JMjFycl90RHpIU21mR1pUN1NtUUVfMkVZcVN3SHVlX2FmVmxpTTNVWEZyM0J5X3RhWWd1RWFBRFprNm9jRGU2TzdzdlI0RGVsdFk4UFB6Q1ZzWDNtMHVZQnQyUdIBswFBVV95cUxNX295akQ1WkVFdVU2NjI1amthU21tMENxLVlyMzFQTTc4aXVnbWx1WjJPOXZYbkJjYnl0OW5Rcm1MOGFzdE0yRUNfNmQyemV1dktaenlDUk56LXJRQjNJbUlHbEFlVmJGUXFPbHU2WDMwaWM2M2FCTi1RbVBaRkMxRmVGLXA2ZG1Sb0xjZllWWVlaaWtfUlRudmpoUnRPQXp4VURmdzhUaFdaSUdyQnFMZVhxMA?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_beragama",
+      "subclusterIds": [
+        "kebebasan_beragama"
+      ],
+      "matchedQueries": [
+        "Kebebasan Beragama / Berkeyakinan (KBB)"
+      ],
+      "collectedAt": "2026-09-22T17:00:01.895013Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
       "id": "2e788b9a1dd88827ddf3e00f",
       "publishedAt": "2026-08-12T07:00:00Z",
       "title": "Ketua DPRD Dorong Kasus Penistaan Agama di Ancol Diproses Hukum",
@@ -28659,6 +28843,29 @@
         "Doxxing & Intimidasi"
       ],
       "collectedAt": "2026-09-01T04:22:26.622593Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "e3181218c4a13575c020a8f8",
+      "publishedAt": "2026-06-09T07:00:00Z",
+      "title": "JPU Tuntut Dedi Saputra 4 Tahun Penjara dalam Kasus Dugaan Penistaan Agama di TikTok",
+      "source": "AJNN.net",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQcE9fVXMyS2dWcVZVd1p0QUowZUoxeDNhUFhXN1pBTUFyLXQ4SUpSdnJYVzNXRWxBV08ycnlCRm5qejJUeDZidUtKYThaYUFRN3pSNkZWMkZNWUZsOTZzNk9hRlVNMnFJRmhXb3kzZGViUzkzUzVKbW1feDV6cFNTWDlqQVhFS2xfcnhGc1ZoV0x4QXY1bDYwemQ3T0lNSUN1QTQ5end3dDBFNlR6b0xjN0Z2SVh4cURzRlZoVVJ30gG7AUFVX3lxTE1hU0tjZkNncklIMVdIWFJsekUxQmU0NWJUTmNYZVdMcGp2TEw2Q3VpZmoybUI0OVNXMW44U1NELU9JZTNBcnZCRWJ1ank1bWJQVWc3cENGcW5FYzhvUkNJaF8xa2RkTGNSS2lXQXNzRkdrRGwzWnhiYzhXMGZUaDM3R1l0a0o1b0tIRWhXTnRUMmZ4akxmRUlVbG53a3RueGU3X1FOZ3hDZjdMSHNTVGpHQmFMdk5hMENiNkU?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_beragama",
+      "subclusterIds": [
+        "kebebasan_beragama"
+      ],
+      "matchedQueries": [
+        "Kebebasan Beragama / Berkeyakinan (KBB)"
+      ],
+      "collectedAt": "2026-09-22T17:00:01.895013Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
