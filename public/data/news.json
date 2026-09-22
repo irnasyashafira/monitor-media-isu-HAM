@@ -1,15 +1,15 @@
 {
   "meta": {
-    "generatedAt": "2026-09-22T05:02:59.019095Z",
-    "lastRunAt": "2026-09-22T05:02:59.019095Z",
+    "generatedAt": "2026-09-22T11:44:46.274038Z",
+    "lastRunAt": "2026-09-22T11:44:46.274038Z",
     "startDate": "2026-01-01",
     "refreshHours": 6,
     "mode": "incremental",
     "feedsOk": 16,
     "feedsFailed": 0,
-    "totalStored": 1483,
-    "totalPublished": 1483,
-    "newArticles": 21,
+    "totalStored": 1494,
+    "totalPublished": 1494,
+    "newArticles": 11,
     "warning": ""
   },
   "clusters": [
@@ -135,6 +135,167 @@
     }
   ],
   "articles": [
+    {
+      "id": "e001555b850a7552c29a543a",
+      "publishedAt": "2026-09-22T09:56:25Z",
+      "title": "Hari Demokrasi Internasional: Demokrasi Dimulai dari Kita",
+      "source": "kompasiana.com",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNcVJmREtKYzNyUERDS013QlVPdVBIRER3NmRKdGR2YVQyMUV6LVhhR0hyaHdnNF91eUxsSGJNVTFEMDBlQmU4UWltUGJsUGt0X01Ua1hnazltcVh4VmM3TnJPX0xOMzRYa0VGenl3TGdNT294QUIzYm5LUXpzMlVIOFYtSTJ5STlDbk9rb2RSNFppTU11OHQ0cFNNYWNDVjNQUHI2MmhzUTRfZ3FCc2JsX2xxYXpXalhWQnc4QTdidw?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-22T11:44:46.274038Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "11488534a21e9797502f7dd3",
+      "publishedAt": "2026-09-22T09:02:28Z",
+      "title": "ITS Kembangkan Agentic AI untuk Mitigasi Jebolnya Tanggul Lumpur Sidoarjo",
+      "source": "KBA News",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQbjJIR24wZ1piX0s2YzhVNFc3MjVwREV2SldGVzZJb0x3RzY5QlFNVGxhakowT0hEVHM4bUgtWDFwRHlKUDkyaENRWkZaaVJZOUlDdHprak1ZNEpTMHRVa3JNU3lNdHBBdHE5ek8tT2xhaUtlYUdWZ3kyM1VJXy1ZdU5HemZ0VmFUM3FFU0RKLXZHOHQ5WGtlaXNaaU5mMi1IRV9Ka2RRenRhMTQ?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "sensor_konten",
+      "subclusterIds": [
+        "sensor_konten"
+      ],
+      "matchedQueries": [
+        "Sensor Konten"
+      ],
+      "collectedAt": "2026-09-22T11:44:46.274038Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "fa2f8211a0fee40306bbe16e",
+      "publishedAt": "2026-09-22T08:26:25Z",
+      "title": "BEM Universitas Hamzanwadi Tegas: Tak Ada Tempat bagi Kekerasan Seksual dan Pembungkaman di Lembaga Pendidikan",
+      "source": "SELAPARANG NEWS",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNRTNmdVNZVVIySFVnN1czMzB6RTcxQndsSFdFOE1yd3hWblBpYjdUZzRtT1BTd013c3BBM2hfekFuTWZRTkhyVThiN3hNcWxtczVHaUJvS0Z4S3Y4UkJ2NTFMTEZvVVBaYWh0M05hUFRiYUJ6VTMtdTNrTGpkb2tDdURNZW9JVUU?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-22T11:44:46.274038Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "1f1968a3ac5908f05f01e1d1",
+      "publishedAt": "2026-09-22T08:25:05Z",
+      "title": "Memaknai/Merayakan Hari Demokrasi,internasional Refleksi untuk Indonesia",
+      "source": "kompasiana.com",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOZDZpQ25qVVhENjJhbEhtM1gxX2QtU2FtaXE1YWVEY3k2YlFOTUVoOEpobGQyTXdqc0I0dWFkREpsNnIyRDN3TVhWcF9mSTZlYlI0cWNVeXVzcHdIT1ZFR041aFlIcC0zNXBwakh3V0VRM0hTeENiaEtXWTlDTV9pejA3WEZXM3dnbXRUQldMcDlvaklLdHpLU1hzNE5pUDJhRjNRXzlIWW5LYWtVejdJYkN4Rk1yMkpJeUVxUm9sQ3NMM2dxNVIyR09ISWNrZVNfczNUNA?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-22T11:44:46.274038Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "fceb0af368dfe35d394ca3f8",
+      "publishedAt": "2026-09-22T08:24:34Z",
+      "title": "memaknai dan merayakan hari demokrasi indonesia",
+      "source": "kompasiana.com",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOOHpwVE1yWnFWMlB6UklQUHFZdXk2SXRQcktFeklubVRlaV9QZEs4OHR6NE1EM0lZMDNmSlp3SWpNOTFWdHptbUZDRGljVTJZSERrUEFITERmUHNyX1BZVGR6a2RnaEFGRF9BdVR1MlFueF9HeDZZYWc2azdOWUdpUE5Ub0FBZDgteFFuX2dRbG16WkxEQ2c2dC1sbWREMzd2ZnJMX0tqbVVfMU1KZkZiM1lR?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-22T11:44:46.274038Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "51d376aebefb4ffb3948597a",
+      "publishedAt": "2026-09-22T07:10:48Z",
+      "title": "Kronologi Aksi Pembubaran Paksa Ibadah Gereja oleh Warga di Tangerang, Jemaat Sempat Panik",
+      "source": "Tribun Video",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxObDZMVlg4Z0RJaWlnRkZ0aHg2WWxTSndSSk5US1VyMVJ6YVZsS19tRjhsV0laT0lIRFZNd1FpeVFxYWwxNkhXZTh0czRrb1NsQ3ZlRFVvazFPeVItVHp3N1A4THVDeXFjTzJnTldpZnRhN2g0amJ3czhrMDlGYm1id3BiYl9ZY190OTBYVXV6RnJWLS11aUxvRnFsVktqU1drMG42XzVnb2s1ZE5iMFhUV3BYVGh3TVVuZWJaOG16NEVtV0NBZVg1UURn?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_berkumpul",
+      "subclusterIds": [
+        "kebebasan_berkumpul"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berkumpul / Berserikat"
+      ],
+      "collectedAt": "2026-09-22T11:44:46.274038Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "d6ae715c8d0d24dbdd1fc365",
+      "publishedAt": "2026-09-22T06:15:18Z",
+      "title": "Menjual Etika Ekraf: Mengapa Kita Salah Kaprah Memaknai Moral?",
+      "source": "Yoursay.id",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQRHdzN1o2cHdqaTFzOHJDdjRjeVRlQU8yOVBWcjVTakNrZENNUWcwNDZFdHMxcGMzcl9xSFQ2YXZTekc3cFdlVFhfZVZMemxZcHZpOGxjUlJkQmJicEF3Z3l2eHpKNnVETlVKQmk1QXdvdUtPWW45MWMyQnk5dTF2TXZfb1ExMkVTaDJjY1dIVmRZQk1uRGw0eG1vZzduaGNNRXVIRGJ6N2YzZHYxMElyS3B0aULSAbQBQVVfeXFMUER3czdaNnB3amkxczhyQ3Y0Y3lUZUFPMjlQVnI1U2pDa2RDTVFnMDQ2RXRzMXBjM3JfcUhUNmF2U3pHN3BXZVRYX2VWTHpsWXB2aThsY1JSZEJiYnBBd2d5dnh6SjZ1RE5VSkJpNUF3b3VLT1luOTFjMkJ5OXUxdk12X29RMTJFU2gyY2NXSFZkWUJNbkRsNHhtb2c3bmhjTUV1SERiejdmM2R2MTBJcktwdGlC?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-22T11:44:46.274038Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
     {
       "id": "069cfe912296c424d9346eaf",
       "publishedAt": "2026-09-22T04:39:50Z",
@@ -274,6 +435,29 @@
       "reviewNote": ""
     },
     {
+      "id": "4ea0bde3d309696d2001c7b4",
+      "publishedAt": "2026-09-22T02:15:49Z",
+      "title": "MK Dua Kali Sidangkan Syarat Pendaftaran Wapres Gibran di KPU, Pakar Hukum Sebut Langgar Hukum Acara - Suara Merdeka",
+      "source": "Suara Merdeka",
+      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQVFdEM0EzX3BGUGNzRERKMEgyclVWd3NjZHhZYjZxT2hBZG9RMlVfN04zX3Q1OUFieGdmd2hQXzQ2ZzY2MlJOWmhTeFl5SGxkS3JwSnh4bng4MS03UGlsQTB3VEkxZjRwWXZRVlBBQVRnMTFUSFRCbTB5bUJacm95ZFI0ZVpVbkt5dEVvZjRvajNmX2Z5OUVRZmtJVGVYckdUTS1TQUZlWFM3S1BXay03Ti1NaFZ2czlaSFFFWWhTX182V2J4MHZmVk8zS0NSVFIzZDhadHFUUmpvMlI2VU4wZUozS3VoRHVCaHJZ0gHwAUFVX3lxTE9TVEhKbFBaWm94TExTWUM0c3BpMlladXloVmIwVkdldVA3NlpReTJyazg0ekVKZENhLUNDSzU3c2E0d1pZa1BhQ1hBTFdnS3RWSk1DS1RORnQ2b2w3Qjl0VFA1dzZ5M3ZsUnBmNnNBTW1SZlNsTmc3NkpyODN2ZWlNZFBwLUk0RUFXcE5ndlhxZ0doNXUwVUUzWUV4OGZoVWJPQkx0X3BYMm1UTTQxUmo1aXY3U1c5TXpBdm12UmZ2cXE5NEZrQ09BVGNfLTNPZ0hkR2o0NWpKcFp5Ykp4c3VhOFp2ajJydkVYd0U4YVgxWQ?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-22T11:44:46.274038Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
       "id": "5eb1865c0bd6894d0983737c",
       "publishedAt": "2026-09-22T02:15:00Z",
       "title": "MK Dua Kali Sidangkan Syarat Pendaftaran Wapres Gibran di KPU, Pakar Hukum Sebut Langgar Hukum Acara - Suara Merdeka",
@@ -315,6 +499,29 @@
         "Kebebasan Berekspresi & Berpendapat"
       ],
       "collectedAt": "2026-09-22T05:02:59.019095Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "fdcd7b744ed1e99a38136836",
+      "publishedAt": "2026-09-22T01:00:00Z",
+      "title": "Mahfud MD Tolak Ajakan Denny Indrayana Gugat Ijazah SMA Gibran, Keputusan MK Sudah Final meski.... - Suara Merdeka",
+      "source": "Suara Merdeka",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPd1o5MTdtZktkRnFBX2pMcXF5dko0TmVSWFFmakU3T2JFUTRSd2pzcHQyY1NSeHI3b2JESHNmeC1mVnN2ejJpRG1mc0ZlaXRmX3p2YTNQVkw2ZWZvOGhIX0NGR2k3eFdkc0pfYWc5NjNKTE9iNDVZdVJCV1lTdUsybENYeWdnSkFnam5IQWRpdEVRT1FCaS1OeEd3WURFS3d6ZDViNnVjVkcyZHhIXzBoVWNsOGl3di1vc1FEeDJHT3liSXM0dkJiQ0RPcF9aOVhKR1UxNnNKdHdmLVM3VjBVM0Y3d9IB6AFBVV95cUxQb05kVThTajlHMHlQQU0zUzgyMzFueldXOTVCN2lwSGxjVWtkb2JmMUdidklEZVVQd2lvc3UyS1NWY0tSbjJGWngxRjhZckNoYXNkTzA0MjN1V0xPZE1xRmIyUXZaMlRQcmlsLTV1ZGFRNmdPWWpTSzhNWGhMNjh1NldCLUhpX2YtaE9iZzNvTDM3bVphbndJaUliRjJfd2s2R0VkOW0wS2RPdWpWejhKamNtZi1uUklVVXprYXVRV3pwM29UbUtFYVZ0V09ORlAwZHJwNjlFUUdBQS1RNXpSX1hyTmNIVk9f?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-22T11:44:46.274038Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
@@ -476,6 +683,29 @@
         "Kebebasan Berekspresi & Berpendapat"
       ],
       "collectedAt": "2026-09-21T22:00:21.817780Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "f5aab875d971155018130238",
+      "publishedAt": "2026-09-21T13:32:26Z",
+      "title": "Tiga media AS gugat Trump usai dilarang meliput di Gedung Putih",
+      "source": "ANTARA News Bangka Belitung",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQTHpBOTlaZE94S0ZGdjVlVGJZX0o3T21jVDMwc1oycGFvS3dlVVlFNVZIZXNzbTVOaFo3c2xhaUdaU2xkNEZmQjVUeWxkczRLeVhHRlR3T0dsOEV0OGdEc1hLVkZMOUJveVBJWlU2NkM0bC00QzBlcHRWTVBBNEE3bzVnVUZTNEVyZ3M0NEU3dFpQc3ktRFJ5TDJ3T2lUejluTGhzeXoxVy1CU2JtU0FB0gGvAUFVX3lxTFBMekE5OVpkT3hLRkZ2NWVUYllfSjdPbWNUMzBzWjJwYW9Ld2VVWUU1Vkhlc3NtNU5oWjdzbGFpR1pTbGQ0RmZCNVR5bGRzNEt5WEdGVHdPR2w4RXQ4Z0RzWEtWRkw5Qm95UElaVTY2QzRsLTRDMGVwdFZNUEE0QTdvNWdVRlM0RXJnczQ0RTd0WlBzeS1EUnlMMndPaVR6OW5MaHN5ejFXLUJTYm1TQUE?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-22T11:44:46.274038Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
@@ -30736,6 +30966,29 @@
         "Kebebasan Beragama / Berkeyakinan (KBB)"
       ],
       "collectedAt": "2026-09-03T16:29:02.905097Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "7c80d528dd20102693402f3d",
+      "publishedAt": "2026-04-30T07:00:00Z",
+      "title": "Sidang perdana kasus penistaan agama di Banda Aceh",
+      "source": "antarafoto.com",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNUEV4UXNacjNzTmhUX1pFLVg0NzFQUFI1cnp4bUdsaV9LTkNKY3Z0LURYNk93OHotWGtlQW5VVjlfbENHWS1jaDdaa1AzeTlOVW1ZUkVGNzFydlFfWGQ0a05WODNfY19TbnRRbHZNblpqVVRXaDRFdDdUcWx1SWpsU0UtM1JKNHMyeEJyVWc1SlBrQjRjaFM1QtIBngFBVV95cUxQT1c2cFI5dnowZWlnQ0FzM2gwZWs0Sm1kVU5CQ0dCcXRJbjdwaXRuR1FkS0s3cGtneE9XSDBCUDcyTzk1UkpCSHlJS3pUemFHYWRwWHUxQTZxN1h0QWFiVjlObE9KaHBOdXhLbElPd2lJUUdPajIyYW1hWTBaOXduYUVpRkZFRVBET21nT3BVWHZyUUhEamNyeXNIbGZlQQ?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_beragama",
+      "subclusterIds": [
+        "kebebasan_beragama"
+      ],
+      "matchedQueries": [
+        "Kebebasan Beragama / Berkeyakinan (KBB)"
+      ],
+      "collectedAt": "2026-09-22T11:44:46.274038Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
