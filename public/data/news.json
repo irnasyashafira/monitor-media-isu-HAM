@@ -1,15 +1,15 @@
 {
   "meta": {
-    "generatedAt": "2026-09-23T11:43:17.232944Z",
-    "lastRunAt": "2026-09-23T11:43:17.232944Z",
+    "generatedAt": "2026-09-23T17:06:56.031439Z",
+    "lastRunAt": "2026-09-23T17:06:56.031439Z",
     "startDate": "2026-01-01",
     "refreshHours": 6,
     "mode": "incremental",
     "feedsOk": 16,
     "feedsFailed": 0,
-    "totalStored": 1536,
-    "totalPublished": 1536,
-    "newArticles": 11,
+    "totalStored": 1539,
+    "totalPublished": 1539,
+    "newArticles": 3,
     "warning": ""
   },
   "clusters": [
@@ -135,6 +135,52 @@
     }
   ],
   "articles": [
+    {
+      "id": "940babe994625c94669c42d7",
+      "publishedAt": "2026-09-23T12:47:00Z",
+      "title": "RUU Statistik Disorot, Izin Publikasi Survei Dinilai Bisa Membungkam Masyarakat Sipil",
+      "source": "OWRITE",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPVDJtVEtCMG5wZVdaTUdaaXVaTk5FdUMyYW9oZGtVLTFsX3hrZTQ5YmJZWVJfa1VxMEZSN0x2bW5wZmlxcUZKZ3J6VjN0T1lodFJRSVV0N2hQaWs4RFZKdFFDeDllNm1RaE92Z3lhN3lsLVRkaWZrMmtlUkJXZTNDQjk0REY1a2t6R2x6ZG92WlYzbWd4b0QyVmZqOHFScUo3dVBxQzNrd0lsVmZBRkpOX05NS19STU1iWVB1MXNfZnhQdUk2?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-23T17:06:56.031439Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "2cc48f5c09fce3ebff60adc9",
+      "publishedAt": "2026-09-23T12:00:51Z",
+      "title": "Tiga LBH Kawal Laporan Dugaan Penistaan Agama di Polres Jember",
+      "source": "kissfmjember.com",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOVlRibUpPNWo1UnZhZ3NvbWlpQ3M0dGZZQ1RhcHIwWWpyYTRVZ185d1ctVDZES3pMVEFTc1N3cWFCNmMtT2RCdkViRy1JU2h0dzVieGEtdmRxNjZ4UFJNaTFtSy1nT1lRM1ZUWl9lRHVTc19SMjJjX1BMWUtwMXo4VDBTN0FvSTlsYWY2ZzViVEtheTJGcHhJdEpEQnlPTGlwZGc?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_beragama",
+      "subclusterIds": [
+        "kebebasan_beragama"
+      ],
+      "matchedQueries": [
+        "Kebebasan Beragama / Berkeyakinan (KBB)"
+      ],
+      "collectedAt": "2026-09-23T17:06:56.031439Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
     {
       "id": "ba0ec3d8ba1d1c12f5c1b06e",
       "publishedAt": "2026-09-23T08:09:00Z",
@@ -269,6 +315,29 @@
         "Kebebasan Berekspresi & Berpendapat"
       ],
       "collectedAt": "2026-09-23T11:43:17.232944Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "df1af9b8c1011deca8e7bd91",
+      "publishedAt": "2026-09-23T04:48:22Z",
+      "title": "Bagaimana Protes dan Ancaman Memaksa Batal Diskusi Buku Memburu Muhammad di Pekan Sastra Bogor?",
+      "source": "bandungbergerak.id",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPRXVvN1NLcUVSWFkyRk8wZWIwQTgzR01VTFZ1QjBUVUtjQnVNTXhldG9YM2Yycmw5bXRpTEdEalZKY1ZQdUxvZmNxNXRKSEJSTUtpZXhJbG5NQTNEWlRxT3c4dTRWTV81MGhnb2dERXROWFpjZ0dlQ2JlQ0ViRnhvT1pFanlONlBVWTllRExwX1NIR0M0ZEtOUm9Gd2Nkc21zWGt4Q0toc043UDE4ZmFOMGwzdkJzYmRUSkNFbVVPeGtYeFVqUC1yNl85ZGdPbk9fUnhwZGJkdE8yU2FKREVpRA?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-23T17:06:56.031439Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
