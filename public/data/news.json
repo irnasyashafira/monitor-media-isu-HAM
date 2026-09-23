@@ -1,14 +1,14 @@
 {
   "meta": {
-    "generatedAt": "2026-09-23T04:49:20.550922Z",
-    "lastRunAt": "2026-09-23T04:49:20.550922Z",
+    "generatedAt": "2026-09-23T11:43:17.232944Z",
+    "lastRunAt": "2026-09-23T11:43:17.232944Z",
     "startDate": "2026-01-01",
     "refreshHours": 6,
     "mode": "incremental",
     "feedsOk": 16,
     "feedsFailed": 0,
-    "totalStored": 1525,
-    "totalPublished": 1525,
+    "totalStored": 1536,
+    "totalPublished": 1536,
     "newArticles": 11,
     "warning": ""
   },
@@ -136,6 +136,144 @@
   ],
   "articles": [
     {
+      "id": "ba0ec3d8ba1d1c12f5c1b06e",
+      "publishedAt": "2026-09-23T08:09:00Z",
+      "title": "Kebebasan Bermedia Sosial Harus Selalu Diiringi Tanggung Jawab",
+      "source": "RRI.co.id",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPdHZiMS1JNUo3d2pRWDFLbGJWMjU4b201cXBIOGkzb2hLQTFCSThob2EwODVvVHFBb0hObnpjbmNkN3E4YXh4UHVRMmJobzZjSmYxNjRPSEhMZm1QNFI4LUpwQWtoTWIzXzg1UU1ua01sUW5tcWNiMGloUmVNS2NGa0pIZWZYMFQwU2dCRFFZQXJhczBfX0JPbjZjZm10YnU2cnVOSEYyazZtRXM?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-23T11:43:17.232944Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "0613df0886415d049b298fa6",
+      "publishedAt": "2026-09-23T07:58:18Z",
+      "title": "Diskusi Buku Memburu Muhammad di Pekan Sastra Bogor Mendapat Intimidasi FPI",
+      "source": "ruang.id",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQdGl0eWtZbTVDZ0c2bmdMMUNaaFRYbkp3b1k5dXFyMXJKLVIzd0ZaQlBNMEthZDV0RzlvYnNabkN5Z01vNmVmNkxLSDZrOVNzU3JKQmtfa0d0UU1UamR2R3lhRnhSWXk0bzhVTUd1cDZPa2R2Y2F4cnZoa1JwZjd1YXBFdHl3VjBPN3J2MW9PaFVYQ3lQYzdqLXNzQlY2UQ?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-23T11:43:17.232944Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "b9923f2f2c06f25869467ce6",
+      "publishedAt": "2026-09-23T07:40:12Z",
+      "title": "Rekomendasi Mendorong Kebijakan Perlindungan dan Keamanan bagi Perempuan Pembela Hak Asasi Manusia dan Lingkungan Hidup di Indonesia",
+      "source": "Komnas Perempuan",
+      "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxOQUFJb3pBMEFVVi1rZ0FkMVRXOW5vQ1BVcEtXRmpzdnlmdUxVZk9NZDZXamo4NFZTUzAyalVoNmRfU0hMSmswZzFFeWlIQVNlOGp4UVRKeFhsOURiOVRwNHlfa3FRUUZTSlo5dlFpTUI0di12Y0VTbTA4azdRc1M0blN1UDB6RDRieW5TVHhIX3dMWThCbXpQZ1ZGa3NTNm1jZkZtVDduckxWS3NhVWRfcUxLOHQyODhjRTJ1Mm1ZZXZPVVl3LUZmRy1Va0RDQ1F4d0ppWGpObkRCUTF6OGZNMThjdjdSZDNxa2dJeGdpQjcxVjBYbmZNNHlNd0dPa3QtV2Q3QnJtQXBnd204dHA4RA?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "doxxing_intimidasi",
+      "subclusterIds": [
+        "doxxing_intimidasi"
+      ],
+      "matchedQueries": [
+        "Doxxing & Intimidasi"
+      ],
+      "collectedAt": "2026-09-23T11:43:17.232944Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "3182d81a4b76e2fb84e27342",
+      "publishedAt": "2026-09-23T06:54:04Z",
+      "title": "ITS Kembangkan SIDA-AI Mitigasi Risiko Jebolnya Tanggul Lumpur Sidoarjo",
+      "source": "RRI.co.id",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPWDdBYzVvNUo3cjBfbDg0c01vOEx4eHNuYjRXNjRjX29NLWc2bVdVSlFURDlhbHY1b19BYWw1Z0xsanA0ckdCemFhNEFQeTZCM1J3bXpVU1JJYVJPR1J4eHRLaEZLX3ZSODFQMEQtdFN4UTF6VWFYbzNkTTk2d0xGVE5rRUt2andYQXV0RnNmQ0ptV0R1NTNjMWhHYjJ5N1BkYVZBd093NzRPTGNqVlVQelRB?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "sensor_konten",
+      "subclusterIds": [
+        "sensor_konten"
+      ],
+      "matchedQueries": [
+        "Sensor Konten"
+      ],
+      "collectedAt": "2026-09-23T11:43:17.232944Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "d78bb498a8373262c72e183c",
+      "publishedAt": "2026-09-23T05:55:39Z",
+      "title": "Memaknai Hari Demokrasi Internasional: Demokrasi Bukan Sekadar Memilih",
+      "source": "Kompasiana.com",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOVDRBcjRGRGc3ZXpxT1k5emU3bW1hNVZrTi15WEtYLWVUU3hkbEQ5VXRnekJBN2VQRmZYMDVvMEFzSjRKY0djYXJibGlsTWZDUlhDRXF0V3RvU0JEci13RVR0dFhoUFJ1bTdMbmkzWXduVGxVWm9rZG1uLURuWWprZ3Z4OHRBS0xzS3VEX1BrXzJKZ0FZblZoZ0RzbGprQ0FmeDNYWlpta2hORFBCRHVvNkg4VmZ4R2dGdUYwWk5peEFES0xrclg3ZmoyMEtTS0JKSUpIMHpRTEhmdw?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-23T11:43:17.232944Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "986f48f1a6f685120d610932",
+      "publishedAt": "2026-09-23T05:44:21Z",
+      "title": "Merawat Demokrasi Dari Akar Rumput : Pemaknaan Hari Demokrasi Internasional",
+      "source": "Kompasiana.com",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPVWM2THRISXdidlJGUHBHOERBdHZZMzlVZTM5S1J0U1VrcEZ5S1JVN3JqLUFqdGVlZFpNTTEzYUVXazl5UlFDcXhhT1pPQ2E3OWRCMWVRWWFFbXRPcWdUY1hTRnJ0ZUlyTkRzc0tNdHVobTNFRkFUOEphYWNKVGQxUU0zaXg1S1lQOFIzQzEwTWRWbzhZRnQxOGFWRVJsQkR3WDlVRXZrYVhXOTk3X3ZpZUVrbTIxSVJ0WUZCcXB2V0RlQlNabVZOMEpPaXFIX2liNWt0blBTajd5RVhE?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-23T11:43:17.232944Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
       "id": "b99a538ac3094c44c2a549e3",
       "publishedAt": "2026-09-23T04:24:01Z",
       "title": "Bagaimana Protes dan Ancaman Memaksa Batal Diskusi Buku Membur...",
@@ -154,6 +292,52 @@
         "Kebebasan Berekspresi & Berpendapat"
       ],
       "collectedAt": "2026-09-23T04:49:20.550922Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "d7a5939aeb65deb7ecf670fb",
+      "publishedAt": "2026-09-23T03:41:41Z",
+      "title": "Seperti Negara Otoriter! Aturan Izin Publikasi Survei dalam RUU Statistik Dikritik Akademisi",
+      "source": "Suara.com",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQOFUtZ0paTFREd2ZUaUxrTjU0a3lna0JnTEhiVG1ELURxOEZzN2FkSnl0WjNmYUNxOEE4cndBRGVwX1RhRjhaQXVxY2RHT2E1dThyRHBScXRscjJrWWNfOGw3T2FVZzZlWGhqQ1kwU2Y5ZXo3VTdEMDMzc1BjR29RcEN1TE1lYVNFYWhfeU1lZ1F3QUgxb0tDQzFVWllvT3F3TzJTLVVHZmdQNmh4Q0t4VENzbFJoRF80UGpmc2oyWnQ3SDg3bE11cDNoRTBtZVdQVnfSAdIBQVVfeXFMUDhVLWdKWkxURHdmVGlMa041NGt5Z2tCZ0xIYlRtRC1EcThGczdhZEp5dFozZmFDcThBOHJ3QURlcF9UYUY4WkF1cWNkR09hNXU4ckRwUnF0bHIya1ljXzhsN09hVWc2ZVhoakNZMFNmOWV6N1U3RDAzM3NQY0dvUXBDdUxNZWFTRWFoX3lNZWdRd0FIMW9LQ0MxVVpZb09xd08yUy1VR2ZnUDZoeENLeFRDc2xSaERfNFBqZnNqMlp0N0g4N2xNdXAzaEUwbWVXUFZ3?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-23T11:43:17.232944Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "925136990d6f8644838fad4e",
+      "publishedAt": "2026-09-23T03:06:00Z",
+      "title": "20 Tahun Lumpur Lapindo, ITS Bikin AI untuk Deteksi Risiko Tanggul",
+      "source": "Lingkaran.net",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPamR2RWVsbDNmeVpLa29yZmkyNm1RQ1NncFJDdnI4WWVUa3FHdm9HRU9JZUtVNXVQSDdkT2p2SWFtVnVHTjNTTTVvOVRrY3I5dTBnQ1FkSEtGTXNQNVhzbUd2TTZWYVNZQ29jX3hpUjE1WnJmUXBVTlA2WXJFZDQyeWxRWnI5bFlHUnBNMDBnSV9iRmFfajhRaUZPQ3l4eVNLRHR3Y0c0a9IBpwFBVV95cUxPamR2RWVsbDNmeVpLa29yZmkyNm1RQ1NncFJDdnI4WWVUa3FHdm9HRU9JZUtVNXVQSDdkT2p2SWFtVnVHTjNTTTVvOVRrY3I5dTBnQ1FkSEtGTXNQNVhzbUd2TTZWYVNZQ29jX3hpUjE1WnJmUXBVTlA2WXJFZDQyeWxRWnI5bFlHUnBNMDBnSV9iRmFfajhRaUZPQ3l4eVNLRHR3Y0c0aw?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "sensor_konten",
+      "subclusterIds": [
+        "sensor_konten"
+      ],
+      "matchedQueries": [
+        "Sensor Konten"
+      ],
+      "collectedAt": "2026-09-23T11:43:17.232944Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
@@ -32834,6 +33018,29 @@
       "reviewNote": ""
     },
     {
+      "id": "ee822afd2c2e14552f9493f2",
+      "publishedAt": "2026-04-15T07:00:00Z",
+      "title": "Dilaporkan Dugaan Penistaan Agama, Jubir JK: Upaya Pembungkaman Isu Ijazah Jokowi!",
+      "source": "Okezone.com",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNRi1HeEZ0am1adG5pSzFCd29yMDFyUWRob0hHLVBycWtCSjF2SlZYSHlpSTI2bkpNclpCczl3THB3WUh2TkZhaFlfWm5sRjk3LXdFWDZ3X0VWNjJQS3ZKVWtiV1ZMNUVYQThLbWpaZlZaTDJwYnhGb1gtMldSQVZIc2hpQlNjV2paT28yNnhkYi1UanRiamlSRmphOGcyLUdMSFQ3QjM0NUFhQnVMajBXY3NFakFyOFIzcHhSazdnUE4tSkdWdlRmSkRCdzTSAcsBQVVfeXFMUGhOSUhNZFhheXZqSDhXbi03alh1dlBrVEUySWVVTjlOWTRvSXFJN2VNdmdDdkE4eVlYeVJNdXZvQ1ZGeGtaSFpSZkx6SjlsRmtMRzhvMWZVZWxLNmMwVXprMjlhYmNKOThxcW9BTlFwWHlnZXlqWExqNVl6LXlrZTRuRVlMdWxjc2lqTHBmUGVlUm9IYVZCMksxM1c5eGZqTGE2aWRIMU5SXzJSWTJpdjBkblNxaU1iUHdDTUNONk5iRmJpcW4tdmV1UnM?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_beragama",
+      "subclusterIds": [
+        "kebebasan_beragama"
+      ],
+      "matchedQueries": [
+        "Kebebasan Beragama / Berkeyakinan (KBB)"
+      ],
+      "collectedAt": "2026-09-23T11:43:17.232944Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
       "id": "4f7c8f28a398e7e1ea75fb0c",
       "publishedAt": "2026-04-15T07:00:00Z",
       "title": "Anatomi Kekerasan Aktivis:Ancaman Impunitasdan Runtuhnya Ruang Sipil Pasca-Reformasi",
@@ -33496,6 +33703,52 @@
         "Kebebasan Beragama / Berkeyakinan (KBB)"
       ],
       "collectedAt": "2026-09-03T11:20:00.602627Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "2bebdda7c6d329db49f83ffa",
+      "publishedAt": "2026-04-09T07:00:00Z",
+      "title": "Usai Mediasi, Pandji Pragiwaksono Pahami Keresahan Umat Terkait Dugaan Penistaan Agama",
+      "source": "Okezone.com",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQUS1aMkN3dTduNWxSQ0hpemV0VERqVUU4S3A1YTZUQWtyMnFESFExVUk3d3MxYlZrNmV5V2tXUHdYNDFxQWUzczlJa2VZdW5DYkxtZ2JSRTZXOHJ5NkpzWk55MWxVMW02dkhGMzQyeGtudGl1ZENlRWdWRHlieXlkWmVaV0k4ZUFOU0tJZEpXT1JvbThhX1NmbWVQUWJDZ0cteXVubEdNb281TjJCWk5XYTJLVWFEQV9kTlQ1ZjBuSUhtWkJFTjBuMEQ3UFJIck1hUWRtWNIB0wFBVV95cUxPZmdSMkVvTDE5M3EyMVQtcFRLQkIxcndWTHhFOFR2aGxSbm9tMVM1cnBjWFlleHBWN0o3d1dNMUJWSWNLclZDakJhOUd4WndmbTVQdlU2alRuRjZpdFZBeHhwRUN3dFdpVnkwWkJxTzd6TXYyZ2VxNDhTQzhzR2hIYkJxSFFhUFE0ZWxnQnV3MjZiWTBqT3R0MEVaX2YyRXhPYlMwcWpra1NwNnphUTBvT0p3blJnZEtZZnVWd3lDU1NSYU1taVpPZ1UtWFVyelVOR2Uw?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_beragama",
+      "subclusterIds": [
+        "kebebasan_beragama"
+      ],
+      "matchedQueries": [
+        "Kebebasan Beragama / Berkeyakinan (KBB)"
+      ],
+      "collectedAt": "2026-09-23T11:43:17.232944Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "6795529e2af6a3b06a7aeabf",
+      "publishedAt": "2026-04-09T07:00:00Z",
+      "title": "Pandji Pragiwaksono Diberi 5 Syarat Damai Oleh Pelapor Dugaan Penistaan Agama",
+      "source": "detikHOT",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQbWphVndTZ01nVVBHZVJ0OUN1WWl5aU9ySFc5eGw1aHB3aGV5QWo4ck51d1JJMHFkaDEyMUdRSTRpS1B1aWdyV3F0SHVQTXBNZDVJNVhWOVZ2TE5MY2x5SFo0bVdZTEJEYm5MZmpiRGVJOGRCeVNDcHdHaVRWbkhxR19kMVNSN2FMMTRkTERPYjZxSVUwT01TdG85SXF1X2pKb2xDaFd0N1F3SlozWDlNQ1c5clBsQdIBuwFBVV95cUxNV25BR2dqdVVuU09acEgzNHdZdjZXTGZxTEo0cDFWUlpDMDgyel9TWlpuWi16S19tMWNHNlpsVFA1Z2JhVjctdHpsbEFCUFQ0Vk5LVHpXT2N6bktwVTk2ZExNQmEybWI2dUlBRlRNeVgwTXh1LWhEVzZNWGhpNU5LeXY3UWVaWngyVXZOb3k1cXVsZzg0TDRXOG9SVGloMG9RbzN2NWpsSXVXWjVraDRPVTR4SEdTS2VueVI4?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_beragama",
+      "subclusterIds": [
+        "kebebasan_beragama"
+      ],
+      "matchedQueries": [
+        "Kebebasan Beragama / Berkeyakinan (KBB)"
+      ],
+      "collectedAt": "2026-09-23T11:43:17.232944Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
