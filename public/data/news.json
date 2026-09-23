@@ -1,14 +1,14 @@
 {
   "meta": {
-    "generatedAt": "2026-09-22T21:22:54.257928Z",
-    "lastRunAt": "2026-09-22T21:22:54.257928Z",
+    "generatedAt": "2026-09-23T04:49:20.550922Z",
+    "lastRunAt": "2026-09-23T04:49:20.550922Z",
     "startDate": "2026-01-01",
     "refreshHours": 6,
     "mode": "incremental",
     "feedsOk": 16,
     "feedsFailed": 0,
-    "totalStored": 1514,
-    "totalPublished": 1514,
+    "totalStored": 1525,
+    "totalPublished": 1525,
     "newArticles": 11,
     "warning": ""
   },
@@ -136,6 +136,98 @@
   ],
   "articles": [
     {
+      "id": "b99a538ac3094c44c2a549e3",
+      "publishedAt": "2026-09-23T04:24:01Z",
+      "title": "Bagaimana Protes dan Ancaman Memaksa Batal Diskusi Buku Membur...",
+      "source": "BandungBergerak.id",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPRXVvN1NLcUVSWFkyRk8wZWIwQTgzR01VTFZ1QjBUVUtjQnVNTXhldG9YM2Yycmw5bXRpTEdEalZKY1ZQdUxvZmNxNXRKSEJSTUtpZXhJbG5NQTNEWlRxT3c4dTRWTV81MGhnb2dERXROWFpjZ0dlQ2JlQ0ViRnhvT1pFanlONlBVWTllRExwX1NIR0M0ZEtOUm9Gd2Nkc21zWGt4Q0toc043UDE4ZmFOMGwzdkJzYmRUSkNFbVVPeGtYeFVqUC1yNl85ZGdPbk9fUnhwZGJkdE8yU2FKREVpRA?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-23T04:49:20.550922Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "3cb5b25252090b4602479002",
+      "publishedAt": "2026-09-23T02:12:03Z",
+      "title": "Jamiluddin Ritonga: Syarat Izin Publikasi Survei di RUU Statistik Harus Ditolak",
+      "source": "Ruzka Indonesia",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxONFU3cGhtdlFqTmplajVEVHlUbFVuNDVoTFdOLS1hZXp6ZGl2WFlCSEx1MWt0UEtMQXVadWY0bThtVm5KNWoyVG53a0JSbFVyN3V4emp5bzFiVmtHS3VlaURVN0owVEg0X3ZPQXJ1V2NYTHZEcEVPSWlaNVFZMlNYYkUtT3dZS09seE1QbnIwa0VuOFZSVmN5OFFKLWE4QjZNOFRza3owUGY?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-23T04:49:20.550922Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "ab775e7e25c480d0c94152cc",
+      "publishedAt": "2026-09-23T02:03:01Z",
+      "title": "Memaknai hari demokrasi internasional Indonesia",
+      "source": "Kompasiana.com",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPYWRaNEVsclM2aDZoRHZwZHFpOVp1NjZCQ2duOEJJZDFYV0R1dlk5cUEyRUloQjJyQUlNZlozeVZVQmViVVctc01MOS1Wc1NtVXgwSmxTWC1SUHJ1eHU4cnV2cWQwbFd4ajlkbjg0M3J4S1FVUG5YaVBNbkRFcnREX1BSbko4dHZCVHMwTFdkTWtIQXhKTnJpWVd1bE1nckVlQmZDTkFxTnZ4WFpyVXNzakdNR1BsT1VOdkRrV1A4dko?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-23T04:49:20.550922Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "38865e0514e8aa493bbfcc11",
+      "publishedAt": "2026-09-23T01:35:13Z",
+      "title": "Menguji Etika Digital Generasi Muda di Tengah Arus Informasi",
+      "source": "Kompasiana.com",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOY1RpVmhWRHpESTF6WkZGeHQ3amtlWlE5M2hxaTJnS1FaQmk2R2p2NjhyX1c0RzRSNnZUUlNUWlJlNzh6Njl3TGdvRjZhSDJta0pqOFJ1MTZKTnQwWXdsSEZsNGZRc3ZrNTU3eG4wRlhjYmlfNU5EckxodnFIWHFrSDNEcUlBalZZVzZsOWM1NnZZVXRxR0prLVYzVzh1MnhoOXFmQ1V3TVJpUlVxZkVHaGxUQXkyVXhhVWRzbUI1X3FtbFhMY2VBeA?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-23T04:49:20.550922Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
       "id": "38fd5ad71af777cad7ce75e3",
       "publishedAt": "2026-09-22T19:43:00Z",
       "title": "IPW Surati Kabareskrim soal Pembubaran Ibadah GKPI di Tangerang",
@@ -251,6 +343,29 @@
       "reviewNote": ""
     },
     {
+      "id": "9f1fad2497889921f6b6038a",
+      "publishedAt": "2026-09-22T14:48:00Z",
+      "title": "Buntut Pemberitaan Fakta Sidang, Bupati TTU Polisikan Wartawan NTTHits. Pimred Yohanes Seo: Diduga Kriminalisasi Pers - Hits IDN",
+      "source": "hitsidn.com",
+      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOLVFYRjZyaC1sWGZtQkpfZlM3TUd2d01WYUxDWFpxLWl4aFE5d3RaMHBjcFA2VF9GckMwNUNOcWhYUWEyMGkxZGRpLThJQVFDMTdBZDZjSWFQcVNpd0ZHUC1aaDJoQncyTXNheXdtMnhhZlZSeVJ3VlA4ZEI1UFBtQUtHVGRCckxLRUF2TkdUSkhZby0zSWN6UjJ4SzBWb214dzl1d2FvV0NEdW1mTG13THV6cHJvRGQwcjVFOWR5VUg5anNSeGQ3MmJXdC1lbFlPOTRMRXhkUTlrYVQzVk1mT1Q2S0ZjOW0yWWh4UXFOQlZ0OXhlVmfSAfYBQVVfeXFMTi1RWEY2cmgtbFhmbUJKX2ZTN01HdndNVmFMQ1hacS1peGhROXd0WjBwY3BQNlRfRnJDMDVDTnFoWFFhMjBpMWRkaS04SUFRQzE3QWQ2Y0lhUHFTaXdGR1AtWmgyaEJ3Mk1zYXl3bTJ4YWZWUnlSd1ZQOGRCNVBQbUFLR1RkQnJMS0VBdk5HVEpIWW8tM0ljelIyeEswVm9teHc5dXdhb1dDRHVtZkxtd0x1enByb0RkMHI1RTlkeVVIOWpzUnhkNzJiV3QtZWxZTzk0TEV4ZFE5a2FUM1ZNZk9UNktGYzltMlloeFFxTkJWdDl4ZVZn?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-23T04:49:20.550922Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
       "id": "fd821ce7b8ea6d7058760f28",
       "publishedAt": "2026-09-22T14:40:19Z",
       "title": "Raih Juara di BRIN, SIDA-AI Buatan ITS Siap Perkuat Peringatan Dini Bencana Sidoarjo",
@@ -292,6 +407,29 @@
         "Kebebasan Berekspresi & Berpendapat"
       ],
       "collectedAt": "2026-09-22T21:22:54.257928Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "8d1fb05bdffd1ac44ee3fdba",
+      "publishedAt": "2026-09-22T14:24:39Z",
+      "title": "Pengusaha Perempuan IWAPI Didorong Perkuat Inovasi dan Pasar Digital - Koran Timor",
+      "source": "korantimor.com",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPdkhEUGMwemNzMlE2eVhuNTJ4OW94bFJ1QmF4bG4tX0RLOE5OUFhwNU5yTEF3cC0yZUdJYkRGQkpkTjEyX1lnbFVaT0RJY3RTd0o4eGdUbUZKc09BMWIwYkM4YlRvcnhRaXM3SDRzMGVaZVdvSmhNZllDZGpoTTZpcVM0R05iSkxqenJzSnpFeURnQm9sUVdKZHdJbXEyOHJaRTV4Vm12VGNjM1dYMnd5SU5fd1hoNF9XTjlJYkxn0gHDAUFVX3lxTE5US2pIS0RUbW9GeTlOSmhrbmd6b1lJZVlGaE5WZVFQSk11YzVONjlSOVZxSGdpNzBQUTRUMTBhamZOSEpWRkdIU1VzRnd2RkFZLTNrVGZqcE9LUE81NV9EdTdsN2lRelduTFhQU2xJRXVpcXZKZ0hvaFM3akEtcF9tNjVLb2NmdVltSkc2ZUs3SDZFdUV5ekxwdWhOMnd4SlVwSTFjQ2xNZmlwNlVIbUFhekxfd3NkdHl0c184MkxCeURnTQ?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-23T04:49:20.550922Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
@@ -412,6 +550,29 @@
       "reviewNote": ""
     },
     {
+      "id": "cafe400db508bdf194fa9a0a",
+      "publishedAt": "2026-09-22T12:09:12Z",
+      "title": "Beritakan Fakta Sidang, Bupati TTU Laporkan Wartawati Ntthits: Diduga Upaya Pembungkaman Pers - Koran Timor",
+      "source": "korantimor.com",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPaVBVUTI5OEJ5QkVKZHd4aEliM3VPS2xnV0V3T0M0bkFRZElHX0xlR3JDbjM2UXJFOTVEbGhCdVlBVTNFTEhqN3MtdmN4OW96clhzVUlpOU9yY3VRV2ZaMWR6WjZPZl9PekZueWxkMHpDZkxUX25leW00MWROM2JTUEJsOHNpSHQ0cW10WjBFTjM1UF9EWkZQYXdNMGVJYWNCQU5PNlVCWWVuYjFHTzJ4Mlp5M3BsdVI3MExKdzI1U1c4dVhMY0dCZ2JWUTQxSUdaTnRidjFBR3YycExT0gHiAUFVX3lxTE9OU3B2UlhMUUV2WjQyNDZhdXNQR2RJTURTZTZXRndIS0ljTm1MU2VkR21kbnl1THI3U2VWZHUzNlh1RDJQYllJNmUxY1RsSkwxeXJObXA3NlQwYUhtMC0wSElXRkVkcTFydC1yNzBJZ2hNSWJxa0JxYUp6ZTRxZ3pBNFRYYU1Sdm9tcGM3a25wOVpmck9nUkxnQXB5UTJBNWN6ak4tTS01S1htYzR2eW9uMGFlMWFkOE1RM3hVMGU2M3RzNFVzZ2l6dW5iWktqWktZckp3Z2pjdjh4V1RfSVJIMXc?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-23T04:49:20.550922Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
       "id": "88955b6f62b019dbb2dbab84",
       "publishedAt": "2026-09-22T11:54:16Z",
       "title": "Tanggul Lumpur Sidoarjo Terancam Ambles, ITS Siapkan AI untuk Deteksi Dini",
@@ -453,6 +614,29 @@
         "Kebebasan Berkumpul / Berserikat"
       ],
       "collectedAt": "2026-09-22T21:22:54.257928Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "5fd9af51d98bbd5de05efa4f",
+      "publishedAt": "2026-09-22T11:15:32Z",
+      "title": "Panggilan Terbuka: Pelatihan Dasar Demokrasi Digital untuk Mahasiswa dan Penggiat HAM Muda – Makassar",
+      "source": "Southeast Asia Freedom of Expression Network (SAFEnet)",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQOV9hSTZETG1IRzRoUHBaSjlSWUYxUWNjaUpqcUF3RE1odEhLc0EycGlydm5PZ0FaUUljaFA1ZFdoUzBmZS1sMllmVTBVQ1o4T0xSdzBFQVBya01ZSnpQdmRwWUN3c2JySDA1Z2hGMTVzNTBUdnplTHNDVk55Z2pHc2ZvcXk0UFhlbklGd3EzbU5rdWlkSU1jdkNPT0VOWGRrUmVjSWFpdVZfek1VOVdtMlVHMFNGamJwQk8wQ0JB?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-23T04:49:20.550922Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
@@ -31914,6 +32098,29 @@
       "reviewNote": ""
     },
     {
+      "id": "3891bd9f06db38973b282292",
+      "publishedAt": "2026-04-23T07:00:00Z",
+      "title": "Bakal Ada SKB 2 Menteri buat Solusi Kendala Lahan Rumah Subsidi",
+      "source": "detikcom",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNck5MNWxpcWF0SFJmRHpRYW1hWUZzVWtvc29tSDNqaDRxZ095M0N6Z011ZURXS1dyZ0lvOFNPT3NrTFJXVVlsSnpzMlJMRE40ckpaRFNlNS1GLUpTbzV2cG5YMXdjOGt1c2ctaDFnbmoycldtTkJrMjBoUG14b2hKTmoyNmF6XzRqUkhMMkRRdVRxVHVOYmJzWTV0VmtnRkFCa2swYWlqT0R4amFSYkN2aNIBtgFBVV95cUxQMXZKTDgxckJkVG9OSUFjMERiUTZxQmJ1S1drcXYxemtJTDFJYk9SdEVNNlNXZGN0WFFrVGlrYjhmLXZaWGUwcUNiUl96bVMzeExWZmhqUS1QUVQ0c19sTUVKVFRYeDlycjhOSjRHVXRNYktCWGJRWjF5bjVZRFJGNmtoM29aR0dGWDQydUpiQzJMaC1GMVZKaVk0dDVqY2FyemhmR0JMcnp5QjJWVHNEN05vWUkzdw?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_beragama",
+      "subclusterIds": [
+        "kebebasan_beragama"
+      ],
+      "matchedQueries": [
+        "Kebebasan Beragama / Berkeyakinan (KBB)"
+      ],
+      "collectedAt": "2026-09-23T04:49:20.550922Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
       "id": "1b601b8a21a18bc567486627",
       "publishedAt": "2026-04-22T07:00:00Z",
       "title": "Polisi Diminta Usut Intimidasi Jurnalis saat Demo di Kaltim",
@@ -32415,6 +32622,29 @@
         "Kebebasan Beragama / Berkeyakinan (KBB)"
       ],
       "collectedAt": "2026-09-03T21:05:11.164342Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "99eb9e5362639d7518109513",
+      "publishedAt": "2026-04-18T07:00:00Z",
+      "title": "6 Fakta JK Tepis Tuduhan Penistaan Agama: Dari Juru Damai, Termul hingga Jasanya ke Jokowi",
+      "source": "RCTI+",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPS3BwVDlzLUlQX0RydFJXMHp6dGhGc1JLN2ZmRFRjS0NCTWVJSS1Od3czeFpqNThmOEFSdzJyR0Z5aktQN2Jyb0lTYnhDSFQ1cjE4MG9haUwwNUZCWXkxV0NQWVpvN1BSZ2oxVl9Hd2RDWWxSMGUwYXpBVzZUVmhIUXd5SGRxMzRXb2RtdXhXbVNoTnVJZGd6M0ZTcVE1R0Z3djhLUzlOaUZrdW13UTFFQzdNN19rZlhocVYyZ0RLOXVaOGdnSFc1bWd5TV9naVlYSTAxYWVNOXJCM2s?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_beragama",
+      "subclusterIds": [
+        "kebebasan_beragama"
+      ],
+      "matchedQueries": [
+        "Kebebasan Beragama / Berkeyakinan (KBB)"
+      ],
+      "collectedAt": "2026-09-23T04:49:20.550922Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
@@ -33657,6 +33887,29 @@
         "Kebebasan Beragama / Berkeyakinan (KBB)"
       ],
       "collectedAt": "2026-09-21T22:00:21.817780Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "62c8ec2eb2e979d31cde6fc0",
+      "publishedAt": "2026-03-23T07:00:00Z",
+      "title": "WN Swiss di Bali Jadi Tersangka Kasus Penistaan Agama karena Hina Nyepi",
+      "source": "denpasar.kompas.com",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOSnd2UVhkN19icEppUnloMjlteGxkb2JaZlJVLVpueU41cGtRcWZiNDdoYWJZT0IxUGZ3bXllcjhHN2dpNzFGUWVUX0xFYjN6bEtBTGF3ampRaW1TNjJ2eC1ENXFHaUdMdGxaaHhzMFJkeDdqMXBZcTFHcGNEZVZLWGhqVGMtVE14RlN1S2lGTHRiYk12dEwtRHh2QWxQdHByN1RQcE1FUkRBNGZGdGxoUzMzeUNfVnl2aF9lYzcwMzlOVmM?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_beragama",
+      "subclusterIds": [
+        "kebebasan_beragama"
+      ],
+      "matchedQueries": [
+        "Kebebasan Beragama / Berkeyakinan (KBB)"
+      ],
+      "collectedAt": "2026-09-23T04:49:20.550922Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
