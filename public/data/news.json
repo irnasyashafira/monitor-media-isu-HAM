@@ -1,15 +1,15 @@
 {
   "meta": {
-    "generatedAt": "2026-09-23T17:06:56.031439Z",
-    "lastRunAt": "2026-09-23T17:06:56.031439Z",
+    "generatedAt": "2026-09-23T21:32:39.032579Z",
+    "lastRunAt": "2026-09-23T21:32:39.032579Z",
     "startDate": "2026-01-01",
     "refreshHours": 6,
     "mode": "incremental",
     "feedsOk": 16,
     "feedsFailed": 0,
-    "totalStored": 1539,
-    "totalPublished": 1539,
-    "newArticles": 3,
+    "totalStored": 1544,
+    "totalPublished": 1544,
+    "newArticles": 5,
     "warning": ""
   },
   "clusters": [
@@ -135,6 +135,98 @@
     }
   ],
   "articles": [
+    {
+      "id": "056fa14f6c79ed6407538c46",
+      "publishedAt": "2026-09-23T19:47:00Z",
+      "title": "RUU ACPA Wajibkan VPN Blokir Situs Bajakan di AS",
+      "source": "tekno.readers.id",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9LeFFEcWF1Vm5iYlBRVnk0V2gzZFM1cEF0WUZwTmppYTN6X3lRc2pFYlFDZURPRlF2SUF1QzFCa2dxZ1VTQVZqMFlKQ3l2enZUX1dnMEpOYXpMTDRUcXlqTkdB?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "sensor_konten",
+      "subclusterIds": [
+        "sensor_konten"
+      ],
+      "matchedQueries": [
+        "Sensor Konten"
+      ],
+      "collectedAt": "2026-09-23T21:32:39.032579Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "81ffbc5ff837fcb167b6b8c2",
+      "publishedAt": "2026-09-23T19:25:30Z",
+      "title": "AS RUU Baru Ancam VPN di AS: Blokir Situs Bajakan Dipercepat",
+      "source": "Telset.id",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQUGVLZUMxOVlxd0JxcHJTUXVPVmV0ZlJEMXRfSDlYc19paVJDd1VHNHZ3dFRHcDZuZE4yaXp2LV9Kb1VrRnZoTWxFYVN5WjJvMlZ1QUNkQnl2dGJwRHkwbDZaUDlSNk9jd2IwR05aR1VRcEZySGIwN1JFMUMyU0UzT2pteVBheEdmNHlsYWpOd0JDUQ?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "sensor_konten",
+      "subclusterIds": [
+        "sensor_konten"
+      ],
+      "matchedQueries": [
+        "Sensor Konten"
+      ],
+      "collectedAt": "2026-09-23T21:32:39.032579Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "c15a04a10d750d2d6f8794e2",
+      "publishedAt": "2026-09-23T15:33:00Z",
+      "title": "Misteri SP3 Dugaan Korupsi Denny Indrayana Dipertanyakan Relawan Jokowi, Polri Disebut Belum Terbitkan - Suara Merdeka",
+      "source": "Suara Merdeka",
+      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQbkFab2NRWWFWandoWnJITDVWc1FlRjg4Y3o1Nk1YZnNuTW1rWVNOalVBQkV1Y3dnREdWYzktRjBsLTRsSVJXdmIxbnFYdWlFTkZnc3NIZHJMQWpQQkZlZDZKQkhSU3hRdDd5UXprUEJvekRjckRqemRQQWdjdGlsUThLWTRfS2NIXzBxNnhwVW12OURNb3Y4a2FrRGtaYVNvYVI4YlpZSmV5d01yWmZUZTRTTEl5N0phSjZVRWdhY0FYcUUtVlZlWlk5X1BxaVN2XzVxVHo2U0U2NU93U3BLdDlqR3JDX2Mya3fSAeoBQVVfeXFMUG5BWm9jUVlhVmp3aFpySEw1VnNRZUY4OGN6NTZNWGZzbk1ta1lTTmpVQUJFdWN3Z0RHVmM5LUYwbC00bElSV3ZiMW5xWHVpRU5GZ3NzSGRyTEFqUEJGZWQ2SkJIUlN4UXQ3eVF6a1BCb3pEY3JEanpkUEFnY3RpbFE4S1k0X0tjSF8wcTZ4cFVtdjlETW92OGtha0RrWmFTb2FSOGJaWUpleXdNclpmVGU0U0xJeTdKYUo2VUVnYWNBWHFFLVZWZVpZOV9QcWlTdl81cVR6NlNFNjVPd1NwS3Q5akdyQ19jMmt3?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-23T21:32:39.032579Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "ca8fd4a4de1f218e4c240b51",
+      "publishedAt": "2026-09-23T13:55:00Z",
+      "title": "ITS Kembangkan SIDA-AI Pantau Tanggul Lumpur Sidoarjo Real Time",
+      "source": "Bicara Indonesia",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNYXdCbTBFLUxCVm02YzZvOFZYMDBiVFRkN2t3Mm1CY241eGtEMEFVUDJyYTgwOS1QM1NFSmhLbEVRYjViOVJnTW5maTgycWhudXRMZDZpeGZaMkpQSkc3cVRaSGtJa2QtamhCZEdhVFl1YTlaVk1DbTY4Sk8xOExyWGxWTm9pN3c1UzZZME5OWXdTczd1MlBTdHZzUGExM3lMSUg3TA?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "sensor_konten",
+      "subclusterIds": [
+        "sensor_konten"
+      ],
+      "matchedQueries": [
+        "Sensor Konten"
+      ],
+      "collectedAt": "2026-09-23T21:32:39.032579Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
     {
       "id": "940babe994625c94669c42d7",
       "publishedAt": "2026-09-23T12:47:00Z",
@@ -32645,6 +32737,29 @@
         "Kebebasan Beragama / Berkeyakinan (KBB)"
       ],
       "collectedAt": "2026-09-03T11:20:00.602627Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "6d04e463d557562cf5823038",
+      "publishedAt": "2026-04-18T07:00:00Z",
+      "title": "Klarifikasi JK soal Ceramah di UGM, Bantah Lakukan Penistaan Agama",
+      "source": "CNN Indonesia",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPRDhKalh3Ry05YmpzbXZ4UV8zSHE3cVpmTjB1WlRqVzdSak0tWnhxNU1RWXVpM1R6YjlMSEJIMjV6M2hnMGxyMzJpeWdoQTExZ2xSeTNQZ2xQTWJVTHFaNFRud0dDdnRRLUNfdFZ3djhSM3E3U25jYlFOVUM0bUxJYnplaTFlX25zUzRYQm9QbDFKV2VIaHBIT2otSHdPemN0d0xtTDk2VkM3MHQ1TVBJMkZQWFRySWVMUGY0ajdQb3BJT1UzN3BtS9IBzgFBVV95cUxQcDBUMTUyMmJRM1U4TktWY1YtZFZBeXQtWGtmaXNldkNOaU42QVJweWJaajVfd0lfQjZ6bGlBMWc0XzJtM1BXNFJJZy1va09XWVJDVGRqMnNyMzd2VjdtWWN2TVNVOE9YYU1EZVhnNXdEYnU1VTF1OEtfeDJYUktjZWVDTGJXVUQ1UzJpVUpKMXlwTzBDaUN0akJBZHY4NHhibW9tOWI4aWJFTHAyNHZYOUwxbzBOdVRiZ1U0bTZRaXZ3Q3FUbDhBU0s0Mktzdw?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_beragama",
+      "subclusterIds": [
+        "kebebasan_beragama"
+      ],
+      "matchedQueries": [
+        "Kebebasan Beragama / Berkeyakinan (KBB)"
+      ],
+      "collectedAt": "2026-09-23T21:32:39.032579Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
