@@ -1,15 +1,15 @@
 {
   "meta": {
-    "generatedAt": "2026-09-24T11:52:04.436321Z",
-    "lastRunAt": "2026-09-24T11:52:04.436321Z",
+    "generatedAt": "2026-09-24T17:15:13.915220Z",
+    "lastRunAt": "2026-09-24T17:15:13.915220Z",
     "startDate": "2026-01-01",
     "refreshHours": 6,
     "mode": "incremental",
     "feedsOk": 16,
     "feedsFailed": 0,
-    "totalStored": 1567,
-    "totalPublished": 1567,
-    "newArticles": 16,
+    "totalStored": 1578,
+    "totalPublished": 1578,
+    "newArticles": 11,
     "warning": ""
   },
   "clusters": [
@@ -136,6 +136,98 @@
   ],
   "articles": [
     {
+      "id": "2df3bb9a3038b6b5e5042d82",
+      "publishedAt": "2026-09-24T12:41:00Z",
+      "title": "Buku “Memburu Muhammad” Dipersoalkan, Polisi Dalami Dugaan Penistaan Agama",
+      "source": "Mozaik Islam",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPOEwxclhPZkxEcV9yNVFka3NoS09ON19HQ0EwSnJhcXdSNGhvRXE3QXhUWmNvTVpiRmxUMWRzdjFhZU45SkNlOUh4YUM5cjdDQkh1U0ZNekVJMUN4UVNxbDdjMjh4Uy05cjV1WFp2cjdfVGV6RVBQZndDVTQ0X0d1MzRVQXdZZWVQd05wU0VvOW1UblFKS2hFaUtDYTJkUjhpSHJUSg?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_beragama",
+      "subclusterIds": [
+        "kebebasan_beragama"
+      ],
+      "matchedQueries": [
+        "Kebebasan Beragama / Berkeyakinan (KBB)"
+      ],
+      "collectedAt": "2026-09-24T17:15:13.915220Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "337ed7e55e7bbae270355f69",
+      "publishedAt": "2026-09-24T12:02:50Z",
+      "title": "Laut Bercerita Jadi Film Penutup Jakarta Film Week 2026",
+      "source": "kontan.co.id",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOUkt0RkhnT3ZIeEJFYk1PbEtkNERaLWFxTFFQVVI4eTZQYWJoTnc0OFhDY3QxNmRJbmY5NEQ4WHlnNXJPc3dmdnlEeHNBWmhkczY4ZjNjNVNDNDA1c2IwUkRxSDM2X0ktdk9MblJZTFkyajRvbTAwMFB6Q3ZaTVpaYWgyQVl3X3RJUGdSaGRKR3YyWmVPdEE?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-24T17:15:13.915220Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "cda9dd4d78f1d99de166f998",
+      "publishedAt": "2026-09-24T11:57:51Z",
+      "title": "vivo vs OPPO Portrait: Kamera HP Mana yang Hasil Fotonya Lebih Menawan?",
+      "source": "techdaily.id",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE12YXVZcjhidUJjTnFrN2NzSzhZcjAyMDU2SVNmbWZtYlFIVnZZZjV2TWF2N2M5VFZmSm5hNHRnVTgxNmxXWm1VZXRrS0xQTUFSbi1ZZjI1QWg4MEFVUWNWNW45VQ?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-24T17:15:13.915220Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "8a38126488ec82a58b683520",
+      "publishedAt": "2026-09-24T11:55:00Z",
+      "title": "Syarat Izin Publikasi Survei Dinilai Bertentangan dengan Demokrasi",
+      "source": "OWRITE",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNN1d5SmNBQkR1UTlROGUxSkNKUGZ6NFJmeUh2NTBvQ0o4ZmtER1JjQnRNekRuUnR4azZjcWF2VjloOHloNHJLYlQxMkpGLVV0S1FLUGoyZEJ2OUcxQUxBMVhHTEJYVmRaRkV5ZDNibzVMVFlzSjdrUDRjSWp0Sl81WTRvNlBEajFOX21NQUJyQXY2UUZ6ZW9CZVF2c05mdG9zUGx5VEpvN252OElq?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-24T17:15:13.915220Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
       "id": "a1f0b5c85d8259052e961ac9",
       "publishedAt": "2026-09-24T11:46:02Z",
       "title": "Polisi Dalami Dugaan Penistaan Agama dalam Buku Memburu Muhammad",
@@ -177,6 +269,29 @@
         "Kebebasan Beragama / Berkeyakinan (KBB)"
       ],
       "collectedAt": "2026-09-24T11:52:04.436321Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "1aca54404ffa0c1f1506d464",
+      "publishedAt": "2026-09-24T09:45:33Z",
+      "title": "Atalia Praratya Puji Santri yang Berani Rekam Aksi Pembungkaman di Ponpes: Berani Bersuara Jadi Upaya Pencegahan - Kilat",
+      "source": "Kilat",
+      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQY2lIUmttU3ZKcVJub2xVVnE0Wi01T1VtS3VSaUZhZmx5OEc2VndmT1FsSkFKejgtbnFETzFwUHprZjZENGFwR2FPNXV2UWxQNlYxMXp0RlhXbVMydTNmOTlDUmpRRU5ZbHpMTFV6ZFVraEJfZHdRQTFBRUdDMlJQc2FiNjY5SkFFN0NJR3VQQ3N3VmR3dUZDa2Z0TmRWblhIMkt6U3dJaUNVdXNCZWxEMFdSaXFtckN3UEk1eG1ZVnFMN1VIcm1uZzlnNTZ3NWxmdnBoSmhFYm1DcmxRZnZPN2ZHX0t3bDB3OUHSAe8BQVVfeXFMT3lHUUlxcUhrZC1QQ3NEZlFCMHZwQTZxWWFuWXRCT0xobzhxSFFkcWg4dlNULVlMa2NzZ0RXYm9NLVY3NE1BVnhxWF93RmVUU0RHTElBNGlxc1ZnSWpyUDlLYy0wZXI0Y3pGU0FFNVg3dEFBbG5YWnZ1b1c0aEx2eFpYTGdqNl9pOC1SV1dNajRzLTZMdWhraGFOTFNrS3ZPSjRDdElZcE5pcTl2LV9uWVBvTTNoNlZXcjg0TTNFOE1QR01TbDJOTW1oak9NTEZDaGNSRzRIR0c5VFNoVjloT3UycW80Mk1qaGZ0NFpabW8?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-24T17:15:13.915220Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
@@ -361,6 +476,29 @@
         "Kebebasan Beragama / Berkeyakinan (KBB)"
       ],
       "collectedAt": "2026-09-24T04:57:07.501393Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "d5870c636d46254a11583ae3",
+      "publishedAt": "2026-09-24T03:54:35Z",
+      "title": "Kuasa Hukum Terdakwa Mansurni Abadi, Pilipus Tarigan, S.,H., Ingatkan Kalau Kliennya Diputus Bersalah Oleh Majelis Hakim, Ini Akan Jadi Preseden Buruk Pembungkaman Publik",
+      "source": "madinaline.com",
+      "link": "https://news.google.com/rss/articles/CBMipgJBVV95cUxNMmgzdUw2RHVndjZETWlCUzdzVTB5QnhsNTZ6dGlHSnlMMnhiUVI5ek8xVm1IQkNIVlhWd1ZGNHNicmRhY3hmdVZGV1JtVC1GUGdpckIxNkhYUERDV19faksyeUNTTnpFdGpHMHpXYkd4S2h1LVZxUW8wZUJxb2NEWUd0bDhEMjVQWFZwakltaXMzd29vZDh1dGpIdTBDV3pLRDhsQzRmek9tOTNiYzVHaU9TS01vWnlmUmVET3ZPTUMxR2p3dTVBSnR5SkRYQXo5UjlYdTkyY2twRUNEZXBjSS1UbG8tb2FQdWU4YVdBcGt0WUJsclBrSGRTanhtTnpSOFpJQUFnWVByZlBpUTRlV2t2MFgzb0JXRnJ1VVplQ0ptaEFhV2c?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-24T17:15:13.915220Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
@@ -573,6 +711,29 @@
       "reviewNote": ""
     },
     {
+      "id": "80e68739529fba462bc22557",
+      "publishedAt": "2026-09-23T13:55:00Z",
+      "title": "ITS Kembangkan SIDA-AI Pantau Tanggul Lumpur Sidoarjo Real Time",
+      "source": "bicaraindonesia.id",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNYXdCbTBFLUxCVm02YzZvOFZYMDBiVFRkN2t3Mm1CY241eGtEMEFVUDJyYTgwOS1QM1NFSmhLbEVRYjViOVJnTW5maTgycWhudXRMZDZpeGZaMkpQSkc3cVRaSGtJa2QtamhCZEdhVFl1YTlaVk1DbTY4Sk8xOExyWGxWTm9pN3c1UzZZME5OWXdTczd1MlBTdHZzUGExM3lMSUg3TA?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "sensor_konten",
+      "subclusterIds": [
+        "sensor_konten"
+      ],
+      "matchedQueries": [
+        "Sensor Konten"
+      ],
+      "collectedAt": "2026-09-24T17:15:13.915220Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
       "id": "940babe994625c94669c42d7",
       "publishedAt": "2026-09-23T12:47:00Z",
       "title": "RUU Statistik Disorot, Izin Publikasi Survei Dinilai Bisa Membungkam Masyarakat Sipil",
@@ -729,6 +890,29 @@
         "Doxxing & Intimidasi"
       ],
       "collectedAt": "2026-09-23T11:43:17.232944Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "423817b527d7d3232763fac5",
+      "publishedAt": "2026-09-23T07:00:00Z",
+      "title": "Kontroversi Karnaval Simbang Kulon, Refleksi Generasi Indonesia Emas",
+      "source": "Tagar.co",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNS1VfeGRjdkhBc28waE5FYnFaMDk4SUNiXzhDTWpmeWxsZnlwS3BZU3oyRjh5cm0ya2dnSUp3TFoxNExjWTgtODcxSk04SGN6Q1hjVWMyV09sZzczeFhjOS0yWWd1Vk5QX0dQb1Rmc29CXzlxS2lwb0d4U0JYSVVEdldUQjZCeDctV3hESkpB?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-24T17:15:13.915220Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
@@ -1493,6 +1677,29 @@
       "reviewNote": ""
     },
     {
+      "id": "a9feb1e99a97b468abb257b8",
+      "publishedAt": "2026-09-22T09:06:42Z",
+      "title": "Duh! 1.125 Hektar Lahan Pertanian Bali Hilang Tiap Tahun, Pariwisata Picu Krisis Air dan Sampah",
+      "source": "radarbadung.jawapos.com",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOdXNTOG52d2VhTVd5SzMyZmNIdF9hM3p0aFY3aUlxYUxSTDVQdGJ5M1ZsQmZlNUdJNkJHdmducko1MFRuUUxJajlKZmdlNTI0OVc5dTM4QXpVX1RUc3RRUnp3VnFIZ3o3S1lTbEdqeTFGRWl2ZVlYbjJiVExQVE1LZzY3b2NIbjRIb20wa3RGNEhGVHliX004LTdRTVZhbGhRc1RRd19ZTlEtV3BGaEd3aG5xWXdTc2htRk8xODFtbkFXQ1c1NWNTNFJiRmdMNlFxMjAwdkJ3Y9IB3AFBVV95cUxPWGFRYzdFNkhic0VoUmF2dHpuWGlzYmkwdUd4dEw2RzBmeW91YklSdW1jejR2WmlINzFCR2piQWZPRU9PQnRSbHg4S2R0TFFNNW55TUpVWWV3eVFkRTBIMVM2ai1fY2loZzhJRlFtY2Z6azBxWEpYSng3d0JOSnJMdThfd20xUWoyVDIza1FYQVpqUE1tWnRESnpia2QwTFk4ZXVZT1VfRHd5YWhtX2hxUXk4Z3BZcnFOTmZUSjBSTmM1dzZtX1FJeVZkNjBOVDMycnR0dzRqQmxhN3Uw?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-24T17:15:13.915220Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
       "id": "11488534a21e9797502f7dd3",
       "publishedAt": "2026-09-22T09:02:28Z",
       "title": "ITS Kembangkan Agentic AI untuk Mitigasi Jebolnya Tanggul Lumpur Sidoarjo",
@@ -1511,6 +1718,29 @@
         "Sensor Konten"
       ],
       "collectedAt": "2026-09-22T11:44:46.274038Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "e56d0044521d4c2485d60c91",
+      "publishedAt": "2026-09-22T08:27:21Z",
+      "title": "BEM Universitas Hamzanwadi Tegas: Tak Ada Tempat bagi Kekerasan Seksual dan Pembungkaman di Lembaga Pendidikan",
+      "source": "selaparangnews.com",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNRTNmdVNZVVIySFVnN1czMzB6RTcxQndsSFdFOE1yd3hWblBpYjdUZzRtT1BTd013c3BBM2hfekFuTWZRTkhyVThiN3hNcWxtczVHaUJvS0Z4S3Y4UkJ2NTFMTEZvVVBaYWh0M05hUFRiYUJ6VTMtdTNrTGpkb2tDdURNZW9JVUU?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-24T17:15:13.915220Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
@@ -1649,6 +1879,29 @@
         "Kebebasan Berekspresi & Berpendapat"
       ],
       "collectedAt": "2026-09-22T05:02:59.019095Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "d2d2d6c4685fe54084da568d",
+      "publishedAt": "2026-09-22T04:23:40Z",
+      "title": "Korban Dugaan Pelecehan Seksual di Pesantren Loteng Akui Diancam dan Ditawari Beasiswa",
+      "source": "ntbsatu.com",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQM2lHblRqQm45Q2F1amxQdGxSNVNvR2ZpVlJyZXRUVkpxWW1OdVk2QmxrSlNGWUZFSEVHLVVuMFdMQWcwblcxQ3owSmhjaGw0SXpEN25PXzZxM0pXd3hyMWFZOGw4cXFTSGFPcVUzY3o1em5xVGtHTTJZdlpCX1RZY3dEMGJUSEdKRE9CUFFrVmZQVTUyLW9BV3pZbTUzTjRoeXVUbHpSRW1QRy1aMVU0MXF4ME5SWDhMRXlUSVpRcFRuV0ttbkJiUlBKTktKbGNUam5ZTGhqbw?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-24T17:15:13.915220Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
