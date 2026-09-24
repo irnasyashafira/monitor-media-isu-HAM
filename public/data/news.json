@@ -1,15 +1,15 @@
 {
   "meta": {
-    "generatedAt": "2026-09-24T17:15:13.915220Z",
-    "lastRunAt": "2026-09-24T17:15:13.915220Z",
+    "generatedAt": "2026-09-24T21:33:41.382358Z",
+    "lastRunAt": "2026-09-24T21:33:41.382358Z",
     "startDate": "2026-01-01",
     "refreshHours": 6,
     "mode": "incremental",
     "feedsOk": 16,
     "feedsFailed": 0,
-    "totalStored": 1578,
-    "totalPublished": 1578,
-    "newArticles": 11,
+    "totalStored": 1585,
+    "totalPublished": 1585,
+    "newArticles": 7,
     "warning": ""
   },
   "clusters": [
@@ -159,6 +159,29 @@
       "reviewNote": ""
     },
     {
+      "id": "64b6bfa9bbf70bb1f6785d37",
+      "publishedAt": "2026-09-24T12:41:00Z",
+      "title": "Buku “Memburu Muhammad” Dipersoalkan, Polisi Dalami Dugaan Penistaan Agama",
+      "source": "mozaik.inilah.com",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPOEwxclhPZkxEcV9yNVFka3NoS09ON19HQ0EwSnJhcXdSNGhvRXE3QXhUWmNvTVpiRmxUMWRzdjFhZU45SkNlOUh4YUM5cjdDQkh1U0ZNekVJMUN4UVNxbDdjMjh4Uy05cjV1WFp2cjdfVGV6RVBQZndDVTQ0X0d1MzRVQXdZZWVQd05wU0VvOW1UblFKS2hFaUtDYTJkUjhpSHJUSg?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_beragama",
+      "subclusterIds": [
+        "kebebasan_beragama"
+      ],
+      "matchedQueries": [
+        "Kebebasan Beragama / Berkeyakinan (KBB)"
+      ],
+      "collectedAt": "2026-09-24T21:33:41.382358Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
       "id": "337ed7e55e7bbae270355f69",
       "publishedAt": "2026-09-24T12:02:50Z",
       "title": "Laut Bercerita Jadi Film Penutup Jakarta Film Week 2026",
@@ -292,6 +315,29 @@
         "Kebebasan Berekspresi & Berpendapat"
       ],
       "collectedAt": "2026-09-24T17:15:13.915220Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "78f917c532c7c4fffbc1ef5f",
+      "publishedAt": "2026-09-24T09:08:21Z",
+      "title": "Pria yang Bubarkan Ibadah GKPI di Tangerang Dilaporkan ke Polisi, Dugaan Intimidasi Diselidiki",
+      "source": "AFU.id",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOWXgtZmRIOTMtTGxvX21rNHZ6NllfUm5wWThmU0c1WXEzdTlxWHBIaW9sT0F2c2lHcmRYQVRSYjg4ejB1NjZFSGpwSENmakJCbjQ0UDdVUE1SQ0dSSm9zd21uelNDSlRkVUpSeVpvZUh5ajZ3eE1lYXJJTXd6c1k1OUc1T1V1c1U3MHNpY2lFZ3RqcWRueGFnVk1nY0hqMVhkZ2tnZEE5NzBGZmZHM3FFOE5xYWpUQQ?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_berkumpul",
+      "subclusterIds": [
+        "kebebasan_berkumpul"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berkumpul / Berserikat"
+      ],
+      "collectedAt": "2026-09-24T21:33:41.382358Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
@@ -481,6 +527,29 @@
       "reviewNote": ""
     },
     {
+      "id": "44a166519d63cc2258f8463f",
+      "publishedAt": "2026-09-24T04:01:27Z",
+      "title": "Muncul Buku 'Memburu Muhammad' Diduga Penistaan Agama, Polisi Selidiki",
+      "source": "news.detik.com",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQQUs3N0otWnQ0d0VWR1NrUEVuY3FiaE5nVVR0ZGZFRlM1NXRFa2NwcnVRSnlwblFManl3MUI2TU5xR1JoZzZvenl6TjJvblFBc0lQd1J5Q0tfT0pfMG40VGd6SW9ZejNOSkJ2T3p1WEhEN3g0ak5YQmRWLVNTVjRUR0RmLTNLWmpaXy1PeTNyV283WGlZMXZPY3BxWjAwQ0JqMmNlZkFnSURpTXPSAbABQVVfeXFMUElsd2hkcmEybGIxVHlTWExkZ1pCNzJEVnJKTDQ3emdodXpoUU44OWdXOFQyekdXcTRPOWNKRlllTzlBUTRMOVBwN3U5bUFtYWVvLThVOGFDazRRRDhQQk50SHdJYnNSd0NrcDRtOWxoS2wwTjZGTFNSSWQxRjBoMXF0RG5OekdFUkpYR3FIbktkU09Xa2E0VHhEM21qVndlZGxMVGt2NktOelR4cEF2SEI?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_beragama",
+      "subclusterIds": [
+        "kebebasan_beragama"
+      ],
+      "matchedQueries": [
+        "Kebebasan Beragama / Berkeyakinan (KBB)"
+      ],
+      "collectedAt": "2026-09-24T21:33:41.382358Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
       "id": "d5870c636d46254a11583ae3",
       "publishedAt": "2026-09-24T03:54:35Z",
       "title": "Kuasa Hukum Terdakwa Mansurni Abadi, Pilipus Tarigan, S.,H., Ingatkan Kalau Kliennya Diputus Bersalah Oleh Majelis Hakim, Ini Akan Jadi Preseden Buruk Pembungkaman Publik",
@@ -499,6 +568,29 @@
         "Kebebasan Berekspresi & Berpendapat"
       ],
       "collectedAt": "2026-09-24T17:15:13.915220Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "2b4ca0405cfda0f88357e98d",
+      "publishedAt": "2026-09-24T03:54:35Z",
+      "title": "Kuasa Hukum Terdakwa Mansurni Abadi, Pilipus Tarigan, S.,H., Ingatkan Kalau Kliennya Diputus Bersalah Oleh Majelis Hakim, Ini Akan Jadi Preseden Buruk Pembungkaman Publik",
+      "source": "Madina Line",
+      "link": "https://news.google.com/rss/articles/CBMipgJBVV95cUxNMmgzdUw2RHVndjZETWlCUzdzVTB5QnhsNTZ6dGlHSnlMMnhiUVI5ek8xVm1IQkNIVlhWd1ZGNHNicmRhY3hmdVZGV1JtVC1GUGdpckIxNkhYUERDV19faksyeUNTTnpFdGpHMHpXYkd4S2h1LVZxUW8wZUJxb2NEWUd0bDhEMjVQWFZwakltaXMzd29vZDh1dGpIdTBDV3pLRDhsQzRmek9tOTNiYzVHaU9TS01vWnlmUmVET3ZPTUMxR2p3dTVBSnR5SkRYQXo5UjlYdTkyY2twRUNEZXBjSS1UbG8tb2FQdWU4YVdBcGt0WUJsclBrSGRTanhtTnpSOFpJQUFnWVByZlBpUTRlV2t2MFgzb0JXRnJ1VVplQ0ptaEFhV2c?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-24T21:33:41.382358Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
@@ -1861,6 +1953,29 @@
       "reviewNote": ""
     },
     {
+      "id": "59aba2efee0e82b385d72ea7",
+      "publishedAt": "2026-09-22T06:15:18Z",
+      "title": "Menjual Etika Ekraf: Mengapa Kita Salah Kaprah Memaknai Moral?",
+      "source": "yoursay.suara.com",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQRHdzN1o2cHdqaTFzOHJDdjRjeVRlQU8yOVBWcjVTakNrZENNUWcwNDZFdHMxcGMzcl9xSFQ2YXZTekc3cFdlVFhfZVZMemxZcHZpOGxjUlJkQmJicEF3Z3l2eHpKNnVETlVKQmk1QXdvdUtPWW45MWMyQnk5dTF2TXZfb1ExMkVTaDJjY1dIVmRZQk1uRGw0eG1vZzduaGNNRXVIRGJ6N2YzZHYxMElyS3B0aULSAbQBQVVfeXFMUER3czdaNnB3amkxczhyQ3Y0Y3lUZUFPMjlQVnI1U2pDa2RDTVFnMDQ2RXRzMXBjM3JfcUhUNmF2U3pHN3BXZVRYX2VWTHpsWXB2aThsY1JSZEJiYnBBd2d5dnh6SjZ1RE5VSkJpNUF3b3VLT1luOTFjMkJ5OXUxdk12X29RMTJFU2gyY2NXSFZkWUJNbkRsNHhtb2c3bmhjTUV1SERiejdmM2R2MTBJcktwdGlC?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-24T21:33:41.382358Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
       "id": "069cfe912296c424d9346eaf",
       "publishedAt": "2026-09-22T04:39:50Z",
       "title": "Demokrasi yang hidup, Bukan di diperingati.",
@@ -2523,6 +2638,29 @@
         "Kebebasan Berekspresi & Berpendapat"
       ],
       "collectedAt": "2026-09-21T12:54:34.341535Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "95cc6bbf9c114e3add69e98b",
+      "publishedAt": "2026-09-21T08:37:48Z",
+      "title": "Demo Mahasiswa UINSA: Tuntut Transparansi Rektorat Tanpa Harus Merugikan Rekan Sendiri",
+      "source": "yoursay.suara.com",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOQk5vYWpsTkNkN2pvNTQ4X1FSWUhRTUFJM085b2pOMndMWVdlS0FsZXR1QnJPRmxaZkxRckhhNFBKcXNnVXpBTzYtVjNVbGJtb0t3V09acVlWSHRxZkZCS2FIYnpLSUR3Q2NCeWoyeWdFWUU4X05RdE43U1pmeXBENFhfaGV0M1B1MEptUnVEZjBXdDFaNEdOdkNNMzBfMmF1TUhHcnpQTE9aQ3o2MkdINUM0THVxYlE1YjU3Z0NtX1JsRzFPRnJsSTk3a3VaLVZaZXRwQkZ30gHWAUFVX3lxTE5CTm9hamxOQ2Q3am81NDhfUVJZSFFNQUkzTzlvak4yd0xZV2VLQWxldHVCck9GbFpmTFFySGE0UEpxc2dVekFPNi1WM1VsYm1vS3dXT1pxWVZIdHFmRkJLYUhiektJRHdDY0J5ajJ5Z0VZRThfTlF0TjdTWmZ5cEQ0WF9oZXQzUHUwSm1SdURmMFd0MVo0R052Q00zMF8yYXVNSEdyelBMT1pDejYyR0g1QzRMdXFiUTViNTdnQ21fUmxHMU9GcmxJOTdrdVotVlpldHBCRnc?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-24T21:33:41.382358Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
@@ -28222,6 +28360,29 @@
         "Kebebasan Berekspresi & Berpendapat"
       ],
       "collectedAt": "2026-08-31T23:07:12.746081Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "95a293445c6a7107c29d7bdf",
+      "publishedAt": "2026-07-10T07:00:00Z",
+      "title": "Terdakwa Penistaan Agama Lewat TikTok Divonis Dua Tahun Penjara",
+      "source": "AJNN.net",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPSldvclFQSFhVZHhEaGkwY1ljZkRtMDZYdl8yMDk0dXRYUFNOV0YwRlRueU8tZXBoSk5YeGtpLVlZdWVDSV9PRTFKR1FWUHN4THpBZFIzaUlLYmlneE1MVUtkbnl2U0VWeml1WDlhdU9VZ0tEWHRjSU5CMjIzdmpzY1p5a1A3WjBOSmpRajJmaEs2LWltSzVULXlBMmFScjRnV0HSAZ8BQVVfeXFMTm0weDNLTVRJaTFheU9WZl9uRlZlQUtWZnFLNFVCcTJBVDVaUlk1U2lCT3FzLUR6Y3dYckRydE03WlprVE1oQXZ0OXJjSzM3QlVvRjVxT1NaRUotaGlWWUpTYm40UlNVN25rSTdRZnB6ZkdZUmcyY19ieUhxRk9lZWhzdmxVUDhMOVYxMFlNc29IcWMtU2pzX2xKSktlNGtr?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_beragama",
+      "subclusterIds": [
+        "kebebasan_beragama"
+      ],
+      "matchedQueries": [
+        "Kebebasan Beragama / Berkeyakinan (KBB)"
+      ],
+      "collectedAt": "2026-09-24T21:33:41.382358Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
