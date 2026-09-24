@@ -1,15 +1,15 @@
 {
   "meta": {
-    "generatedAt": "2026-09-23T21:32:39.032579Z",
-    "lastRunAt": "2026-09-23T21:32:39.032579Z",
+    "generatedAt": "2026-09-24T04:57:07.501393Z",
+    "lastRunAt": "2026-09-24T04:57:07.501393Z",
     "startDate": "2026-01-01",
     "refreshHours": 6,
     "mode": "incremental",
     "feedsOk": 16,
     "feedsFailed": 0,
-    "totalStored": 1544,
-    "totalPublished": 1544,
-    "newArticles": 5,
+    "totalStored": 1551,
+    "totalPublished": 1551,
+    "newArticles": 7,
     "warning": ""
   },
   "clusters": [
@@ -136,6 +136,75 @@
   ],
   "articles": [
     {
+      "id": "84d7d6c6fe856f0831a21316",
+      "publishedAt": "2026-09-24T04:01:27Z",
+      "title": "Muncul Buku 'Memburu Muhammad' Diduga Penistaan Agama, Polisi Selidiki",
+      "source": "detikNews",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQQUs3N0otWnQ0d0VWR1NrUEVuY3FiaE5nVVR0ZGZFRlM1NXRFa2NwcnVRSnlwblFManl3MUI2TU5xR1JoZzZvenl6TjJvblFBc0lQd1J5Q0tfT0pfMG40VGd6SW9ZejNOSkJ2T3p1WEhEN3g0ak5YQmRWLVNTVjRUR0RmLTNLWmpaXy1PeTNyV283WGlZMXZPY3BxWjAwQ0JqMmNlZkFnSURpTXPSAbABQVVfeXFMUElsd2hkcmEybGIxVHlTWExkZ1pCNzJEVnJKTDQ3emdodXpoUU44OWdXOFQyekdXcTRPOWNKRlllTzlBUTRMOVBwN3U5bUFtYWVvLThVOGFDazRRRDhQQk50SHdJYnNSd0NrcDRtOWxoS2wwTjZGTFNSSWQxRjBoMXF0RG5OekdFUkpYR3FIbktkU09Xa2E0VHhEM21qVndlZGxMVGt2NktOelR4cEF2SEI?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_beragama",
+      "subclusterIds": [
+        "kebebasan_beragama"
+      ],
+      "matchedQueries": [
+        "Kebebasan Beragama / Berkeyakinan (KBB)"
+      ],
+      "collectedAt": "2026-09-24T04:57:07.501393Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "1098e8cbf908c0ffea3cb56f",
+      "publishedAt": "2026-09-24T03:18:00Z",
+      "title": "Polisi Dalami Info Viral Dugaan Penistaan Agama di Buku 'Memburu Muhammad' - kumparan.com",
+      "source": "Kumparan.com",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPM1JoTG9ZU2N4bGdZajU2SlF4c0paQ0g5SThlQ0ltOC04b2V6WGQ5SWc5MGE1dHBqUG9hSjVjWktuSmlmem1xQWc0eGRmSU1JNndwejg4WkhaVGgyX01Pa2hwT1VDWmtyZmtPeEJ2TWR4M1Q4Q2UxaDZ2V0tjM0VSS1VWZHNMWnEwT3FHME5kclNORGlidnNxZmkwU2NzRXFvVW8zbEE1aVhkMGdsQjNBZmZCY3JJaXFlY2fSAcIBQVVfeXFMUGdhMWw4b21EVDlTay1tSlhZNkJPcXk3c1JoOTVFblQzRkcyejBQMkd3QW1zSG9MTjZqVTNkVHVvRWY3UkkwR3dVdlpFQ1lUTW82OE5FblBwV2JjYXB3Mk5BekNNemZDbHFxZTJVYXc2NU80bXFsWU44S2c1SGdaTTBqOF9JLWhhNGtfQjU2T1NzeFRWc2NoYzdLYWgyeWxqZ0hYdmZXVTliLURLRDU3cmtIVTR2SXJGcVdtWEdIMUJrY1E?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_beragama",
+      "subclusterIds": [
+        "kebebasan_beragama"
+      ],
+      "matchedQueries": [
+        "Kebebasan Beragama / Berkeyakinan (KBB)"
+      ],
+      "collectedAt": "2026-09-24T04:57:07.501393Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "595ae26ca58d884c802b9da0",
+      "publishedAt": "2026-09-24T00:05:00Z",
+      "title": "Dengan Datangi Mapolres Jember Dorong Percepatan Kasus Penistaan Agama",
+      "source": "klikjatim.com",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxObjVBRWEzdlJQRC1fUndnODBVUmdxNHpDQ0tLS2tXSVh2N3k5eExiTWI4UkVBU0lRTkNoek1wbnhDV0tLQWVRaXhZOURRSWdDemVjSVY5NjVMbE5YYVFNdHJ3NkV6UjAzTE5MQXB0QUYtOWtJbGtOcU9EdU1iX25UOEZ0LTlDS21wdS1hWmJDY2wxdjhjakI1UHlmMlNaX2g0OVNwa09pb3JpYUnSAasBQVVfeXFMTm41QUVhM3ZSUEQtX1J3ZzgwVVJncTR6Q0NLS0trV0lYdjd5OXhMYk1iOFJFQVNJUU5DaHpNcG54Q1dLS0FlUWl4WTlEUUlnQ3plY0lWOTY1TGxOWGFRTXRydzZFelIwM0xOTEFwdEFGLTlrSWxrTnFPRHVNYl9uVDhGdC05Q0ttcHUtYVpiQ2NsMXY4Y2pCNVB5ZjJTWl9oNDlTcGtPaW9yaWFJ?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_beragama",
+      "subclusterIds": [
+        "kebebasan_beragama"
+      ],
+      "matchedQueries": [
+        "Kebebasan Beragama / Berkeyakinan (KBB)"
+      ],
+      "collectedAt": "2026-09-24T04:57:07.501393Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
       "id": "056fa14f6c79ed6407538c46",
       "publishedAt": "2026-09-23T19:47:00Z",
       "title": "RUU ACPA Wajibkan VPN Blokir Situs Bajakan di AS",
@@ -182,6 +251,29 @@
       "reviewNote": ""
     },
     {
+      "id": "481328e091c5eb4a4afe550b",
+      "publishedAt": "2026-09-23T16:35:35Z",
+      "title": "Etika Digital: Fondasi Utama Merawat Kemanusiaan di Ruang Siber",
+      "source": "Kompasiana.com",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOR3VqZXFRLWlaT0RKVXYxdEpETlFVSl9JTjdqZjFNaUxwV3VXSG1Fd2o0a0g0MnduOXYzTHNwNWgyS1dsX1V0dXpnYmpSclNPRlRVaTJsYlpBQk9JSGoxU1BlcjUzR0ZoVUZWRGpsYWdOSV9fc1dtMUZOMzJfRElTZlJadGtRSFRuOTRzSUZmVjc5SHBpcGloLTBnelVtSHFSU0p1R3VMZmt0dU9KMVZUMTdrYzdhU0p3blBLOW5zRFNaWXM0VXRCN2U2cXZLTjdFSkw0Q041dF9nQQ?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "doxxing_intimidasi",
+      "subclusterIds": [
+        "doxxing_intimidasi"
+      ],
+      "matchedQueries": [
+        "Doxxing & Intimidasi"
+      ],
+      "collectedAt": "2026-09-24T04:57:07.501393Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
       "id": "c15a04a10d750d2d6f8794e2",
       "publishedAt": "2026-09-23T15:33:00Z",
       "title": "Misteri SP3 Dugaan Korupsi Denny Indrayana Dipertanyakan Relawan Jokowi, Polri Disebut Belum Terbitkan - Suara Merdeka",
@@ -200,6 +292,29 @@
         "Kebebasan Berekspresi & Berpendapat"
       ],
       "collectedAt": "2026-09-23T21:32:39.032579Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "812a7cea719bccc1a198cc1e",
+      "publishedAt": "2026-09-23T15:33:00Z",
+      "title": "Misteri SP3 Dugaan Korupsi Denny Indrayana Dipertanyakan Relawan Jokowi, Polri Disebut Belum Terbitkan - Suara Merdeka",
+      "source": "suaramerdeka.com",
+      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQbkFab2NRWWFWandoWnJITDVWc1FlRjg4Y3o1Nk1YZnNuTW1rWVNOalVBQkV1Y3dnREdWYzktRjBsLTRsSVJXdmIxbnFYdWlFTkZnc3NIZHJMQWpQQkZlZDZKQkhSU3hRdDd5UXprUEJvekRjckRqemRQQWdjdGlsUThLWTRfS2NIXzBxNnhwVW12OURNb3Y4a2FrRGtaYVNvYVI4YlpZSmV5d01yWmZUZTRTTEl5N0phSjZVRWdhY0FYcUUtVlZlWlk5X1BxaVN2XzVxVHo2U0U2NU93U3BLdDlqR3JDX2Mya3fSAeoBQVVfeXFMUG5BWm9jUVlhVmp3aFpySEw1VnNRZUY4OGN6NTZNWGZzbk1ta1lTTmpVQUJFdWN3Z0RHVmM5LUYwbC00bElSV3ZiMW5xWHVpRU5GZ3NzSGRyTEFqUEJGZWQ2SkJIUlN4UXQ3eVF6a1BCb3pEY3JEanpkUEFnY3RpbFE4S1k0X0tjSF8wcTZ4cFVtdjlETW92OGtha0RrWmFTb2FSOGJaWUpleXdNclpmVGU0U0xJeTdKYUo2VUVnYWNBWHFFLVZWZVpZOV9QcWlTdl81cVR6NlNFNjVPd1NwS3Q5akdyQ19jMmt3?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-24T04:57:07.501393Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
@@ -2431,6 +2546,29 @@
         "Kebebasan Berekspresi & Berpendapat"
       ],
       "collectedAt": "2026-09-20T11:29:46.937509Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "e28e6bc728c46d6635642b6b",
+      "publishedAt": "2026-09-20T11:16:00Z",
+      "title": "'Bukan Otoritarianisme Biasa', Pengamat Bongkar Sisi Gelap Undang-Undang Kesatuan China",
+      "source": "goSumbar",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNbThxalNBOTNRZW1oTDRjMVo4SG9GSWVNUklyeFExY2d5eEhWMHl5ZkxmanpSa1dGQUF0aXFjanlPMFBEYXVQRjIxNmpZbWRXSlVjVWNaTWVIYlJlendoMlA5WWhpWGpieEQtM21JZHo2YjgwNUdwVzF3aWpKNzlvVVRfYzVscEZ1RUc3VWJvTW5mZWpHMzZCTW9iNTNuUmRjaUFzNzBtYV9hYlBmSmZwWVFDNVFRa0ZyR3ZMMzR6NEpYNlcwYmdYOUZidw?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-24T04:57:07.501393Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
@@ -33335,6 +33473,29 @@
         "Kebebasan Beragama / Berkeyakinan (KBB)"
       ],
       "collectedAt": "2026-09-20T20:52:05.312787Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "1cece8ee54470bdc8786a1b3",
+      "publishedAt": "2026-04-14T07:00:00Z",
+      "title": "Pernyataan Jusuf Kalla Tak Penuhi Unsur Penistaan Agama",
+      "source": "rmoljatim.id",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQeVpxS21SQjJERnNleFNxZTBkdXpfSUdkaWR1RGQtdUsxQVg1b1RSVGNpdDJCN0ZRNm9CRF8xb3huWEZRRTgySW9STW53NWFaNXJmaHdSVVBGekpza3dlRFRvQ3AyQjJfYmNoUm9ra3JmdFAxb3FjVHRhcXJTLWpuZzVRcDZ5Zjg?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_beragama",
+      "subclusterIds": [
+        "kebebasan_beragama"
+      ],
+      "matchedQueries": [
+        "Kebebasan Beragama / Berkeyakinan (KBB)"
+      ],
+      "collectedAt": "2026-09-24T04:57:07.501393Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
