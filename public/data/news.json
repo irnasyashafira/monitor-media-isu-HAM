@@ -1,15 +1,15 @@
 {
   "meta": {
-    "generatedAt": "2026-09-25T11:55:15.574550Z",
-    "lastRunAt": "2026-09-25T11:55:15.574550Z",
+    "generatedAt": "2026-09-25T17:15:53.729934Z",
+    "lastRunAt": "2026-09-25T17:15:53.729934Z",
     "startDate": "2026-01-01",
     "refreshHours": 6,
     "mode": "incremental",
     "feedsOk": 16,
     "feedsFailed": 0,
-    "totalStored": 1612,
-    "totalPublished": 1612,
-    "newArticles": 18,
+    "totalStored": 1618,
+    "totalPublished": 1618,
+    "newArticles": 6,
     "warning": ""
   },
   "clusters": [
@@ -437,6 +437,29 @@
       "reviewNote": ""
     },
     {
+      "id": "c6a1f7801e971609cd861cfb",
+      "publishedAt": "2026-09-25T00:00:00Z",
+      "title": "Ed Sheeran Viral Gegara Macklemore: Ini Kronologi Polemik Palestina yang Bikin 'Dia' Tiarap - Celah Sumbar",
+      "source": "sumbar.pikiran-rakyat.com",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQaERmc09Ed3RDZnFDb19feElzM04tZDRWbkl6QnJaSU1makNrT2owRGRWcXBEcTVpOFFNdUwwWUtUdDhLOFI0eTFwMEVid3lMbmxUWjRIVnJlbUtzQzRFZnZtZTNPbC1NNHlQYWVPbTgxTm9OSkY0SUxZTUhrTlhyV21oYUdSTkhCSE96RGJndTB5eHVrODdzeDc2VTZvc0FlX3lrRWRUVXpYdGd6LWpIaXRGeGtVWTludEhTZWtQcXpfMTQ4OXh2QVhfRG5KYm50b1dZTjdKZTNMOEZqaHMzdTNmSdIB4wFBVV95cUxQaERmc09Ed3RDZnFDb19feElzM04tZDRWbkl6QnJaSU1makNrT2owRGRWcXBEcTVpOFFNdUwwWUtUdDhLOFI0eTFwMEVid3lMbmxUWjRIVnJlbUtzQzRFZnZtZTNPbC1NNHlQYWVPbTgxTm9OSkY0SUxZTUhrTlhyV21oYUdSTkhCSE96RGJndTB5eHVrODdzeDc2VTZvc0FlX3lrRWRUVXpYdGd6LWpIaXRGeGtVWTludEhTZWtQcXpfMTQ4OXh2QVhfRG5KYm50b1dZTjdKZTNMOEZqaHMzdTNmSQ?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-25T17:15:53.729934Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
       "id": "2df3bb9a3038b6b5e5042d82",
       "publishedAt": "2026-09-24T12:41:00Z",
       "title": "Buku “Memburu Muhammad” Dipersoalkan, Polisi Dalami Dugaan Penistaan Agama",
@@ -823,6 +846,29 @@
         "Kebebasan Beragama / Berkeyakinan (KBB)"
       ],
       "collectedAt": "2026-09-24T11:52:04.436321Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "1fe78f2393e3f85dc98e849e",
+      "publishedAt": "2026-09-24T07:26:02Z",
+      "title": "Polisi dalami dugaan penistaan agama terkait buku Memburu Muhammad",
+      "source": "antaranews.com",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxONE53WFR4MjdmTXNDVndYWmYwOWxoeldXbnYzU3gwSFg4U09SOXhjQ3RGMm4xWHRhbXBrcHpFVFhZUURMVmFkYjlHMWFyQ0tFbHIxRjBIbmdUck93eGdNa002amtYZnBfY01aVU80ckExQ3NXM1psRWJ3YU85QlRfcnBlLURwN0dpQ2duLUl0el9TckxiSmxjODlZdldpbmlfelA3TmJKQUlqbWFZ0gGvAUFVX3lxTE03bTBUdHBhelhrTXFQb2JGR1E5bUc0NU9Dall5aGk5Zmp4anZMQ29CVWR2UnlMSDd1OTM3bEpBcENlZERqbkxSWThmZFR0dUhINEdsYnpmWGRWNF80amRvRmRpbUNLWmY3akpFNjE3QzNhc1FIcXNFaVpCcGlxTkJpdndWTm1leS1jMGlKSjJHSjF6VHEtc3FYRE1kYThNUHM4WlloTngzSjMxOVhtdUk?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_beragama",
+      "subclusterIds": [
+        "kebebasan_beragama"
+      ],
+      "matchedQueries": [
+        "Kebebasan Beragama / Berkeyakinan (KBB)"
+      ],
+      "collectedAt": "2026-09-25T17:15:53.729934Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
@@ -1357,6 +1403,29 @@
       "reviewNote": ""
     },
     {
+      "id": "8855b53d18e60a4b64d5863f",
+      "publishedAt": "2026-09-23T10:20:01Z",
+      "title": "Oliver Sykes Dukung Macklemore, Singgung Tekanan terhadap Musisi yang Bersuara",
+      "source": "Media Indonesia",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOdFU1WC00UGVPeEloZlVURF94WFZuRmYzWTRYOGNGYWxUWWJCbGRTX1diUUpEc0Y2aXJxVFowUnA0YXltcmlib2RuaHYzb05fR1I5ajNVVGlLdk5qYXFHZHJaSnJkVlJVdFpHMm1GeG5VTUluOGhXeEhhOGtQeTZ5eE5QR2R1T3lza1oxdVVSajdxUVRLR2EtVkNZRUc1M3AzLWJQX0ZnSUVpWkQ1cDgwSTFSRTV5VFVISktF?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-25T17:15:53.729934Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
       "id": "67c42f0aee819067e0d4956e",
       "publishedAt": "2026-09-23T10:05:32Z",
       "title": "Gus Ipul Bakal Somasi Tiga Orang Terkait Narasi Muktamar NU",
@@ -1375,6 +1444,29 @@
         "Kebebasan Berekspresi & Berpendapat"
       ],
       "collectedAt": "2026-09-24T11:52:04.436321Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "2e498f24b6a79bc0833443f1",
+      "publishedAt": "2026-09-23T09:03:57Z",
+      "title": "Kerugian Capai Rp1,2 M, Kebakaran Hebat Hanguskan Belasan Rumah dan Tempat Usaha di Jaksel - Paradigma",
+      "source": "paradigma.co.id",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQY3JYb0tYZHEtRzJOZHg0NGRBVGliQVhXcWptb1hlTzBqUWVZbTBEd1hjQWxmRW5icEJkWDU1eGJPeXJNRGxmRVRKSS02SmxSWDZTS09ZcURJZnhESHNYRkVodURzSXVOM3dnZjBJaUdMZjFyMHhwSWlyS2ttYnJlcVd1OWVIc01tNEttR01KcmU0QU96NDEybTl4SFFfLWdtb0VEQ0s3c0hFRFZxZEVJbHd3WEVRbDBfMVo5RzZPOGtzZzgwd0JzcHJ1QzHSAdIBQVVfeXFMUC1oa3dCaG9jWXR2TzZGaFltcjVlMENyMVljVFJKUXEtY0l6R1k3YVZCdm1wM0ZuUTVVMmxOMlBvU3NDQ3lENFEtaFlFVGl1cGN5YzdLQnBwMXE2NENlRTZqZGVqMzlvMjItMmRHR0lQY2h2azVoTW1NTjRueUZ6WkY4ZTBxQ1VxY0x3azVvY1o0TmQ0Uk5qZDZxTEtuT1JEd2ZXTXhqdjRmclRtUmIybHk2dGFIR242bUx2RVExUjh2YTdsc1JVWEYzT1BPOExqc3VR?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_berkumpul",
+      "subclusterIds": [
+        "kebebasan_berkumpul"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berkumpul / Berserikat"
+      ],
+      "collectedAt": "2026-09-25T17:15:53.729934Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
@@ -1904,6 +1996,29 @@
         "Kebebasan Berekspresi & Berpendapat"
       ],
       "collectedAt": "2026-09-22T21:22:54.257928Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "4409448edf591ab20257c23b",
+      "publishedAt": "2026-09-22T15:04:32Z",
+      "title": "IWAPI Dorong Kolaborasi untuk Kembangkan Lombok, Bawang dan Potensi Pertanian - Koran Timor",
+      "source": "korantimor.com",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPdlNaVWd6Sk1kNFgyb1p5MGQwR3hibXo1ckZaTzlNUnZvZHhrTUFfeDBkX1FHU2xUbGk5eFNHOWJaTFRQUjdwWE9qZWpSWVFkYWVRa3RjWGNGTk1SSGUyd1J2TTNfcXRFZlc1Zm1NVE0wYVk2T3IzU1dlT1JDWWRCTVlXYnhGTUVxR3NvekxkVkk3MDg2NWdfLU05SzFyODVSZFRhM1RMRGJUcVoxOEpaUF8xS3d6UG5mSi1RZlZQaXdCTFI1UEo3LdIBzgFBVV95cUxPX0wzMlRaVDRITVg2b0NhSnV2RjZhdFZta2dJQk83RHhMSEgzZFRjdF82VTVQOHNmRjgxNHM2OFVIa0MyejNQbFd5T2dLQ0w5QlpyMHJORWpZbGpYSm9lYktYV3JXU0stTTVMTUdlZ1VGVmpFY19ETU9MbjluTlFQaWpIMmZzbm5FZENFYkJVZUVLZWxlZmo3eEtZOWJFeFdNemVDMzBESlIyckdpUFhvbWNsb2x4Rjl6OHVqeE9FUzVmWWMyelk4RXVpR3Uxdw?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-25T17:15:53.729934Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
@@ -26384,6 +26499,29 @@
         "Kebebasan Beragama / Berkeyakinan (KBB)"
       ],
       "collectedAt": "2026-09-04T11:23:07.245231Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "330cdd99938f0c6d7d0d3ed8",
+      "publishedAt": "2026-08-11T07:00:00Z",
+      "title": "Polisi menyelidiki dugaan penistaan agama dalam festival musik di Ancol",
+      "source": "ANTARA News",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQdlk1N29nZ0ZVQkFrZVo1T0g1NmVPMUZaTHFQbldxb2tWYlNpbzdvWkxuMU5DcEdaX0F2REZMMDVrZDgwak5nWEZrVTNORDV1TjNoS0FqWkt2eUVZRDhUdnVtV2RUNUJFYWFPMV9DVGFla2dxVG5FTXZ2U0hieEQ2M3pCb3BrMkZsWUpvdE4xTXdJSDMtNHVwSTAtM01PcGRBdXo0b2hVNDZPbm1jNFVqZ2VoX2NCdw?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_beragama",
+      "subclusterIds": [
+        "kebebasan_beragama"
+      ],
+      "matchedQueries": [
+        "Kebebasan Beragama / Berkeyakinan (KBB)"
+      ],
+      "collectedAt": "2026-09-25T17:15:53.729934Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
