@@ -1,15 +1,15 @@
 {
   "meta": {
-    "generatedAt": "2026-09-25T05:01:57.912273Z",
-    "lastRunAt": "2026-09-25T05:01:57.912273Z",
+    "generatedAt": "2026-09-25T11:55:15.574550Z",
+    "lastRunAt": "2026-09-25T11:55:15.574550Z",
     "startDate": "2026-01-01",
     "refreshHours": 6,
     "mode": "incremental",
     "feedsOk": 16,
     "feedsFailed": 0,
-    "totalStored": 1594,
-    "totalPublished": 1594,
-    "newArticles": 9,
+    "totalStored": 1612,
+    "totalPublished": 1612,
+    "newArticles": 18,
     "warning": ""
   },
   "clusters": [
@@ -136,6 +136,144 @@
   ],
   "articles": [
     {
+      "id": "17dfe463ea28ce60dc70a362",
+      "publishedAt": "2026-09-25T08:53:16Z",
+      "title": "Netanyahu Sindir Pemerintah Iran Menggunakan Perangkat Starlink di PBB",
+      "source": "SuaraGarut.ID",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1uNHR2SU5lNWtFQzNPc2tvdDI2U0ViRXFHNFpvNXdUdEV0Zm55eGo5NU1nZGttQTBqVER3X0FvdTNUSnJ5MV9IMml2U0RkUURuQTRDeS1kLWU5aklLSTVxV0w2UTQ3S000UE1GZUN1SVI5b3BJ?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "sensor_konten",
+      "subclusterIds": [
+        "sensor_konten"
+      ],
+      "matchedQueries": [
+        "Sensor Konten"
+      ],
+      "collectedAt": "2026-09-25T11:55:15.574550Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "e190f0e0db87ca74ea1e4f2f",
+      "publishedAt": "2026-09-25T08:52:52Z",
+      "title": "Polda Metro Jaya Dalami Dugaan Penistaan Agama Buku Memburu Muhammad",
+      "source": "JPNN.com",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPTXI1R2tpZ2pSLWF0ZXVyd1FfdmJDbzE3d2p6V2J0a2VhdG8yd0J6UzZWZk1WS1NJWFlUb1hoWWpMZEV1bnFGdWJybHFORE03Um1VZ3piZHkxRzhVUDUxLTJScE1HSGpydlZDSzRHYkpVSEs5cGVRTzVPUE8yZXlkZ19xcThfVE9tT1JQQVFMdWQzSW1RdlI0NFRreHbSAZwBQVVfeXFMT01yNUdraWdqUi1hdGV1cndRX3ZiQ28xN3dqeldidGtlYXRvMndCelM2VmZNVktTSVhZVG9YaFlqTGRFdW5xRnVicmxxTkRNN1JtVWd6YmR5MUc4VVA1MS0yUnBNR0hqcnZWQ0s0R2JKVUhLOXBlUU81T1BPMmV5ZGdfcXE4X1RPbU9SUEFRTHVkM0ltUXZSNDRUa3h2?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_beragama",
+      "subclusterIds": [
+        "kebebasan_beragama"
+      ],
+      "matchedQueries": [
+        "Kebebasan Beragama / Berkeyakinan (KBB)"
+      ],
+      "collectedAt": "2026-09-25T11:55:15.574550Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "3e4f93ec629118a39b0f42f0",
+      "publishedAt": "2026-09-25T07:39:04Z",
+      "title": "Ketua PP MUhammadiyah Desak Pemerintah Sikapi Polemik Memburu Muhammad",
+      "source": "AJNN.net",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQSWpjQVdGSnBOLXJ3MktuVkhMYWEtckZBbUhnQXp2dG1TZkZQbDFPMFo0YUxlbkU2WGxOVTYyTGR6ZDdIbU5XWHZBb1ktazRWd2p3WTUzZmNDVk00YzZXMHQ1a09VTlNGMVJRanIxYkRxcy1nNGQ2b3RtZm8wOTFRb1lUMGFjZDRzaXM1czFKRHhEbF9FQlpoSWx3TDljTjBkU3ViQzU1ZmF0V00?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-25T11:55:15.574550Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "c2fb917c793f2a3e51089aae",
+      "publishedAt": "2026-09-25T07:21:32Z",
+      "title": "Vivo Y600i Resmi Diluncurkan dengan Baterai 8.000 mAh dan Kamera 50 MP",
+      "source": "riaurealita.com",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNV3FOQUFmMVRnOExPeFpOaWVUSW9fUWx6QV84RVN5YmtlcVlZY2ZQYmNxV3Z2VEl5T0dYRGNSM2dYalNlLU55al9rNEhxbHpCZFEwTFlTMjVWdU5iRmgxMXl6NkJZdnIxbGh4X3QxMXNXU3RvWVhrM3pNRHNzSVdHeXVsNUhycUNOSS14NnFkNF82UGxHeS1mNFZYYlg3Y1RicHhYQzVwM0xxN3Yybkx30gGvAUFVX3lxTE1XcU5BQWYxVGc4TE94Wk5pZVRJb19RbHpBXzhFU3lia2VxWVljZlBiY3FXdnZUSXlPR1hEY1IzZ1hqU2UtTnlqX2s0SHFsekJkUTBMWVMyNVZ1TmJGaDExeXo2Qll2cjFsaHhfdDExc1dTdG9ZWGszek1Ec3NJV0d5dWw1SHJxQ05JLXg2cWQ0XzZQbEd5LWY0VlhiWDdjVGJweFhDNXAzTHE3djJuTHc?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "sensor_konten",
+      "subclusterIds": [
+        "sensor_konten"
+      ],
+      "matchedQueries": [
+        "Sensor Konten"
+      ],
+      "collectedAt": "2026-09-25T11:55:15.574550Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "2da355b4f8ff2b861476892a",
+      "publishedAt": "2026-09-25T06:26:24Z",
+      "title": "Mengenal Gyaru, Subkultur Jepang yang Jadi Simbol Kebebasan Berekspresi",
+      "source": "Radar Tuban",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPcWVhTmw4MUFtTndfVk5GVTBDa1lWZHFWZTRaVEdwcWdSc19wTUtrdWhFbGNQeUtWZE1CamhzODZkN1NOT3QwU0psTFRZdXRjOEotbUZUZUJ0VzN1T1V6SmRoQVRwZWd1cWV3anNaU1VacmljM0dIYWZXb25pWXVkcndqNDhwVmZ2VFFzMkdVbXVNdDhXR0RyLWp6ckJTVU4zN09sdUxrVnVDemU3aEhIc29IUDhjcWk3SVd5dGtZWdIBxAFBVV95cUxPakdFUXdJeW1QSExZMHFDRGMxSjU5eV9iUkpCaGRyM2p4LXBMSUlFUXdnSThGNmxrS0tqOTJzN0dyajVfVzBHcTBYVkpaT0N0OHI4ZUF6YkN3MnEzWE9CYmkzR0hmVWFRa1puTUZVREtVakZvYVNSdlhGYXZTS3JsLWJvSUJUQURWcW9MRzZycHlobjBvUm0yNFc0cWZpRE9hX2ZHMTEtQjVoTnlsVUVlMjVGLW9Bekl4cWYtN18ydVZwMHRO?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-25T11:55:15.574550Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "43134a1bc4725a0947c00fca",
+      "publishedAt": "2026-09-25T06:18:12Z",
+      "title": "September Hitam: Ingat Pelanggaran HAM, Jaga Aksi Tetap Damai",
+      "source": "Kompasiana.com",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxObUF5TU85OTR1blhacVY1SE5ScWpIN3VmLXJndTZ1RFpTUEZVYk94QzRuald1cUM3MlQxa3JjV0dTVGt3d1BLT2dxNGN3SmtPSUVsb01Faktzd2J6ck44SUMtMkFfU2NKWFNDdmV1TkZWUUgyaUgteEhfRGZVYW9KREVOYnJiRUFVcFI1SkhlRWg5cGlOcjNDZ0ZKX3h0bXZwanIxY1QwRHpZd3F2eDhMel9zejZFSldpemc?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-25T11:55:15.574550Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
       "id": "77d83711570433d7b0fa3a93",
       "publishedAt": "2026-09-25T04:31:00Z",
       "title": "Ketua Muhammadiyah Desak Negara Bertindak soal Polemik Buku “Memburu Muhammad”",
@@ -154,6 +292,29 @@
         "Kebebasan Berekspresi & Berpendapat"
       ],
       "collectedAt": "2026-09-25T05:01:57.912273Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "47082d595f9423f837c3cec3",
+      "publishedAt": "2026-09-25T04:22:32Z",
+      "title": "Netanyahu Pamer Starlink Mini di Sidang PBB, Sindir Sensor Internet Iran",
+      "source": "riaurealita.com",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQdVpQaVBkWk43dUFoRHlHNTZQNXpORVZpZHJTZm9fQW1IRFFYTWE0cEJLMnBXYTliOWFyc1Q4S0Z0OW5kNWZjYWgyOEh3QkFRR19PZ0ZxelNuTU8yZi1DUzZNWWhYVkRUU3cxTWxkUmZGLUNQdG40NFdRUlk0RG4xM0s1ejRTZnZfWXBpODc0YWl0dDdSb1FVMV9MNTlNTEZLckZscHJwTHB5ajN6TWloUmtiRdIBsgFBVV95cUxQSEktbXdNY1FYR3p1VmFnRjhWaG5vZlp2WXBLTHhqTVpaMjdFcUJvMGJ1di1Xbm11ZUVVTm0zLVpLYXhTQWFPazl5aEVuRWtmdXd3SlBNUnBSWldEd1ZqUmJfSTZvN3daUVlfOHJPeDUyWXJGSWRVUjduZlJDY3AwVi04dlpIOUcyTlVpeXM3dUtkb1doS0diNzdWUExDbE44WFkzbW14Y0VxbEFqaVppR0R3?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "sensor_konten",
+      "subclusterIds": [
+        "sensor_konten"
+      ],
+      "matchedQueries": [
+        "Sensor Konten"
+      ],
+      "collectedAt": "2026-09-25T11:55:15.574550Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
@@ -179,6 +340,29 @@
         "Kebebasan Beragama / Berkeyakinan (KBB)"
       ],
       "collectedAt": "2026-09-25T05:01:57.912273Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "60e8a5ffdf3d18b0de58b683",
+      "publishedAt": "2026-09-25T03:36:05Z",
+      "title": "Polda Metro Jaya Dalami Dugaan Penistaan Agama Terkait Buku “Memburu Muhammad” - Edisi",
+      "source": "edisi.co.id",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOLUcxVGUzRUpfQnNoSUVyQlRjRjQ1eFdQdzdNNl9rT3pKdkgwdEtaQWlHVi1iZkh2SklzS21Gb1J4N2RCdjZfcFU3MFVWS21Yak83cmgtbHpWUWhDbWUwN25TNEdQQzNHR0J2aTFabGtwRmZDaTh2Ry1tT0h0NGtOWW4tU2hmOGF1UGhEUWJpbkJJV0pjWDdCQmJiRFFfUC1yanFhMFpXRUNOUms1a1N1cW40R0psc3NQSEHSAb8BQVVfeXFMTTVtQUFnZnp1R3RSNURuWkZQcFE4dkQxSFk4QlY2TXE1SWRZN0ZoWkduWmRNVWZCYUVfRG93Wkc2MHQ0VFgtOEthN3RvM21HSHNXR3kyZFNYTURiU05weWNzX3Q4bGl4cmY4S0V1OHZPLW8weVB5VVRPTTBGb19sbk9qMjU5SXdWUlFiX0ZPSENMUm41Y1BwcGZEWGR2Zjc3aHFOaUhJQV9GYTBqRkZJZFhUMXg1b0NGODNkckNBSEE?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_beragama",
+      "subclusterIds": [
+        "kebebasan_beragama"
+      ],
+      "matchedQueries": [
+        "Kebebasan Beragama / Berkeyakinan (KBB)"
+      ],
+      "collectedAt": "2026-09-25T11:55:15.574550Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
@@ -225,6 +409,29 @@
         "Kebebasan Beragama / Berkeyakinan (KBB)"
       ],
       "collectedAt": "2026-09-25T05:01:57.912273Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "80b065cae84a186375892e23",
+      "publishedAt": "2026-09-25T00:00:00Z",
+      "title": "Ed Sheeran Viral Gegara Macklemore: Ini Kronologi Polemik Palestina yang Bikin 'Dia' Tiarap - Celah Sumbar",
+      "source": "Celah Sumbar",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQaERmc09Ed3RDZnFDb19feElzM04tZDRWbkl6QnJaSU1makNrT2owRGRWcXBEcTVpOFFNdUwwWUtUdDhLOFI0eTFwMEVid3lMbmxUWjRIVnJlbUtzQzRFZnZtZTNPbC1NNHlQYWVPbTgxTm9OSkY0SUxZTUhrTlhyV21oYUdSTkhCSE96RGJndTB5eHVrODdzeDc2VTZvc0FlX3lrRWRUVXpYdGd6LWpIaXRGeGtVWTludEhTZWtQcXpfMTQ4OXh2QVhfRG5KYm50b1dZTjdKZTNMOEZqaHMzdTNmSdIB4wFBVV95cUxQaERmc09Ed3RDZnFDb19feElzM04tZDRWbkl6QnJaSU1makNrT2owRGRWcXBEcTVpOFFNdUwwWUtUdDhLOFI0eTFwMEVid3lMbmxUWjRIVnJlbUtzQzRFZnZtZTNPbC1NNHlQYWVPbTgxTm9OSkY0SUxZTUhrTlhyV21oYUdSTkhCSE96RGJndTB5eHVrODdzeDc2VTZvc0FlX3lrRWRUVXpYdGd6LWpIaXRGeGtVWTludEhTZWtQcXpfMTQ4OXh2QVhfRG5KYm50b1dZTjdKZTNMOEZqaHMzdTNmSQ?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-25T11:55:15.574550Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
@@ -299,6 +506,29 @@
       "reviewNote": ""
     },
     {
+      "id": "1b64a5cc2acc273bfc360288",
+      "publishedAt": "2026-09-24T12:02:50Z",
+      "title": "Laut Bercerita Jadi Film Penutup Jakarta Film Week 2026",
+      "source": "momsmoney.kontan.co.id",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOUkt0RkhnT3ZIeEJFYk1PbEtkNERaLWFxTFFQVVI4eTZQYWJoTnc0OFhDY3QxNmRJbmY5NEQ4WHlnNXJPc3dmdnlEeHNBWmhkczY4ZjNjNVNDNDA1c2IwUkRxSDM2X0ktdk9MblJZTFkyajRvbTAwMFB6Q3ZaTVpaYWgyQVl3X3RJUGdSaGRKR3YyWmVPdEE?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-25T11:55:15.574550Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
       "id": "cda9dd4d78f1d99de166f998",
       "publishedAt": "2026-09-24T11:57:51Z",
       "title": "vivo vs OPPO Portrait: Kamera HP Mana yang Hasil Fotonya Lebih Menawan?",
@@ -340,6 +570,29 @@
         "Kebebasan Berekspresi & Berpendapat"
       ],
       "collectedAt": "2026-09-24T17:15:13.915220Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "df296d4ae61e5ce06f4fbf36",
+      "publishedAt": "2026-09-24T11:55:00Z",
+      "title": "Syarat Izin Publikasi Survei Dinilai Bertentangan dengan Demokrasi",
+      "source": "owrite.id",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNN1d5SmNBQkR1UTlROGUxSkNKUGZ6NFJmeUh2NTBvQ0o4ZmtER1JjQnRNekRuUnR4azZjcWF2VjloOHloNHJLYlQxMkpGLVV0S1FLUGoyZEJ2OUcxQUxBMVhHTEJYVmRaRkV5ZDNibzVMVFlzSjdrUDRjSWp0Sl81WTRvNlBEajFOX21NQUJyQXY2UUZ6ZW9CZVF2c05mdG9zUGx5VEpvN252OElq?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-25T11:55:15.574550Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
@@ -455,6 +708,29 @@
         "Kebebasan Berkumpul / Berserikat"
       ],
       "collectedAt": "2026-09-24T21:33:41.382358Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "d6f3d2a7a2a6fa48723b88fa",
+      "publishedAt": "2026-09-24T09:06:56Z",
+      "title": "Kritik Fenomena Sound Horeg, Heri Lentho Soroti Dampak Sosial dan Perlunya Regulasi Tegas",
+      "source": "jambiseru.com",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQdFlHX211aEFoM3VUbms3dXExY25uWFpJeVU4cElkcG93R0pETTN1Wk1vSTRlRW5nNklXY1hTck5LZmxoS21iZkpCREsyNWk1T0ZXdWhiYmxCZmxnd3dJZ3NXMlRGVl9zTVQ4dkVreXB1TU5NRlM3Zml0Uk84R2pZcGxvT1FNV1hEUHNtVU9BYXdRaFhVdW1xOThRNkM4eEpGbmhxLXQ1YklhVl9jc0RwTWNkZnFlSmo4VDc5d3RDMjNUMXh1eFE?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-25T11:55:15.574550Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
@@ -639,6 +915,29 @@
         "Kebebasan Beragama / Berkeyakinan (KBB)"
       ],
       "collectedAt": "2026-09-24T11:52:04.436321Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "ff83714e13d58b0b0dbcfdd6",
+      "publishedAt": "2026-09-24T04:56:58Z",
+      "title": "Polda Metro Jaya Pantau Polemik Viral Buku 'Memburu Muhammad'",
+      "source": "CNN Indonesia",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOZFRoaDh3NWN2ai04ZDU4b1hhNU5wanN4bDJfMDlNc3owb1NCOWxIanF1ZVBWdTNWQ3pNdTA3OUgyOWg2UERtQXhxcURsdlJNR2lzcW9oYk9sVnpBVC1JbThwYmlMUmJMdGVzYU5ueXl2d3lFUkd5TjFwbnZsU0x2dllUUnJqZDg4d3lCSGJoNVdEZ1k5VEhKZTBpU1k4ekJPZFRWYUtwYXR0R0tnTVNIT0RPdG9lc2U2QmNsZVA0MmPSAcYBQVVfeXFMTlJnZVhQZ1liVFZvSkVMbW03LWx3MXAwZzJaRkJxYXZuby1lejJhY25qZTNyNXQyLThzdlljY3AyeXpXVXdia2lyQmttTnFBWmo2UFNZNkNKQnB1RXVKS1Qza1VsMTNxQ1FNRTdiMkxYel9QUmtNb09GS1d6aDR3Y2YySlZ1SFJndWJody1zTDhEcnU4MEVYS0tmdE9UaGNBVVViRXNzRUc1UUhjN2lwWWF1UnJFTUpUV1Z6bjcwWk1GUlZjVS1R?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-25T11:55:15.574550Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
@@ -989,6 +1288,29 @@
       "reviewNote": ""
     },
     {
+      "id": "a76064bdab76bebb773a5f05",
+      "publishedAt": "2026-09-23T12:47:00Z",
+      "title": "RUU Statistik Disorot, Izin Publikasi Survei Dinilai Bisa Membungkam Masyarakat Sipil",
+      "source": "owrite.id",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPVDJtVEtCMG5wZVdaTUdaaXVaTk5FdUMyYW9oZGtVLTFsX3hrZTQ5YmJZWVJfa1VxMEZSN0x2bW5wZmlxcUZKZ3J6VjN0T1lodFJRSVV0N2hQaWs4RFZKdFFDeDllNm1RaE92Z3lhN3lsLVRkaWZrMmtlUkJXZTNDQjk0REY1a2t6R2x6ZG92WlYzbWd4b0QyVmZqOHFScUo3dVBxQzNrd0lsVmZBRkpOX05NS19STU1iWVB1MXNfZnhQdUk2?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-25T11:55:15.574550Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
       "id": "7b14bfaee6b67f74b89d9cf1",
       "publishedAt": "2026-09-23T12:42:00Z",
       "title": "Kontroversi Macklemore Bayangi Konser Ed Sheeran di Gillette Stadium, Sejumlah Musisi Mundur - radartv.disway.id",
@@ -1265,6 +1587,29 @@
       "reviewNote": ""
     },
     {
+      "id": "87092eceed2521ebcee723fa",
+      "publishedAt": "2026-09-23T04:32:03Z",
+      "title": "Viral! Pria Bergolok Ngamuk Bubarkan Ibadah Jemaat GKPI di Tangerang, Begini Kronologi dan Nasib Pelakunya",
+      "source": "Kabar Terdepan",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBnQm1GR2xndldnVVA4VjdLclkzeGoxTnF3SUNtbHJRZ2lyRUsxcU9aNWRBdXY4ZGJhbjZISGYtZGIzV3hmcWJKOEJ0NHMwdHYzc2psX04wMHFLbkVWNkxZaDc4RWQxUVE3bXFUVmc4ejNlR1dGWnI5S01JYjV6RUU?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_berkumpul",
+      "subclusterIds": [
+        "kebebasan_berkumpul"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berkumpul / Berserikat"
+      ],
+      "collectedAt": "2026-09-25T11:55:15.574550Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
       "id": "b99a538ac3094c44c2a549e3",
       "publishedAt": "2026-09-23T04:24:01Z",
       "title": "Bagaimana Protes dan Ancaman Memaksa Batal Diskusi Buku Membur...",
@@ -1421,6 +1766,29 @@
         "Kebebasan Berekspresi & Berpendapat"
       ],
       "collectedAt": "2026-09-24T11:52:04.436321Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "7e40926d592de21edd03885b",
+      "publishedAt": "2026-09-23T01:35:50Z",
+      "title": "Koalisi Masyarakat Sipil Nilai Rencana Prabowo Tambah Batalyon TNI Berpotensi Hidupkan Dwifungsi Militer",
+      "source": "Koma.id",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQYXBzLUo5d2M4NmJvYXlmNG14Q2FtUGhCYnY0blA1dXV5UXBQTFVpVDlTWk9oWmtOT3JIY093ekt5dlJCcGZnZzI5U3BsNEJCMWJXME5ieklnVHpGUGo5QUJmNlhZTU5kQlJiUkFBZW1FSk8yMlNFOG9wOVRhSFRuMGhPa09vMW5SeGIzOURIX3hMV2FJdmtyVlloSEdydGN3eHY1c0ZJa3g2aG5YVVVpWVBCMUpyakw3cFlZUTNB?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-25T11:55:15.574550Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
@@ -1978,6 +2346,29 @@
       "reviewNote": ""
     },
     {
+      "id": "4d4d60b9368054fee82c253d",
+      "publishedAt": "2026-09-22T09:02:28Z",
+      "title": "ITS Kembangkan Agentic AI untuk Mitigasi Jebolnya Tanggul Lumpur Sidoarjo",
+      "source": "kbanews.com",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQbjJIR24wZ1piX0s2YzhVNFc3MjVwREV2SldGVzZJb0x3RzY5QlFNVGxhakowT0hEVHM4bUgtWDFwRHlKUDkyaENRWkZaaVJZOUlDdHprak1ZNEpTMHRVa3JNU3lNdHBBdHE5ek8tT2xhaUtlYUdWZ3kyM1VJXy1ZdU5HemZ0VmFUM3FFU0RKLXZHOHQ5WGtlaXNaaU5mMi1IRV9Ka2RRenRhMTQ?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "sensor_konten",
+      "subclusterIds": [
+        "sensor_konten"
+      ],
+      "matchedQueries": [
+        "Sensor Konten"
+      ],
+      "collectedAt": "2026-09-25T11:55:15.574550Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
       "id": "e56d0044521d4c2485d60c91",
       "publishedAt": "2026-09-22T08:27:21Z",
       "title": "BEM Universitas Hamzanwadi Tegas: Tak Ada Tempat bagi Kekerasan Seksual dan Pembungkaman di Lembaga Pendidikan",
@@ -2065,6 +2456,29 @@
         "Kebebasan Berekspresi & Berpendapat"
       ],
       "collectedAt": "2026-09-22T11:44:46.274038Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "5cec47080883850090c0e4b5",
+      "publishedAt": "2026-09-22T07:13:31Z",
+      "title": "Masalah Izin Jadi Pemicu Gereja di Tangerang Dibubarkan Warga, Pelaku Minta Maaf & Berujung Damai",
+      "source": "Tribun Video",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPajQ3ZG5XejJnUXFNMTg3XzRlQnpiR1V0WWxFZzlKem1LUjJUeUZ6Uy1pQ3o1b0p6cVJUXzZ0OHpTelZpbkNYTDY2SWhGbV90VmY1Zld1bXN2ak1ZajNELXRXaUlGaFhKSUJYVkVmV2VfaUpOZld0Q1NUcHRRTmZVZVZ5MDFIbm1hSGJ0dnJMcDZadmdHam5Jenc4dThQMnRwYlFLcElKYWo2aFBUQUlMNlN2cGhXSWdnM09jeUV1YTducUdBNnhnLTZud3NFdXBl?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_berkumpul",
+      "subclusterIds": [
+        "kebebasan_berkumpul"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berkumpul / Berserikat"
+      ],
+      "collectedAt": "2026-09-25T11:55:15.574550Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
