@@ -1,15 +1,15 @@
 {
   "meta": {
-    "generatedAt": "2026-09-24T21:33:41.382358Z",
-    "lastRunAt": "2026-09-24T21:33:41.382358Z",
+    "generatedAt": "2026-09-25T05:01:57.912273Z",
+    "lastRunAt": "2026-09-25T05:01:57.912273Z",
     "startDate": "2026-01-01",
     "refreshHours": 6,
     "mode": "incremental",
     "feedsOk": 16,
     "feedsFailed": 0,
-    "totalStored": 1585,
-    "totalPublished": 1585,
-    "newArticles": 7,
+    "totalStored": 1594,
+    "totalPublished": 1594,
+    "newArticles": 9,
     "warning": ""
   },
   "clusters": [
@@ -135,6 +135,100 @@
     }
   ],
   "articles": [
+    {
+      "id": "77d83711570433d7b0fa3a93",
+      "publishedAt": "2026-09-25T04:31:00Z",
+      "title": "Ketua Muhammadiyah Desak Negara Bertindak soal Polemik Buku “Memburu Muhammad”",
+      "source": "Mozaik Islam",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOLWZ5LXR5UXZ6VlFkTkpmZ0lPR09GUE41U3VUWXlKaXMwR3NaemFvZTJVNEk2THJFT1BacmRzS3RPeVAzMy0yV3dWbzJhUWRDd2lFcm9WMzVmZEdEdXNKT3dwQlZ4M0MzYVVGQ2RDaVQ2SGgyd2swbVkzTjZCVWx3N3JfR0IxcmNRZExkMm45bU1ZeEFXXzdTOWxmSC1WM0drWVNjSlMtaU93Um8?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-25T05:01:57.912273Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "a7df9bd99e24eff2aac81277",
+      "publishedAt": "2026-09-25T04:06:07Z",
+      "title": "Kemenag Buka Suara soal Buku 'Memburu Muhammad'",
+      "source": "CNN Indonesia",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQMTdRSjJ3NjRjN05qVWVoYW1tdWpaZVJBU19VZVdvbEhpcERUaXFUQ1FZOGhtZHhoLTczUXdVdVYtSkF1UVV5eFkxMWdNTm82UUVwa0U3WmZ5TXNMdG5GRnNYUU4yWFdHR194TnFZOGZPeXZCUVRpUExKZFd0dDZXemw2U1RlSXdrTUNyc0RYaHk3dUdJRUN1eTJOcUFKcHJ5REtBZTJ0TUQxZHZ3M2fSAbMBQVVfeXFMTmIxdHhNdWh5VS1OYWp6ck9aOWw1MUl6bXlvSkVqVk9Ua0ZzbS1oRE5ESVY5akQwNkxtVlRTSGRKM0lEYlZ1dEVOUlk4V3BMejIwVGtMMmNlU1RhZlRtdXJtSlQxZUx5N19BQnVOcndGN0JUcUt0bUNQSlprY2l4Zm9tUFlZVG15ZjlhdUtfTVpwYV9pcUlFWERCX1VYbjFla1ZtbXpzV3J3MGxNT09nVU5lMWM?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi",
+        "kebebasan_beragama"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat",
+        "Kebebasan Beragama / Berkeyakinan (KBB)"
+      ],
+      "collectedAt": "2026-09-25T05:01:57.912273Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "84d2da823cab05a50af61cbf",
+      "publishedAt": "2026-09-25T01:29:04Z",
+      "title": "Laut Bercerita Jadi Film Penutup JFW 2026 Sebelum Rilis Bioskop",
+      "source": "Medcom.id",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNR2F2WW1SaHF6RTRQc2RFeS1BcTY3V1lLQU9zQXpubkExQUNXcjFNQi1nTDNMdEVIRDlCYkIzMXpNTVh6cXRxcDM3Q2s2RzVpcEVMV04yN3lDa3FBREdtZ3c0UldBS1hFM3VCVkN4TU5YNnc3MUlVVjNhYWpMT2lfRjc4cXBuWmp2X1Z5dEJJazlWdUR1ZnBHbmwxbG56WlFpZ3hYd201SjJBZDA?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-25T05:01:57.912273Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "b6e22a3a9e602f9a6ef3a3e4",
+      "publishedAt": "2026-09-25T00:06:27Z",
+      "title": "Viral Bedah Buku Feby Indriani Dibubarkan, Polisi Masuk Dalami Dugaan Penistaan Agama",
+      "source": "merahputih.com",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNSk9hZFpoTHRqOXVYVG5hazVPZlh6aFpBOGpHelVOdUF2OUl4dU8tOWRXWFJXSllhb1diUmRpY2F3MUM3alY4SU83c29qa3ZhMXBsX3QtSkVxNEVXdXdfcTh0c0k4cEk4U1R3ZUFOQlhBX19xcnU5U2RoSnNTR19VNGhVOXhfZW1sYkxnNWc3MWt5anlpaTZlWEZXZW5WN0o1RFQySUpvVdIBpwFBVV95cUxNSk9hZFpoTHRqOXVYVG5hazVPZlh6aFpBOGpHelVOdUF2OUl4dU8tOWRXWFJXSllhb1diUmRpY2F3MUM3alY4SU83c29qa3ZhMXBsX3QtSkVxNEVXdXdfcTh0c0k4cEk4U1R3ZUFOQlhBX19xcnU5U2RoSnNTR19VNGhVOXhfZW1sYkxnNWc3MWt5anlpaTZlWEZXZW5WN0o1RFQySUpvVQ?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_beragama",
+      "subclusterIds": [
+        "kebebasan_beragama"
+      ],
+      "matchedQueries": [
+        "Kebebasan Beragama / Berkeyakinan (KBB)"
+      ],
+      "collectedAt": "2026-09-25T05:01:57.912273Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
     {
       "id": "2df3bb9a3038b6b5e5042d82",
       "publishedAt": "2026-09-24T12:41:00Z",
@@ -297,6 +391,29 @@
       "reviewNote": ""
     },
     {
+      "id": "4c7fbb03a75d886e67695953",
+      "publishedAt": "2026-09-24T09:45:36Z",
+      "title": "Polda Metro Jaya Dalami Dugaan Penistaan Agama Terkait Buku Memburu Muhammad",
+      "source": "pontianakpost.jawapos.com",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPVWRTSGlidmM5dHVybFRqV09fVlhsQUpKc0JCR1ZCek8zYTRTSTQyZ2c2Qmd0VFBYb2FSeUlTVjJqd0wxMUxkaGtINE5fWFZzbEI0UDBVcVVkWW1sN1g0U0dIelZyM016Rm5kUHhQbWdMR3VQT2NKb19OMTZGUVJWVnNCWkZPTHpkNGxvV3ZOQjJiaFIxNnFXTm4yaFQtMUlMNW9fT2x2NTlIdEFiTk5oaVNhUDE4M2d6VHRkQzdCcUFDZlB2LVZSc091ZkdxNHfSAc8BQVVfeXFMT1VkU0hpYnZjOXR1cmxUaldPX1ZYbEFKSnNCQkdWQnpPM2E0U0k0MmdnNkJndFRQWG9hUnlJU1YyandMMTFMZGhrSDROX1hWc2xCNFAwVXFVZFltbDdYNFNHSHpWcjNNekZuZFB4UG1nTEd1UE9jSm9fTjE2RlFSVlZzQlpGT0x6ZDRsb1d2TkIyYmhSMTZxV05uMmhULTFJTDVvX09sdjU5SHRBYk5OaGlTYVAxODNnelR0ZEM3QnFBQ2ZQdi1WUnNPdWZHcTR3?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_beragama",
+      "subclusterIds": [
+        "kebebasan_beragama"
+      ],
+      "matchedQueries": [
+        "Kebebasan Beragama / Berkeyakinan (KBB)"
+      ],
+      "collectedAt": "2026-09-25T05:01:57.912273Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
       "id": "1aca54404ffa0c1f1506d464",
       "publishedAt": "2026-09-24T09:45:33Z",
       "title": "Atalia Praratya Puji Santri yang Berani Rekam Aksi Pembungkaman di Ponpes: Berani Bersuara Jadi Upaya Pencegahan - Kilat",
@@ -384,6 +501,29 @@
         "Kebebasan Berekspresi & Berpendapat"
       ],
       "collectedAt": "2026-09-24T11:52:04.436321Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "9619a4056574e7d87a80dfaa",
+      "publishedAt": "2026-09-24T08:00:56Z",
+      "title": "Ed Sheeran Ditinggal 500 Ribu Followers usai Insiden Free Palestine",
+      "source": "cnbcindonesia.com",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNX2gxY0RQZmQ5akFzdnZmY0t6N1VmaWhKTEpEb0ZreEtzLWtmYjMwdG5IN1FhNGpfWW9RbHJPRzVEWldxVGxYNFMxMFRncW1IUi1GOWFZcUhSNUpUQmw1THhUMWZTV2NyX0Rya2JLTGp0RjdycHN4dUwwZXY3eGRyMXA3SDJBaE5qdzZfOWUxMUVJOWhIX3l1S2tuWjlyWFFRYWZjNUN3UXBCaGxtd29uNW1wR3lqeEZERGkwZ1JlYW81OU1lUEZMbGZiVUplWGk2bEHSAdIBQVVfeXFMTV9oMWNEUGZkOWpBc3Z2ZmNLejdVZmloSkxKRG9Ga3hLcy1rZmIzMHRuSDdRYTRqX1lvUWxyT0c1RFpXcVRsWDRTMTBUZ3FtSFItRjlhWXFIUjVKVEJsNUx4VDFmU1djcl9EcmtiS0xqdEY3cnBzeHVMMGV2N3hkcjFwN0gyQWhOanc2XzllMTFFSTloSF95dUtrblo5clhRUWFmYzVDd1FwQmhsbXdvbjVtcEd5anhGRERpMGdSZWFvNTlNZVBGTGxmYlVKZVhpNmxB?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-25T05:01:57.912273Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
@@ -982,6 +1122,29 @@
         "Doxxing & Intimidasi"
       ],
       "collectedAt": "2026-09-23T11:43:17.232944Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "ca9c012173802f089d70a1f6",
+      "publishedAt": "2026-09-23T07:40:12Z",
+      "title": "Rekomendasi Mendorong Kebijakan Perlindungan dan Keamanan bagi Perempuan Pembela Hak Asasi Manusia dan Lingkungan Hidup di Indonesia",
+      "source": "komnasperempuan.go.id",
+      "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxOQUFJb3pBMEFVVi1rZ0FkMVRXOW5vQ1BVcEtXRmpzdnlmdUxVZk9NZDZXamo4NFZTUzAyalVoNmRfU0hMSmswZzFFeWlIQVNlOGp4UVRKeFhsOURiOVRwNHlfa3FRUUZTSlo5dlFpTUI0di12Y0VTbTA4azdRc1M0blN1UDB6RDRieW5TVHhIX3dMWThCbXpQZ1ZGa3NTNm1jZkZtVDduckxWS3NhVWRfcUxLOHQyODhjRTJ1Mm1ZZXZPVVl3LUZmRy1Va0RDQ1F4d0ppWGpObkRCUTF6OGZNMThjdjdSZDNxa2dJeGdpQjcxVjBYbmZNNHlNd0dPa3QtV2Q3QnJtQXBnd204dHA4RA?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "doxxing_intimidasi",
+      "subclusterIds": [
+        "doxxing_intimidasi"
+      ],
+      "matchedQueries": [
+        "Doxxing & Intimidasi"
+      ],
+      "collectedAt": "2026-09-25T05:01:57.912273Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
@@ -2753,6 +2916,29 @@
         "Kebebasan Berekspresi & Berpendapat"
       ],
       "collectedAt": "2026-09-21T12:54:34.341535Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "6d68b215fdba48616cf8b2c0",
+      "publishedAt": "2026-09-21T07:00:00Z",
+      "title": "Kami meminta Perdana Menteri untuk memerintahkan pembatalan pembubaran Koperasi Suoi Ngoc - Vua Ba.",
+      "source": "Vietnam.vn",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQMnZhaXIwbjFJa3paTjhSeHM2ZHJtc0c3SldkbkpCNm5RZmllRDVtR1Z6VzJtR0pOeWVqSUtYTFlmOFpxUE1vMmxCTGstdGxaeWhQY285S3E0ZV84RG8xc0ctSnFNOFhDbFJ1X3QtZlNPbkNXbGJ0bHVFLUN0UEo1UlhZcWhJZURjREZIY0JXYnhBUjhmNnVCMHVkRGFtUGMt?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_berkumpul",
+      "subclusterIds": [
+        "kebebasan_berkumpul"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berkumpul / Berserikat"
+      ],
+      "collectedAt": "2026-09-25T05:01:57.912273Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
@@ -29694,6 +29880,29 @@
         "Sensor Konten"
       ],
       "collectedAt": "2026-08-31T23:07:12.746081Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "453aa33c1939fdf3e20b30fb",
+      "publishedAt": "2026-06-25T07:00:00Z",
+      "title": "Dua Pelaku Penistaan Agama Injak Alquran di Lebak Didakwa Pasal Berlapis",
+      "source": "radarbanten.co.id",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQbGI2NzlCYWtMek9fX0pxRTNDU2VkYW41Ykd5dGQ1UnNDZWRlZ2hBYTBxS185MV9mdDYwNHM2dXp1Y1FESlUzZkE3N1hoWlVGdWcydHdOQUl6aUw4ZDBRTEhrazFqbmFhWmNpdXcxaG9TNzAzN1pjUGxGdEJFSldwNFQtamNkc3RnZ1NWT1hJcU4zSjdCWEJDUGRQc1JWRGJiN2JVSnp1cUp4eUNfNVo1RzRPVUc?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_beragama",
+      "subclusterIds": [
+        "kebebasan_beragama"
+      ],
+      "matchedQueries": [
+        "Kebebasan Beragama / Berkeyakinan (KBB)"
+      ],
+      "collectedAt": "2026-09-25T05:01:57.912273Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
