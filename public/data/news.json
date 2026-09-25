@@ -1,15 +1,15 @@
 {
   "meta": {
-    "generatedAt": "2026-09-25T17:15:53.729934Z",
-    "lastRunAt": "2026-09-25T17:15:53.729934Z",
+    "generatedAt": "2026-09-25T21:38:04.473739Z",
+    "lastRunAt": "2026-09-25T21:38:04.473739Z",
     "startDate": "2026-01-01",
     "refreshHours": 6,
     "mode": "incremental",
     "feedsOk": 16,
     "feedsFailed": 0,
-    "totalStored": 1618,
-    "totalPublished": 1618,
-    "newArticles": 6,
+    "totalStored": 1625,
+    "totalPublished": 1625,
+    "newArticles": 7,
     "warning": ""
   },
   "clusters": [
@@ -135,6 +135,75 @@
     }
   ],
   "articles": [
+    {
+      "id": "1d5f04bbc57ee4dfc7d78bc3",
+      "publishedAt": "2026-09-25T19:04:04Z",
+      "title": "Menimbang Kata di Tengah Kebebasan Berpendapat",
+      "source": "suarausu.or.id",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFA0QlZSNGJmMk9EZXdXTVpDNFM2YWh5ZVFXZHZILUUyQnRxdmJ2enlXdXpNNF9MMmJkeWJ3dHhFZHdHSmVPT2Vwa19HaXVvaVBkSTE0SnpybFNINGxhY2d2bGNrT3JxNGtlNXRWcFV1b2ZWVmMycVJqV3V3?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-25T21:38:04.473739Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "39ca0ee590a970f2e0c442a5",
+      "publishedAt": "2026-09-25T18:26:48Z",
+      "title": "Mogok Kerja Buruh Tambang di Morowali Berujung Represi, FSPIM dan KPBI Kecam PHK Sepihak",
+      "source": "Harianrakyat.co",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPMUgzcm5uVGVwcjZYVUt4NWlCZi1SblRUci1NTmpIRm0yRjlidldCZVdZb1lmVmtTUnQxMEFxWlY2cGZSWm5rallDSzdhQXlhZ1JpRzU3RlMzaW5MNXYyU0c0OHotTVhBMlJrUHJUYjhORGRZanh6UlhDYTFjcXk4bGhVQzB3Uzh2RkxoTG9iTFloYVdZeF96SkE0Z2x6akIzX3gycnVNS2FQRThNREFzRG9B?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_berkumpul",
+      "subclusterIds": [
+        "kebebasan_berkumpul"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berkumpul / Berserikat"
+      ],
+      "collectedAt": "2026-09-25T21:38:04.473739Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "f7b14820cef444b2f47815e4",
+      "publishedAt": "2026-09-25T17:33:37Z",
+      "title": "RUU Penyiaran, DPR Tegaskan Kebebasan Ekspresi Digital Tak Dibatasi",
+      "source": "IniBalikpapan.Com",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOU19jRlBjUExYd255MXoxX0ZEN2xlY25xZm9PTy1KcGh0aVA1dHlDWTlmd3AwcXBId1M4UXpNV2tBUUd2RFhnT0lWWlA0Q2dKdklyai1qYVI3TWxaaWhNa09FOWwxYjRxYUhxVDFicnBxZl96a2FKd1RHYU1RQjF3c0pDWlhkRkhCNEV4WnBBQUE3SmstWF9xVWprVEtXdw?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-25T21:38:04.473739Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
     {
       "id": "17dfe463ea28ce60dc70a362",
       "publishedAt": "2026-09-25T08:53:16Z",
@@ -340,6 +409,29 @@
         "Kebebasan Beragama / Berkeyakinan (KBB)"
       ],
       "collectedAt": "2026-09-25T05:01:57.912273Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "1ad6833a83b140ee969ac98b",
+      "publishedAt": "2026-09-25T04:06:07Z",
+      "title": "Kemenag Buka Suara soal Buku 'Memburu Muhammad'",
+      "source": "cnnindonesia.com",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQMTdRSjJ3NjRjN05qVWVoYW1tdWpaZVJBU19VZVdvbEhpcERUaXFUQ1FZOGhtZHhoLTczUXdVdVYtSkF1UVV5eFkxMWdNTm82UUVwa0U3WmZ5TXNMdG5GRnNYUU4yWFdHR194TnFZOGZPeXZCUVRpUExKZFd0dDZXemw2U1RlSXdrTUNyc0RYaHk3dUdJRUN1eTJOcUFKcHJ5REtBZTJ0TUQxZHZ3M2fSAbMBQVVfeXFMTmIxdHhNdWh5VS1OYWp6ck9aOWw1MUl6bXlvSkVqVk9Ua0ZzbS1oRE5ESVY5akQwNkxtVlRTSGRKM0lEYlZ1dEVOUlk4V3BMejIwVGtMMmNlU1RhZlRtdXJtSlQxZUx5N19BQnVOcndGN0JUcUt0bUNQSlprY2l4Zm9tUFlZVG15ZjlhdUtfTVpwYV9pcUlFWERCX1VYbjFla1ZtbXpzV3J3MGxNT09nVU5lMWM?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-25T21:38:04.473739Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
@@ -984,6 +1076,29 @@
         "Kebebasan Berekspresi & Berpendapat"
       ],
       "collectedAt": "2026-09-25T11:55:15.574550Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "fa52d8ef8cc8c437563b833b",
+      "publishedAt": "2026-09-24T04:56:58Z",
+      "title": "Polda Metro Jaya Pantau Polemik Viral Buku 'Memburu Muhammad'",
+      "source": "cnnindonesia.com",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOZFRoaDh3NWN2ai04ZDU4b1hhNU5wanN4bDJfMDlNc3owb1NCOWxIanF1ZVBWdTNWQ3pNdTA3OUgyOWg2UERtQXhxcURsdlJNR2lzcW9oYk9sVnpBVC1JbThwYmlMUmJMdGVzYU5ueXl2d3lFUkd5TjFwbnZsU0x2dllUUnJqZDg4d3lCSGJoNVdEZ1k5VEhKZTBpU1k4ekJPZFRWYUtwYXR0R0tnTVNIT0RPdG9lc2U2QmNsZVA0MmPSAcYBQVVfeXFMTlJnZVhQZ1liVFZvSkVMbW03LWx3MXAwZzJaRkJxYXZuby1lejJhY25qZTNyNXQyLThzdlljY3AyeXpXVXdia2lyQmttTnFBWmo2UFNZNkNKQnB1RXVKS1Qza1VsMTNxQ1FNRTdiMkxYel9QUmtNb09GS1d6aDR3Y2YySlZ1SFJndWJody1zTDhEcnU4MEVYS0tmdE9UaGNBVVViRXNzRUc1UUhjN2lwWWF1UnJFTUpUV1Z6bjcwWk1GUlZjVS1R?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-25T21:38:04.473739Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
@@ -2599,6 +2714,29 @@
       "reviewNote": ""
     },
     {
+      "id": "69c4a09b3a143f76bebc8a15",
+      "publishedAt": "2026-09-22T07:13:31Z",
+      "title": "Masalah Izin Jadi Pemicu Gereja di Tangerang Dibubarkan Warga, Pelaku Minta Maaf & Berujung Damai",
+      "source": "video.tribunnews.com",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPajQ3ZG5XejJnUXFNMTg3XzRlQnpiR1V0WWxFZzlKem1LUjJUeUZ6Uy1pQ3o1b0p6cVJUXzZ0OHpTelZpbkNYTDY2SWhGbV90VmY1Zld1bXN2ak1ZajNELXRXaUlGaFhKSUJYVkVmV2VfaUpOZld0Q1NUcHRRTmZVZVZ5MDFIbm1hSGJ0dnJMcDZadmdHam5Jenc4dThQMnRwYlFLcElKYWo2aFBUQUlMNlN2cGhXSWdnM09jeUV1YTducUdBNnhnLTZud3NFdXBl?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_berkumpul",
+      "subclusterIds": [
+        "kebebasan_berkumpul"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berkumpul / Berserikat"
+      ],
+      "collectedAt": "2026-09-25T21:38:04.473739Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
       "id": "51d376aebefb4ffb3948597a",
       "publishedAt": "2026-09-22T07:10:48Z",
       "title": "Kronologi Aksi Pembubaran Paksa Ibadah Gereja oleh Warga di Tangerang, Jemaat Sempat Panik",
@@ -2617,6 +2755,29 @@
         "Kebebasan Berkumpul / Berserikat"
       ],
       "collectedAt": "2026-09-22T11:44:46.274038Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "73967cf175a76fe74810d512",
+      "publishedAt": "2026-09-22T07:10:48Z",
+      "title": "Kronologi Aksi Pembubaran Paksa Ibadah Gereja oleh Warga di Tangerang, Jemaat Sempat Panik",
+      "source": "video.tribunnews.com",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxObDZMVlg4Z0RJaWlnRkZ0aHg2WWxTSndSSk5US1VyMVJ6YVZsS19tRjhsV0laT0lIRFZNd1FpeVFxYWwxNkhXZTh0czRrb1NsQ3ZlRFVvazFPeVItVHp3N1A4THVDeXFjTzJnTldpZnRhN2g0amJ3czhrMDlGYm1id3BiYl9ZY190OTBYVXV6RnJWLS11aUxvRnFsVktqU1drMG42XzVnb2s1ZE5iMFhUV3BYVGh3TVVuZWJaOG16NEVtV0NBZVg1UURn?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_berkumpul",
+      "subclusterIds": [
+        "kebebasan_berkumpul"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berkumpul / Berserikat"
+      ],
+      "collectedAt": "2026-09-25T21:38:04.473739Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
