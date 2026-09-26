@@ -1,15 +1,15 @@
 {
   "meta": {
-    "generatedAt": "2026-09-26T16:27:13.408576Z",
-    "lastRunAt": "2026-09-26T16:27:13.408576Z",
+    "generatedAt": "2026-09-26T21:13:46.066653Z",
+    "lastRunAt": "2026-09-26T21:13:46.066653Z",
     "startDate": "2026-01-01",
     "refreshHours": 6,
     "mode": "incremental",
     "feedsOk": 16,
     "feedsFailed": 0,
-    "totalStored": 1665,
-    "totalPublished": 1665,
-    "newArticles": 14,
+    "totalStored": 1668,
+    "totalPublished": 1668,
+    "newArticles": 3,
     "warning": ""
   },
   "clusters": [
@@ -154,6 +154,29 @@
         "Kebebasan Berekspresi & Berpendapat"
       ],
       "collectedAt": "2026-09-26T16:27:13.408576Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "7290dadae559b8612248f415",
+      "publishedAt": "2026-09-26T09:03:06Z",
+      "title": "Monster Kecil di Kampus",
+      "source": "kempalan.com",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBITXBHU0RzRlJuZy1EUl9YZl8tLW43NzdXRTdWN2VKaWREV3o1dFcxSlJ6WERXMVdJRFloZk91VEw2UWdmSjJEbk1SXzJoRl8tZkJ5QTAxSUt4UVJkdHFPS1BhQ09rRGc?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-26T21:13:46.066653Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
@@ -1403,6 +1426,29 @@
       "reviewNote": ""
     },
     {
+      "id": "fc7fea8c9daa4b63250beb07",
+      "publishedAt": "2026-09-24T08:32:13Z",
+      "title": "Dave Laksono: RUU Penyiaran Belum Final, Masukan Publik Masih Terbuka",
+      "source": "Telusur",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQRXhTQTE5Y0JoM2lsMjd3Znh0Y0J5TnpkOUs5Q1Q1LWI1cEMwa1ZhV1p6UVNDVlVVRlZJREVBbzhoM25QYXRfX2p5QWo3TzkzTUFRLWpXOG9XN0FOanVreGwta2Z2TEJiTENtcl9LVkNUS1FMMXBxbHNHVk9tSUxqbF9PMjU1V3ZMS3E5bUJJTkJyanNzYVVNMw?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-26T21:13:46.066653Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
       "id": "1807cef03936095bbd1d4e1c",
       "publishedAt": "2026-09-24T08:28:49Z",
       "title": "Terungkap, KPU Tak Verifikasi Suket Gibran Lulus Perguruan Tinggi, Bawaslu Mengaku Tak Dilibatkan - Suara Merdeka",
@@ -1917,14 +1963,17 @@
       "description": "",
       "primaryCluster": "digital",
       "clusterIds": [
-        "digital"
+        "digital",
+        "sipol"
       ],
       "primarySubcluster": "doxxing_intimidasi",
       "subclusterIds": [
-        "doxxing_intimidasi"
+        "doxxing_intimidasi",
+        "kebebasan_ekspresi"
       ],
       "matchedQueries": [
-        "Doxxing & Intimidasi"
+        "Doxxing & Intimidasi",
+        "Kebebasan Berekspresi & Berpendapat"
       ],
       "collectedAt": "2026-09-24T04:57:07.501393Z",
       "reviewStatus": "Belum ditinjau",
@@ -2318,6 +2367,29 @@
         "Doxxing & Intimidasi"
       ],
       "collectedAt": "2026-09-25T05:01:57.912273Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "ff04312064e6c918cbf29da5",
+      "publishedAt": "2026-09-23T07:14:27Z",
+      "title": "Wajah Kewarganegaraan di Era Digital",
+      "source": "Kompasiana.com",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNeFIwYkdXbHE0ckFpRlV2Z0FxalVYX2hPQTZUSk9wb0JWdGJHTEhOQ0VvLUZDM1FDME9Eb2RnRmV0ajZJOGcxcmdWU2tadGw3ZmJSM3dQWGxQRE5vUDNMUmxPcHc1UVlzNEM1aG1fOFlrdVh0cWNwa1hONThhWU5vNGRIc05tREhEb3M1Qk9ZeHVtWVlZR1pzOWkxZHhDd21aQXVhRWZUOGNScVB5?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-26T21:13:46.066653Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
