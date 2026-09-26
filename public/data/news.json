@@ -1,15 +1,15 @@
 {
   "meta": {
-    "generatedAt": "2026-09-25T21:38:04.473739Z",
-    "lastRunAt": "2026-09-25T21:38:04.473739Z",
+    "generatedAt": "2026-09-26T05:04:22.344111Z",
+    "lastRunAt": "2026-09-26T05:04:22.344111Z",
     "startDate": "2026-01-01",
     "refreshHours": 6,
     "mode": "incremental",
     "feedsOk": 16,
     "feedsFailed": 0,
-    "totalStored": 1625,
-    "totalPublished": 1625,
-    "newArticles": 7,
+    "totalStored": 1630,
+    "totalPublished": 1630,
+    "newArticles": 5,
     "warning": ""
   },
   "clusters": [
@@ -136,6 +136,52 @@
   ],
   "articles": [
     {
+      "id": "b3e680d85d3ce03be2ef88c3",
+      "publishedAt": "2026-09-26T04:35:00Z",
+      "title": "Perkuat Brand Awaraness, TACO Dukung Pembuatan Film Filosofi Teras oleh MD Entertainment",
+      "source": "olenka.id",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxONTZ1UU45ZGEzVkZqamhBUVRaMVBWaGxtcVItcklsUVpEVEFSOVh4NDlBVUxrMXAxb05sZWFKX3dWcTBtNUdGbGE1bWRRWVVNNjF4VkMzVUU1TWpXZHBjdHBpcXlDV0VDQXFCV0xkZFR1Wm53bHpnY1ZoNU5EdjBlMTRzRnpoUmIzZ3kxQ0Y5TklCTlNWZDR1dEI1X1Fwc0p0cldpWHdYWdIBrAFBVV95cUxOUmpNZE1kVUl1Rk1YaE1uNmxaSmh6RUlmWWhFVnZXSnZBTTJteHVla3c0TldiOXhuVmdBbFduNmJQcjB3RjlMUjdEZTFjLTBWc3N2UEQ2VVF2ZnBtdjAzUVVNeVZDeDZWQzVVcHpYX0hHVlhzNU4wLWQ1cVJubDZqSlY0REwxdUl6TnQzN05lTk8wcFFiMzNHMF8zaTBIWXhhLXZCZ295NktBcWtm?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-26T05:04:22.344111Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "7368c75e1fae423fc5f5daac",
+      "publishedAt": "2026-09-26T01:00:00Z",
+      "title": "Seniman Multitalenta, Guruh Soekarnoputra Meninggal Dunia di Usia 73 Tahun",
+      "source": "blokTuban.com",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPazljTkQxOURLYmNxYUxQQjgydUpQdl9RZXczTGo0WXFaTUR3X3NlX1oyY19DejR3XzM3N01JbTFQaWFOZDBXMUNfWHRlSXFzSDN0Snc4V01qdEd3cUdfZWxwTFRzbHktN1VUcGc4MnQwb2hqbHNGc3RmNEJsalBnVVgxSVNWaXJSdVZTbm0xSXVQYVp0djVQd1hvY1NzM2Z0cDdjLXBXbzZMREJIZEhBTVg5aw?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-26T05:04:22.344111Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
       "id": "1d5f04bbc57ee4dfc7d78bc3",
       "publishedAt": "2026-09-25T19:04:04Z",
       "title": "Menimbang Kata di Tengah Kebebasan Berpendapat",
@@ -154,6 +200,29 @@
         "Kebebasan Berekspresi & Berpendapat"
       ],
       "collectedAt": "2026-09-25T21:38:04.473739Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "fc910291221393a0ac62a1a1",
+      "publishedAt": "2026-09-25T19:04:04Z",
+      "title": "Menimbang Kata di Tengah Kebebasan Berpendapat",
+      "source": "suara usu",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFA0QlZSNGJmMk9EZXdXTVpDNFM2YWh5ZVFXZHZILUUyQnRxdmJ2enlXdXpNNF9MMmJkeWJ3dHhFZHdHSmVPT2Vwa19HaXVvaVBkSTE0SnpybFNINGxhY2d2bGNrT3JxNGtlNXRWcFV1b2ZWVmMycVJqV3V3?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-26T05:04:22.344111Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
@@ -1283,6 +1352,29 @@
         "Sensor Konten"
       ],
       "collectedAt": "2026-09-23T21:32:39.032579Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "681bdcfe62f6eb2b970915bc",
+      "publishedAt": "2026-09-23T19:47:00Z",
+      "title": "RUU ACPA Wajibkan VPN Blokir Situs Bajakan di AS",
+      "source": "Readers.id",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9LeFFEcWF1Vm5iYlBRVnk0V2gzZFM1cEF0WUZwTmppYTN6X3lRc2pFYlFDZURPRlF2SUF1QzFCa2dxZ1VTQVZqMFlKQ3l2enZUX1dnMEpOYXpMTDRUcXlqTkdB?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "sensor_konten",
+      "subclusterIds": [
+        "sensor_konten"
+      ],
+      "matchedQueries": [
+        "Sensor Konten"
+      ],
+      "collectedAt": "2026-09-26T05:04:22.344111Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
@@ -26683,6 +26775,29 @@
         "Kebebasan Beragama / Berkeyakinan (KBB)"
       ],
       "collectedAt": "2026-09-25T17:15:53.729934Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "07f72f98a1af05be443df810",
+      "publishedAt": "2026-08-11T07:00:00Z",
+      "title": "Polisi menyelidiki dugaan penistaan agama dalam festival musik di Ancol",
+      "source": "kupang.antaranews.com",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQdlk1N29nZ0ZVQkFrZVo1T0g1NmVPMUZaTHFQbldxb2tWYlNpbzdvWkxuMU5DcEdaX0F2REZMMDVrZDgwak5nWEZrVTNORDV1TjNoS0FqWkt2eUVZRDhUdnVtV2RUNUJFYWFPMV9DVGFla2dxVG5FTXZ2U0hieEQ2M3pCb3BrMkZsWUpvdE4xTXdJSDMtNHVwSTAtM01PcGRBdXo0b2hVNDZPbm1jNFVqZ2VoX2NCdw?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_beragama",
+      "subclusterIds": [
+        "kebebasan_beragama"
+      ],
+      "matchedQueries": [
+        "Kebebasan Beragama / Berkeyakinan (KBB)"
+      ],
+      "collectedAt": "2026-09-26T05:04:22.344111Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
