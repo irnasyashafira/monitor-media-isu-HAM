@@ -1,15 +1,15 @@
 {
   "meta": {
-    "generatedAt": "2026-09-26T21:13:46.066653Z",
-    "lastRunAt": "2026-09-26T21:13:46.066653Z",
+    "generatedAt": "2026-09-27T05:23:32.001327Z",
+    "lastRunAt": "2026-09-27T05:23:32.001327Z",
     "startDate": "2026-01-01",
     "refreshHours": 6,
     "mode": "incremental",
     "feedsOk": 16,
     "feedsFailed": 0,
-    "totalStored": 1668,
-    "totalPublished": 1668,
-    "newArticles": 3,
+    "totalStored": 1678,
+    "totalPublished": 1678,
+    "newArticles": 10,
     "warning": ""
   },
   "clusters": [
@@ -135,6 +135,144 @@
     }
   ],
   "articles": [
+    {
+      "id": "711b87e67377117e72abd5c4",
+      "publishedAt": "2026-09-27T04:54:15Z",
+      "title": "Analisis – Sensor di Tengah Sorak-Sorai: Film NAZA, Ancaman Pencabutan Kewarganegaraan, dan Pembungkaman Partai Arab Menjelang Pemilu Israel 2026",
+      "source": "gazamedia.net",
+      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNVGw5bzdUMnB2dlg3R3NwN21PR1pyYlpFR215dTJxXzJGSk5tZmZmMDNjOVRfcFY2ak9WX2d4M1FWLUNWVlFIQUQxaE1mbWtCSWhpVjRBWmoyWkpVdW93c0l3ZW9ZRmNBV1RhTkRjVWFvTFhGVGdUTGRQNjVpblpZclduZWFUd19weUo3VmVvS25QN2VBXzJPSnhxRFhVc3VEWHowUktnckZDalpTRENfNmxJQmtDYmFYZTNWcVNXY0V0WkRNODMzWmVCenhsUVpmYWhGb3A5QVB3WjkyUTFOV1ZQMU5oTjBmemtpdHhCT2VoNS1GWmc?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-27T05:23:32.001327Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "81153ea1a5c2038e57602549",
+      "publishedAt": "2026-09-27T04:05:02Z",
+      "title": "Kelebihan dan Kekurangan Heartopia, Game Simulasi Santai yang Lagi Ramai Dimainkan",
+      "source": "Industry.co.id",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQWnkwZE5XYlZzTFE0NXp5Yk5CdWVBamVwdnFlZEthbFVPUTJuSzlvWUdTblVQcHc5NUkxWWJuTVFtc3l0UHhSSDBPX0w2Zi11SEN6YTlzWDBxNnlnSWxoSXJEcmhnS2tzQ19pVVdiZ1l0Vy1icU5iWVU4MjExNTFiS0xhOWVLejZsVERfWjVTYmRrQWhGWDUxeXYxeS03Y1FkanZLMmdNREFGazJ6dXdobUNkazNGUkh0eG9tcA?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-27T05:23:32.001327Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "1065838220adceb18111be0e",
+      "publishedAt": "2026-09-27T02:20:03Z",
+      "title": "Muhammadiyah Desak Pemerintah Bersikap SSoal Polemik Buku “Memburu Muhammad”",
+      "source": "Minanews.net",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNZC1QQkUxck16ZFltUE9QbUVVbXhOYVFmX1hBYzBEbTRMcEVsQ1lrdGs5Wjl2NmlRSFA2bkxEMGdObFhPU2ljTTJoY3VfSUJXYnl0SF9rZVFienVQMnZ3TXNNc2VUaHczMW1GcU9ZRHkzVGplVElTbjRfUzFhTDlOOVVyWGZjZ1p1R18wT3lMdnRYemhzSGVsT3VSRk0?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-27T05:23:32.001327Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "2d4408c0fc5b8aab6ce69f3f",
+      "publishedAt": "2026-09-26T23:17:52Z",
+      "title": "RUU Penyiaran, Legislator Ini Sebut Tidak Batasi Kebebasan Berekspresi",
+      "source": "Halo Semarang",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNd0pYQzBLS1YyUFVrdDZnbV9xMDhUV25meDhFbVp2SFI3UnJCVjg1enlPNnlVZGlkWE1LdjQ0azNzT2xJWm5jZ0V3cll1RVpVT3QyX1JWTzV6MVZVTGVZUWV2NVRUWlNBZG40X045SG80bXlqSzJ3Zno4VHY0TkZxWGtCazdpazctSjROMGF2ZDZyUnkwdGlyUk1B?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-27T05:23:32.001327Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "78f81f141137105f882a0ae4",
+      "publishedAt": "2026-09-26T23:15:57Z",
+      "title": "Pembahasan RUU Penyiaran, Legislator : Memastikan Demokrasi Tetap Hidup",
+      "source": "Halo Semarang",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPNTFyWnQySzZ3c1l2NzZuUnRNUmdSR0czZUxpc3Zzd1B0Zk9JYXROcGs4TWlOa01vSjlrN3BSdi1LOExneGR6OXFfYmRHc3dtaFNuS180Z3FFYzZaWjJ6QzJxT1g4RDNDelNLX2FBdkowcDVqNndiQk1FNEtqbEwzZ0VMLVBHclNmV1p6M2ZzSkxYekVZRExQSw?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-27T05:23:32.001327Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "d55f3c5c0d97649b86566217",
+      "publishedAt": "2026-09-26T14:56:00Z",
+      "title": "Merger Paramount Skydance–WBD Disorot: Kebebasan Bersuara Terancam",
+      "source": "Orbitindonesia.com",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxORjlHMTZnRXRCVl82dXlpUUpLMUVNa1FCWVRhNjhiRHdxUkVxQklNNm1zUTlkUWhXX2RlandOR3g1czA5RjVkaTlTRVNkUjhDNG5ESERveEpKaEFDWllDa0Y0REhfajRZakdidTFpaVJnenNiT0UwZjN2R1BmT0lNYzZTYzdJWmFMSTVqX2ZNaWFXWjJ2LTdQeWtGR3pUNjA3RmpCWUlQVXB5SEl0UEZSM05TNFo?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-27T05:23:32.001327Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
     {
       "id": "ff3285d1b0913f71be67139e",
       "publishedAt": "2026-09-26T12:11:00Z",
@@ -683,6 +821,29 @@
         "Sensor Konten"
       ],
       "collectedAt": "2026-09-25T11:55:15.574550Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "1cc36da528287e0ca48caaa3",
+      "publishedAt": "2026-09-25T07:00:00Z",
+      "title": "Abraham Sridjaja: RUU Penyiaran Tidak Batasi Kebebasan Ekspresi Digital",
+      "source": "NETIZ.ID",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOTWZNRVAxS3FfUWpxdEJnOFZUODhuUWhqQTlrcElFOWFkbGt1YlVmaXQwN0dfU1ZFYVNzX2RXMVRheU1Ud3JsU0wzNG1wakZzb0Z5cmFueU9BOXBzdmpZZHZXVnk1T0I4azZvU3ByWDM5eWpiVEdlNjhnbnZPWHZTQnlDck42MVlJN21VOEpKM0VMM2xKYzZPdmlkS01Wd2hEWlQ3RQ?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-27T05:23:32.001327Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
@@ -1421,6 +1582,29 @@
         "Kebebasan Berekspresi & Berpendapat"
       ],
       "collectedAt": "2026-09-26T11:29:41.447412Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "d28d252dae0e4beb17ee6b58",
+      "publishedAt": "2026-09-24T09:00:43Z",
+      "title": "Influencer Mawas Diri di Tengah Konten Viral, Kreator Blitar Pilih Berpikir Matang Sebelum Unggah",
+      "source": "blitarkawentar.jawapos.com",
+      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQS1pORzBQMERFZW9TdzVvMlRjSHlwdzVONXV3X0hGRDNaZVZmWktwWjVVQ2NzTUszOWtLUUpVbjVuOVp3NU45YUZ2ZlRxWHFrM3VXTDZuVzN3dnNVWG5fa0N3SDhmbWw4MVBFUkdYanhhWEE5emk1S0RYeFU5V0M4c2ltQ01Zb0lwcGhLV3dBZzBMOUc5djEzUzNpMHVfa2JPV0FtbnMzNWEwNndOSFJSLWZaTE9DZEI4UWw5QnFmYjl4WlVsWVZwTnQ2ZFk0R205MGxiUVhjMlJsWnVORDdQNUxCc3owMm_SAewBQVVfeXFMT1FaM3gtRUp0S01DQVVPcC12SGFwemdJVzVRYnlRZmNLU0tWU0FTclliZ0xURXNtRy1hZGRXNV9QUV91Z3JuMC1vdjBid0RiUEs1RGZfVzMyT3M5N0ZTVFkyRHI5eFkwM1FmN29uU3A2N0xtSDVaM1RPeHFiYXJVS2hXVk1GUUc3WFZPRnk1bWdka18zdjZJTXBhR3hJLVIyZ3ctWjN0VGt5SGxENl9TZ1J3MWdfV2V6X29oenBISmRxMmpRNUtNc012QzBNcnpTc1RuNW1DWnc0S3dHMHJMc2JfTUwxRDhtdzFpN0M?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-27T05:23:32.001327Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
@@ -27105,6 +27289,29 @@
       "reviewNote": ""
     },
     {
+      "id": "8acfe2f435a70732538de924",
+      "publishedAt": "2026-08-12T07:00:00Z",
+      "title": "Dugaan Penistaan Agama di Festival Musik Picu Kemarahan Publik, Dirut Ancol Didesak Mundur",
+      "source": "Beritambang",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQaUR2ZjhiME5yM0F5VlJoX092R0VmUFkzZUtXYklkWkRkRmEydEtQdy1CbHBDLWJkZDhDcVhVWWl4ZWx6MDJpb0dTWFhBUTRvR0xXVlNzU2NaNWlvVVBsZEJQQlhsSzR0Q2JEVV9vOGF6TG83T1ZWMmhOM0o2X0FmQkFPUmFOdlpjajhQWTVzNkJnMWd6QVhGTWJ0dE5Zc2wwWVZDRWlLOE9xSGlEaVR0N0FLZHk?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_beragama",
+      "subclusterIds": [
+        "kebebasan_beragama"
+      ],
+      "matchedQueries": [
+        "Kebebasan Beragama / Berkeyakinan (KBB)"
+      ],
+      "collectedAt": "2026-09-27T05:23:32.001327Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
       "id": "c2a2cb9bac06eccab69a3015",
       "publishedAt": "2026-08-12T07:00:00Z",
       "title": "Dua Terduga Pelaku Penistaan Agama di Ancol Ditangkap",
@@ -28020,6 +28227,29 @@
         "Kebebasan Beragama / Berkeyakinan (KBB)"
       ],
       "collectedAt": "2026-09-04T11:23:07.245231Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "90797225579c849416d9768e",
+      "publishedAt": "2026-08-11T07:00:00Z",
+      "title": "KAHMI Sumut Desak Polisi Usut Dugaan Penistaan Agama dalam Promosi Miras Newport",
+      "source": "republika.co.id",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPUGpJaUZfOWs0ZXBVUTB6dWlULWRwVmdXa2Z4WFJxZkdTZEstcm0xN3l6SXZfRFdTMWZNZV9US3JzUTAxREc3dGxWRzlUMEFycFVSWnE3WUN6aXl5TllTckZvelJKOXRMV21Ja24zS2RrVG16ZXFibkphanpsQTlMYmJGUVBEcm5iMkJiOTRYbGQxQll1UVVzOVVCYXZHbHZZSzRoN1YxRWFiNUpDWEJnajhSUUprUHBoTHk0OXZCQWE3bXliUHBCNVBR?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_beragama",
+      "subclusterIds": [
+        "kebebasan_beragama"
+      ],
+      "matchedQueries": [
+        "Kebebasan Beragama / Berkeyakinan (KBB)"
+      ],
+      "collectedAt": "2026-09-27T05:23:32.001327Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
