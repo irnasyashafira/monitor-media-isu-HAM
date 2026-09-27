@@ -1,15 +1,15 @@
 {
   "meta": {
-    "generatedAt": "2026-09-27T17:00:41.557910Z",
-    "lastRunAt": "2026-09-27T17:00:41.557910Z",
+    "generatedAt": "2026-09-27T21:23:41.900600Z",
+    "lastRunAt": "2026-09-27T21:23:41.900600Z",
     "startDate": "2026-01-01",
     "refreshHours": 6,
     "mode": "incremental",
     "feedsOk": 16,
     "feedsFailed": 0,
-    "totalStored": 1700,
-    "totalPublished": 1700,
-    "newArticles": 10,
+    "totalStored": 1706,
+    "totalPublished": 1706,
+    "newArticles": 6,
     "warning": ""
   },
   "clusters": [
@@ -135,6 +135,75 @@
     }
   ],
   "articles": [
+    {
+      "id": "21b96e8ce7346df8891fa821",
+      "publishedAt": "2026-09-27T20:25:23Z",
+      "title": "Misteri Luka Tembak di Tengah Tawuran Makassar",
+      "source": "malutpost.id",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNNExXNEVKdnZFNThWVVp5THRhVjdSUHNJcGpJcU1oQ0o5TUx4VGNwdlBaUTRLUjhPSHQxUFZMU21pS0IzaUgwMGRhSzN3OF9IYUdEOVBjcVdaSzVWdVNHLURlX0VtQTN1dWd5RXJuajI4RkhaR1VXWW03NFAtWGhQNQ?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_berkumpul",
+      "subclusterIds": [
+        "kebebasan_berkumpul"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berkumpul / Berserikat"
+      ],
+      "collectedAt": "2026-09-27T21:23:41.900600Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "7a7b0f05b094c4b8e3771710",
+      "publishedAt": "2026-09-27T14:15:59Z",
+      "title": "BMX, Skate hingga Mural Warnai Event di Tembelang Jombang",
+      "source": "Kabar Jombang",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPdDZYMFNNTEJPeXM1NE5uN3RwQURnZ19hZENpckxNS3ZsTVQzdXFLcEQtMjNFQjhCMDhkT1pHWmQ5emdDVGtqYzFFUEs4M0tNN2x4clRPN0VPZ0NpdTRzMFZ2OXN1RFBrMkFNU1l6cE5QMFB3LThPbDdLNERoRjlVLTl3WTJ2S3U0M2R6MThCZ0F5b1NV0gGaAUFVX3lxTE1mWVVxRUthUW4yTjdWRHdrMmdpNEFfeE1uQkx1Y05PYVp6clNBN01IX2ljMGtDTHV3R3FLS3pLc2hXZXp3UFNfRXZxa0dubFhiWC1nZDMwMGNKQzJUejRYQTg0LTJoTjJZbmZ3UDJhWmJiclVNQmp5c1l6dUZBUnJJUmRMMmZSTHZmU0gzZEJrbGtPNXJpUDQ3Q0E?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-27T21:23:41.900600Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "63d0278b1367cbe457c27eed",
+      "publishedAt": "2026-09-27T12:58:59Z",
+      "title": "Sengketa Belum Final di Dewan Pers, Laporan Bupati TTU Terhadap Wartawan Dinilai Prematur",
+      "source": "FigurNews.com",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOTktrNmFhRGttcXg0eVlQWlVoYm5FaUxWTGYxOU1WRVdZN05qaDhwbGVld0I5UFZucmNvbk94aWo0LWhmcXdCMHhYQW9xZHpKV1ZiTzRQdWVTQjZEMTQwQ1VTRU9RVThjVzY0Rjl3QUZRaUdrS1FRMnNFOFl0V0JhRmFiZlh1SVRIamVrNW44dUNSc2U3R3VoVjhNcEdBcHlsbDJIbnBvVXk2Qy1TcG1tZ3JkcUszcXZRbTFmNXRDOVRKd3dYNHc?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-27T21:23:41.900600Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
     {
       "id": "6f1be9426416950b3b9099be",
       "publishedAt": "2026-09-27T08:45:00Z",
@@ -522,6 +591,29 @@
         "Kebebasan Berekspresi & Berpendapat"
       ],
       "collectedAt": "2026-09-27T12:07:52.036604Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "ad8f9b3f7eb13de30b8876d3",
+      "publishedAt": "2026-09-26T15:05:04Z",
+      "title": "Dave Laksono Ingin RUU Penyiaran Adaptif Hadapi Ledakan Teknologi Digital",
+      "source": "Golkarpedia",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPVmstbGNJdmF6ZkNpUWNhN2pXOTI5cWpjM3JpcmlscGFFUjJsUldyVUp1XzUxZkJRVmdyRjNFa0Y5STFOS25DdFdNUTk3aG5MakYwc1ZaUHVYaTJ3N2M0ZXNIZVBhSm9IR2FlQmNzRzVVakYxNlJjd3BxZm9DMEw4NE5CUnVSTlktZU5sZVVXTnVXUlNHZmdDamZPb2VKR3c?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-27T21:23:41.900600Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
@@ -1097,6 +1189,29 @@
         "Kebebasan Berekspresi & Berpendapat"
       ],
       "collectedAt": "2026-09-26T11:29:41.447412Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "36a8f2f3d43ab719343c94ae",
+      "publishedAt": "2026-09-25T10:50:00Z",
+      "title": "Bawaslu Kabupaten Tegal: Persatuan di Atas Perbedaan, Wujudkan Perdamaian dan Demokrasi yang Berkualitas",
+      "source": "tegalkab.bawaslu.go.id",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOREttb0JqbXV2T1Y5c2l1OUNxajRGMVhZdEJHbXNmcHVydDR2azZzWW1uaURlUE5XQVpSZVpCMkNNeGljbzVLdmg4aXVESFotVkoyT1RSVEVNSEpPVWxfNXFQTEdXSG1QZWxMNGxuZklZSEhnZEoya3dBbmVOUXVQbWFvN3hWa3RoYlMtaEdFeU1ReGRFSzEtcF9NZ0t2RDdJSjdiX1VDRnZid1Qtc0pXSFA0czIzS3ZlWkFvZFB4dFRXb0RvWjdv?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-27T21:23:41.900600Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
@@ -28618,6 +28733,29 @@
         "Kebebasan Beragama / Berkeyakinan (KBB)"
       ],
       "collectedAt": "2026-09-02T21:06:11.545672Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "96dd6ffe0c1ca59ad4bad610",
+      "publishedAt": "2026-08-11T07:00:00Z",
+      "title": "Polisi Dalami Dugaan Penistaan Agama di The Sounds Project, Promosi Miras Pakai Hafalan Al-Qur’an",
+      "source": "Kaidah.ID",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQN1gxSDhhYUFTblBuY1BZQ0hocnVxai1udGRuYlNPSG5iX3IyZl9UWC1FSkswZmdKb0EzYWZGTW5QWDRyWFlMb1NyRVNVcUU0SDE1OGFFNEkydnV3cE5TVDhQNE1wYXB2ZnJ2VC13Rkw1eHptOGpROHZkZ216Z1pOVEhIYmxUOWpTdmJBRFhRR3RXMUU5UkZ4UGlteVM2REJNaDdxLUNtS0xPXzF5eTFnS05QRE5uN0JCeXdPWm5OTERsQXJhcXJwSkZ6VWw5VmM?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_beragama",
+      "subclusterIds": [
+        "kebebasan_beragama"
+      ],
+      "matchedQueries": [
+        "Kebebasan Beragama / Berkeyakinan (KBB)"
+      ],
+      "collectedAt": "2026-09-27T21:23:41.900600Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
