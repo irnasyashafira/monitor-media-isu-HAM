@@ -1,15 +1,15 @@
 {
   "meta": {
-    "generatedAt": "2026-09-27T05:23:32.001327Z",
-    "lastRunAt": "2026-09-27T05:23:32.001327Z",
+    "generatedAt": "2026-09-27T12:07:52.036604Z",
+    "lastRunAt": "2026-09-27T12:07:52.036604Z",
     "startDate": "2026-01-01",
     "refreshHours": 6,
     "mode": "incremental",
     "feedsOk": 16,
     "feedsFailed": 0,
-    "totalStored": 1678,
-    "totalPublished": 1678,
-    "newArticles": 10,
+    "totalStored": 1690,
+    "totalPublished": 1690,
+    "newArticles": 12,
     "warning": ""
   },
   "clusters": [
@@ -136,6 +136,144 @@
   ],
   "articles": [
     {
+      "id": "3f5b01c81226245625961acf",
+      "publishedAt": "2026-09-27T08:28:00Z",
+      "title": "MNC Group: Jusuf Hamka Tendensius, Ingin Menjatuhkan, Menghasut, Kami Siap Tempuh Jalur Hukum",
+      "source": "SINDOnews Nasional",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQdkdBMmNaX2hOSjI3U3ZPek1RWXNHTXpVUXNDYW9OUE15aTJDZW8zT3ZkOGNUdC1Sb3NHM1FYVVFscl9fQm80endCdHhXLUJHeTE5LXdIcGV4RUdOY0Q2Z2d5anR1ckFHNHJDVm1md2gtV19mTDE0YmhKWnVRNlVXbWZPQWg4MWl2dXdXbEQ4QWJzbFlrbmpDZlVKTE1BZ1ZRaTJlU082RkRMb0pHTTY1VlJiZE0tYVkwZ1NWdjdUZmFDRmhVVkU1LWdLSlUxb3VNR3oxNkFhUjF2S1RKYkJtdDAtTU3SAeYBQVVfeXFMT20ybEJNcGhxOF83M0ZKc2c2VTZxOUsyTlZMYjBPYkJLOHlMdW42c1NGS0tPTjdIdG5ua1o5VWlYM1J6dVJvRFlOVVBBblRRbG5wTW56MndDdDFzaW82aFlNdkozSkE1VzhrN3hiRXgxMGpwUVoybWo1T0Q1SXZvRDlfQUI4bjI5N193ZDYxLU1qbGtOb1V0OGU5bGRCcnltV1Voa3FySGl4bVI4ZG1HYWRaclBpNHJzRTlkU2lEQzdyWkhhR1ZSUkg5amhnaUQwOG02cnFGZUJhMTEwRkxoZ210MnVOZkE?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-27T12:07:52.036604Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "b9b2db31d1e605fe8262daae",
+      "publishedAt": "2026-09-27T07:27:49Z",
+      "title": "Senator Dailami Firdaus Bereaksi Keras soal Buku “Memburu Muhammad”, Polisi Diminta Usut",
+      "source": "cakrawarta",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPeTF4UmQ4WTIwMks1VHFHX1d5R01kWWh0RWU5M3pfTGpjY0lZM1h2c2pBMmFIN3BURk5WUGJVdjNqa3I2andLbHFDT0RHcElITFBRNkFNa2dkOWI4cEtXTGxGaUJ5TVg3MldNN255VXhMdFd5RmVJUU92SEY5THhLcWZYQmphSTZSYWhxR21OWUxvd3hVLVZMenp4bmVaTl9GMVF6NG9YbVF3aWZ1eFVuU2NMUzJWUExV?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-27T12:07:52.036604Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "80e519a9cffb4154eb0e0b33",
+      "publishedAt": "2026-09-27T07:18:28Z",
+      "title": "MUI Desak Polisi Usut Aktor Intelektual Buku 'Memburu Muhammad' MUI Dorong Investigasi Buku 'Memburu Muhammad': Ini Bagian Kejahatan",
+      "source": "supernews.co.id",
+      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNcUJ2Wnp5TFM3b0FZSGNxT2FBV1FxM3lrVTF5M1BoSUxkRFpMQUZBc1hIdG1IZXhCMHhmVGdFVXVJbmwxOWo3cmtlaHVtMWhSM1RiTG9nZW1xUmNyRXMxNXhOYk9tbGVlRzJKbkd5MXNHRnIxYnRFQkRKTmFFWkxfSXBLNFdRcjctRlp2VVFrdm93dFVaVk9mYlg4NEEtQ1NVcmpxQVZabVdkU2U3RFQxTkN3Zm1EOHZLOVZNWExBVEZTR2dMZlZnSGJTNUc1VTJQZV8yaEhGZVgxNTBBcGVaR1puSk1IVkU?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-27T12:07:52.036604Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "701d16cb226389324ec590ed",
+      "publishedAt": "2026-09-27T06:13:00Z",
+      "title": "Senator Dailami Firdaus Kecam Buku Memburu Muhammad dan Bukan Perawan Maria",
+      "source": "gonews.co",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQZjRLcUFzSFdFNkhKYmxRWE9EOTBseVFrX3pEY2RUWm5RUzhIRy1VczJJQ0NPZVQ0bDEtQTVxRTBNX1ZuU0lTbnZZVGpySTUwekRucmdqbFppcFFWWDFqQWJEbzF1NlNNcVBZTmVrYkQyb1NQTWcxUzUxaUhGY3l2WlhGSXZPdmo5SmYtUWhCNmxUaldFcUY0S0ZPVUd0Z0VSVUs5M2k0YUh0Y0pDVzh1b1BpZzE0SlNnUzBOVw?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-27T12:07:52.036604Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "667cb01af2aaa422b927665f",
+      "publishedAt": "2026-09-27T06:00:00Z",
+      "title": "Pandji Soroti Ruang Pendapat di Internet: Kritik Jangan Dianggap Tak Cinta Indonesia - GenPI.co",
+      "source": "GenPI.co",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQZlJhOWtkRjRzUmVha1BFQlpvMlhvM1VZamNqYkNFMTQ3SWtNSGhuSnB4ZW1JNmJWTGxQWDZvRG9LYWxxT3kydFBMQkM2N0c3TnJyZDh0R0VKNHJ3RmJsaVJqUHVFbjJ3T3k1eFRzWUdtNFZqXzZkTHd6dV9aRnNFZ2E0d0I2UUwzTVdTQ2F0alZzM1BiVHowb1kwdl8yaU9LZC1YVXdwbE9OWWYxS1hrR0Fqa2trV0FWaUZ5NNIBwgFBVV95cUxPTXoyMVJjeGRVdkVWdnNMNjJYQXloZDROb3U3NUJJc2RvLUtBeVhyOHpnNFlBSm1ZZDdZcDZtLW1LYks5TEM1dklPYUlkeEM5THphajFJZ291VFNfWFNJR0UtejBvaGh4aFZUcm5aTXRzbmUwUmVMSDZ4X3hJTG54dTRPajFGZ2xnZGJQaHhma3RFc1VjczBZaHV3WFU2bDctdHRHX05lZ21KZTdKcEVxRGlQWVFDcS1pVXAyNmxfdFR3QQ?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-27T12:07:52.036604Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "dc7468771d30aa2ad921cbc3",
+      "publishedAt": "2026-09-27T05:40:52Z",
+      "title": "Demo Mahasiswa dan Batas Kebebasan Berpendapat, Sejauh Mana Hukum Mengatur dan Melindungi",
+      "source": "suarausu.or.id",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNTjNBaElFUXlVNEJ5Z3B1UXVCM2lZMnV0VmU3amFncmpIMDlkMUVtQXBELWpOVTRHNjNUNVU5dnYwMWVzYTNRenlUMEdRVU1pN1BvUTc5czRvSjBCTmMxSkY4ZldsWWtNWXJGNF9LWnFUVHc3cnBpUUZENUZWU3o4MXVOdU9aanJyUklseERNa1R6MXhkQnJ0UWxlRVR0MkNXNXh2TXZSZ3ZhbzQyOHQ5MzJ3?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-27T12:07:52.036604Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
       "id": "711b87e67377117e72abd5c4",
       "publishedAt": "2026-09-27T04:54:15Z",
       "title": "Analisis – Sensor di Tengah Sorak-Sorai: Film NAZA, Ancaman Pencabutan Kewarganegaraan, dan Pembungkaman Partai Arab Menjelang Pemilu Israel 2026",
@@ -177,6 +315,52 @@
         "Kebebasan Berekspresi & Berpendapat"
       ],
       "collectedAt": "2026-09-27T05:23:32.001327Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "391d2c9a1fc1eacbcb95d2c5",
+      "publishedAt": "2026-09-27T02:51:51Z",
+      "title": "HARI KEBEBASAN PERS SEDUNIA 3 MEI 2025 : Pentingnya Kebebasan Berekspresi dan Akses Informasi",
+      "source": "infodesanews.com",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPZUVydGhicDVaeVljdWRVWWpfTV9LN2FtVXFWY1h6Sl83S0o1VW50M25hMC13aURZaDkxdmpFZWVwZ1RnN3IxQnBNYU9KZTlNY3hTWmM2RjBnVVZBdWtJLTlqMXFqcWYteXJYei1RUGctVnp0amhkUUktM2ExSGRzbTBaR3Fic1BBZnI0Tzc3NXR5S3dKQ2M3cjZqZ0RXT01BQlFXMkFoSG9yODBGTC1mT21zYVJLeWF2S1lLR0pVMGNKUTNndFE?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-27T12:07:52.036604Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "f8c9556dd8621c858272a0b7",
+      "publishedAt": "2026-09-27T02:21:00Z",
+      "title": "Jelang Dua Tahun Prabowo, Survei INES Catat Kepuasan Publik Tembus 79,3 Persen, Lapangan Kerja Masih Jadi Tantangan Terbesar",
+      "source": "GoRiau.com",
+      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQdGx4VFo3Y0lhWTExMjJuNTh5c19OdkdUNVMya3BkdERGYy10TmtkaVNwdXFiWmNjOEJXVHc3TG0xQTd0dU1HNWQ2dGUycFc5N0NMcGtzaVBkY3lqVy1HcUZqbWM3UjRNS3FRYmFMdHlKM2duT2x5QkNIZGpJZUVhbGhvcktNd3ZYM3RXWTR1Qm45OUlqODRwUWVidlp3bmdEbHdiM01Oc1hHLUg2aUJ1NFlpSjhoNGtCVlE1V0tyR2pBZnM0WmRKb2p3WGV1NkxVeC1pbEtvek1CemdsWU51SHAyTDByeXNvNDFWLVdYRmN6Ymc?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-27T12:07:52.036604Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
@@ -251,6 +435,29 @@
       "reviewNote": ""
     },
     {
+      "id": "dad2808a6ca612ee2246db6f",
+      "publishedAt": "2026-09-26T21:11:00Z",
+      "title": "Di Balik Tirai Program MBG: Saat Perut Anak Bangsa Jadi Lahan Bisnis dan Ironi Pembungkaman",
+      "source": "NEWSLAN.ID",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNMEMyTFNlLUFOWGhhUGZGOFdwV2lwWWlUdnhqUlg5czg3QzIzN3AwLVpYd1NaRWtPZC1wZWFNVWNNbzNvbFVSRlhCZWxYZW1kYmZIckowdlc5aHlNRndYbzhabnRFN25vNXdVOGdpMXRFRjk2c2dyd1IzZEtzN203T0ZGeVpzQmVteFhjcm0tMmNoelJacF92LXhFMzFOVzNtMHFsdWV4NEFNZVlFa3pnUUZqaDY?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-27T12:07:52.036604Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
       "id": "d55f3c5c0d97649b86566217",
       "publishedAt": "2026-09-26T14:56:00Z",
       "title": "Merger Paramount Skydance–WBD Disorot: Kebebasan Bersuara Terancam",
@@ -292,6 +499,29 @@
         "Kebebasan Berekspresi & Berpendapat"
       ],
       "collectedAt": "2026-09-26T16:27:13.408576Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "f97a1c6eca04a24f1b1cd4a8",
+      "publishedAt": "2026-09-26T09:10:00Z",
+      "title": "Jurnalis Diingatkan Cegah Reviktimisasi Korban Kekerasan Berbasis Gender",
+      "source": "Espos.id",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQYnd2Sy0teFYzeGw5Y2lJODF5VFQ5akppRzR1TjdCU09rbFlVZG9IY25MbXpOUndEaUU4b284eDBHUWN0YnFnRjlUTnNqclhJYU9TeDdaM0xaQjBqNjVIQ1dYSG5jQzNKSFVKZzBycjM3NGs5MktVRUlIUkZPbWd6eW8zcEx6Wnpyb18zUzJmVlNTMnh6TWpCNUVETnJvT0RmM1F6SzhmWUZZcEFUcUdB0gGvAUFVX3lxTFBid3ZLLS14VjN4bDljaUk4MXlUVDlqSmlHNHVON0JTT2tsWVVkb0hjbkxtek5Sd0RpRThvbzh4MEdRY3RicWdGOVROc2pyWElhT1N4N1ozTFpCMGo2NUhDV1hIbmNDM0pIVUpnMHJyMzc0azkyS1VFSUhSRk9tZ3p5bzNwTHpaenJvXzNTMmZWU1MyeHpNakI1RUROcm9PRGYzUXpLOGZZRllwQVRxR0E?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-27T12:07:52.036604Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
@@ -499,6 +729,29 @@
         "Kebebasan Berekspresi & Berpendapat"
       ],
       "collectedAt": "2026-09-26T11:29:41.447412Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "4fa0c47758cd809478b19b34",
+      "publishedAt": "2026-09-26T02:13:47Z",
+      "title": "Pro-Palestina Siap Kepung Konser Ed Sheeran di Stadion Robert Kraft, Ancaman Konflik di Tengah Festival",
+      "source": "lifestyle.teknokrat.ac.id",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOSmJpOGJOcXN6Mm1nRjh3cnVxQml3bDVTX292SnRQOWg4VVVmTVZpamUtcDNCM0wxd2tqem9FcVpnb3YtemtBcTUzRkxjN0tCc0ZQeG1aN3ZBekdkQWpad01tNzRGLTkwa25zeDNBX3lKMTJNNGZjVDFRTFdyLTZqaThwNHAta3I4d0V3YXRSNmQ3T0dNZmdvNTF1OHByUkYyMjNRcmZ4a0lKZk4tMFJJQUJzOU4tYVRfcVBETGQ4WUJ0WWlHTk9HbDdNb3lHUGNOZGFz?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-27T12:07:52.036604Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
@@ -24271,6 +24524,29 @@
         "Kebebasan Beragama / Berkeyakinan (KBB)"
       ],
       "collectedAt": "2026-09-26T11:29:41.447412Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "f012546728c49c674d7a14e7",
+      "publishedAt": "2026-08-13T07:00:00Z",
+      "title": "Tindakan Niradab dan Penistaan Agama: Al-Quran Bukan Alat Promosi Miras",
+      "source": "bogor.voa.co.id",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQRW5lRGUtMlcwVVZwWWRMQ05vaElldU9qaTRRaHN5TEs4TElndUVyeEpXU3dPNmIwdFpWQXNsUmdXeXFWZS1jU3QtdlhLeWZ4Sl9JZXgxVnl0YXZFQmFJMl9wOTFvQkVCSXN6UnNzN2xONDFRUnBKZ08tMVU2Y3FXbkVvdHVWQ2NtY0gzX0xHZDN6aG54NERMNWpSUGhqTGJKS19Oa1JXUzBGcTA?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_beragama",
+      "subclusterIds": [
+        "kebebasan_beragama"
+      ],
+      "matchedQueries": [
+        "Kebebasan Beragama / Berkeyakinan (KBB)"
+      ],
+      "collectedAt": "2026-09-27T12:07:52.036604Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
