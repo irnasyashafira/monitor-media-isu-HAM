@@ -1,15 +1,15 @@
 {
   "meta": {
-    "generatedAt": "2026-09-27T12:07:52.036604Z",
-    "lastRunAt": "2026-09-27T12:07:52.036604Z",
+    "generatedAt": "2026-09-27T17:00:41.557910Z",
+    "lastRunAt": "2026-09-27T17:00:41.557910Z",
     "startDate": "2026-01-01",
     "refreshHours": 6,
     "mode": "incremental",
     "feedsOk": 16,
     "feedsFailed": 0,
-    "totalStored": 1690,
-    "totalPublished": 1690,
-    "newArticles": 12,
+    "totalStored": 1700,
+    "totalPublished": 1700,
+    "newArticles": 10,
     "warning": ""
   },
   "clusters": [
@@ -135,6 +135,29 @@
     }
   ],
   "articles": [
+    {
+      "id": "6f1be9426416950b3b9099be",
+      "publishedAt": "2026-09-27T08:45:00Z",
+      "title": "MUI Desak Polisi Investigasi Buku ‘Memburu Muhammad’, Minta Aktor Intelektual Diusut",
+      "source": "Manaberita.com",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQVjJxUTg3czVVdloxS2hCSEFya0ZHRFJfU0FVd0hoTDRVUUgzWkRQbDJJQm9yc181dklyQ01sS2FmVF9xRmJrVzVySWt4OE8tTFJjZldrUVIxRnA2d2ZLRUktSkFFS1lDM2tGdjhtbzBpdENPejFaeUlqXzlORjd1NXBsT0FVREFFX2VCR09Oa210Z1BrM2toQUFsd1lrXzVZMkJqZkhjYzYwS2Y2WEJJc3BLYw?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-27T17:00:41.557910Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
     {
       "id": "3f5b01c81226245625961acf",
       "publishedAt": "2026-09-27T08:28:00Z",
@@ -274,6 +297,29 @@
       "reviewNote": ""
     },
     {
+      "id": "57ccdbbdb78e6726ff6352ba",
+      "publishedAt": "2026-09-27T05:40:52Z",
+      "title": "Demo Mahasiswa dan Batas Kebebasan Berpendapat, Sejauh Mana Hukum Mengatur dan Melindungi",
+      "source": "suara usu",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNTjNBaElFUXlVNEJ5Z3B1UXVCM2lZMnV0VmU3amFncmpIMDlkMUVtQXBELWpOVTRHNjNUNVU5dnYwMWVzYTNRenlUMEdRVU1pN1BvUTc5czRvSjBCTmMxSkY4ZldsWWtNWXJGNF9LWnFUVHc3cnBpUUZENUZWU3o4MXVOdU9aanJyUklseERNa1R6MXhkQnJ0UWxlRVR0MkNXNXh2TXZSZ3ZhbzQyOHQ5MzJ3?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-27T17:00:41.557910Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
       "id": "711b87e67377117e72abd5c4",
       "publishedAt": "2026-09-27T04:54:15Z",
       "title": "Analisis – Sensor di Tengah Sorak-Sorai: Film NAZA, Ancaman Pencabutan Kewarganegaraan, dan Pembungkaman Partai Arab Menjelang Pemilu Israel 2026",
@@ -361,6 +407,29 @@
         "Kebebasan Berekspresi & Berpendapat"
       ],
       "collectedAt": "2026-09-27T12:07:52.036604Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "cce055215c2a9cd0e01e772d",
+      "publishedAt": "2026-09-27T02:20:03Z",
+      "title": "Muhammadiyah Desak Pemerintah Bersikap Soal Polemik Buku “Memburu Muhammad”",
+      "source": "minanews.net",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNZC1QQkUxck16ZFltUE9QbUVVbXhOYVFmX1hBYzBEbTRMcEVsQ1lrdGs5Wjl2NmlRSFA2bkxEMGdObFhPU2ljTTJoY3VfSUJXYnl0SF9rZVFienVQMnZ3TXNNc2VUaHczMW1GcU9ZRHkzVGplVElTbjRfUzFhTDlOOVVyWGZjZ1p1R18wT3lMdnRYemhzSGVsT3VSRk0?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-27T17:00:41.557910Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
@@ -619,6 +688,29 @@
       "reviewNote": ""
     },
     {
+      "id": "bcb42482528df3a3c333c18f",
+      "publishedAt": "2026-09-26T08:07:00Z",
+      "title": "\"Pasti Ada Solusi” Episode 18, Menteri Hukum Tekankan Pelayanan kepada Masyarakat",
+      "source": "RRI.co.id",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNa3J6dlBuU1ZrTk04OTJLQ29aZ2tZQzBFNzZKQVgzNzIzSFB4V295djJ4amZISk1CVG00Q21lNUowWmN5N3BuN25LcDd0RmYzS0JqSnpkZEt0QTFUNlRQSEFJSkJwcUxhX2ZrUi12WXg4RkdqNlVCYTVKeExJemVYZm9jTFBBUEY3MGpQUHdiZFZJZ0Z3QXcwdmN0QjdyaG5PVmdUQkdwdmhqLUdBdGxFc1hNektnSDF1aGJwNw?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-27T17:00:41.557910Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
       "id": "779e71d5147432756f443e9d",
       "publishedAt": "2026-09-26T07:49:53Z",
       "title": "RUU Penyiaran Harus Pastikan Demokrasi Tetap Hidup",
@@ -849,6 +941,29 @@
       "reviewNote": ""
     },
     {
+      "id": "43647e5682299ff40158d7fc",
+      "publishedAt": "2026-09-25T18:57:38Z",
+      "title": "Warner Bros Tunda Akuisisi Paramount Lagi, Rencana Besar Tertunda Menyebabkan Kekhawatiran Industri",
+      "source": "Universitas Teknokrat Indonesia",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxORDljTjNnUTJmckNCVE52akJzSmxmcWlfUlRlc2lNdnU5eVVmdk5lUGFQVS1fSTZIODRyZ0lWY3p2V1podG9MZmR6WjZqM0twLS1zY0V0QWJ6U0hXdmdVRHdsWnBvaENlalExcTJBdkxPSk10dHZWWE5zaGJTVl82Z1l6eGJjT3JaQUEwb1dfbVFGWHdjLWJieGZ5dlVlcXcyV2hPbl9uMlNPRGdTZzhQVUFVQ1JvSXlyZ1U4V1MyYWVVQmxWZUxYS19Vd2dCdw?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-27T17:00:41.557910Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
       "id": "39ca0ee590a970f2e0c442a5",
       "publishedAt": "2026-09-25T18:26:48Z",
       "title": "Mogok Kerja Buruh Tambang di Morowali Berujung Represi, FSPIM dan KPBI Kecam PHK Sepihak",
@@ -913,6 +1028,29 @@
         "Kebebasan Berkumpul / Berserikat"
       ],
       "collectedAt": "2026-09-26T11:29:41.447412Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "a061c4b49fd581ee41595787",
+      "publishedAt": "2026-09-25T12:38:17Z",
+      "title": "Lawan Union Busting, Buruh Duduki Tambang",
+      "source": "fajarsumatera.co.id",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdGJJUGhkVXJMVUpVWFpYaVRwU2pfMF9VYmdXTklSZldYU0RmdDIxTTFiYWFCLWlSOFF2UFQtSlpBQVZsN2xMSmxsT1k4YzdQSWNfa05JUWMzbDU0cGNwU25CTTVRMWJIY29oMXNSNXlMSENmV2p1OWFiZlhIT3o2RTVHUFY5WVZl?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_berkumpul",
+      "subclusterIds": [
+        "kebebasan_berkumpul"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berkumpul / Berserikat"
+      ],
+      "collectedAt": "2026-09-27T17:00:41.557910Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
@@ -1005,6 +1143,29 @@
         "Kebebasan Beragama / Berkeyakinan (KBB)"
       ],
       "collectedAt": "2026-09-25T11:55:15.574550Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "4ccd74809068fa8a7f5722c6",
+      "publishedAt": "2026-09-25T08:06:57Z",
+      "title": "Kak Kev Npd, Widi Vierratale, Dan Patricia Gouw Rayakan Kultur Denim Di Tokyo",
+      "source": "Highend Magazine",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPVnBQaFZLbElSdzFVX0M0b3o4N1cwb1pkZzRLQUU3UGM3RjJDS1lOQ3NlN2ZxSTJFNzV5eFpNSzVuZjRZZzYzcGJZZE1rVm9YNVdtM1R0eG1LbUlPeURXUWdwOW9zelk0STR2UmJSbmxhUjV3N2VtR3Y3b2FvV3hXbHFJazRncGVzRzIwQlphUHhjeVF4R0d0R09DMUVRYkFnMGRYa3h0b0pGaWNpRnQ5YUxVYktmRkJoTVJKWU5OeGNKUQ?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-27T17:00:41.557910Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
@@ -1189,6 +1350,29 @@
         "Kebebasan Berekspresi & Berpendapat"
       ],
       "collectedAt": "2026-09-26T16:27:13.408576Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "2e61f705df523e2659993081",
+      "publishedAt": "2026-09-25T05:58:00Z",
+      "title": "Soal dan Kunci Jawaban PKN Kelas 12 SMA Halaman 112 113 Kurikulum Merdeka: Pertukaran Budaya - Halaman 4",
+      "source": "bangka.tribunnews.com",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQS0FWYndyZ2I2N0N0Vk1BVU1TR21wMmczZ1pTYlNBM2kwejJqTEdhRjd2UG1hU0JnT09WeVVhZDA5SDFTbWwwMFdldE1YRHktelJTYUxqSTVsVDVuZElKd1pxZ3JRbFdZWTdUMHpUWmRmM0RvU1ZtZTVQTTRCOWtZSWRGcUJwdmtjNllvUGFlR2VEa3cxWjJ3LWFNazFKcHV5Z2lpY0lpOWt6WVFxdzdQN19FZmU0LTltQVUzS0pLZjk2NGJOUGtBc3ozWFZXaGZWVFdyQWh1NGFUNzNXZ1pYNQ?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-27T17:00:41.557910Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
@@ -1973,6 +2157,29 @@
         "Kebebasan Berekspresi & Berpendapat"
       ],
       "collectedAt": "2026-09-25T05:01:57.912273Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "a6b3e0839f8368185e9a54cd",
+      "publishedAt": "2026-09-24T07:30:00Z",
+      "title": "Melek Digital Wajib Diimbangi 4 Pilar Wujudkan Inklusi Digital",
+      "source": "RRI.co.id",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQSXAyZEQzMzc0LUZQbGFlV1FYZncwZUVwWUU1em5SRUtiNkQzREJENTlBUVplckxVMkdydzVDdnlFbEItdFhBeHZsNENVYTFnbDdvc2E1eVRFbnR3Y3lENm05NkFPUGEyTXBaUk1wa0x0cVdkN1g1OU14aUZiV0w1NkRiRDVjSUtoclByZm9PcE5oWVhDVS1qcVJqZTJUUlpHdGRvalVoX3AzUQ?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-27T17:00:41.557910Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
@@ -29055,6 +29262,29 @@
         "Sensor Konten"
       ],
       "collectedAt": "2026-08-31T23:07:12.746081Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "10df8e5b4517cef7e8e97c5e",
+      "publishedAt": "2026-08-09T02:50:38Z",
+      "title": "Polri Pastikan Agustus 2026 Aman, Masyarakat Diminta Tak Resah",
+      "source": "tangselpos.id",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPSzYtRGo0RXNEdTFzZ3RFYUw4MzRlRGdmdWsybnFubHRWMlN3ai1sa24zN0hXUkktUlkwTnFXeGE3bGNWYW1YVW9hWThJY3ZLbmNqcmo4Y0dublVmVDBRbjhzdF9tSl9Hd3B4WXp6dGtUem80SWpaSUV3VktiRS03MVNqWi1ISERxdXc5QmNKTG16M0dxdEIya1NzRDI?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-27T17:00:41.557910Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
