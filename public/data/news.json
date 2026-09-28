@@ -1,15 +1,15 @@
 {
   "meta": {
-    "generatedAt": "2026-09-27T21:23:41.900600Z",
-    "lastRunAt": "2026-09-27T21:23:41.900600Z",
+    "generatedAt": "2026-09-28T05:29:12.571371Z",
+    "lastRunAt": "2026-09-28T05:29:12.571371Z",
     "startDate": "2026-01-01",
     "refreshHours": 6,
     "mode": "incremental",
     "feedsOk": 16,
     "feedsFailed": 0,
-    "totalStored": 1706,
-    "totalPublished": 1706,
-    "newArticles": 6,
+    "totalStored": 1715,
+    "totalPublished": 1715,
+    "newArticles": 9,
     "warning": ""
   },
   "clusters": [
@@ -135,6 +135,144 @@
     }
   ],
   "articles": [
+    {
+      "id": "7cace0d8ce6585aec617b591",
+      "publishedAt": "2026-09-28T04:07:00Z",
+      "title": "PN Rangkasbitung Vonis Dua Warga Lebak dalam Kasus Penistaan Agama, Hukuman Lebih Tinggi dari Tuntutan Jaksa",
+      "source": "Monitor Pos",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOdi1XUng0azBMZS1xblE3UlRQTmVvajYwUFFFZzF2blBGb01FTG13bTQ5azlrNERGUmxEU0JzNEV0eEpaRHhNS0RQOWNYOFZXQlluV0d3OTZkZXNQd3NVZTRJSjBBRE5uRzZ1S3Y5WWZQMlFQTWM0b3MzVXJOZ21SOUFXalA?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_beragama",
+      "subclusterIds": [
+        "kebebasan_beragama"
+      ],
+      "matchedQueries": [
+        "Kebebasan Beragama / Berkeyakinan (KBB)"
+      ],
+      "collectedAt": "2026-09-28T05:29:12.571371Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "202d46cbf7c7b5c018d7478a",
+      "publishedAt": "2026-09-28T04:02:15Z",
+      "title": "Kronologi Polemik Buku Memburu Muhammad, dari Pembatalan Diskusi Hingga Tanggapan Muhammadiyah",
+      "source": "topik.id",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQQTFZQjlCRVJnNHlibjBVaHp5aXlwTDlXc2MyWVBvRGdMODZhUGtHRjZ0RjhtUElxQUZHTzA2aVRTUGNxTWJ6VC1zWTBoY1ZsNEExT2dWUHYwNHJzUUtpRTg3S1FUUjBoRl9IX0lyTHJfenJsa2ppTXZMSlAzaFB1b29jT3NRdXAxdzZiNkhoMnFqUjZFclpHZTBTSnJGTk45M3hEYWRpcElpVlVqV0hUU1ZUWWE?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-28T05:29:12.571371Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "ab56ebafcec7f4a451e713f9",
+      "publishedAt": "2026-09-28T03:48:29Z",
+      "title": "Pengadilan Rangkasbitung Vonis Dua Wanita Lebak Kasus Penistaan Agama",
+      "source": "Demokratis.co.id",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNbmo4d2ZOcVVwcGZXcUNCenhtMy0zNy1YT2I4OU1XUWZ4c244ajRfZ3lWVEdXamMwX1d5djY5RkwzN25pRDdPamQ5REwyOHFGQWJEbmtSTlJWWVltWkZIOW9pRWpHa2hKX2djRWxfcWcta3JmU01kbmlya2hHVTNrT2UzcDhXSWY2QWU4WQ?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_beragama",
+      "subclusterIds": [
+        "kebebasan_beragama"
+      ],
+      "matchedQueries": [
+        "Kebebasan Beragama / Berkeyakinan (KBB)"
+      ],
+      "collectedAt": "2026-09-28T05:29:12.571371Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "fab6dee1007c16ba78d9e628",
+      "publishedAt": "2026-09-28T01:57:00Z",
+      "title": "Pemuda Tewas Diduga Tertembak usai Pembubaran Tawuran di Makassar, 5 Polisi Diperiksa Propam",
+      "source": "kompas.tv",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQS3E1cklwNFRzRzU4eGhBUVdXRmIxRnhtcHREVlhJWWMzTTJXLTMyWnFBaUJGV0xSLWl3YW1lSEVJUG1wV01tQ3dMZEdvOEVIRlc3ZmVrbm9JMUxVWU9aQ2ZWSFJzanprUG41NjhVUUp6Ynl1SW9JYVNUU2hud1NYVjlLeXd3M2QzYkN0Y2hBNjNZTnE3MGxfZXJKR25wOUhhMHpBTmFFc1NpT2N2ZUZ1dzQwdW5QNDdMTllzOWxLQU1xbmhYMFRLNEZ5NjJYakRSYzFSZtIBzgFBVV95cUxOdWc0YktaZTJyR0pqOHRVQWF0RFZCT3JOS19TczRoUm5venUwNy1EVFZBdVVvSkxzWlR3VmJGVjdZZGktdEhmd3BRTUs3ekJid1pJWnBOWlBPN18yWm80dTVHTjYxTWhXbC1OTFpycTlqQlVVQk4wSlhCTDZrWXh1X0lhMmE1N0trZnl1dklveDhYeURQYmg4RjZnQXlNWm01SXBWc09ZWVkySXZMT0ZvVzNMUUVYWklnSC1uU3hrTldHWk5TZ0xhUmpORGVidw?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_berkumpul",
+      "subclusterIds": [
+        "kebebasan_berkumpul"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berkumpul / Berserikat"
+      ],
+      "collectedAt": "2026-09-28T05:29:12.571371Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "60330b6c11430c63cac4c0b1",
+      "publishedAt": "2026-09-28T01:32:01Z",
+      "title": "Polisi Usut Kematian Pemuda yang Diduga Tertembak Saat Pembubaran Tawuran di Makassar",
+      "source": "abatanews.com",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNY1pJRmNJNjZ5UmFlTzlCNVU4aF9PNnBrVlc1YkhabFlxRm9PS3cwQ3J5a3MwNWd6b3lsQmx6ZmRNeTlzS1N5OVFPRzJSamc3RHRETEZWcDBTdmNGU3RpbW14NUlvRUxaOThsc2R3bFRzaGFOUDNPSXplYlE3UFYzbWpRUE5IVnVOLTdERHY0ejJnVGN2NGtfX3N5UmV6NHRNaUtvRjg2TWtGeGJrMHlKdE1B0gGyAUFVX3lxTE1jWklGY0k2NnlSYWVPOUI1VThoX082cGtWVzViSFpsWXFGb09LdzBDcnlrczA1Z3pveWxCbHpmZE15OXNLU3k5UU9HMlJqZzdEdERMRlZwMFN2Y0ZTdGltbXg1SW9FTFo5OGxzZHdsVHNoYU5QM09JemViUTdQVjNtalFQTkhWdU4tN0REdjR6MmdUY3Y0a19fc3lSZXo0dE1pS29GODZNa0Z4YmsweUp0TUE?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_berkumpul",
+      "subclusterIds": [
+        "kebebasan_berkumpul"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berkumpul / Berserikat"
+      ],
+      "collectedAt": "2026-09-28T05:29:12.571371Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "9bbf503cf93e3af622c6ebfe",
+      "publishedAt": "2026-09-27T23:33:27Z",
+      "title": "Tindak Pidana Baru dan Direformulasi Dalam KUHP Nasional",
+      "source": "Kompasiana.com",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNa09kb0JJTlFMRGhEZjY4bkdhNEUyNTdYMWc5a09BNENmOFZCRmJwYmJxeU9KZUhtVkthLWJuMHpfZ1dUSm05OXdHZ0hKYWVKOS0xa1lka21XbGhjZFZOcW5yZ19CYXNZUXdpQ3lId2RYMXlmQnFFbERlaTItd0dwUjY4bTZRSGtHSWFGdGRsVm5GMkIwZzM4c002MkYwMDRHOGhWSVcwSDRMcVQ1M0RuQjRYOTFzRW1sSjNtQ25yc2NGMUFK?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-28T05:29:12.571371Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
     {
       "id": "21b96e8ce7346df8891fa821",
       "publishedAt": "2026-09-27T20:25:23Z",
@@ -269,6 +407,29 @@
         "Kebebasan Berekspresi & Berpendapat"
       ],
       "collectedAt": "2026-09-27T12:07:52.036604Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "55d92110e14bb9539f2e0b47",
+      "publishedAt": "2026-09-27T07:27:49Z",
+      "title": "Senator Dailami Firdaus Bereaksi Keras soal Buku “Memburu Muhammad”, Polisi Diminta Usut",
+      "source": "cakrawarta.com",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPeTF4UmQ4WTIwMks1VHFHX1d5R01kWWh0RWU5M3pfTGpjY0lZM1h2c2pBMmFIN3BURk5WUGJVdjNqa3I2andLbHFDT0RHcElITFBRNkFNa2dkOWI4cEtXTGxGaUJ5TVg3MldNN255VXhMdFd5RmVJUU92SEY5THhLcWZYQmphSTZSYWhxR21OWUxvd3hVLVZMenp4bmVaTl9GMVF6NG9YbVF3aWZ1eFVuU2NMUzJWUExV?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-28T05:29:12.571371Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
@@ -1419,6 +1580,29 @@
         "Kebebasan Berekspresi & Berpendapat"
       ],
       "collectedAt": "2026-09-25T11:55:15.574550Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "d4edd468b2e54a56eadc543e",
+      "publishedAt": "2026-09-25T06:26:24Z",
+      "title": "Mengenal Gyaru, Subkultur Jepang yang Jadi Simbol Kebebasan Berekspresi",
+      "source": "radartuban.jawapos.com",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPakdFUXdJeW1QSExZMHFDRGMxSjU5eV9iUkpCaGRyM2p4LXBMSUlFUXdnSThGNmxrS0tqOTJzN0dyajVfVzBHcTBYVkpaT0N0OHI4ZUF6YkN3MnEzWE9CYmkzR0hmVWFRa1puTUZVREtVakZvYVNSdlhGYXZTS3JsLWJvSUJUQURWcW9MRzZycHlobjBvUm0yNFc0cWZpRE9hX2ZHMTEtQjVoTnlsVUVlMjVGLW9Bekl4cWYtN18ydVZwMHRO0gHEAUFVX3lxTE9qR0VRd0l5bVBITFkwcUNEYzFKNTl5X2JSSkJoZHIzangtcExJSUVRd2dJOEY2bGtLS2o5MnM3R3JqNV9XMEdxMFhWSlpPQ3Q4cjhlQXpiQ3cycTNYT0JiaTNHSGZVYVFrWm5NRlVES1VqRm9hU1J2WEZhdlNLcmwtYm9JQlRBRFZxb0xHNnJweWhuMG9SbTI0VzRxZmlET2FfZkcxMS1CNWhOeWxVRWUyNUYtb0F6SXhxZi03XzJ1VnAwdE4?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-28T05:29:12.571371Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
@@ -27859,6 +28043,29 @@
         "Kebebasan Beragama / Berkeyakinan (KBB)"
       ],
       "collectedAt": "2026-09-01T21:05:00.328305Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "8766d8dad520863e7307f72e",
+      "publishedAt": "2026-08-12T07:00:00Z",
+      "title": "Dugaan Penistaan Agama, Pembuat Tantangan Hafalan Alquran untuk Sebotol Miras Teridentifikasi",
+      "source": "Republika Online",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOa3VzMTVUTHB4UXU4Y0lQQ2RCUHJIMUtSbzdmdmN0WFljSlE0aTRscVFLVUtFeVZMNVNVbVgzZTZzd1hEeFRNYmFpTHc1YjB4YjZab1NENmxJZ2NNYTVhaGZ5ZTlEMGVwZUtjNlpzZVpPNzZKX0RldDJicTBqdlA0SEMxV1ZoYnNiYnE0dGxDSnZ0VFlDTkJUNzl2end1ekxuNktBR3B6cjcwZXVfNXhObC1DUTRaOWY1SE5UYTM4MFpFakJ5V2dtdk5fdW1KZE1INDdrbQ?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_beragama",
+      "subclusterIds": [
+        "kebebasan_beragama"
+      ],
+      "matchedQueries": [
+        "Kebebasan Beragama / Berkeyakinan (KBB)"
+      ],
+      "collectedAt": "2026-09-28T05:29:12.571371Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
