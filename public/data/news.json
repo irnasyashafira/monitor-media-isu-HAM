@@ -1,15 +1,15 @@
 {
   "meta": {
-    "generatedAt": "2026-09-28T14:02:32.801054Z",
-    "lastRunAt": "2026-09-28T14:02:32.801054Z",
+    "generatedAt": "2026-09-28T23:19:15.741831Z",
+    "lastRunAt": "2026-09-28T23:19:15.741831Z",
     "startDate": "2026-01-01",
     "refreshHours": 6,
     "mode": "incremental",
     "feedsOk": 16,
     "feedsFailed": 0,
-    "totalStored": 1735,
-    "totalPublished": 1735,
-    "newArticles": 20,
+    "totalStored": 1742,
+    "totalPublished": 1742,
+    "newArticles": 7,
     "warning": ""
   },
   "clusters": [
@@ -136,6 +136,75 @@
   ],
   "articles": [
     {
+      "id": "933eadfdec64245ad60518f9",
+      "publishedAt": "2026-09-28T14:22:52Z",
+      "title": "Peringati September Hitam, Warga Blitar Gelar Nobar dan Diskusi Kritis di Depan Kantor Bupati",
+      "source": "Serayu Nusantara",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQRDEybk5HVEZfVjBhVmIyZVNFdElUeC16bzhlc3N0dVh3ellGNlhHWm44d1VrZDc4T2syOFY1SkJxYmxNTHR3bUNXci0xU1JGWGFqX0gxZmxFMTdOdlBIRkxKRHgtMEd4YjRtZ3FhVlpjTVFSSnRqczg0MTdWaWhqc3FyWC1XVEpsLTRUVFVicVY4YjBMZmVheGctdG9WSDBid0tpSmY2T1h2UVVDSl9uQ3ZOY29iZlByUlc4dThB?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-28T23:19:15.741831Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "53f7044cc3acd6b554bddfa6",
+      "publishedAt": "2026-09-28T13:56:17Z",
+      "title": "Kuasa Hukum ANW Lapor LPSK Terkait Pemulihan Kasus Kekerasan Seksual",
+      "source": "limapagi.id",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5nXzBkdi1lNHhhU0s2WnVoSE02Q25IMzliNWtaRmp4TFJlSUVITzNLNmp0cEY4M3VTWkkwUkEzVlhyS3BQaW9TUWkzRTA5Yl82VWd6bFdnUGp2T1VVYnJN?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "doxxing_intimidasi",
+      "subclusterIds": [
+        "doxxing_intimidasi"
+      ],
+      "matchedQueries": [
+        "Doxxing & Intimidasi"
+      ],
+      "collectedAt": "2026-09-28T23:19:15.741831Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "7b2e59f498b07429bd649c5d",
+      "publishedAt": "2026-09-28T12:14:33Z",
+      "title": "Program Kokurikuler SMPN 3 Singaraja, KPU Buleleng Berikan Edukasi Demokrasi melalui Pemilihan OSIS",
+      "source": "Balinetizen",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPcnB0N0FvS2hoQjJJRk02MFhQOHJ1VXYyYkMwSW5Hc25XYkQyOUxaQ29ndmtINVFmQjM5VXVwdFhZdUpBekRKZi1HZ08xb2xnQVBRdzFMVmxxMUxMTERUdXpZUXFqTmFXbXBiNUxqVkVNLUp3cE40ZHZPZjdWQVUzS2lxR0VVOGhfbFpGZXl5T3Vzcm1wLTh2R1A1TkJseWRVdzNjRFRXQ1dIdjhWdWU5T1B0SkV2c1pLLVo5eFFkN1N6TXU0T3c?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-28T23:19:15.741831Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
       "id": "9bc4474adef33b9115a02c3d",
       "publishedAt": "2026-09-28T10:39:00Z",
       "title": "Polda Metro Tak Hadir, Sidang Praperadilan Dugaan Salah Tangkap Ditunda",
@@ -154,6 +223,29 @@
         "Kebebasan Berkumpul / Berserikat"
       ],
       "collectedAt": "2026-09-28T14:02:32.801054Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "ce054006da12f733eacc8ff9",
+      "publishedAt": "2026-09-28T09:37:00Z",
+      "title": "Dampak El Nino Godzilla, Harga Cabai Rawit Merah di Tangerang Melambung Tembus Rp85 Ribu Per Kilo",
+      "source": "video.tribunnews.com",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQZURiVjNRaFVMV2tCcXlfVDd5akNyVklrX00xZXNkTURQaHN4Mi1sNlgtR2NubklYMi1NeTNMNC1NUUdVTXRSWE5scDFnNGY5LWhEWV9PZjNiTmM0Ni1mNGQ4SjROZGFjcndPcnNOZFBPblgzZTl4b29LZXR3aGY0cUJ3NWl0eXVyR2NBcl9nc2VtQUc1NWpyR2JDd0xNNWkwQ0t5T2pkbXU4M1NTUXIxS3JvanA4UFI3SnhCUXFIWFM1TXRhLXZHc0FlRXZobmI3Rzg4?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_berkumpul",
+      "subclusterIds": [
+        "kebebasan_berkumpul"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berkumpul / Berserikat"
+      ],
+      "collectedAt": "2026-09-28T23:19:15.741831Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
@@ -200,6 +292,29 @@
         "Kebebasan Berekspresi & Berpendapat"
       ],
       "collectedAt": "2026-09-28T14:02:32.801054Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "e3f85023b23d99740f724c58",
+      "publishedAt": "2026-09-28T08:27:09Z",
+      "title": "Dave Laksono Dorong RUU Penyiaran Jaga Demokrasi dan Lindungi Anak di Ruang Digital",
+      "source": "fraksigolkar.com",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNRU8tRUpWaFhJMTZpbk5vWkxiZzRBWmpMSldrUno5V1NUTXRHLVh0ZzhJbjJOa0lpc3c2NHlZVnFiSFNpemxqckVVUVh5OExIWXV3bERUMFFib1RnV05hSUY2bEVnaXRMejg3RXhUY0NhZmx3UzRCR1VFZHlIYUlXVTF3eTYzSXFXMmFxV0lDQ01wdVIydnFqbVFEVl9VcjhUQUlESWQ3SmUtRGlPNGRaSW1jN3FhNUV6Tnc?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-28T23:19:15.741831Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
@@ -1672,6 +1787,29 @@
         "Kebebasan Berekspresi & Berpendapat"
       ],
       "collectedAt": "2026-09-28T14:02:32.801054Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "5af6eb522051258addee4d8f",
+      "publishedAt": "2026-09-25T16:18:39Z",
+      "title": "Low-Waist Kembali Populer, Nostalgia Y2K di Kalangan Gen Z",
+      "source": "suara usu",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNWnRQM0x2RmN1cnFvT0FEZC1GSXZRNU1sOGgzOGpGb0hMMDhfeFAyZ1NlS0FyTWhMOHFhdmhOazdLVGNub0RCX0E2QnZWZTItV3NRcVNCX0RDUk9qcmRQeGVJVmxrZmR5X25sT2ZKdjBWV19nMEtsS2g3MGozQ3pJVngtdjV4VU9o?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-28T23:19:15.741831Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
@@ -29515,6 +29653,29 @@
         "Kebebasan Beragama / Berkeyakinan (KBB)"
       ],
       "collectedAt": "2026-09-27T05:23:32.001327Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "546f891e7cc058f0f349f28e",
+      "publishedAt": "2026-08-11T07:00:00Z",
+      "title": "KAHMI Sumut Desak Polisi Usut Dugaan Penistaan Agama dalam Promosi Miras Newport",
+      "source": "khazanah.republika.co.id",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPUGpJaUZfOWs0ZXBVUTB6dWlULWRwVmdXa2Z4WFJxZkdTZEstcm0xN3l6SXZfRFdTMWZNZV9US3JzUTAxREc3dGxWRzlUMEFycFVSWnE3WUN6aXl5TllTckZvelJKOXRMV21Ja24zS2RrVG16ZXFibkphanpsQTlMYmJGUVBEcm5iMkJiOTRYbGQxQll1UVVzOVVCYXZHbHZZSzRoN1YxRWFiNUpDWEJnajhSUUprUHBoTHk0OXZCQWE3bXliUHBCNVBR?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_beragama",
+      "subclusterIds": [
+        "kebebasan_beragama"
+      ],
+      "matchedQueries": [
+        "Kebebasan Beragama / Berkeyakinan (KBB)"
+      ],
+      "collectedAt": "2026-09-28T23:19:15.741831Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
