@@ -1,15 +1,15 @@
 {
   "meta": {
-    "generatedAt": "2026-09-29T05:48:10.886913Z",
-    "lastRunAt": "2026-09-29T05:48:10.886913Z",
+    "generatedAt": "2026-09-29T12:58:36.163613Z",
+    "lastRunAt": "2026-09-29T12:58:36.163613Z",
     "startDate": "2026-01-01",
     "refreshHours": 6,
     "mode": "incremental",
     "feedsOk": 16,
     "feedsFailed": 0,
-    "totalStored": 1756,
-    "totalPublished": 1756,
-    "newArticles": 14,
+    "totalStored": 1775,
+    "totalPublished": 1775,
+    "newArticles": 19,
     "warning": ""
   },
   "clusters": [
@@ -136,6 +136,259 @@
   ],
   "articles": [
     {
+      "id": "e60df616b8efc665b3f881d3",
+      "publishedAt": "2026-09-29T12:39:54Z",
+      "title": "Pemerintah tunggu usulan DPR terkait presidential threshold di RUU Pemilu",
+      "source": "ANTARA News Manado",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVXl0T1FIcmw1ZEdPbDdZQUpTRWRZb1psRkZUZV8wREEtb043ZUpJMTZRbWl2NHVRMEpoNGM4TjNOYy1JS29ZTEEzd1VLMlRVSzcxQnkwUlZ3VmM2Z1lOUlRra1ZSTGxUSUNKbTF6eTBIR3J4ckVGd1QxZ1dPaHNkWWxtSktwSGdJSlA0RFhqMURpbGJ2cUxYdWpWSGVvQkQ1UGV3NEhSc2JEcHRMUXc0RTRwV3Q0VVBh?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-29T12:58:36.163613Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "da21d035fab880133187a3f2",
+      "publishedAt": "2026-09-29T12:27:58Z",
+      "title": "Kesehatan Mental Remaja: Saat Luka Tidak Selalu Terlihat Halaman 1",
+      "source": "Kompasiana.com",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNY0F1dEpJVEFKT2k2WUUtSGJwX2dVOVZSQTRTbGpRM0FhWVFfdjhpYks1YkdCazhtRDlXUGh1YzRQYmoyeHM0UFl3M19CTnBHaWZJcU8yOWwxS1N1Z3RvMlFVWWFIeGhtaVNJc3ZqUjB2bWx6bm43Ny12c21oX0xqckMzOUp4VFF6OWF4WjJQMGV3enlvZE0xTnN1VDR2R20yYTRUcnRxTFhhaF9ocjZWT1VIYTdkVWdyNno0QkVvTHZDdFotc0dmd2lZdw?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "doxxing_intimidasi",
+      "subclusterIds": [
+        "doxxing_intimidasi"
+      ],
+      "matchedQueries": [
+        "Doxxing & Intimidasi"
+      ],
+      "collectedAt": "2026-09-29T12:58:36.163613Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "370e2d3b72093cb8e7fcf3e2",
+      "publishedAt": "2026-09-29T12:02:33Z",
+      "title": "KKBWKT ke-37 di Tala Selesai, Banjarmasin Puas Dengan Tropi Kedua Setelah HSS",
+      "source": "Barito Post",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPdGprRF9xS3JUeTZzZExGLUJFN1NaVnR6U0p0SjFLckpjZ3VUMXhoVUFqUHRHLVBqVEpFVk8wdGJVV1JUWjVBc0wzTGRxTDdTSFg3dTFZczBYT1JMaWJKbllySDA0bVZoclpTRkZteXFIRVhEejFITmR2cl82aU5KSUdyWkhjTGZSNnM4R1ktLU9oMkNTeWJzTEQ1Ri14d1FIalFzUWE4YWFxWU9NNEs4?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "doxxing_intimidasi",
+      "subclusterIds": [
+        "doxxing_intimidasi"
+      ],
+      "matchedQueries": [
+        "Doxxing & Intimidasi"
+      ],
+      "collectedAt": "2026-09-29T12:58:36.163613Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "cb7f645f87591af87755c8ef",
+      "publishedAt": "2026-09-29T12:00:14Z",
+      "title": "Krisis Air Bersih di Banjarmasin, Dorong Yamin Rencanakan Bangun Embung Jadi Cadangan Air",
+      "source": "Barito Post",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOY1VkblJ6MFNPcE1abVJIUldmZVZWem9PRjQ2TVFGbFYwMHRUemRBQ1dGb1JaSWR4WFV0VFNHR1Y4RHFNX090ZTN4Zk5ZOWNWTVhMd0xVNWd3Sk1HUXhFQkZwSzk3RVVra24xUThJWWdIdkxYZ3hLSVVMZG9DcldLclBPdnR5STBKaWdTQWF6Nkh3dGlFdVNyZzFZUndrMXBmRnZuTHU2YnpWTENrNW9mMlZWUWRfNFl6Y3Y3eVRaSQ?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "doxxing_intimidasi",
+      "subclusterIds": [
+        "doxxing_intimidasi"
+      ],
+      "matchedQueries": [
+        "Doxxing & Intimidasi"
+      ],
+      "collectedAt": "2026-09-29T12:58:36.163613Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "5e85b14e27724d8091b01b5c",
+      "publishedAt": "2026-09-29T09:48:31Z",
+      "title": "Pemerintah Tak Boleh Sembarangan Blokir Konten Digital, MK Wajibkan Notifikasi dan Beri Alasan",
+      "source": "Tribunnews.com",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOVU93ZlVwbWhWNldRaHE0ZmNBdE16aHJEa3U1S09HbW9aUlZHdm9RNW00MFZkeV9mTlJNdG1LNHBIWnd3b1g2UnVnME84RHk1RWNWMTV6SFdsRUJqTjZOTk14V0U4RXBIRXZ5d3BTQ2ZfRTh6SmUtRmdzb0xwMHNjMTFtODRGUTdvLUdTaU16RFZkT0pGTzc5djUtZjgycnpLYmtIOFpkaWYwZzItTGtMLXNYUTBhUGxyQmlDYVd1R1FQcTlMVEF1QkRqM0h5MWIzamlF?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-29T12:58:36.163613Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "06b66d6883d612c46ee896cc",
+      "publishedAt": "2026-09-29T08:45:18Z",
+      "title": "Mural hingga Garuda LED, Begini Cara Warga Memaknai Kemerdekaan Lewat Gapura",
+      "source": "VOI.ID",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOb1I5aEZEaDFXM3ZBYlA2QW00V2J5WWxuREhIVjJPaWd4QUJBYWZSSFdPVlVOYmdsU0IzMmdjZjFrYXNwR3pMNF84QVE1MUJITHFwVWM4dmd2OHVOa1c4VG1RQTlDZDRyYnk0M0RmRkFRcWN5cFFqSUZVeDdWNzZ3YmhCcUE4NTJyYWZvUHRDNHZpR2FhLTdvekZoT21vbVkwSEpv0gGjAUFVX3lxTE5vUjloRkRoMVczdkFiUDZBbTRXYnlZbG5ESEhWMk9pZ3hBQkFhZlJIV09WVU5iZ2xTQjMyZ2NmMWthc3BHekw0XzhBUTUxQkhMcXBVYzh2Z3Y4dU5rVzhUbVFBOUNkNHJieTQzRGZGQVFxY3lwUWpJRlV4N1Y3NndiaEJxQTg1MnJhZm9QdEM0dmlHYWEtN296RmhPbW9tWTBISm8?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-29T12:58:36.163613Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "c9c486f108e8d7bb3116b064",
+      "publishedAt": "2026-09-29T08:05:55Z",
+      "title": "Mengaku Data Pribadi Disebar dan Diancam Ditembak, Warga Kalsel Laporkan Oknum Polisi Sumsel",
+      "source": "Barito Post",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQZ21NV2NJRlg4RktGSTUtM2FZNU9rSnZWdE1zWUc0UkgxSl8zWUJDTFpyYXg1Zklta2cwSGx3WlRZRl9KTDFVR1dXY29MdUM3clJEOGtxOC1ZWXREX1lhUHQ3X3ZWNkZXQklDM1JSMk5pLUZlaGIyWjFCZmU5WWI4amxpd1JfRm5Sa0VGNkNtUGxwWlJJNS05a0RmMGRja0RHYV9QeXMzVlZJNkQ0d0N6dExia04zSzVybTlKREh3?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "doxxing_intimidasi",
+      "subclusterIds": [
+        "doxxing_intimidasi"
+      ],
+      "matchedQueries": [
+        "Doxxing & Intimidasi"
+      ],
+      "collectedAt": "2026-09-29T12:58:36.163613Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "b0492dcccfcda523950f0b53",
+      "publishedAt": "2026-09-29T06:39:00Z",
+      "title": "Periksa Wartawan Sementara Sengketa Pers Berjalan di Dewan Pers, Kapolda NTT Diminta Copot Kapolres TTU dan Penyidik - Koran Timor",
+      "source": "korantimor.com",
+      "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPNXc1VjRrYUQwdGlXZV9STGI3cWhTU1UtUXFOM2t3WE1Hb1NFVkItZGdRYUFkYklGMVJDRktIcGhoSU1tc0pXMFFkX0VhQ04wZ2dReTd3alNDNl80QmhaTnNIVS1zMFFqTzVoejE3Nm05b0REMnkzUF82S3A4eG16SmI1ZjdfS2pqM05uVjI0OGNVa3NJeVoyaHNZNVh2amh6bWlQRjdXODRuTE5RanpGUDhPbFJrWmlUWTFBN214bHZ2bWZwWjBad1M4ekZjd01KVlY3aEd6RGxLRmZvWlg5ZC03M2ZOdnVac2Nmb0UyemRQbkZiVU9uZlViUWpmTjhHeHfSAYICQVVfeXFMTzV3NVY0a2FEMHRpV2VfUkxiN3FoU1NVLVFxTjNrd1hNR29TRVZCLWRnUWFBZGJJRjFSQ0ZLSHBoaElNbXNKVzBRZF9FYUNOMGdnUXk3d2pTQzZfNEJoWk5zSFUtczBRak81aHoxNzZtOW9ERDJ5M1BfNktwOHhtekpiNWY3X0tqajNOblYyNDhjVWtzSXlaMmhzWTVYdmpoem1pUEY3Vzg0bkxOUWp6RlA4T2xSa1ppVFkxQTdteGx2dm1mcFowWndTOHpGY3dNSlZWN2hHekRsS0Zmb1pYOWQtNzNmTnZ1WnNjZm9FMnpkUG5GYlVPbmZVYlFqZk44R3h3?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-29T12:58:36.163613Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "0676bda56d4b6f2007f3ce18",
+      "publishedAt": "2026-09-29T06:05:50Z",
+      "title": "Kedepankan Sikap Humanis, Kabag Ops Polresta Gorontalo Kota Pimpin Apel Kesiapan Pengamanan Penyampaian Pendapat - POLRESTA GORONTALO KOTA",
+      "source": "Polresta Gorontalo Kota",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxORkxMUk1mUGpQWjRMN3V2U1ZGekpLZVppRHdaZlk4VUNpaEVhemhYSXRyYmh1NzBtV1dqTkFLYklwb2hQTnRNQWprbVlVTXFzdlRvLWQ3MFh3a0l2dk51azQ5MWNlak1sYU52RWxsVXFLdGJvNkJoUzVvOTh4Xy01SjBieFBfQUhTYjFELTR5SDlzam52NHoyRWFJSkdIcUxCTkl0d2JkVGY0dUhVTzdLOXBhaFZkYkFGRWxhMldQNGV3Z1BlXzdmN053c0Vkc0FPc1F1WWdDTW4yLUdXNmFJ?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-29T12:58:36.163613Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "94a7ce378621e751e1472d40",
+      "publishedAt": "2026-09-29T05:25:17Z",
+      "title": "Meta Terancam Denda USD 219 Miliar Terkait Pelanggaran Data",
+      "source": "Readers.id",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9aZlNQU2VzQ3QwLTFyYVJMX3FfbXBlcEVtSXEySm5tQlAxQmlZU09NOFJBRXJxX1ZDVzFlS0ZvWjFEQjJoaUcwc2hOQVRHeWZqYWNNVlQ4bVJaUnI3M0R3R2d5NkRrcUI1?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-29T12:58:36.163613Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "2ba50c52f0d3a605c94afbd7",
+      "publishedAt": "2026-09-29T05:20:21Z",
+      "title": "Meta Terancam Denda Puluhan Miliar Dolar di New Mexico",
+      "source": "Demokratis.co.id",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBQQ3lWVG9DS3hzUENUbHlIR3B3YmdlRjBDYldsV0xCTHRlUlhldW1FRnBMT3JFUU9OdEF5WXNTQmlJRWZ4MXBseUNGTFhFNFNOOE9teHNnQkNyd19OcmRPZ2lIV2ZSaG1LdjJVN1kyOUNzd2c?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-29T12:58:36.163613Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
       "id": "3b9e496b5aa85861a91a569e",
       "publishedAt": "2026-09-29T05:02:34Z",
       "title": "RUU Penyiaran: Pembaruan Regulasi atau Ancaman Kebebasan Berekspresi? Halaman 1",
@@ -177,6 +430,52 @@
         "Doxxing & Intimidasi"
       ],
       "collectedAt": "2026-09-29T05:48:10.886913Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "201d62dbe63b022264925107",
+      "publishedAt": "2026-09-29T04:26:15Z",
+      "title": "Survei INES: Hanya 18,4 Persen Tidak Setuju Prabowo Lanjutkan MBG - Laman 2",
+      "source": "FAJAR",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxObVpCaUh1V01hM3ZVcXFRb2JJOHIzeHdMZkxKQkk4TVRTSGU0UEg0SUxJMUZHcE5aUVA2LXpKX0hLcE1nREpqNU9DNnBXZDlYTDNORXR0S21MeUJEcjdGMEZvd3N1ZWVQeDBEdkkzWmJrMm9GYzlQY29MWGpfWGN0S2RqMVpDWndYQ3JNNW10cWhpRkcwU2F2c2FNemMzZw?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-29T12:58:36.163613Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "299c5164e5b9eafa42588f72",
+      "publishedAt": "2026-09-29T03:57:45Z",
+      "title": "Komedian Turki Diadili Gegara Hina Erdogan Lewat Stand Up Comedy",
+      "source": "usmtv.id",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQaHU5T0NHRDZHSzlkUl9QVWU1Z09Ha3FrZmg2RG9OSnNKbnl1aU1Ddk1GRGRYTS1iQlBFM1BBTGY5TmRUR0RmR0I0bWtXX19lTlNyY2ZzcDRiME1hZGxKUXJDeHZnVW1JRUZYYm54Yk1zMmNSU0FCTXFuY0FtSkhWdzVZTlBObzk2Y0RuWlVjVdIBjwFBVV95cUxQaHU5T0NHRDZHSzlkUl9QVWU1Z09Ha3FrZmg2RG9OSnNKbnl1aU1Ddk1GRGRYTS1iQlBFM1BBTGY5TmRUR0RmR0I0bWtXX19lTlNyY2ZzcDRiME1hZGxKUXJDeHZnVW1JRUZYYm54Yk1zMmNSU0FCTXFuY0FtSkhWdzVZTlBObzk2Y0RuWlVjVQ?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-29T12:58:36.163613Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
@@ -315,6 +614,29 @@
         "Kebebasan Berekspresi & Berpendapat"
       ],
       "collectedAt": "2026-09-29T05:48:10.886913Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "960916b34f0c08467bdc9b8a",
+      "publishedAt": "2026-09-28T22:55:00Z",
+      "title": "Komedian Turki Diadili karena Diduga Hina Erdogan Lewat Stand-Up Comedy",
+      "source": "ntvnews.id",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPYS1iVlk1d0ptdXd3TTJjdG11RlloRmE2eDZXR2txTnFodUlfbVVzTmdsdUFXTVBlSi1LLUU5d1dRTUdvZEhuLURtdmRGcGJpYThMZHcwV1ZmZG9BMUQzdmN5N3RqZm9ZNjdrMk5rcFJEWHRESy16bGtqUGp3c2pDQzV5SUdSdTBCOFppUEFkWUlGejVERC1pOURFSEdlZkxESEg4NUZWR0xuTkl4?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-29T12:58:36.163613Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
@@ -481,6 +803,52 @@
       "reviewNote": ""
     },
     {
+      "id": "0c91783171bc78debc767bc2",
+      "publishedAt": "2026-09-28T10:19:00Z",
+      "title": "Psikolog Jelaskan Cara Gen Z Menyikapi Komentar Negatif di Media Sosial",
+      "source": "RRI.co.id",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOekM0R2c3blFpRzluX1Y2ZXJRQjRuRHFzVjBPZDBtQ1NYZzJZekM3c2hMTEhOUU92WE1STFNPbEVUU0RFMlVWOVFJY0l5LUh4SVBMdk5BMkNpbkt3WHJvcEhkTjRtYlBVV0tVQkhMUFd3TkNkWDJJcGxPcUh1VV8zejljX1o1MU1NUWdDN2RsVmlkMWdmTVIzQmRyUGlHY283akdMNDJNc1hDYmV3TkRTaVdhU3dtaGM?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-29T12:58:36.163613Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "287108c2fed20eaf3a9fd3bf",
+      "publishedAt": "2026-09-28T10:10:58Z",
+      "title": "25 Peserta Tampilkan Karya Terbaik, Ini Daftar Juara AMJKT MOTOFEST 2026",
+      "source": "Motorplus",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPUGc4UkI4dWh2akZqQWhBVEdBLWFSa3B0WTBDWmVWNWgwa3lVTzdvVHFYN3o3b0xtaEdMQW9rSml2YUloX2Z3MVoxODdMelA3RDRPWVMySGVTZXFRWHFJZlZQZkJmQTNRLU1RcGxiaC1vLVZIbFVTYjlQMGZFMGoxOGtnQld0MjI4U05JdlF1OTE5b2FPRjJEbWxiN0xoSjhnUUZBNHk3eGI4OGVoNTFmS1ZPcmp4U2ItRGZOTllfQUZ5QzRZdkgw0gHGAUFVX3lxTE5YbFJ0eWFydHoxYjAxZlRDR3ZjUXd3dHd5OWJmaFZNMWNHdFlpanlER3RfOWU5a21aNUFrZ29MYngzbmVlYS01VTNsZTZRTzhjbGF2WTdGcWF1aWQ3Sk5ERjVKR1ZSSVJEejBmSjYwaDBIck5lbE8wNFdKcWdLc3pSb0I1Sy10REVJQ25aOEI5Q1hkOEM0TkZNSWhEQ1NPT1FBWktSUmtrTVJtaUNRdjlyRzZJYzhTbUtVYWNYdEtod2VkMFl0Zw?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-29T12:58:36.163613Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
       "id": "ce054006da12f733eacc8ff9",
       "publishedAt": "2026-09-28T09:37:00Z",
       "title": "Dampak El Nino Godzilla, Harga Cabai Rawit Merah di Tangerang Melambung Tembus Rp85 Ribu Per Kilo",
@@ -614,6 +982,29 @@
         "Kebebasan Beragama / Berkeyakinan (KBB)"
       ],
       "collectedAt": "2026-09-28T14:02:32.801054Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "e0ee6a696165570d0d234e81",
+      "publishedAt": "2026-09-28T07:00:00Z",
+      "title": "Oknum Pegawai PT Hutama Karya Diduga Halangi Wartawan dan Minta Sita Kartu Pers",
+      "source": "sulbaronline.com",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOc3Iwcm5IdnJKbkktbHZqc0kyTDIzdXZ1SUlZakpkN0JzdWNEWW5zSmVRT2VCSUtDcEVWZjVFWGpRTUVIb2Q0UGhxanBucVI3aHVodjlSZ0dySXV0TnBUaEZaRGZVSDNzZUgyV3FjVFYzeXVwNmphbWpmN3ZPbnUwUHhLTE05VDB1cFFBUV9pN2F6cTlCbWp3V3M4d2cyV0NRUUNoMGpOTi0?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-29T12:58:36.163613Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
@@ -1263,6 +1654,29 @@
       "reviewNote": ""
     },
     {
+      "id": "f37d3558c5bebb1cfae903a3",
+      "publishedAt": "2026-09-27T03:52:21Z",
+      "title": "Laporan Terhadap Wartawan NTTHits Dinilai Prematur Akibat Salah Tafsir Terhadap Penilaian Dewan Pers: Kriminalisasi Pers - Koran Timor",
+      "source": "korantimor.com",
+      "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNV1ZtM0M2Y3Y5ZkdmWklreTFiLWpqZ2NDbkUxX2ttNjhDWmg5NEZNWS1VM0Z3OWRwejZZaDY2QlBkbHZyckQ5U1ktQUtucENWdUJZOG9iaDQ5NTZXRktYVjk1V3hBeUNvRlpkOGJJQ1hGSEt1NllLRVZtaXloZmhsM3ZSMTI2ODJ4dy1sZWZIVENXbkxKVWZrVUdLcjN4amhtcTd0VTNJZ0JpbGdSZjNiWDlKRlNZSnNUY1UxdDRiNXdQS2lJODFxSmhicDlvVnpvdzFoV0poNThJMEUwVG9wRzRtaWNuaTJaRmR6RjFkQjFfQjJhNHNBYjBjZEtZSDVPaVHSAYcCQVVfeXFMUFV5ZVN2SWhyVzFRZ0NrclFyZ2NfeEY2NjNRQm1HalNkMk1lWjBEeURyNGp3M1o1bUthaEtWc0lwaVN0NUdTTk1rcnhnR3c5bDBFQXp4ZXo1R21tbTdIcFY0dmlnZk1hSmd6TFJEMlh5Z1RGb2ZQczFLX2ZxNWliV1JKcHFHLVNUWjVnX0R1X2xZZW93WG1LNDE5T1NjdnEwMnRETVlVcDUwcWJoRFY4dkNUZTJPNFBITXF0LTBOcGo1RXRLM0pHQ1ZrYWhsTGc2Ri1POVBsSllJT1FvWkw2el9FdFgzMmZuWWw5aHdhbGJMNHl6RzJZRHIwclRzLTZKRHBCYm9wTmc?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-29T12:58:36.163613Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
       "id": "5ec6e24082bdbdae4b69eef3",
       "publishedAt": "2026-09-27T03:45:00Z",
       "title": "Film 'Laut Bercerita' Terpilih Jadi Penutup Jakarta Film Week 2026",
@@ -1534,6 +1948,29 @@
         "Kebebasan Berekspresi & Berpendapat"
       ],
       "collectedAt": "2026-09-28T14:02:32.801054Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "caae4bd1477a69a0a65b20c9",
+      "publishedAt": "2026-09-26T12:30:10Z",
+      "title": "Keluarga Winda Keberatan Dan Tolak Hasil Investigasi Kompolnas: Jangan Tutup dengan Kata ‘Solid’",
+      "source": "instagram.com",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE44Qjh2OHowT3dJNzNLSFVTNmwtV1dsZU5hWmJBTlhTM1dFRkl6cWhnY1lmS3NpQW91MzlidzhhY3BCOTFWUmlNYVVJc3dwa19Mdnc?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-29T12:58:36.163613Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
