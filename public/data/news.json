@@ -1,15 +1,15 @@
 {
   "meta": {
-    "generatedAt": "2026-09-29T12:58:36.163613Z",
-    "lastRunAt": "2026-09-29T12:58:36.163613Z",
+    "generatedAt": "2026-09-29T22:19:30.565632Z",
+    "lastRunAt": "2026-09-29T22:19:30.565632Z",
     "startDate": "2026-01-01",
     "refreshHours": 6,
     "mode": "incremental",
     "feedsOk": 16,
     "feedsFailed": 0,
-    "totalStored": 1775,
-    "totalPublished": 1775,
-    "newArticles": 19,
+    "totalStored": 1786,
+    "totalPublished": 1786,
+    "newArticles": 11,
     "warning": ""
   },
   "clusters": [
@@ -136,6 +136,75 @@
   ],
   "articles": [
     {
+      "id": "add8aabdea232936d99d80d2",
+      "publishedAt": "2026-09-29T20:21:00Z",
+      "title": "Meta Terancam Denda Puluhan Triliun Akibat Pelanggaran Data Pengguna",
+      "source": "Lensa Hukum",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBwZ2ZIeTI3VXozbGV5WDNmTEV1LW9VQWo3eXJRMTBMWTlCVGlTbDJ5b2tVRW9kZmZ5TU8tQ3NqclphSEhZSjJDUDMyV0lVQlNaWFVfN0pkeHdiem5UbEh3OV9mRjVpbzdXQzVoaWtn?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-29T22:19:30.565632Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "e32cdb45a6408b541022bf2f",
+      "publishedAt": "2026-09-29T14:51:10Z",
+      "title": "Pemilos: Pendidikan Demokrasi Mencetak Pemimpin Masa Depan dari Sekolah",
+      "source": "Kompasiana.com",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNeENXSlhjYjgwTWN1RFNqMkJiLVpSUXMzNndNdjNJSDdoV19ZSXVEazN5WFdINkRaRmNUNjRyZFRnWWlFVElJSVNIN1pJVUtYaHVuRGpfWURWWVRaYTdfRE9RcjFGVDdSZktWd3VlUUt2ZHdBUWozd25IQ1pONnZXQkpGU0FoUjNLMWcwcHk0LUhpSGZ0dkkxRm1zZEFhbE5yNWRueGl6empESnVqeVhrMC1YdndnWkJFOWhmdmt0bEZ5dG9RUTVJbU5QRQ?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-29T22:19:30.565632Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "d3d6b41c6a66a513bdfa48c0",
+      "publishedAt": "2026-09-29T13:29:42Z",
+      "title": "Merasa Diserang di Medsos, MNC Group Ambil Sikap Tegas Hadapi Jusuf Hamka",
+      "source": "Aktual.com",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPUWxTbmE5bTFoaVNiRTZzNlhCSUY2X1ZEZ2oyWGwxel9xV3pxc19kMnhBX2ZlYWpJTFNod3h0cEhpS05NWjNadFFCN0dGcWF1RjdBZXNEMllKU1RFR29UTnpyVm5WSG9OOEZ5VFZQejBybHg2VlRITXVkaTJwWmhDZHhEMTc1N19IZWpGYUhLd0c4RUlpQy1z?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-29T22:19:30.565632Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
       "id": "e60df616b8efc665b3f881d3",
       "publishedAt": "2026-09-29T12:39:54Z",
       "title": "Pemerintah tunggu usulan DPR terkait presidential threshold di RUU Pemilu",
@@ -182,6 +251,29 @@
       "reviewNote": ""
     },
     {
+      "id": "e31f464ae8b02e49ce9a544b",
+      "publishedAt": "2026-09-29T12:21:53Z",
+      "title": "Oknum Pegawai PT Hutama Karya Diduga Halangi Wartawan dan Minta Sita Kartu Pers",
+      "source": "Sulbar Online",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOc3Iwcm5IdnJKbkktbHZqc0kyTDIzdXZ1SUlZakpkN0JzdWNEWW5zSmVRT2VCSUtDcEVWZjVFWGpRTUVIb2Q0UGhxanBucVI3aHVodjlSZ0dySXV0TnBUaEZaRGZVSDNzZUgyV3FjVFYzeXVwNmphbWpmN3ZPbnUwUHhLTE05VDB1cFFBUV9pN2F6cTlCbWp3V3M4d2cyV0NRUUNoMGpOTi0?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-29T22:19:30.565632Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
       "id": "370e2d3b72093cb8e7fcf3e2",
       "publishedAt": "2026-09-29T12:02:33Z",
       "title": "KKBWKT ke-37 di Tala Selesai, Banjarmasin Puas Dengan Tropi Kedua Setelah HSS",
@@ -223,6 +315,52 @@
         "Doxxing & Intimidasi"
       ],
       "collectedAt": "2026-09-29T12:58:36.163613Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "14d7fb6ee448abd6458f7c12",
+      "publishedAt": "2026-09-29T11:40:00Z",
+      "title": "GIIAS Semarang 2026 Hadirkan 19 Merek Otomotif, Ada 7 Brand Baru - Kabar Fajar",
+      "source": "Kabar Fajar",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNMjlaMEhXTWphZnhFU2s4bENxeXE5Y0c5R0tFcjcydWh2SHhCZm1VVnEzWm1yMWVYMzFad3hMNUFaZUpZOHVmN2tqMlBRa0pONGVyTHBSSjNudGd5U1laeGwxMmc2OVZycHZMSV9ockJzdXo2aHFJN3VhYnAwRXk3V2FsOXZ3eDE0Nmd5Y2xGSmRYdnlYc1EtcDg1OEthRFA4ZkhseUNmQjF1OHU2Vk1MeWVn0gGyAUFVX3lxTE0yOVowSFdNamFmeEVTazhsQ3F5cTljRzlHS0VyNzJ1aHZIeEJmbVVWcTNabXIxZVgzMVp3eEw1QVplSlk4dWY3a2oyUFFrSk40ZXJMcFJKM250Z3lTWVp4bDEyZzY5VnJwdkxJX2hyQnN1ejZocUk3dWFicDBFeTdXYWw5dnd4MTQ2Z3ljbEZKZFh2eVhzUS1wODU4S2FEUDhmSGx5Q2ZCMXU4dTZWTUx5ZWc?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "sensor_konten",
+      "subclusterIds": [
+        "sensor_konten"
+      ],
+      "matchedQueries": [
+        "Sensor Konten"
+      ],
+      "collectedAt": "2026-09-29T22:19:30.565632Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "a32713a4a7c8c599967b10bf",
+      "publishedAt": "2026-09-29T11:05:24Z",
+      "title": "MK Gebrak Pemerintah Wajib Ungkap Alasan Blokir Konten",
+      "source": "zonamerahnews.com",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPQlZTa0dZWWZ0bEd0T0htaUNvVFg5OUdDd3JmWWRiQU1fS0pNaHdmSl9TTFVuejUzZzJzWDRpZUZueGpGZ2pvcWdUblhEcGR2SkpQWW1kbkZZdVQtV0d3Szk0b09wTXVwcWxwdjR0MGVPUXN2OWF1OFg0MUoydWFySy01R0FTaDhESDM2UGtycmRZMmtvNndGUUFR?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-29T22:19:30.565632Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
@@ -338,6 +476,29 @@
         "Kebebasan Berekspresi & Berpendapat"
       ],
       "collectedAt": "2026-09-29T12:58:36.163613Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "f051a219adb1e1912c1c7e6b",
+      "publishedAt": "2026-09-29T06:05:50Z",
+      "title": "Kedepankan Sikap Humanis, Kabag Ops Polresta Gorontalo Kota Pimpin Apel Kesiapan Pengamanan Penyampaian Pendapat - POLRESTA GORONTALO KOTA",
+      "source": "polrestagorontalokota.com",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxORkxMUk1mUGpQWjRMN3V2U1ZGekpLZVppRHdaZlk4VUNpaEVhemhYSXRyYmh1NzBtV1dqTkFLYklwb2hQTnRNQWprbVlVTXFzdlRvLWQ3MFh3a0l2dk51azQ5MWNlak1sYU52RWxsVXFLdGJvNkJoUzVvOTh4Xy01SjBieFBfQUhTYjFELTR5SDlzam52NHoyRWFJSkdIcUxCTkl0d2JkVGY0dUhVTzdLOXBhaFZkYkFGRWxhMldQNGV3Z1BlXzdmN053c0Vkc0FPc1F1WWdDTW4yLUdXNmFJ?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-29T22:19:30.565632Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
@@ -476,6 +637,52 @@
         "Kebebasan Berekspresi & Berpendapat"
       ],
       "collectedAt": "2026-09-29T12:58:36.163613Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "0f4c89200fc7f3c834e92d84",
+      "publishedAt": "2026-09-29T03:57:19Z",
+      "title": "Cegah Pembungkaman Pers, Sengketa Harus Lewat Dewan Pers",
+      "source": "Radar Badung",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPdkoycWQ1VXdXMk9xSDBIbHdSVm9ldHluelhubC0zc3lzT2RaeXJWV2Fpbmk5czFKLTFralVtV3hDQXRud3h6dmx0S3V0UzVZQ0xoZG5TRTFGQm4yMHlWazFHUzlUSC1uRXI2cnlaNnJDeGJnVXl5VE1qNEl0VVRCS0FfTDFsOUw0WFRpV0tHV2k1YzdVaUdma2llUTFNOHdoT2pWaUU2cGt5ZEg1ZGRndG9ac1BIS0Vv0gG4AUFVX3lxTE92SjJxZDVVd1cyT3FIMEhsd1JWb2V0eW56WG5sLTNzeXNPZFp5clZXYWluaTlzMUotMWtqVW1XeENBdG53eHp2bHRLdXRTNVlDTGhkblNFMUZCbjIweVZrMUdTOVRILW5FcjZyeVo2ckN4YmdVeXlUTWo0SXRVVEJLQV9MMWw5TDRYVGlXS0dXaTVjN1VpR2ZraWVRMU04d2hPalZpRTZwa3lkSDVkZGd0b1pzUEhLRW8?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-29T22:19:30.565632Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "46c540c7b22f1dff7e3829a0",
+      "publishedAt": "2026-09-29T03:26:00Z",
+      "title": "Suara Mahasiswa: Aspirasi, Kebebasan Berpendapat, dan Partisipasi Politik - kumparan.com",
+      "source": "Kumparan.com",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOd2M5bDNRbENKTFBEaS1QMEFuVllIeWdIZEpWSDBtdlZsd21mbmFVTFRZcGFyVnFOeDd0a2RlQUdvWEgtelk1Si1zOVhhSk9JcTBmSHg3ZEk5MUJncWYwcXNhWG5ZMEgyMVM2M2E3RkN5a0lRTC1YQnFwSkZaZzkxZWNhXzVJeDRMQk1LUm1MQTh2dkQ4eUVLcGtoWGxCRkdSNTQxUDlqd1pCN0VoRmE2TVAxRlgxWXcyM0FKdng2OVV0U1dfM3ppYWhuaWlMTko3Ni1n0gHbAUFVX3lxTE53Zk5CTmNxaEo3bG1RYUtLdnFWQWFSR0ZxOU1MOGNqc3JhME5OOW50R1l6eWpvZXJHbDQweTN5cmphY0NGNGw0YUtJdjU1blNHNXZ6aHFuYVp5WTJJWGFSSHJDVmxZQm51R0RUVzl4bUVNdWF4LTNkaURSdGgyMjVqNlNvelJyVjJGSzJfUUxLZmowa1lOZm13eERzQm5wN1h5dFZrNVZIQUhvRHRkWVo5eGw3ZE0zMV8yOEg4ZjJWRFo5NTAtekNaRTZZeFFpWkhZTWhrX0VMY3l1Yw?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-29T22:19:30.565632Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
@@ -3450,6 +3657,29 @@
       "reviewNote": ""
     },
     {
+      "id": "770ebfde49b77f7dc0118bde",
+      "publishedAt": "2026-09-24T11:46:02Z",
+      "title": "Polisi Dalami Dugaan Penistaan Agama dalam Buku Memburu Muhammad",
+      "source": "mediaindonesia.com",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQcDc4eU9FSGRTYlVQSmdGZUtNNDJEMy1sRG9fRTcyQTJIeHI0WndGZG54V3VGaUloaXFLbzZDTGtlZHlsYXMzMFhFWl9idGxyLUxLemhrYy1BZWx4TTFjcXhTVWVOQ19OZHl5T3Y0N2RRb2hhZURlN05MZWUzZUxPNTVuekhobmw5OFFTNWNSTEpUNHFwMnVxeVlNYUhaeG5vQnF3WnIxT3lzNEd6cmJV?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_beragama",
+      "subclusterIds": [
+        "kebebasan_beragama"
+      ],
+      "matchedQueries": [
+        "Kebebasan Beragama / Berkeyakinan (KBB)"
+      ],
+      "collectedAt": "2026-09-29T22:19:30.565632Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
       "id": "da5c79863bb3133dc46dfb8e",
       "publishedAt": "2026-09-24T11:17:00Z",
       "title": "Dekranasda Lamongan Dorong Batik Berkarakter dan Bernilai Jual",
@@ -3859,6 +4089,29 @@
         "Kebebasan Beragama / Berkeyakinan (KBB)"
       ],
       "collectedAt": "2026-09-24T11:52:04.436321Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "0bd87786859c306d57746cc7",
+      "publishedAt": "2026-09-24T06:53:00Z",
+      "title": "Geger Dugaan Penistaan Agama Kiai di Jember, Rumah Dilempari Batu, Polisi Minta Warga Tahan Diri - memorandum.disway.id",
+      "source": "memorandum.disway.id",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQZVVMM1ZCRm4ycWljUHF0SXkzUjF1MjU0Z1FfTGh3QzREZFRUMndOUUpsb2xrMUx3YnRZRDdnVHdxdWFDZ2dlVVIwcU9xRGtuNENLRTU1b3RhSmgwZVpLRVFuSElsNUg0NmJBcS1mM2hJck1TOVhSLWNJakM1UVNLa3JiZ1NSTEphU2pYRFF5VFk0dklxRmstUFFIVWJIV2wxZ0ltVFJxQ3FYaUh4UlI2Nzh6eHoxcDAyZ1hpMXIwWFJTd3Q4cWN0RHgtZEhXaGN0ejNwVkR3YTI3d9IBzwFBVV95cUxOOUVxNnRvM2luTHdHZHlKX2dzY1M1VnlmaURJdkx0V3R1YV9EbDgwbWFlRDR0b0gweFQ0cnZxN2xqenhQekNuNkY0Q2ZjOWpQaElBSHdxMWllc0lfU09keURzSXo1aTFsMzVGNWswaXM5akZWbUlnN1E1VmpJX195SDdUQ1JCR19Zb2E2endQcTJuQU51VUpheXE1UHJSVGstMEx3UVFlMkFIV3BnTW92VW9aUlk3OHdqbHVWRS0xSEpWSlpRTTM3aDF6N2FJMUk?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_beragama",
+      "subclusterIds": [
+        "kebebasan_beragama"
+      ],
+      "matchedQueries": [
+        "Kebebasan Beragama / Berkeyakinan (KBB)"
+      ],
+      "collectedAt": "2026-09-29T22:19:30.565632Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
