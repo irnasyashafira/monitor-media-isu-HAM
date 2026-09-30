@@ -1,15 +1,15 @@
 {
   "meta": {
-    "generatedAt": "2026-09-30T05:37:35.671993Z",
-    "lastRunAt": "2026-09-30T05:37:35.671993Z",
+    "generatedAt": "2026-09-30T12:40:36.588106Z",
+    "lastRunAt": "2026-09-30T12:40:36.588106Z",
     "startDate": "2026-01-01",
     "refreshHours": 6,
     "mode": "incremental",
     "feedsOk": 16,
     "feedsFailed": 0,
-    "totalStored": 1793,
-    "totalPublished": 1793,
-    "newArticles": 7,
+    "totalStored": 1808,
+    "totalPublished": 1808,
+    "newArticles": 15,
     "warning": ""
   },
   "clusters": [
@@ -136,6 +136,236 @@
   ],
   "articles": [
     {
+      "id": "5ac43638113d7dbc3d5d9e64",
+      "publishedAt": "2026-09-30T10:52:47Z",
+      "title": "Kasus Dugaan Penistaan Agama di Jember, Polisi Mulai Periksa Saksi Pelapor",
+      "source": "kissfmjember.com",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOMVVtMmRqRXY3WkRiUXBwVU9XVWt1NGpQR1lobmNWZTA3d0kyVU0xeEYwSDhlU19BY1NDT3gxcWxtanh6RklDckJCNUJ4U04zVFVzRC1PNEhELUw2c0pPUjB3N0hyTUpzZmRtZHhVcnJOMmx1dnRtYjJ5Zkl6TjNHQm9MNmZoZnoyU2FCWGhpbHVnNXpudmpSS0Vud3laOE1oYUJqQmFGcHQ2Smpwajd5WA?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_beragama",
+      "subclusterIds": [
+        "kebebasan_beragama"
+      ],
+      "matchedQueries": [
+        "Kebebasan Beragama / Berkeyakinan (KBB)"
+      ],
+      "collectedAt": "2026-09-30T12:40:36.588106Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "9ab2e115fd5004f197c57c32",
+      "publishedAt": "2026-09-30T10:07:39Z",
+      "title": "Suara yang Dibungkam: Bayang-Bayang Ancaman bagi Demokrasi",
+      "source": "Kompasiana.com",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPRTB6WVFpUVFYN2dlUGt2eWdPRk9mRWZYWWR0TVhnRGFkOVBad1Z0Y0UxUWc5UktkYVM4RG9URkM3eUVZMXNWOUEwSFR4a1pEbHA0eWdVcGpCR0RtSmN4LVlJeUZDQVJ1OFVzZWFGZUZHYlhWRU5oSDBwUk44a3pac2tiTHJuTWlqWnpUZFQ5QXBwY19XV1R0UkNSbVo1cll1eER5dWhCd0NiZDhYWWdJbEtYNVl1YU9VNkg1YlN2dWxxNTNDS2c?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-30T12:40:36.588106Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "5064098c60d17e0799e5c277",
+      "publishedAt": "2026-09-30T09:15:00Z",
+      "title": "Mengenal Doxing: Pengertian, Bahaya, dan Cara Mencegah Kebocoran Data Pribadi",
+      "source": "Media Indonesia",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOVzhnamhtZHcxS0d4NURySFVub0NmUzEwdWZtTzBLUHR2dlVmZ01veVNYMEdJcEJFY0drczZUSnFtYV8yMS1BYlpVZTdzc2cxVzBicmtld2hWaFdBR0ZZOGUxQ2Jpem9DTTRTNmRKYk1ZeFhaUEY4YW5uQTI0SV9lbjBEaXBFems3VGpmZ2tYV1ktazNpckZMZ0pYVDBiaVN3aWJyX0lsMW1ZSnc2bXpRek5DcFFtSjlIZ0E?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "doxxing_intimidasi",
+      "subclusterIds": [
+        "doxxing_intimidasi"
+      ],
+      "matchedQueries": [
+        "Doxxing & Intimidasi"
+      ],
+      "collectedAt": "2026-09-30T12:40:36.588106Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "edd09b2baff278f831771ec4",
+      "publishedAt": "2026-09-30T09:01:00Z",
+      "title": "Hari Podcast Internasional 30 September, Berikut Sejarahnya",
+      "source": "RRI.co.id",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPWU9fa3pGaUVLeFQ0eHRGTEt6MS1xejE0MDNBUGhUWlZJQ2Zxd3RaT0VWc2ZZX0lNeUN6dzV3azYtaFJEMjZWY3lBN3JxZ2lUMnlnQVNJRTBxMU8wNW04azB5b0dWY3JMUzdZUFZPMXhEX1pZd0thNmY0cG51TmxlQkV0cy16eVlPTlZyY2x2VXQ3aHA4MTg0aUtfZXZRV0E4dEFmZW5UcjJKVE13Rnc?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-30T12:40:36.588106Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "067c4ac4484bd44f2e92818d",
+      "publishedAt": "2026-09-30T08:41:40Z",
+      "title": "Bangun \"Perisai Digital\", Dosen UNP Latih Remaja Pitalah Cegah Online Grooming",
+      "source": "Tribunpadang.com",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPQjdjMFdOaFFlaEIwd1hRZnNqSkxpQlIyakZ5UzNRNFQzdzY3Vl9FYmRRbkRuRmpUaG15V3VYb3JiNFQzMlZFLTk2VmxxM2tGOUpvaGdYWFZoWGg2VElvcmlrMHpMdnlmeVlHOUlBWGVCM2FNeGRkbFBGT0llTENuWUxudHdnbjFiWm1JRm1SbURQRktmUVlOcUltZnRISXh1SXE1UkU1VWU0ZzJTRTBWa3c4eFB3Snc?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "doxxing_intimidasi",
+      "subclusterIds": [
+        "doxxing_intimidasi"
+      ],
+      "matchedQueries": [
+        "Doxxing & Intimidasi"
+      ],
+      "collectedAt": "2026-09-30T12:40:36.588106Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "0b0ce0901958e7c1a07f36ac",
+      "publishedAt": "2026-09-30T08:35:27Z",
+      "title": "Skandal Cihanjuang: Kades Viral Bagi Amplop Ke Oknum Wartawan",
+      "source": "Kompasiana.com",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQX2xlamwyMGxqSXB1ZktKSWN2cGF4YVJ1Zms0RkVoV1hZMGZUUVlYUHB3VXNpWkVvVFJvYklMdkJudWd2WDFrNExvU3k1RXFYQ09ybVN3cXlRbTd3MllkYVpoNGZra1FtMHVRN2VHMUNyQWpQcElhYmx0a3gzUUktNXFJTzhsMGlTMVNCSXFmekNGd1hYSTFWVWlRTG5sdGJmX3VXRHZmdjFGT0k1NWs4N1IxSG1tbWJDTXkzRWxPUXhkUQ?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-30T12:40:36.588106Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "1258c52d219e602d1327b161",
+      "publishedAt": "2026-09-30T08:16:35Z",
+      "title": "Berita",
+      "source": "KPI Pusat",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNd1dhUG1KNHJ5TXhobDB3STFMNDkycndvYVY1bUdlWU1kMUVtQzNpTnZUSFdvc29Sd1R3TlpPVGxkVmZ5UGlfcUlaQ1pvTjNqWWp5MjlJQi1CRFl4V1ItcjVuRHZjSk5taDlVWjFSVm5oajlsaFVGU0NrR3F4X3hneS1ydWlIeUphNDl1WURGVkpibHNZRUJQSVVSYw?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-30T12:40:36.588106Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "7a653e5b412d0753a53964fe",
+      "publishedAt": "2026-09-30T08:07:35Z",
+      "title": "Aksi Mahasiswa Wiraraja Menolak Lupa di September Hitam",
+      "source": "RRI.co.id",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNYUFOaWxKU0JFVmZsalkyLW9WbFlmcGhBRUhhRHNUUzRQYTZTb2E3NHdTcVRpNHBGMkVac18tNThaT05nSjhtb0p2UGVXRFUxRjJkTVAwdENZT1lzcUNPTXJGaGdQbHVodlk2bW5DU1Q1eGlQMS1mVm5SbmVWSDZmd0l2dzFKdXF3Z1g3UXA1eGNrTFFyQWN0V2I2aWV4Zlk?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-30T12:40:36.588106Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "d87e548786dd9759a820df92",
+      "publishedAt": "2026-09-30T07:31:28Z",
+      "title": "ITS Kembangkan Agentic AI untuk Mitigasi Risiko Jebolnya Tanggul Lumpur Sidoarjo",
+      "source": "telusur.co.id",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPUE1rR1ZjQzkxbWJsQVhkdHFObHNoVTBzcGZXM0kyTWtHeWt2S1pySEkwdzJac28wdUxPdGJvZmpnejQwUmJrejNsTTdiSUNURjBVblA1RmRXUEF0OTJDM1pua0pyRnNZY1NyYmdPYmVmT2tVcjdYMy0wdjV6T2lscVpzWVV3WnpQQTVrckVONjEtM0JPZTdQYndOS1J2S1NscngwY0UxNm5SRDkzZm9HZTNDRQ?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "sensor_konten",
+      "subclusterIds": [
+        "sensor_konten"
+      ],
+      "matchedQueries": [
+        "Sensor Konten"
+      ],
+      "collectedAt": "2026-09-30T12:40:36.588106Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "71b8e39ce756921262deffd8",
+      "publishedAt": "2026-09-30T05:02:45Z",
+      "title": "Anime Jepang Mendunia tapi Kena Sensor! Antara Kebebasan Karya, Hukum Negara, Budaya, dan Norma Agama",
+      "source": "Jawa Pos",
+      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNdnlwRV93Z2dOeUdUdHlEaUt3TG9NS3AtLVpCSjhVMnhnYlhiMjhXZWZqc2dvRDlMblluYjgxcHpTNHh1UEx3UmdKYXgwaU1iWGIweFJyMEp3WGd4RmFXSjVSdEtuNWZiVHRrbXJqbHEtQnhHaFoxQ1BnTjZqUmJ4Z2xVRmJ2WG1PRlRHMnhObHY1YWYyY3lfQ2NtNENCVDVuRGFUeGR4T2ZyQzUyTmRxMHkyVThRcjB6NXlMT242OTBzTE5PeXd2bEljZ3hOWVVEbjU0MHJieEozU2JRRnV0MV9NbGU2TjIwT2fSAe8BQVVfeXFMT3pyQVFyM0tGN2dySXFBdHJPWjlla3NpRkVqNUt5b2VfTFZDc1hnVDRVMnppV3RkcEZaS2I4bElZQVBkY1JsNktlMEY4Vkd2RGNXTU1GN2NGOTJ6Y1lJVFVxWkgwSnM0ckQ5MTdUc0p3WmZKSngza19wQXFYeVN2WlRtUnBFai1jU0k1WVVNbUV2YXo0aW9SMi1CSi11b2dmOVV2UWRWZ0wwRUotcDEtWmo3RW9RVjBFYVlGSjZYUklNVEdTUHFLekNGSktlS0Y4SGsxdTZ1Uk5tRlI4bmptY1Nzb0toT0F2QktEeUxJQUU?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-30T12:40:36.588106Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
       "id": "fff9df87ae62a6f4b2da790c",
       "publishedAt": "2026-09-30T04:58:00Z",
       "title": "Dinamika Aksi Massa: Refleksi dan Peran Demonstrasi dalam Sejarah Perubahan Dunia",
@@ -159,6 +389,29 @@
       "reviewNote": ""
     },
     {
+      "id": "5f87a6df37c7666bbf459aad",
+      "publishedAt": "2026-09-30T03:54:42Z",
+      "title": "Saat Anime Jepang Mendunia, Kebebasan Kreatif Berbenturan dengan Aturan Negara Lain",
+      "source": "Jawa Pos",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOakkxMm1NSFNfaFF6UEdHSXphWW5zUW1mZFpieFl0empfeldZNVdLR1gtbElBRjVuaDduUTV1U21RRFdjSXFpMVNzSmllQzNodFFXdFFEQVVWd25sNmFQRW5GMVlsVEowc0ducjFvNUwtYUxVMmRKQTR3cGp5NjRsNTFscnpJYXlqUGZ6eXhuVVF3aF9SSGRsUExIcmpxS24yRWlxd2s1aUUtSHh2SUZKSGFrZFJ1QWRxNDhNbnlvZXJYbFhRb0twaQ?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-30T12:40:36.588106Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
       "id": "c2d0dcb7a93ebb0340b2ce7e",
       "publishedAt": "2026-09-30T00:47:17Z",
       "title": "Buku 'Memburu Muhammad' – Mengapa penulisnya mendapat tekanan dan ancaman?",
@@ -177,6 +430,52 @@
         "Kebebasan Berekspresi & Berpendapat"
       ],
       "collectedAt": "2026-09-30T05:37:35.671993Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "d58afe2b3f0ae9e184549fb7",
+      "publishedAt": "2026-09-30T00:41:56Z",
+      "title": "Buku 'Memburu Muhammad' – Apa sebenarnya isi buku tersebut?",
+      "source": "BBC",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5Mam9seGY0UXZqbVVOTDl3NWZqOUtoRWFncExfQ3ZXaTBXS29WTS1BOXFJdjFqNS1PSHl0R2xFanBsREdqVk1RcXFCY1lnN3JYOVBpYVg5N3hINXFDT1JRdGpB0gFnQVVfeXFMT0FZa08tR1hEZzZvSVJVSVFjczNDN1pYUERPV1B3WEVyTFV3VF9LUkpKVy1ua2oycnRlNksxWHZBMmUxMWVqYzV6T0I1dUVXejFuel9OOWVMdlZaVVB0SFBubm53aDR4MA?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-30T12:40:36.588106Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "a756d8a867d026fa46bef37e",
+      "publishedAt": "2026-09-30T00:15:14Z",
+      "title": "Rapat di Dalam Server Seberang Lautan Halaman 1",
+      "source": "Kompasiana.com",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNRHRQMWxURmhGV1B1OW4zMlZVRXVrdW9pR3F2RVoybkRjakdxb3gxSHpTX3VXYmRWWWRkNjlRSGtOMzBhbHUzdU1hLW83ekp6MjIxZE9lYlZuaVZaTFFQaF9GekoyczUyWUFydTktbkxpUW1EbGZmUEZMdUhualFPS1dORUpELVprZC1RTHM3aEVCN2NrU2NxdXdxUUpnMDNq?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-30T12:40:36.588106Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
@@ -246,6 +545,29 @@
         "Kebebasan Berekspresi & Berpendapat"
       ],
       "collectedAt": "2026-09-29T22:19:30.565632Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "8b63be31020c0c1295bcdddd",
+      "publishedAt": "2026-09-29T20:21:00Z",
+      "title": "Meta Terancam Denda Puluhan Triliun Akibat Pelanggaran Data Pengguna",
+      "source": "lensahukum.co.id",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBwZ2ZIeTI3VXozbGV5WDNmTEV1LW9VQWo3eXJRMTBMWTlCVGlTbDJ5b2tVRW9kZmZ5TU8tQ3NqclphSEhZSjJDUDMyV0lVQlNaWFVfN0pkeHdiem5UbEh3OV9mRjVpbzdXQzVoaWtn?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-30T12:40:36.588106Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
@@ -25306,6 +25628,29 @@
         "Kebebasan Beragama / Berkeyakinan (KBB)"
       ],
       "collectedAt": "2026-09-16T17:02:38.193447Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "cb06edbe5d869a2f2bd735d9",
+      "publishedAt": "2026-08-18T07:00:00Z",
+      "title": "Dari Challenge Berhadiah Miras, Berujung Jerat Pidana",
+      "source": "Pusiknas Polri",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOZWZISDVUeEdxOEJEVDdaZ0p6dXFEbTkwYk5NTWplU0xqWlRleUpJQ1ZPeDllYkxKZnl6MzNGa2U3a1pRbzcwYU5kaFdfb3BVY3dwbHNlZ0pDVHpuc3R3ejBFTFdoU0p6SGZKWXhKSmZsaFNSM0ZpVlZSWjVUQmhMWjlaU2FVSE1maHVDcXExdGlzTWI5R0JPS1VLakg1Zw?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_beragama",
+      "subclusterIds": [
+        "kebebasan_beragama"
+      ],
+      "matchedQueries": [
+        "Kebebasan Beragama / Berkeyakinan (KBB)"
+      ],
+      "collectedAt": "2026-09-30T12:40:36.588106Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
