@@ -1,15 +1,15 @@
 {
   "meta": {
-    "generatedAt": "2026-09-29T22:19:30.565632Z",
-    "lastRunAt": "2026-09-29T22:19:30.565632Z",
+    "generatedAt": "2026-09-30T05:37:35.671993Z",
+    "lastRunAt": "2026-09-30T05:37:35.671993Z",
     "startDate": "2026-01-01",
     "refreshHours": 6,
     "mode": "incremental",
     "feedsOk": 16,
     "feedsFailed": 0,
-    "totalStored": 1786,
-    "totalPublished": 1786,
-    "newArticles": 11,
+    "totalStored": 1793,
+    "totalPublished": 1793,
+    "newArticles": 7,
     "warning": ""
   },
   "clusters": [
@@ -135,6 +135,98 @@
     }
   ],
   "articles": [
+    {
+      "id": "fff9df87ae62a6f4b2da790c",
+      "publishedAt": "2026-09-30T04:58:00Z",
+      "title": "Dinamika Aksi Massa: Refleksi dan Peran Demonstrasi dalam Sejarah Perubahan Dunia",
+      "source": "RRI.co.id",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPazZpSEotcURTWVVNVWRWX1FyZEcxc2Z1a2VHSk9pUDR3dGQ4VXNRUTQtZy04UjVUTHJDTlJhc1BGQlVweUd2SVFGMGZOVzVtcDR6TEJxd1ZaNW43LTZBS0oyZ2NjaTdGM0ZnT2pieDRlRDVWbVMyQXNSRXJxdk5kN09CQUNsbENwS3JuTWh0V295YVVWTmF4V05YbzhoRzJWaVpuYUlkWUl0eTFyMjRPRk83NWh0MEVkeDl2dUZTN3d3UQ?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-30T05:37:35.671993Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "c2d0dcb7a93ebb0340b2ce7e",
+      "publishedAt": "2026-09-30T00:47:17Z",
+      "title": "Buku 'Memburu Muhammad' – Mengapa penulisnya mendapat tekanan dan ancaman?",
+      "source": "BBC",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9BWWtPLUdYRGc2b0lSVUlRY3MzQzdaWFBET1dQd1hFckxVd1RfS1JKSlctbmtqMnJ0ZTZLMVh2QTJlMTFlamM1ek9CNXVFV3oxbnpfTjllTHZWWlVQdEhQbm5ud2g0eDDSAWdBVV95cUxPQVlrTy1HWERnNm9JUlVJUWNzM0M3WlhQRE9XUHdYRXJMVXdUX0tSSkpXLW5rajJydGU2SzFYdkEyZTExZWpjNXpPQjV1RVd6MW56X045ZUx2VlpVUHRIUG5ubndoNHgw?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-30T05:37:35.671993Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "b221c974e8fd56f703011c64",
+      "publishedAt": "2026-09-29T23:12:47Z",
+      "title": "Polda Metro Terjunkan 17.628 Personel Jaga Demo dan Aktivitas Warga",
+      "source": "Kompasiana.com",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPS0UzdFJjdGVxS0wtTHBRUHEtWTQtY2xvcGp4LWRCeXJrQlBHaUItaGdORWk2Qkdhc1o5VjY0T0xOMF9fQmJWb0YwbHFCWE9TTVBSQ01LOVJTTmhMZXZqZEVSRzM1Wjk1dUJrV1RLTmtUb1o5QWZCMTZOYXBRQU9BYWo1cDNpemMwT1FsRkdya2hMWmpURHpXa2R3VGk0LXlHRkhUWm12VGxNYjV1Ujd0N2dwQW8wT2YxZ1hOUnJiQmJESEFRYnJsWXlfY1ZETFhRZ09B?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-30T05:37:35.671993Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "56cf4efadbece7be76e87773",
+      "publishedAt": "2026-09-29T22:25:00Z",
+      "title": "Abraham Sridjaja Tegaskan RUU Penyiaran Bukan untuk Membatasi Kebebasan Berekspresi - daulat.co",
+      "source": "daulat.co",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQSXFZQW9qME1TTENfOTlCdjltc0cxRzRFT2xieGdzNE9PT1FIU2J1bVQxV3EwMWdUQ05KTno0ZnVlMzN5SjBPb1hhdzFxQUs0YndudlJTNllMalRjekJKRXBRZmFleUo0eVBzUGJjV0ZXMHZVZ0l6ZW1RRmhhdFhDckxtbEJtT3lNMWtkTjhVdGJLcndCS2x0Y0I2bFdlU0NCal9wN0N4VUxyVGowbWtWbjZGU3pTSUlGRVJKYmcxYU1lTXfSAcgBQVVfeXFMTThCM1ZvNkpNbVF1TVh6dVY4ak4wUUpPN19wWUFXaUVkVXk2SzBqTVpWeGxzdl91SVF0dGowYjdNRzF3aU9NamxBMjN3NWFsTjVYelJIbHNGMW1NRmlKU0Q0Rmg3emtJdzhZZ1ZYdGZXamFTenhoQzU0eHZHZ2ZjdE1vaEIwOUZtNUZVZzhyQ2Y4dVpNSE44SWZSN1Q2OFh6Rnk0SjE4QUpvRDQ4el95TkFqVDdTTGt4YkhEQ0lTd24xbjlUWnBwNlc?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-30T05:37:35.671993Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
     {
       "id": "add8aabdea232936d99d80d2",
       "publishedAt": "2026-09-29T20:21:00Z",
@@ -550,6 +642,29 @@
       "reviewNote": ""
     },
     {
+      "id": "6de1262d3cdd20a8b9b61d18",
+      "publishedAt": "2026-09-29T05:02:34Z",
+      "title": "RUU Penyiaran: Pembaruan Regulasi atau Ancaman Kebebasan Berekspresi? Halaman all",
+      "source": "Kompasiana.com",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPbjlFNWNzWUxodnNGV2x3NWdoM0Z5RUFhckpfekFOeTQzd2ZVZ3FzMEZvdU5yN0RiMVJSVS1xVldHR3F3X3JmdDkwYXBxeEZVdmNvdEZYRkZEcmliUFhqdnE1bWdjVXplb3VYanRUQW5SemZSSV9FMjhjZktzRDRzcGJDa0hhRjlwenFxc1VOcmZQUzMxNjZVdlQzRDhZRzVhUk52U1RuNGFnT0FiUG9LQ2RKamtncTdtSVJaWnlCa2ZOSER0REVYbEdfMFRTWkp1bzJraU50a0o0MlFESmpqYnRR?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-30T05:37:35.671993Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
       "id": "3b9e496b5aa85861a91a569e",
       "publishedAt": "2026-09-29T05:02:34Z",
       "title": "RUU Penyiaran: Pembaruan Regulasi atau Ancaman Kebebasan Berekspresi? Halaman 1",
@@ -821,6 +936,29 @@
         "Kebebasan Berekspresi & Berpendapat"
       ],
       "collectedAt": "2026-09-29T05:48:10.886913Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "71bf3c03f6c878d41e1dbaa0",
+      "publishedAt": "2026-09-28T23:30:14Z",
+      "title": "Lawan Pembungkaman Pers, Tim Hukum 4 Media di Bali Serahkan 20 Bukti ke PN Denpasar",
+      "source": "radarbuleleng.jawapos.com",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOTno5dTJOUFJRemxMc3JhbERaMUxuZ3hnZmpqTF8yeXV1LVBJZ0Z6ZVpOazQ1ZmEtT3ZKNUNIdmpBRzVnRnlZdHZQR0ItRDlrWUI5ZUNBSDA0SFZBZ3BTc2JGd1pyX3BxUTlDTUctYldUS0ZpSWlmYlpSbDFoSG0tVG0yV2pOaUM2WVYwUzFCUThrb1F1N3hpcXA4cUJ5Q0h5ei1PQ29nZnBZR2xpR1NmWGxuYjE2TlVLbGdKVGU3RXBGWmlfbXVCOElTbnVnaElrTE5wcFlyT3k4RFN3ajFv0gHfAUFVX3lxTE5Oejl1Mk5QUlF6bExzcmFsRFoxTG5neGdmampMXzJ5dXUtUElnRnplWk5rNDVmYS1Pdko1Q0h2akFHNWdGeVl0dlBHQi1EOWtZQjllQ0FIMDRIVkFncFNzYkZ3WnJfcHFROUNNRy1iV1RLRmlJaWZiWlJsMWhIbS1UbTJXak5pQzZZVjBTMUJROGtvUXU3eGlxcDhxQnlDSHl6LU9Db2dmcFlHbGlHU2ZYbG5iMTZOVUtsZ0pUZTdFcEZaaV9tdUI4SVNudWdoSWtMTnBwWXJPeThEU3dqMW8?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-30T05:37:35.671993Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
@@ -1511,6 +1649,29 @@
         "Kebebasan Berekspresi & Berpendapat"
       ],
       "collectedAt": "2026-09-27T21:23:41.900600Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "283a4e811b38cce2fb652625",
+      "publishedAt": "2026-09-27T14:15:59Z",
+      "title": "BMX, Skate hingga Mural Warnai Event di Tembelang Jombang",
+      "source": "kabarjombang.com",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPdDZYMFNNTEJPeXM1NE5uN3RwQURnZ19hZENpckxNS3ZsTVQzdXFLcEQtMjNFQjhCMDhkT1pHWmQ5emdDVGtqYzFFUEs4M0tNN2x4clRPN0VPZ0NpdTRzMFZ2OXN1RFBrMkFNU1l6cE5QMFB3LThPbDdLNERoRjlVLTl3WTJ2S3U0M2R6MThCZ0F5b1NV0gGaAUFVX3lxTE1mWVVxRUthUW4yTjdWRHdrMmdpNEFfeE1uQkx1Y05PYVp6clNBN01IX2ljMGtDTHV3R3FLS3pLc2hXZXp3UFNfRXZxa0dubFhiWC1nZDMwMGNKQzJUejRYQTg0LTJoTjJZbmZ3UDJhWmJiclVNQmp5c1l6dUZBUnJJUmRMMmZSTHZmU0gzZEJrbGtPNXJpUDQ3Q0E?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-30T05:37:35.671993Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
