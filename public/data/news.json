@@ -1,15 +1,15 @@
 {
   "meta": {
-    "generatedAt": "2026-09-30T12:40:36.588106Z",
-    "lastRunAt": "2026-09-30T12:40:36.588106Z",
+    "generatedAt": "2026-09-30T22:19:45.392870Z",
+    "lastRunAt": "2026-09-30T22:19:45.392870Z",
     "startDate": "2026-01-01",
     "refreshHours": 6,
     "mode": "incremental",
     "feedsOk": 16,
     "feedsFailed": 0,
-    "totalStored": 1808,
-    "totalPublished": 1808,
-    "newArticles": 15,
+    "totalStored": 1820,
+    "totalPublished": 1820,
+    "newArticles": 12,
     "warning": ""
   },
   "clusters": [
@@ -135,6 +135,190 @@
     }
   ],
   "articles": [
+    {
+      "id": "b5a3e97c9b6578c48dd55c80",
+      "publishedAt": "2026-09-30T20:40:00Z",
+      "title": "Pakar Komunikasi Politik: Suara Kritis Dibungkam, Demokrasi Berhenti Bernapas",
+      "source": "Mediakarya.id",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQTTgxNWtZd21qcmFtbU90TmNqV2NtN2s1bXlHSURaaVNSSkIwNWt3bWJsOHRhMDg3U1Nja2R0YkFnN3JtNkM1M0xZdEM1T0JCcTNkVmNsc05lek4zcXFUMmdGcE1jdWxSOFJOWngzRERJNGFqODhvbXpINDl1eTA1V1R6ZVJQa0tYSFU3Z3ZKWTYzcnBoRjBPTlg1NmFMR0gwSXhGTQ?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-30T22:19:45.392870Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "a442ee5515b3c463e3ef8af9",
+      "publishedAt": "2026-09-30T18:13:23Z",
+      "title": "Sistem yang Membungkam: Ketika Kritik Dianggap Ancaman",
+      "source": "Kompasiana.com",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPNDUtUEMwbVgxUWJFSnVVdXBfNnEyVEJnamVycl9vV1JXT09UTFgzVGtzMGd4bENwNnhpMVBhb0dJcGk5anNRWUVaVWVibU5kR1JfWm5jNlBPajNwWmxvTGRicTFxelBBa1RHbTRmamVldTJ2bzBXZjAwM3RMSVIycTkxVTRNazZIZnJ4RC0tYnRtMmN1VWg2cHJySWkzWGw4UlZxbzA1b29fLVZrQzhLQ1dWQmFvaks2cFlUTmwtQWZhMjcxV05B?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-30T22:19:45.392870Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "032129cb3e009e819327e469",
+      "publishedAt": "2026-09-30T18:05:24Z",
+      "title": "Jangan Asal Sebar: Batas Kebebasan Berpendapat di Era Digital Halaman 1",
+      "source": "Kompasiana.com",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOaXN5aEI3bE1BT2t1TXVSY2s1NGo0eURFN2dSbTJpcU4yckFnR1ZITElFc1JvSzlfeU9aWmdKV2Z4b2w5LXZaa3JNNHlQZUdfZjBNVlU2d19kalIxQ19ISkxTLVhUQnZ2MGY1MGRELXZTNE40UElDQVdwa1hNZi1LUlRjVzE2cFYxbEw0UmtNZjlSeUFkeVFwdHZsWGRKQ2x3bzBxNmtqUWRFeFdaWDBEVDROdmRtQ1VzWlFtSVZUbHAyeXBFVUE?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-30T22:19:45.392870Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "a8bdd20c7dee64dd048ac505",
+      "publishedAt": "2026-09-30T16:30:00Z",
+      "title": "Layak Ditiru, Turki Bredel Media Corong Propaganda LGBTQ",
+      "source": "jurnas.com",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOUDA4WnFlUmkwNFhGNzlXLWdfWWQwVjFCZEhDYlJzTTl0VzlSRXdiNWI2TWVFNFljdFFJOVdjcTVaNkw3NGUxRVJPMC1SNEtBX20tc0xlVjZJY0FLRm0tNXo3UzhkamQwUGJRa1NKbXN0MEtfS21MYUxrRXl4T0tKN2tuUnVybXlmTjlrMnNfR3pjM1ptOEdoVTM1d9IBoAFBVV95cUxQbTFuQWE3TFVEVVl3UU1XSGhFbTR1aFh2ZGJnU0dXOXBUZUpxVXZHMDRTSnNNRzY0Wm16WWNJcng4djE2WFR3NlltaUlyQjJDamFUSmFYUV91WTBoYnh5RjJsM05zMlgwVkQwT2xyRGl1LVhGbzh5bmc1ckw1RzU3SGVqSVl2aDlaaUVzS1d0SGNRSXdCVm1CdWFxTHdzcEdn?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "sensor_konten",
+      "subclusterIds": [
+        "sensor_konten"
+      ],
+      "matchedQueries": [
+        "Sensor Konten"
+      ],
+      "collectedAt": "2026-09-30T22:19:45.392870Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "0bb63da0ba9cec0a57a01bf5",
+      "publishedAt": "2026-09-30T13:30:00Z",
+      "title": "Kendaraan terbakar",
+      "source": "blokTuban.com",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9ySkY5RFlmaEp4VzBnQWFpaC16V21EbVVnWkFsOUFnOVpveGVsS0NQXzZpbEFxQjVqdnhKdEliQVJxMkdnRzZ2SUFtMkFSdEhaRFI0T25VQmJ4cEMwYkdDag?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-30T22:19:45.392870Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "60daaafcaac2681cbec20fb9",
+      "publishedAt": "2026-09-30T13:13:44Z",
+      "title": "‎Aksi September Hitam di Langsa, Mahasiswa Desak Kematian Rasya Diusut",
+      "source": "AJNN.net",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOUHZ0OHlFTDVVMHdwT3JpWXlrWmhNckJRcGVmWXZEQWJoVHdyWUtKSTM2bjRWdzNja0FyX0EzMVdsZloxYUo5M25rZFVMSUdrd0txN1ROSnJQNmdpekw1U1d2ZUhySGN4X25zd3YzVUVOc1QwdnZ2V0tkajlDM29fTDdqMmhPQ0xrb0t2YWtNVWUtMWZwZzl6cmhQekdiZXJ2YXdCNVFn0gGmAUFVX3lxTE5QdnQ4eUVMNVUwd3BPcmlZeWtaaE1yQlFwZWZZdkRBYmhUd3JZS0pJMzZuNFZ3M2NrQXJfQTMxV2xmWjFhSjkzbmtkVUxJR2t3S3E3VE5KclA2Z2l6TDVTV3ZlSHJIY3hfbnN3djNVRU5zVDB2dnZXS2RqOUMzb19MN2oyaE9DTGtvS3Zha01VZS0xZnBnOXpyaFB6R2JlcnZhd0I1UWc?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-30T22:19:45.392870Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "e3ecb42e38a8222e3f352d11",
+      "publishedAt": "2026-09-30T12:41:12Z",
+      "title": "Krisis Organisasi dan Ilusi Kebebasan Berpendapat Tanpa Etika",
+      "source": "LPM Suara Kampus",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQT1doRWxXQUJWYVIwVUhWTnNjSUNCTy1hVjN1dWZzT0hTM1JUR2p5QU1VejN3SUY0V2VpcGFGckp0YUZscEU0WU15c2hiMEt6djltYmhJa09xSnZqV05DdWlkdkxvc1p3VEJIX0dYb3RjNlI3Q2xSbHktUEozc3Y1UmgzM3FIdUxnSXl2SzNrbw?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-30T22:19:45.392870Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "1a1e8a30ac625bfe5a14d511",
+      "publishedAt": "2026-09-30T11:24:38Z",
+      "title": "Kontingen Wasaka Muda Indonesia U13 Siap Tampil di Piala Soeratin Nasional 2026",
+      "source": "Barito Post",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPNHdCNVRpQXZKQmdrd0ZDbjRzcFUyZ1BOM2tmN3NtS0ZhNXNNd2ZobkxIWFRoNl9LVUg1YV9wRlVOSEdjMTNzT0I0R2h3am13U2plNzZmeEpoUEhjSlFUd3lOMzNBd0lwSHpNQ1BSVy1RREVpaHRtLV9zdlVVcjFUUUkzNnN6MnRnc1cwRW1xLUYyVTF3OWV0MmM1STRnWjlDd2gyUXIycFptS0ZSVl83aGx3TQ?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "doxxing_intimidasi",
+      "subclusterIds": [
+        "doxxing_intimidasi"
+      ],
+      "matchedQueries": [
+        "Doxxing & Intimidasi"
+      ],
+      "collectedAt": "2026-09-30T22:19:45.392870Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
     {
       "id": "5ac43638113d7dbc3d5d9e64",
       "publishedAt": "2026-09-30T10:52:47Z",
@@ -338,6 +522,29 @@
         "Sensor Konten"
       ],
       "collectedAt": "2026-09-30T12:40:36.588106Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "c69972a8933f2a82004ade74",
+      "publishedAt": "2026-09-30T07:31:28Z",
+      "title": "ITS Kembangkan Agentic AI untuk Mitigasi Risiko Jebolnya Tanggul Lumpur Sidoarjo",
+      "source": "Telusur",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPUE1rR1ZjQzkxbWJsQVhkdHFObHNoVTBzcGZXM0kyTWtHeWt2S1pySEkwdzJac28wdUxPdGJvZmpnejQwUmJrejNsTTdiSUNURjBVblA1RmRXUEF0OTJDM1pua0pyRnNZY1NyYmdPYmVmT2tVcjdYMy0wdjV6T2lscVpzWVV3WnpQQTVrckVONjEtM0JPZTdQYndOS1J2S1NscngwY0UxNm5SRDkzZm9HZTNDRQ?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "sensor_konten",
+      "subclusterIds": [
+        "sensor_konten"
+      ],
+      "matchedQueries": [
+        "Sensor Konten"
+      ],
+      "collectedAt": "2026-09-30T22:19:45.392870Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
@@ -3836,6 +4043,29 @@
         "Kebebasan Berekspresi & Berpendapat"
       ],
       "collectedAt": "2026-09-25T05:01:57.912273Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "171383874b000323ee47fcae",
+      "publishedAt": "2026-09-25T00:25:45Z",
+      "title": "Amerika Menunjukkan Dua Wajah Kepemimpinan di Hari-Hari Awal 2026 Halaman all",
+      "source": "Kompasiana.com",
+      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNdENGVkpFWVJpRG9WVlNXVVljYUc2NnBfS2RqMW5HMElGZFg1aXNQNGNZaTNJRTlyb2hLUWVza3VPcWJQME9pOHl2dzA4a2MxS0ZDUmZZQWYyb3RxbnNtcm9uV3NqbVRRUWltb0lFS1JVOURPaE9KbklBaEFWVFgyUGpSRXQyZlZqWUtqNGVULU5iNmJ1TlZTMDN2NkVSN2JaV3ZLWEMxWnNELWF1X29BMDJJVTZ4Vi0yR25rUTVzNU8yV1NiRjBqN0hiaF9oNnJGZkdSOWtTSF9YMDRsa2gxOUVTcHA4UQ?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-09-30T22:19:45.392870Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
@@ -27519,6 +27749,29 @@
       "reviewNote": ""
     },
     {
+      "id": "55172884bf3922e8bbacd828",
+      "publishedAt": "2026-08-13T07:00:00Z",
+      "title": "Polda Metro Jaya tetapkan empat tersangka kasus penistaan agama di Ancol",
+      "source": "sumbar.antaranews.com",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQSzB2VkJaekEzdXhNU2pvUS1LaVphTXEyX2dFeVFPeGtmQ0VfSkJFMzhyV2R0M1JfR1V2YkdEU1R4YzFNYWd3VTRZVW1PQ3lxSUVKU09reWJZaktNNU1yNHVHTDlHZ2gzaWNVcmdXcXNqUEFjdHQzaXhfdm1JWXZIVkxjT0xRVnNMY0htNVZpRU5pRTVDUXNMOXNGa3J4MjBBSzJpdU81bV9tLXJ4V0NVSDJIV1ZqWk0?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_beragama",
+      "subclusterIds": [
+        "kebebasan_beragama"
+      ],
+      "matchedQueries": [
+        "Kebebasan Beragama / Berkeyakinan (KBB)"
+      ],
+      "collectedAt": "2026-09-30T22:19:45.392870Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
       "id": "4f64336139aaa013c92dd3f6",
       "publishedAt": "2026-08-13T07:00:00Z",
       "title": "Polda Metro Jaya Tetapkan Empat Tersangka Kasus Dugaan Penistaan Agama di Ancol",
@@ -27537,6 +27790,29 @@
         "Kebebasan Beragama / Berkeyakinan (KBB)"
       ],
       "collectedAt": "2026-08-31T23:07:12.746081Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "2b29f9e0d3331f30776ac4bf",
+      "publishedAt": "2026-08-13T07:00:00Z",
+      "title": "Polda Metro Jaya Tetapkan Empat Tersangka Kasus Dugaan Penistaan Agama di Ancol",
+      "source": "beritabuana.co",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOVEUwVTFKSzU5R3haU19UcV9tQjByTHlCUVpDdV9nQXNib3NyWk5tSl9UYlgyZGZTSG1nODRFemV4YV9FOEkycTkwMWlWLXZhbVlrLTZRclIzaUdPekV5WklHQ2JOWTg4R1BNOFhMRXU5em5NVTZiUnZ6VEtSSVppU2VFejQ1Mzl6clVhRnNHX3lVUGVRU28tMHlLZ0RPRVlWajNDQTVTSkR1RFZsRHY3ZWtZX28?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_beragama",
+      "subclusterIds": [
+        "kebebasan_beragama"
+      ],
+      "matchedQueries": [
+        "Kebebasan Beragama / Berkeyakinan (KBB)"
+      ],
+      "collectedAt": "2026-09-30T22:19:45.392870Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
