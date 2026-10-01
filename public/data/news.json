@@ -1,15 +1,15 @@
 {
   "meta": {
-    "generatedAt": "2026-10-01T06:01:26.038386Z",
-    "lastRunAt": "2026-10-01T06:01:26.038386Z",
+    "generatedAt": "2026-10-01T13:23:49.326627Z",
+    "lastRunAt": "2026-10-01T13:23:49.326627Z",
     "startDate": "2026-01-01",
     "refreshHours": 6,
     "mode": "incremental",
     "feedsOk": 32,
     "feedsFailed": 0,
-    "totalStored": 1840,
-    "totalPublished": 1840,
-    "newArticles": 20,
+    "totalStored": 1852,
+    "totalPublished": 1852,
+    "newArticles": 12,
     "warning": ""
   },
   "clusters": [
@@ -135,6 +135,144 @@
     }
   ],
   "articles": [
+    {
+      "id": "aa952921b05f6e47c5ee856c",
+      "publishedAt": "2026-10-01T13:05:00Z",
+      "title": "Hari Musik Internasional Setiap 1 Oktober, Ini Sejarah dan Tujuannya",
+      "source": "katakini.com",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNdGVBZTdXVFhiWnNaWFFJNzQyMmk5bDlwS3hmeDR4Z0JNMEk1aVBTYmRIMmlTazJYWERsaldFQzVDRWhqakF1N3pUOXlxVkt5LThINVNyVlR0UG1lUzBaMF83MDNQblFkbzlfclVfX2RVaFlpLXVmNEhlay1Xa2VEc0gzVXJhNGo3RlFMM20tS0pyVEJkMkU4TmNicEZ1LWpoWE1fbVBERlcwMmVl?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-01T13:23:49.326627Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "9cb315be99e4833416e4156c",
+      "publishedAt": "2026-10-01T11:49:53Z",
+      "title": "Soal Panen: Mengapa Teknologi Mulai Mengubah Cara Bertani di indonesia",
+      "source": "Kompasiana.com",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOaHdkMW5VV001N3Q2Rno4RGJQMlNxX3pjUHBTa2xRZExQTUJQTlY0T1lrYkhRdFp6UXZhWHRlbDBqVWV2MDN5cUhrTmRack5ZVnlybzVhMFFERXhrRWQybUtDaDFLQ2IzNUk2aDhfcS1mM0lsSXA4bkdEQjFldEFhWlFoajRqZG1LSldHRFlCM0ZXS3I0TXU2Y3QyVGxZNjNJMk9zLUVqUXlRb2M5bnlSQ0NRXzZOWE1qYVpXWlQ5a0dLRjFhTWM0WWw0SGhTdGtwTUpFWTNBaWg2azhhaVBv?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "sensor_konten",
+      "subclusterIds": [
+        "sensor_konten"
+      ],
+      "matchedQueries": [
+        "Sensor Konten"
+      ],
+      "collectedAt": "2026-10-01T13:23:49.326627Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "d1a3c10bd372d6c721f9cdb0",
+      "publishedAt": "2026-10-01T11:46:27Z",
+      "title": "Pesan Bupati Rudy untuk Pemuda: Kenali Sejarah, Hargai Kemerdekaan",
+      "source": "detikcom",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOTXRtd1JFY052ZWFpZGt3aUpSWmtRRnM5N3M0aDU3akIwUGlBZlJhWXBtSzBobnhQV0hoMzljZ0xaNjh3dEVEcTExb3RxUVRfaG50Tlh1bV8yZ1hOU1ZyVUV4T05YcmtoLXlkNldhcl9lR3dGZlJNcTk1UHUyeG03XzVqZ0hzYUJPTWJyYld6RVJmTlg3ZFRwbGw3ektXckdHeXFsRmpFdElYeG40ZGfSAbMBQVVfeXFMTmQ5S21fdWoybV9zWlNnSjl6c1JXZ1oyeVBqUFdlckd6M2o5Sm9EVHAxMlRIcG9fdnhlcm0yZTVoVGZ3dGtqb25yWUZFMjZuV2JGVkh6bl9QUlNpcEdFV1RGMllyTllOX3lneVNEZjFtbmpkU2Y0SWpSTklhcm8wdjFRSURGZzJlREZDSTVKbS1TX2FJYXhEZzk1bzdsZWJFak5HWDlSRjgzck5OVlg5S0JDdms?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-01T13:23:49.326627Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "d9ac7770bed1bebdb9186a9f",
+      "publishedAt": "2026-10-01T09:36:53Z",
+      "title": "Cipayung Plus Palembang Gelar Nobar dan Diskusi Film Semakin Ditekan Semakin Melawan, Tegaskan Komitmen Jaga Ruang Sipil",
+      "source": "Lingkaran ID",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPR01kekVRRGpkLWhJN1pJLUtKU3NNRkllT0RYNkpNWHJjMkhUbWU1Q3NyU2M1MGtRXzRMV3VmWGpDMmM3Ul9KQUZvdkloZ1dBcFZBS3lXd01YY2hRbHIzS2ZOa08wWHQ5Vmhqc3FmV2dtVDBER3pqeHNlYkhIZWVhQjczV29VdTJhRTlvZWo0NnNUMW1uOE9hUVY1dk1ISkpZWmpGWHZSR0RKUnNXRHB5eUFxdUUyS0FEdENKNjlpZVR5V21GYjFfZm1mLWN6QW9Td0V4LVJ3UGMwZDZaSGJmdQ?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-01T13:23:49.326627Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "834c6ad8c0dabf83dd76784c",
+      "publishedAt": "2026-10-01T07:03:37Z",
+      "title": "Inilah Alasan Mengapa X dan Threads Jadi Tempat Nyaman untuk Bercerita",
+      "source": "Radar Tuban",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQLWtqcnRCWWJjMXRXbEVvcmNFNk5lY1J6OC1XOVE1RkNxcGYyQzByTU50WFpiRWh0X2hoVjB6bUdQQ3hYLXA4MGRUUVdQTGwwLUtxNzBnSjhTRi14WDN6UXh2RGhNOEFKT3lYbnlUTTl3aWd3cmMwR0szX29raUM3UERLT1MzU0UzZ3BISmlIYlB5ZC14Tm5kdUN0ZWtxVzcwaDJ4amh6bHVRU0JOWHZDenBZOFpYQ3FkS2Rz0gHAAUFVX3lxTE9vUFltVEhzZzRqZDVRdDV4SWtfd0FsUHZOLXFRV0tqeEpqSWJjcGZsNUFlMGd5SHd1UzFXZUt5MUlFZVQtOEJBeC1tbkVEWVk4NXhQZWh3TWpneGhWN0pvUWVnSVdTU3F0TGZzeTJLNTlqM19OQ1NkX3g0NmFFYWxOTnZoZnpZRk5wRXEtUFlvZFkyNlFrZXFqU0lUdXdibEl3dEZEa2s2NWJwdC1ka0MtZEpVMWRRUlpTTWJxOUFjSg?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-01T13:23:49.326627Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "2927e1fd4064b9bf7aeae7d2",
+      "publishedAt": "2026-10-01T06:30:23Z",
+      "title": "Kamakura Jepang, Destinasi Slow Travel dengan Kereta Ikonik dan Suasana Bak Ghibli",
+      "source": "Radar Tuban",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQbUJLUm5fSFQtWldId2M3OW9wQXU0OXgxWTNyZHA0dmJfRlVMbXVmcG9VU2N5clBmaXhIaHplWkpVMkozR3NtWEpFdHpmZEpZVDJwZUcyOTBadTNwWFo1WTE1SmtORGlFejN5U3NMR3JyNUlnZW9VUzlrcUJBaFF6MlVEZTdNRjZlTGIzdV9kd1hENGc2OVhHUnRHRzJDajI4LVE5TE5rZHZDUXYxYmZ3QmpHY0pGcDhZNTJVYnA0dGZGX0dSY09CS3JRRXc1Q3JneHp4UE1oY1ROZ9IB2gFBVV95cUxQbUJLUm5fSFQtWldId2M3OW9wQXU0OXgxWTNyZHA0dmJfRlVMbXVmcG9VU2N5clBmaXhIaHplWkpVMkozR3NtWEpFdHpmZEpZVDJwZUcyOTBadTNwWFo1WTE1SmtORGlFejN5U3NMR3JyNUlnZW9VUzlrcUJBaFF6MlVEZTdNRjZlTGIzdV9kd1hENGc2OVhHUnRHRzJDajI4LVE5TE5rZHZDUXYxYmZ3QmpHY0pGcDhZNTJVYnA0dGZGX0dSY09CS3JRRXc1Q3JneHp4UE1oY1ROZw?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-01T13:23:49.326627Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
     {
       "id": "a287ae9b16c2d63a485a1df7",
       "publishedAt": "2026-10-01T04:41:37Z",
@@ -320,6 +458,52 @@
       "reviewNote": ""
     },
     {
+      "id": "f5e4accfbb42e74ed22f7f29",
+      "publishedAt": "2026-10-01T01:41:28Z",
+      "title": "Memburu Muhammad: 5 Fakta Mengejutkan dalam Buku Kontroversial yang Mengungkap Konten, Penulis, dan Dampak Sosialnya di Tengah Polemik Agama – Berita Hari Ini",
+      "source": "lifestyle.teknokrat.ac.id",
+      "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNU25mOHZsVnFiYURDdVhFRXBaYWk4MjBNYUQtenpwQS1xd2hqSFV0MjFtU2VFN2M3bHF0cjgzQkJ2TVZIaDlZNWNGaFU2d0pHUjAzVV9ETnVpcmtYbnU0Q3l3bkloOHNkSDkzVEN0UERZZDNXcmpOa29wa05DN1FESzhCN0dRTkl1MDNBZFBZejFIMWpQTVQ0MEoxWmZ3MUdXWDI4MzAtRS1MdEtNdFU5NmlCQTJadmVzVkpHMUM3R2ExSXAyRl84aTEtQ2dNeGhDeXZibHNxaGYwS0tNZmJVRk1QVExaWTNGTTdSWV9qdFFnckEwMVJsWmpBUFA2SmJ4NUE?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-01T13:23:49.326627Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "f6038e95df9a2fb6e08f16e3",
+      "publishedAt": "2026-10-01T01:15:57Z",
+      "title": "Jangan Asal Sebar: Batas Kebebasan Berpendapat di Era Digital Halaman all",
+      "source": "Kompasiana.com",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQdldRYk12SnBuTnRrdDExVlRMN2NncUFvbmFSWEdQZ2dpT1RoeGFlQnVidlZPbEdBbjV5SXdiU1RNX0RELTRKd3F3aFF1Y3RqLUhWZ2FCeVZMWHN4TFhQXzdmekxjMzhYRG1OZzFTVG1talVYcGF1ZnBVaDVPbkxCYU9WSExBdVdCeklkaWdWMkw0aU9vTWVPNVo5dnJHbHpXMDNVMlhsWVl6MFJaUm5IUDZ2TWtNaTdLR3hGdlZtaVZMdjVPd1hMWUR1ellCOFlOZHc?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-01T13:23:49.326627Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
       "id": "c5a4b2ebf7abfc0e32dd8f8c",
       "publishedAt": "2026-10-01T00:18:00Z",
       "title": "Polisi Periksa Pelapor Kasus Dugaan Penistaan Agama terhadap Kiai Padepokan di Jember",
@@ -338,6 +522,29 @@
         "Kebebasan Beragama / Berkeyakinan (KBB)"
       ],
       "collectedAt": "2026-10-01T06:01:26.038386Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "9d5787c1d68224516c76a96e",
+      "publishedAt": "2026-10-01T00:08:33Z",
+      "title": "BEM Poliwangi Gelar Nobar dan Diskusi Film Dokumenter Makin Ditekan Makin Melawan",
+      "source": "bwi24jam.co.id",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQOHhfWGlhc2NGU214Q0pPVHVKcVY3R0RYc3pfSTYydVZpWGFwVDdIaHZqT0tkcXpCbEgyUlpQSkxMQzJUT012SU1scEFGaUVtckZZNFhSUTV1Y0phM0FDclNWRVFKZ0Rycmg1d0pmSkdZNG5kdjBsLWNYOG1fUkhSS0MwRzZSM3FKQl9GMkw5bVIwRnk4WWR2VXdvZGRhMEQ2RjV4RE53bw?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-01T13:23:49.326627Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
@@ -550,6 +757,29 @@
       "reviewNote": ""
     },
     {
+      "id": "b4382088ccb093f5eb461ec4",
+      "publishedAt": "2026-09-30T12:33:00Z",
+      "title": "Dituduh Terima Aliran Dana Rp9 Miliar dari PT LIB, Persija Layangkan Somasi Terbuka",
+      "source": "Medcom.id",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxORW5za1lZdEtnUm1NRXdhaEoyYjlqZWwzSVlNdlo5NkN2U0RzbXJHaDQwd3M2cUpNMWJCSmJIWWZNYjJBQzFlUndsb21LbHJYaG9ZY212X0hFQTNMLVZjeXkxdkMxQnZWSmgxQVNiM0hLY3RKZzBERnM2ZmxnTmZaY0VYZVlTRzN2WXBLOWFLODUyY016enIxUUpVVlBJTG1hQTQ1VXVIQnRqM2ktLXJGVmtOWXVxMnh4d3dTYkNqWGZaUWxjei0tZy1tX3RyVjFOclNZ?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-01T13:23:49.326627Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
       "id": "1a1e8a30ac625bfe5a14d511",
       "publishedAt": "2026-09-30T11:24:38Z",
       "title": "Kontingen Wasaka Muda Indonesia U13 Siap Tampil di Piala Soeratin Nasional 2026",
@@ -637,6 +867,29 @@
         "Kebebasan Berekspresi & Berpendapat"
       ],
       "collectedAt": "2026-10-01T06:01:26.038386Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "5f128c365ebebe875fb327e0",
+      "publishedAt": "2026-09-30T10:07:00Z",
+      "title": "Ray Rangkuti soal G30S: Perbedaan Pendapat Jangan Diselesaikan dengan Senjata, tapi Dialog",
+      "source": "tvOneNews",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOV1BJa3VGY21ERmdmWFNLakFWcXZTQVd4blZQYU9MVEpjWW1BdlE4OFdkSjlRemNGcFJ2cDVxeXctNG9vc1RHcUZOdmtpXzZvN2xhdVl2ZXRsbWRxYlhYWjdWUGVqTkJsTjNOQUVncDN6TjRwX0VFNjFnZmZvOHdRY3ZaTmhTcW9aYXJLUEZ2TXRnVVpYS09NQWY0ejZxRVM1SjZCR1JyaHN5Vi1YRGlNYk1vTXRqY2xzZ3U2VXFWaXRTX3NDMFpOaU81dF9tSUZG0gHMAUFVX3lxTE1LVXd2NzdPTk9haDE3M2JvNVN2V2pqX0h6a3poVHVsMXotaHpRa0tEQzNvdmxFemdqbGRVVDNtVktzWWx3d3dXSmh0Z3JYMUJWOHl1b1luN2NVMWh4bGgtVzZocVRQZHhabVVBNTYwRUc2OUphLXVjQ21pU0plWmJ0ZVlqUGZlSzRFSTlvQ2N0Vlk3YnFHb3ItZFNjMjVYOXkwTk01dV9VSm95T1lmN3VyZlZzLXJzUnNLZ3dhWW5XUS1pb2o3Ql9LM3V6bA?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-01T13:23:49.326627Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
@@ -913,6 +1166,29 @@
         "Kebebasan Berekspresi & Berpendapat"
       ],
       "collectedAt": "2026-10-01T06:01:26.038386Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "8f50bdbca742a6bb213fd167",
+      "publishedAt": "2026-09-30T01:40:02Z",
+      "title": "Tekanan dan Ancaman Menggelayuti Penulis Buku ‘Memburu Muhammad’, Mengapa Karya Sastra Ini Jadi Sorotan Hukum? – Berita Hari Ini",
+      "source": "lifestyle.teknokrat.ac.id",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOSUtrcjZLNzB4TDFFcHNITzR0NkVSaDdvVkQ0d0xEd2p1SUkxWlJtQUVNbmVNXzB2eUx4cnhaTEd0amxyNjBfWjZPU1h3VXgzWXJSZ19OYlJkSzhXelVSRlU4VWdhSDZtWTF3WVhCSzZQLTdlZktDd3p6SDdyQ3pXYVJvR1BpZHN1d3RDM0p2ZDVVSmhYM1ZwRTlqc0FjektBQlhRNm1xVUZtYl9lcEo1OUNUX2hUWmJPLVJXbnVHVHNnQUx3d2QxX3Y5c3g0WXdmNWRCRzNiZi0?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-01T13:23:49.326627Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
