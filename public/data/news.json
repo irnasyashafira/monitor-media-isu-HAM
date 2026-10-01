@@ -1,15 +1,15 @@
 {
   "meta": {
-    "generatedAt": "2026-10-01T13:23:49.326627Z",
-    "lastRunAt": "2026-10-01T13:23:49.326627Z",
+    "generatedAt": "2026-10-01T22:43:57.217971Z",
+    "lastRunAt": "2026-10-01T22:43:57.217971Z",
     "startDate": "2026-01-01",
     "refreshHours": 6,
     "mode": "incremental",
     "feedsOk": 32,
     "feedsFailed": 0,
-    "totalStored": 1852,
-    "totalPublished": 1852,
-    "newArticles": 12,
+    "totalStored": 1861,
+    "totalPublished": 1861,
+    "newArticles": 9,
     "warning": ""
   },
   "clusters": [
@@ -136,6 +136,29 @@
   ],
   "articles": [
     {
+      "id": "93ea23b010484fb8ca141cdd",
+      "publishedAt": "2026-10-01T13:26:49Z",
+      "title": "Bupati Bogor ajak generasi muda maknai kemerdekaan dengan hargai perjuangan para pahlawan",
+      "source": "ANTARA News Megapolitan",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPZndESTNJWENvX3ZVLTJBbmRzNnYySEYyazkxckVWRHVJVmdaRG1sZHVGQW5vQ2RxT1FhZmsyUWRla0ZwOU9LV1dLdVN3T2ZLMVA4R0M1OUZFNEdTNTVScndOeWFoQ3VxS0hUVlFIeVBpYlFidTFuWmFJV3ltWU1UMEg1S3JuZmZZNVVGZUxnSTJ2TFdwNVo5ZHNhZzUxNnVqel9QNFUxbXpOelNNZl9hci10alRKYmtHb0xCemlMbnkzNTBtS3RhMEtnSEtmaHJYU0lQX2RBenA1Z9IB2gFBVV95cUxPZndESTNJWENvX3ZVLTJBbmRzNnYySEYyazkxckVWRHVJVmdaRG1sZHVGQW5vQ2RxT1FhZmsyUWRla0ZwOU9LV1dLdVN3T2ZLMVA4R0M1OUZFNEdTNTVScndOeWFoQ3VxS0hUVlFIeVBpYlFidTFuWmFJV3ltWU1UMEg1S3JuZmZZNVVGZUxnSTJ2TFdwNVo5ZHNhZzUxNnVqel9QNFUxbXpOelNNZl9hci10alRKYmtHb0xCemlMbnkzNTBtS3RhMEtnSEtmaHJYU0lQX2RBenA1Zw?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-01T22:43:57.217971Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
       "id": "aa952921b05f6e47c5ee856c",
       "publishedAt": "2026-10-01T13:05:00Z",
       "title": "Hari Musik Internasional Setiap 1 Oktober, Ini Sejarah dan Tujuannya",
@@ -228,6 +251,29 @@
       "reviewNote": ""
     },
     {
+      "id": "4ee645c0ae07bc142a89a011",
+      "publishedAt": "2026-10-01T07:35:56Z",
+      "title": "Dudung Bicara Penghinaan Presiden dan Contoh Turki, Saiful Mujani: Buruk untuk Demokrasi - Laman 2",
+      "source": "FAJAR",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNeHpLc0JuTHlYQmJzZlAxZlk5aGZkTUI0Z29OcEdQbGxvSnE0cTVpYU1TZF83YVBjbVFRUkNfU0puWXJqa0xzV2FIcHNqR1VXWmxBT0ZWSXFpbi1tV29BNkhraW1jeFg1X1EyUWRIZHhpM0ZhMFpQLVpFR3dhMGxKdG9oOU1TV1VBVFpKUFY3NFM4WlNsWV9mOFNUYW1tY2lnbXBaSDdkSElYMy00WWo4a3Rrdkp6Q0lHVlJPSg?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-01T22:43:57.217971Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
       "id": "834c6ad8c0dabf83dd76784c",
       "publishedAt": "2026-10-01T07:03:37Z",
       "title": "Inilah Alasan Mengapa X dan Threads Jadi Tempat Nyaman untuk Bercerita",
@@ -251,6 +297,29 @@
       "reviewNote": ""
     },
     {
+      "id": "c2b88578a465f00199af2c00",
+      "publishedAt": "2026-10-01T06:56:00Z",
+      "title": "Kebebasan Berpendapat di Era Digital dan Kesadaran Hukum Warga Negara - kumparan.com",
+      "source": "Kumparan.com",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOTkkzajhneVM5UUlpMDJMX1VlVWZSbHlHSnE4U2NtaUkzTG13OWVqN1N3M3p5WENNS3VoN29LT0hwd3pnNjhWSS0zWFNZa1ZsdWp0MFMxN2c2Z2FobXphUjlaalZiVndYTmpZWTFmV0ZUWlk5VG5teHd2Vk4ycjRRbzJ1U1JuNHlmSTJVS1c3bHpkdTRtdE1WUjFHeXVRdkFUVkdHc0pHSXg5TlIwdHJCQURoQVFwZ9IBvgFBVV95cUxOWHE2X2pyM0l5S3BhcFFRVE4tWlp3cEl0bnUtTTg5ZDlEd25KV2ItUjVSVHVNcUZsX3dOYlp1akJnQ3gtLVBTa0YzUzlfWFRUbS13QmNYb0UzcGd2WlY2bXk2UXJRN1RTa3NEUW5vQjhYQXFsYVR1a0E2LVMyTDZCSHFpdEUtVFpDcWZlZ0QzWnZBcDd1RmtkT2ZOWEZ4UlRveFB1Y2tsNTAwNXd3STBmdEZydERNeS1OdnhycnRB?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-01T22:43:57.217971Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
       "id": "2927e1fd4064b9bf7aeae7d2",
       "publishedAt": "2026-10-01T06:30:23Z",
       "title": "Kamakura Jepang, Destinasi Slow Travel dengan Kereta Ikonik dan Suasana Bak Ghibli",
@@ -269,6 +338,29 @@
         "Kebebasan Berekspresi & Berpendapat"
       ],
       "collectedAt": "2026-10-01T13:23:49.326627Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "e96b950b6e6582eb89e2ddbf",
+      "publishedAt": "2026-10-01T04:53:59Z",
+      "title": "Memburu Muhammad: 7 Fakta Mengejutkan dalam Buku Kontroversial yang Mengguncang Wacana Islam di Tanah Air",
+      "source": "Universitas Teknokrat Indonesia",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQOVVJamFDT2RRdXJJQVFQZkR5ekwzU3FUdE93RFVQMUlhek1OX2xBd000V214eTNoVmRNeGE4NVJyT2IwME9yZ1N0S3BacTFtci1xMXM3UEZBRG9TUlZuYXlxcGlKR2xRLTJENVNVaUZaVVB3SmFlQ2psMHFWaGM0MTJVTkN4RThJME52YzE1V1VSVkE4Qlh1c3A0YWtSUGhEYWE3Yzdwd0dWRVdYMXhxZlM5d25aMkFVNUtJMU1SaTBlYm1QaDh6SWpMNDhveTZ2akdxWWZR?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-01T22:43:57.217971Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
@@ -545,6 +637,29 @@
         "Kebebasan Berekspresi & Berpendapat"
       ],
       "collectedAt": "2026-10-01T13:23:49.326627Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "0af8fd2acfa2acd0d97ed6f4",
+      "publishedAt": "2026-10-01T00:08:33Z",
+      "title": "BEM Poliwangi Gelar Nobar dan Diskusi Film Dokumenter Makin Ditekan Makin Melawan",
+      "source": "BWI24JAM",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQOHhfWGlhc2NGU214Q0pPVHVKcVY3R0RYc3pfSTYydVZpWGFwVDdIaHZqT0tkcXpCbEgyUlpQSkxMQzJUT012SU1scEFGaUVtckZZNFhSUTV1Y0phM0FDclNWRVFKZ0Rycmg1d0pmSkdZNG5kdjBsLWNYOG1fUkhSS0MwRzZSM3FKQl9GMkw5bVIwRnk4WWR2VXdvZGRhMEQ2RjV4RE53bw?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-01T22:43:57.217971Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
@@ -1447,6 +1562,29 @@
       "reviewNote": ""
     },
     {
+      "id": "4d2688cbbf4f1f0ac5d2e74a",
+      "publishedAt": "2026-09-29T12:39:54Z",
+      "title": "Pemerintah tunggu usulan DPR terkait presidential threshold di RUU Pemilu",
+      "source": "manado.antaranews.com",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVXl0T1FIcmw1ZEdPbDdZQUpTRWRZb1psRkZUZV8wREEtb043ZUpJMTZRbWl2NHVRMEpoNGM4TjNOYy1JS29ZTEEzd1VLMlRVSzcxQnkwUlZ3VmM2Z1lOUlRra1ZSTGxUSUNKbTF6eTBIR3J4ckVGd1QxZ1dPaHNkWWxtSktwSGdJSlA0RFhqMURpbGJ2cUxYdWpWSGVvQkQ1UGV3NEhSc2JEcHRMUXc0RTRwV3Q0VVBh?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-01T22:43:57.217971Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
       "id": "da21d035fab880133187a3f2",
       "publishedAt": "2026-09-29T12:27:58Z",
       "title": "Kesehatan Mental Remaja: Saat Luka Tidak Selalu Terlihat Halaman 1",
@@ -1902,6 +2040,29 @@
         "Kebebasan Berekspresi & Berpendapat"
       ],
       "collectedAt": "2026-09-29T22:19:30.565632Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "12bd21adf55328a1788fcdba",
+      "publishedAt": "2026-09-29T03:57:19Z",
+      "title": "Cegah Pembungkaman Pers, Sengketa Harus Lewat Dewan Pers",
+      "source": "radarbadung.jawapos.com",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPdkoycWQ1VXdXMk9xSDBIbHdSVm9ldHluelhubC0zc3lzT2RaeXJWV2Fpbmk5czFKLTFralVtV3hDQXRud3h6dmx0S3V0UzVZQ0xoZG5TRTFGQm4yMHlWazFHUzlUSC1uRXI2cnlaNnJDeGJnVXl5VE1qNEl0VVRCS0FfTDFsOUw0WFRpV0tHV2k1YzdVaUdma2llUTFNOHdoT2pWaUU2cGt5ZEg1ZGRndG9ac1BIS0Vv0gG4AUFVX3lxTE92SjJxZDVVd1cyT3FIMEhsd1JWb2V0eW56WG5sLTNzeXNPZFp5clZXYWluaTlzMUotMWtqVW1XeENBdG53eHp2bHRLdXRTNVlDTGhkblNFMUZCbjIweVZrMUdTOVRILW5FcjZyeVo2ckN4YmdVeXlUTWo0SXRVVEJLQV9MMWw5TDRYVGlXS0dXaTVjN1VpR2ZraWVRMU04d2hPalZpRTZwa3lkSDVkZGd0b1pzUEhLRW8?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-01T22:43:57.217971Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
@@ -2431,6 +2592,29 @@
         "Kebebasan Berekspresi & Berpendapat"
       ],
       "collectedAt": "2026-09-28T14:02:32.801054Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "4570509371173f7a74b199af",
+      "publishedAt": "2026-09-28T07:50:41Z",
+      "title": "Ketika Beritanya Pedas, Kerja Sama Dipangkas?",
+      "source": "padek.jawapos.com",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPYjNINU91YlRFc3cxYktFVzJqVjhrU25WQjZxVkdMS29Xa3ZSdE9WRzRBRDQyNGhJeC1WZ19IZE9qdmhMazdwejVOWERNMF96QlV5LVNVWmhtTWJHM2RxRXUyN3o4ZEt2Y2x3R3hqRS1SRks1WC03eDBPUkVhTDhnYlJDWTRMeTMxaHpmcEFDTdIBlAFBVV95cUxPaXZQTHFNU1QwYS1haE1wMnBEODRGNVBkVW5laGxscjZSU24yREwteUlIU1NOWmJxMjNSQTF5azFsTVp2eGZZYVNUbDRyTWpZaEJFY1lGNE5QaURvYTdVTGJjbXVWUHdKV3cyOFZVSkVHcjY5Ym1GR0cta0lQOU9meDRWbjhvQUVsaWNJOGQ4eDdlRC1w?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-01T22:43:57.217971Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
@@ -27767,6 +27951,29 @@
         "Kebebasan Beragama / Berkeyakinan (KBB)"
       ],
       "collectedAt": "2026-09-01T03:05:34.416592Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "09b6782fb7c141877f71e212",
+      "publishedAt": "2026-08-13T12:05:22Z",
+      "title": "Dua Terduga Pelaku Penistaan Agama Saat Festival Musik Ditahan Di Polda Metro Jaya",
+      "source": "Kalimantan Post",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOVkp5MEs2QXlxeUdkcC0tOGhEU1lqNDZxMWJReE5ydWo4Unl0bUphSmY1SXhpU0pWQUkwdFcxM1ZfSkI3eERHeXJUMG53NDByeFB4aEE3MUxyNF9VcW8tY01HRXFBdF9zSUxFVlpLRzFEYmJZMnQtVVA2YmVtVTJwT2NhbVU1dV9FWUFFc0lxLVA4RFZka1NRN3Q0bm84RERGcUdRWDE5RUtlV0stYWZONjZveWFILWRWMXc?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_beragama",
+      "subclusterIds": [
+        "kebebasan_beragama"
+      ],
+      "matchedQueries": [
+        "Kebebasan Beragama / Berkeyakinan (KBB)"
+      ],
+      "collectedAt": "2026-10-01T22:43:57.217971Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
