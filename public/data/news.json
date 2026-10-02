@@ -1,15 +1,15 @@
 {
   "meta": {
-    "generatedAt": "2026-10-02T12:42:34.620265Z",
-    "lastRunAt": "2026-10-02T12:42:34.620265Z",
+    "generatedAt": "2026-10-02T22:17:33.811695Z",
+    "lastRunAt": "2026-10-02T22:17:33.811695Z",
     "startDate": "2026-01-01",
     "refreshHours": 6,
     "mode": "incremental",
     "feedsOk": 32,
     "feedsFailed": 0,
-    "totalStored": 1883,
-    "totalPublished": 1883,
-    "newArticles": 15,
+    "totalStored": 1891,
+    "totalPublished": 1891,
+    "newArticles": 8,
     "warning": ""
   },
   "clusters": [
@@ -136,6 +136,98 @@
   ],
   "articles": [
     {
+      "id": "1ec3b100784e4834645051ad",
+      "publishedAt": "2026-10-02T20:03:00Z",
+      "title": "4 Tersangka Kasus Penistaan Agama di Festival Musik Diserahkan ke Kejari",
+      "source": "JPNN.com",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQUXNsaHpDRFhVZUppOGQ1NUc2T05BdWpUMkNwSll0TVdCODZMRk4wQ2lUUGNPZXA4b2FZQ1NlNmlsdllVcTVHYWJoektPd2hLa0NBR0xxYmdyRjF3SVd3VTNRVmRqbFRVQ1RUQVN2b2VwTWJJZktNVmtoanMwRHAyellVamtpSERVbE4yU2pPc3NfUWUtaEY4eG5EQV9xbGs?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_beragama",
+      "subclusterIds": [
+        "kebebasan_beragama"
+      ],
+      "matchedQueries": [
+        "Kebebasan Beragama / Berkeyakinan (KBB)"
+      ],
+      "collectedAt": "2026-10-02T22:17:33.811695Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "87a14fd89672ed92e11d910b",
+      "publishedAt": "2026-10-02T14:02:17Z",
+      "title": "UKSW Gelar Kuliah Umum, Bahas Pencegahan Kekerasan Ekstrem dan Kebhinekaan",
+      "source": "MOST 1058",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQZUdtS1FGeFViejJsMWJfUklLd3Y5NUhWSUFOQlRuSGZJYlZYcjRQQXZfT3VQYW16LUhPYVZfYUFoa1lBcjlyTlhDc3lEX3VxSVBja25vTWkwYTYyeWkzOWszMXJDelFLQTcxWnlIUm9FamI1OXRQcWtGcHRzVUJyV3RyZjJBTzhfYXdwYlNxaWMwU190bjZwQ2tadUV6TE1DcFRqNGtWbnA?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-02T22:17:33.811695Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "52b60016870204dcb2fae877",
+      "publishedAt": "2026-10-02T13:45:39Z",
+      "title": "Bono U2 Ikut Bersuara! Polemik Macklemore dan Ed Sheeran Makin Disorot",
+      "source": "video.medcom.id",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQSXJaS3dDQVN1ZlNhNkQzd3h2YzkzQ2lvYlU3MTR0S1YtTHVpUkVQbFVvMlJueHhFaHp0QmNNUURQOTRiWkp2dzBaUVlfTXpKNlhRU0UyMEV0dS1ha3NwZHBiTWdhZ2pzMmJTbmtFZUVQVkVXZ0NVdVBWelRRcEpxNzV3RnVadjF1VXBqclNId1NPZFlJWHJDUjE1OEI2N1haanpVVnJ1QjNWOFJBYk1ub1NmWFVlOGpC?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-02T22:17:33.811695Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "e44a4d470af2a26826752a6a",
+      "publishedAt": "2026-10-02T13:00:00Z",
+      "title": "Lima Mahasiswa K3 Unusa Kembangkan Rambu Evakuasi Tsunami Berbasis Sensor - Suara Merdeka Surabaya",
+      "source": "Suara Merdeka Surabaya",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNZGgzb2RVQUVDek9ZdEVMY3JoNWllamtpWHFhZGIyMmF0TVFOYTlhZW1IUE93Qk1xU20teE14aFppb213QlR4ekswMzdMTEhURWkteXhYMElHajBqYmRneG1SSFpKNzVVOGNhVmNVN2RiY1pIQjd4b3Q3N0gtYlpxbXJMV0RTa05SQUUwN3FMb0NFYkgzaVVrajBwQ2NLNnpFNDJ2XzBORGNIcTVqbGFBb1NPMUoxOXRtNnozQVBacUROX1hqQjFESW1oTnpmSWV4NWgwWW5ZTnd2UdIB2gFBVV95cUxNZGgzb2RVQUVDek9ZdEVMY3JoNWllamtpWHFhZGIyMmF0TVFOYTlhZW1IUE93Qk1xU20teE14aFppb213QlR4ekswMzdMTEhURWkteXhYMElHajBqYmRneG1SSFpKNzVVOGNhVmNVN2RiY1pIQjd4b3Q3N0gtYlpxbXJMV0RTa05SQUUwN3FMb0NFYkgzaVVrajBwQ2NLNnpFNDJ2XzBORGNIcTVqbGFBb1NPMUoxOXRtNnozQVBacUROX1hqQjFESW1oTnpmSWV4NWgwWW5ZTnd2UQ?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "sensor_konten",
+      "subclusterIds": [
+        "sensor_konten"
+      ],
+      "matchedQueries": [
+        "Sensor Konten"
+      ],
+      "collectedAt": "2026-10-02T22:17:33.811695Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
       "id": "ae5e51c69f7222458b2bff40",
       "publishedAt": "2026-10-02T12:13:28Z",
       "title": "HMI Majalengka Buka Panggung Kebebasan Berekspresi, Orasi hingga Musik Ramaikan SIMPONI",
@@ -200,6 +292,52 @@
         "Kebebasan Berekspresi & Berpendapat"
       ],
       "collectedAt": "2026-10-02T12:42:34.620265Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "04c1a86bacae71478266534d",
+      "publishedAt": "2026-10-02T11:30:00Z",
+      "title": "Listyo Diganti Suyudi: Polisi Jangan Lagi Represif ke Rakyat, Banyak Kasus yang Membekas",
+      "source": "Inilah.com",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQbXZYQWJOUkNNZFQ5dWJ0cU0zcHI4RDVPRFF3dEpXRXc2YVVJOC04Y0xDVWtQUUxLTmU0Y2FsYm5GbUd4ZWE0RDFwdW9KdG5LSkJ5YlFwRXFnc1Z4OVNyaFYycnYtdFRaRU9PRHNJMGt4cmV0Qml3T2MyaHZVVzRFcXBieU1oOXZEZXRXLURFS1JmS21zUnBZa1FqWGJYR1BkdHVlbDdrSWhYQTAzR1E?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-02T22:17:33.811695Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "5954e6edd6384e7a8ed43676",
+      "publishedAt": "2026-10-02T11:00:00Z",
+      "title": "Suket Pendidikan SMA Gibran Disorot di MK, Ternyata Terbit Sejak Agustus 2019 - Okeguys.com",
+      "source": "Okeguys.com",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOTWpESEJNeGVpaHRsZ09ZaWFpSDNWc0RpSkVPS0NwZjZwR2xtLThpbVZpVE8zZjdzX0gyZ1VDaXU4ZUNoUG5uR1dRY3g3VERrLWo1UHlaYVdZVWF4MWxMYk9XQmhtLTc0eFFnUnk1ZnotRzBYLWFYSW5RQm14QUdZSW5ubF9lbjNnbkxIdXJHYzBSVU5yYjBuQXNvLUVFQ05ibExiZE9YUXdQa1Q0ZDhfLWtXYVJBMU1zUm9HOTF30gG-AUFVX3lxTE5NakRIQk14ZWlodGxnT1lpYWlIM1ZzRGlKRU9LQ3BmNnBHbG0tOGltVmlUTzNmN3NfSDJnVUNpdThlQ2hQbm5HV1FjeDdURGstajVQeVphV1lVYXgxbExiT1dCaG0tNzR4UWdSeTVmei1HMFgtYVhJblFCbXhBR1lJbm5sX2VuM2duTEh1ckdjMFJVTnJiMG5Bc28tRUVDTmJsTGJkT1hRd1BrVDRkOF8ta1dhUkExTXNSb0c5MXc?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-02T22:17:33.811695Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
@@ -315,6 +453,29 @@
         "Kebebasan Berekspresi & Berpendapat"
       ],
       "collectedAt": "2026-10-02T12:42:34.620265Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "5de5b1ec301fcce740888eab",
+      "publishedAt": "2026-10-02T06:01:00Z",
+      "title": "Hakim MK Tolak Permohonan Denny Indrayana dkk Datangkan Wapres Gibran Rakabuming Raka - Suara Merdeka",
+      "source": "Suara Merdeka",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPZFlVOXRHU3BKV0ZZSkpHRTdBUnBzc1dyX2ZrS0M3dThOYklyTEpXcnVHTml4WDBwQ0dsY2JvdktGbFNMOUh5azZwZEIzdzU0VXJaMmRVSzhsSXJWZVpZLUFKZnRWM01HRlNzZFVET0h2ckdIdG9hb0xrZ2wwWnV2Vi1HWXExdzlSZGtuRDZmLVAybUpEWG5faFlhcXlOTEw0TkxOMHRteldJVTk5UUw5c0toT3JsQTdHN01fcHBLYXhlcFotaTNFRTBDMzdYc3VyY1AwOdIB1AFBVV95cUxPZFlVOXRHU3BKV0ZZSkpHRTdBUnBzc1dyX2ZrS0M3dThOYklyTEpXcnVHTml4WDBwQ0dsY2JvdktGbFNMOUh5azZwZEIzdzU0VXJaMmRVSzhsSXJWZVpZLUFKZnRWM01HRlNzZFVET0h2ckdIdG9hb0xrZ2wwWnV2Vi1HWXExdzlSZGtuRDZmLVAybUpEWG5faFlhcXlOTEw0TkxOMHRteldJVTk5UUw5c0toT3JsQTdHN01fcHBLYXhlcFotaTNFRTBDMzdYc3VyY1AwOQ?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-02T22:17:33.811695Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
@@ -890,6 +1051,29 @@
         "Kebebasan Berekspresi & Berpendapat"
       ],
       "collectedAt": "2026-10-01T06:01:26.038386Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "79b50d62219ef1cfeca070ba",
+      "publishedAt": "2026-10-01T02:00:00Z",
+      "title": "Revisi RUU Penyiaran: pengaturan dahulu, pembungkaman kemudian?",
+      "source": "theconversation.com",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPbHkxVktGTF9Xei13RFB0T29UVGwxc3RtbFdmclpoUTVCbGpoZzFiZ25uaUEyVng3M0c4Vld0UGhlX18xN3kzUTVyeVYxTzR5dmxaaGt1aVV3N09oSG1LYXNfSk1qdjZhY19yeVJ3MVhCdFM5c20tWmtSVEJDWHRRMVNjaDRESmFYeDBibUZ3dXpXbWx0dlVxNkFtUQ?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-02T22:17:33.811695Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
