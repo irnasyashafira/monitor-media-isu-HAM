@@ -1,15 +1,15 @@
 {
   "meta": {
-    "generatedAt": "2026-10-01T22:43:57.217971Z",
-    "lastRunAt": "2026-10-01T22:43:57.217971Z",
+    "generatedAt": "2026-10-02T05:44:30.345659Z",
+    "lastRunAt": "2026-10-02T05:44:30.345659Z",
     "startDate": "2026-01-01",
     "refreshHours": 6,
     "mode": "incremental",
     "feedsOk": 32,
     "feedsFailed": 0,
-    "totalStored": 1861,
-    "totalPublished": 1861,
-    "newArticles": 9,
+    "totalStored": 1868,
+    "totalPublished": 1868,
+    "newArticles": 7,
     "warning": ""
   },
   "clusters": [
@@ -136,6 +136,75 @@
   ],
   "articles": [
     {
+      "id": "1e350bc6f01f170e0f63328f",
+      "publishedAt": "2026-10-02T00:34:18Z",
+      "title": "Tiket Tur Free Palestine Ludes Terjual, Macklemore: “Saya Benar-benar Tak Menyangka”",
+      "source": "Medcom.id",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPaXJCMTlXenh6b2FlTndacjVLYkJRQVVDVUFRTFpYeVV4OS00b0dNTXBDTHAzWi1Mc2w4Y21OZWZ4VDVXZzNtOEp2OFRMbXdQVTl6Tnh4NzZDNHBIQUFwX0p4NThqdUw1UnR4by1xckdOX19XV1M5NmNpai1RMHZRSGltUkFWN01EQlJuQk85b0hZRkRVWTMwU1lWcTBuQm83Tmw2QVdMS2NGX1FqeWhDTktVYUVrY3F1OWpUc0hCdzNzSVU?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-02T05:44:30.345659Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "ea88526c4eb5993d4eb4aea8",
+      "publishedAt": "2026-10-02T00:01:16Z",
+      "title": "4,1 Juta Konten Judi Online Ditangani Komdigi dalam Dua Tahun",
+      "source": "Qoo Media",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQbmlKWUxGbFJWdmhuYjlwTEM1aFBnNmgxSUJpR19IOVkydWpYM0dBZHY1S3Y1Z05yc1dBdlBKQWZxQUdZWmFiODBkT3ZUbXJSRkoxZHZSMU1wRV9rd0VWRnY0VVl1N1o5bnZ0VWhzSG9vTnBuM3I0bWFrcjBmNFhfNXc5cU5wUlk?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "sensor_konten",
+      "subclusterIds": [
+        "sensor_konten"
+      ],
+      "matchedQueries": [
+        "Sensor Konten"
+      ],
+      "collectedAt": "2026-10-02T05:44:30.345659Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "48ab6db4b5d57d9ba3d58a47",
+      "publishedAt": "2026-10-01T23:45:00Z",
+      "title": "Sumbu Pendek Menghakimi Judul Buku",
+      "source": "Tempo.co",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOUXdjc1ZTcXJmaXdyNUJMeXBub1VJTDFXLVVjdURBbHh3UkpEYUJuT1I5djZ3VXpmZVR6ZDNFNElMelN3d2lCUFMxeThPdXVwenk2cHBwcWdZM19Zbmp6RmdZMTZzbmxCVFlIUlJpMmRQbGZZVUFOVGJUMW5iVFBEdXlYblNPOWpzZ21qN0JmdmszQW8?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-02T05:44:30.345659Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
       "id": "93ea23b010484fb8ca141cdd",
       "publishedAt": "2026-10-01T13:26:49Z",
       "title": "Bupati Bogor ajak generasi muda maknai kemerdekaan dengan hargai perjuangan para pahlawan",
@@ -223,6 +292,29 @@
         "Kebebasan Berekspresi & Berpendapat"
       ],
       "collectedAt": "2026-10-01T13:23:49.326627Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "3cbe72aef5c608c3eacbf6c0",
+      "publishedAt": "2026-10-01T10:19:10Z",
+      "title": "Pergantian Kapolri Dinilai Terlambat, Guru Besar UII Sebut Prabowo Lamban Respons Aspirasi Publik",
+      "source": "Suara.com",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPeVZtNVR3a1NxTkMwaWdjcURJZDNOQktYOXN1Qm1jeGVtei1jVlNZZkdhajVBWnQ2SUFFQ09ud0paalFxZzQwbVdYX2hHb2xkcnE4Y29NbDg0SV9ZWVRkQ212UWNlR3U5SExOcWxqOXBoY25DUnlQWm8wOUNaMFl5NWxLdUdMQWY2M3BFQURKblU1Y1J1Q1dpYjRQbWVxa2RzbGRIRXB5NzBLMks4WmdrTjdZSUprWWJvaW5LMXdabnF2NDdEYnU5SVJYbTVxVGRyejlhWGNZRFDSAdgBQVVfeXFMT3lWbTVUd2tTcU5DMGlnY3FESWQzTkJLWDlzdUJtY3hlbXotY1ZTWWZHYWo1QVp0NklBRUNPbndKWmpRcWc0MG1XWF9oR29sZHJxOGNvTWw4NElfWVlUZENtdlFjZUd1OUhMTnFsajlwaGNuQ1J5UFpvMDlDWjBZeTVsS3VHTEFmNjNwRUFESm5VNWNSdUNXaWI0UG1lcWtkc2xkSEVweTcwSzJLOFpna043WUlKa1lib2luSzF3Wm5xdjQ3RGJ1OUlSWG01cVRkcno5YVhjWURQ?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-02T05:44:30.345659Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
@@ -1125,6 +1217,29 @@
       "reviewNote": ""
     },
     {
+      "id": "de09ce182e50e213b048113d",
+      "publishedAt": "2026-09-30T08:16:35Z",
+      "title": "Berita",
+      "source": "kpi.go.id",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNd1dhUG1KNHJ5TXhobDB3STFMNDkycndvYVY1bUdlWU1kMUVtQzNpTnZUSFdvc29Sd1R3TlpPVGxkVmZ5UGlfcUlaQ1pvTjNqWWp5MjlJQi1CRFl4V1ItcjVuRHZjSk5taDlVWjFSVm5oajlsaFVGU0NrR3F4X3hneS1ydWlIeUphNDl1WURGVkpibHNZRUJQSVVSYw?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-02T05:44:30.345659Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
       "id": "7a653e5b412d0753a53964fe",
       "publishedAt": "2026-09-30T08:07:35Z",
       "title": "Aksi Mahasiswa Wiraraja Menolak Lupa di September Hitam",
@@ -1350,6 +1465,29 @@
         "Kebebasan Berekspresi & Berpendapat"
       ],
       "collectedAt": "2026-09-30T12:40:36.588106Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "5866889b2d4a0544bcd54644",
+      "publishedAt": "2026-09-30T00:41:56Z",
+      "title": "Buku 'Memburu Muhammad' – Apa sebenarnya isi buku tersebut?",
+      "source": "bbc.com",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5Mam9seGY0UXZqbVVOTDl3NWZqOUtoRWFncExfQ3ZXaTBXS29WTS1BOXFJdjFqNS1PSHl0R2xFanBsREdqVk1RcXFCY1lnN3JYOVBpYVg5N3hINXFDT1JRdGpB0gFnQVVfeXFMT0FZa08tR1hEZzZvSVJVSVFjczNDN1pYUERPV1B3WEVyTFV3VF9LUkpKVy1ua2oycnRlNksxWHZBMmUxMWVqYzV6T0I1dUVXejFuel9OOWVMdlZaVVB0SFBubm53aDR4MA?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-02T05:44:30.345659Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
@@ -2408,6 +2546,29 @@
         "Kebebasan Berekspresi & Berpendapat"
       ],
       "collectedAt": "2026-09-28T23:19:15.741831Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "106178cd8c5eb7174e4e182b",
+      "publishedAt": "2026-09-28T12:14:33Z",
+      "title": "Program Kokurikuler SMPN 3 Singaraja, KPU Buleleng Berikan Edukasi Demokrasi melalui Pemilihan OSIS",
+      "source": "balinetizen.com",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPcnB0N0FvS2hoQjJJRk02MFhQOHJ1VXYyYkMwSW5Hc25XYkQyOUxaQ29ndmtINVFmQjM5VXVwdFhZdUpBekRKZi1HZ08xb2xnQVBRdzFMVmxxMUxMTERUdXpZUXFqTmFXbXBiNUxqVkVNLUp3cE40ZHZPZjdWQVUzS2lxR0VVOGhfbFpGZXl5T3Vzcm1wLTh2R1A1TkJseWRVdzNjRFRXQ1dIdjhWdWU5T1B0SkV2c1pLLVo5eFFkN1N6TXU0T3c?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-02T05:44:30.345659Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
