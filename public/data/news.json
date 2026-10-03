@@ -1,15 +1,15 @@
 {
   "meta": {
-    "generatedAt": "2026-10-03T11:43:54.995549Z",
-    "lastRunAt": "2026-10-03T11:43:54.995549Z",
+    "generatedAt": "2026-10-03T16:25:51.326150Z",
+    "lastRunAt": "2026-10-03T16:25:51.326150Z",
     "startDate": "2026-01-01",
     "refreshHours": 6,
     "mode": "incremental",
     "feedsOk": 16,
     "feedsFailed": 0,
-    "totalStored": 1916,
-    "totalPublished": 1916,
-    "newArticles": 13,
+    "totalStored": 1918,
+    "totalPublished": 1918,
+    "newArticles": 2,
     "warning": ""
   },
   "clusters": [
@@ -343,6 +343,29 @@
       "reviewNote": ""
     },
     {
+      "id": "183902baba05126cf788f16e",
+      "publishedAt": "2026-10-02T23:33:44Z",
+      "title": "Kriminal kemarin, penipuan Fake BTS hingga kasus penistaan agama",
+      "source": "antaranews.com",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNb2VJSHNhTXpEdXVkUDVYemZWYzZET09DVHoyRWNQQmFjRk8xVTBlRWtOTWU0Y2ZWV2xnMVBOMHJsNklVWjRwUmJ6RFZKTzJNTmZxM21LWHBBNk16TWNhYnBJbDVmNjBmWDJibnBDUDRSd2lKYVlxbmZEQXZrMHkyUGhrTmUzSjVDZFhUR2ZKTzVWYkVTUDZGTlNpa25KNlF6R2RGa054amhrVEHSAasBQVVfeXFMTW9lSUhzYU16RHV1ZFA1WHpmVmM2RE9PQ1R6MkVjUEJhY0ZPMVUwZUVrTk1lNGNmVldsZzFQTjBybDZJVVo0cFJiekRWSk8yTU5mcTNtS1hwQTZNek1jYWJwSWw1ZjYwZlgyYm5wQ1A0UndpSmFZcW5mREF2azB5MlBoa05lM0o1Q2RYVEdmSk81VmJFU1A2Rk5TaWtuSjZRekdkRmtOeGpoa1RB?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_beragama",
+      "subclusterIds": [
+        "kebebasan_beragama"
+      ],
+      "matchedQueries": [
+        "Kebebasan Beragama / Berkeyakinan (KBB)"
+      ],
+      "collectedAt": "2026-10-03T16:25:51.326150Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
       "id": "c1a3fae4353ba1ccfb7914d6",
       "publishedAt": "2026-10-02T23:33:44Z",
       "title": "Kriminal kemarin, penipuan \"Fake BTS\" hingga kasus penistaan agama",
@@ -361,6 +384,29 @@
         "Kebebasan Beragama / Berkeyakinan (KBB)"
       ],
       "collectedAt": "2026-10-03T05:22:52.715111Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "47a298076db82d4ce76c48df",
+      "publishedAt": "2026-10-02T23:33:44Z",
+      "title": "Kriminal kemarin, penipuan \"Fake BTS\" hingga kasus penistaan agama",
+      "source": "antaranews.com",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZzVybEZrQXAyTlkxQjg2bE9IS3NrT09jUlg5WWtoUlFfVm1GRGt5ZktSb1lQNy1vTjZmUVFfV00wTjdsaWFxTHlWeDM4b0Z1eWpDZzlFemNTZldFT1dRUUx4YXRxU09zWHhwWmxvc3dTWmpTNjRORkhINklVWFRZc3ZqQXFHZmpoemlyUXUzM3h2Q25XbkR4RmdfNkRSYURVN0cyWW4zdlY?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_beragama",
+      "subclusterIds": [
+        "kebebasan_beragama"
+      ],
+      "matchedQueries": [
+        "Kebebasan Beragama / Berkeyakinan (KBB)"
+      ],
+      "collectedAt": "2026-10-03T16:25:51.326150Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
