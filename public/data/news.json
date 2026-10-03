@@ -1,14 +1,14 @@
 {
   "meta": {
-    "generatedAt": "2026-10-03T16:25:51.326150Z",
-    "lastRunAt": "2026-10-03T16:25:51.326150Z",
+    "generatedAt": "2026-10-03T21:21:27.398088Z",
+    "lastRunAt": "2026-10-03T21:21:27.398088Z",
     "startDate": "2026-01-01",
     "refreshHours": 6,
     "mode": "incremental",
     "feedsOk": 16,
     "feedsFailed": 0,
-    "totalStored": 1918,
-    "totalPublished": 1918,
+    "totalStored": 1920,
+    "totalPublished": 1920,
     "newArticles": 2,
     "warning": ""
   },
@@ -135,6 +135,52 @@
     }
   ],
   "articles": [
+    {
+      "id": "05b544a79358fe397108c12a",
+      "publishedAt": "2026-10-03T18:56:15Z",
+      "title": "Kiki Aston soal Polemik Asep Nurdiansyah: Jangan Jadikan Medsos Pengadilan Opini",
+      "source": "javasatu.com",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOSU9DbEVIVDFnNldSRWNiemdGeTFJaEYzejhnWHlCdFRWbjM0bkZEUlU1Yy1zLWhscFd6dVIzQmp2QUtrb2ZUNkVDelNlOElST3VEZ0JtbkJNbXFNYkFuV0NYa083U3U5TmxEeFZwWEpYeWU4c29nVGZ4R181c3M2a2duQXVQZ3RmYXBmUi1hQU1wenQxMWU0YVpicDVEM1pGTXdHZWRmSzRwdUdP?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-03T21:21:27.398088Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "b96058332a7f5f20358eeb15",
+      "publishedAt": "2026-10-03T17:37:44Z",
+      "title": "Menilik Mandiri dan Terampilnya ‎Murid SMP Muliya Buat Mural Motif Batik Muhammadiyah",
+      "source": "PWMU.CO",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQRkZZdzlxVEtqUjJoQ01lYkRnNmVBY0hiUFFrYkdubmxwV3lNYU9fRUNfMlVfaHlLOFFQVFExUENWY0NSQWZhZW9rbC1GVDl1S3lZanB6MzJ3NWhia3p5UGFMX01LWUMxekJQVzA3WkZsbkRBbWpvUTJOLUF4RGs0UWlGUmRaa0MxbnZDOV83X1NFbUpidlVsb0Q1Yll1NElneWt3?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-03T21:21:27.398088Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
     {
       "id": "73bfec49b1a32fe614a563c2",
       "publishedAt": "2026-10-03T08:42:00Z",
