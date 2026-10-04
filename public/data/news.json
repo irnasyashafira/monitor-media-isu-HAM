@@ -1,14 +1,14 @@
 {
   "meta": {
-    "generatedAt": "2026-10-04T12:26:46.987238Z",
-    "lastRunAt": "2026-10-04T12:26:46.987238Z",
+    "generatedAt": "2026-10-04T21:32:24.415660Z",
+    "lastRunAt": "2026-10-04T21:32:24.415660Z",
     "startDate": "2026-01-01",
     "refreshHours": 6,
     "mode": "incremental",
     "feedsOk": 16,
     "feedsFailed": 0,
-    "totalStored": 1939,
-    "totalPublished": 1939,
+    "totalStored": 1951,
+    "totalPublished": 1951,
     "newArticles": 12,
     "warning": ""
   },
@@ -136,6 +136,75 @@
   ],
   "articles": [
     {
+      "id": "b6391b91d7257e4b6843e590",
+      "publishedAt": "2026-10-04T13:13:06Z",
+      "title": "UMKM Tulang Punggung Ekonomi,tapi Mengapa Sulit Naik Kelas?",
+      "source": "Kompasiana.com",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPU2pqZVNsUDZwQ3E1V3RXSmlZSm1LMFV3RkgwUG1TcG5SM3EzV0p4NGx0QjEwYzU1N1R2Rnh1TmN5NlFKT3RCVUl0aHdOMnJ2Z3lvY3dRZ2RzWFFVc1RSTGpYRXV0Ymt3YWQyTm5PeG9XZUN1VXJpbDNPaTQ0dHBTQU1NRjNySnBlMXc2RU5ITy01R3NKcEF1amFaR3JSNHI5S1cxMUxzUnJjUEtGQUpVR0FOR2xJN3drZkFUMnJ4OTAzbU0?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-04T21:32:24.415660Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "727f350ccbf2dabad4e8abec",
+      "publishedAt": "2026-10-04T13:03:14Z",
+      "title": "PFI Lampung Kecam Pembungkaman Pers saat Liputan Agenda Gubernur",
+      "source": "Fajar Sumatera",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOXzRCUE9Ycy1JbnRmcUxaaU5HSlNyWEpLazRMajFOTG83SXRIYVo5M1FEZWRDcXYxRXZ3bmJhZ3c2QlFMYzBOWlhoYUtJLXQtSVh1TDdmbFpZMTAtX193VlEzZUtDQ2xNQ0RhamNPeGdieFRRZkljdG1Ndmo5cFE2NHlkX1ZrTE1ZMGU0NDdwcDdhZDEyZGVVYlZjOUZyUDY5Tl8tLTBtMmg?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-04T21:32:24.415660Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "2f1d166c22c84489865519d6",
+      "publishedAt": "2026-10-04T12:57:02Z",
+      "title": "Polres Jember dan MUI koordinasi soal kasus penistaan agama",
+      "source": "Antara News jatim",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPMmJ3alN0MWxQc0dtakp4SmpMRlU4OXE3N25VYWdIY0F5T3JJZ3pPdmF3U0lMVkZoNXBIN3ZRb215eW40MVpZN0JMamtZUlh1dXRmazd6YUhpOGNLYWEtSW50eGVWNW5tMG9mVzhHaV9XT2NXclhmX0hfbDk2a2ZGZC1jWG92SnpEUjRJdnVseEtSaVNmYThtbG1oSUpDMTk4ZXRrZUM2UFBJUXPSAasBQVVfeXFMTzJid2pTdDFsUHNHbWpKeEpqTEZVODlxNzduVWFnSGNBeU9ySWd6T3Zhd1NJTFZGaDVwSDd2UW9teXluNDFaWTdCTGprWVJYdXV0Zms3emFIaThjS2FhLUludHhlVjVubTBvZlc4R2lfV09jV3JYZl9IX2w5NmtmRmQtY1hvdkp6RFI0SXZ1bHhLUmlTZmE4bWxtaElKQzE5OGV0a2VDNlBQSVFz?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_beragama",
+      "subclusterIds": [
+        "kebebasan_beragama"
+      ],
+      "matchedQueries": [
+        "Kebebasan Beragama / Berkeyakinan (KBB)"
+      ],
+      "collectedAt": "2026-10-04T21:32:24.415660Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
       "id": "5e10e0e0b600e9e9fde9da19",
       "publishedAt": "2026-10-04T10:44:43Z",
       "title": "Konsensus yang Dipaksakan: Ketika Kesepakatan Menjadi Nama Lain dari Pembun",
@@ -154,6 +223,52 @@
         "Kebebasan Berekspresi & Berpendapat"
       ],
       "collectedAt": "2026-10-04T12:26:46.987238Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "cb7bc2f4c172ee6385ed0a70",
+      "publishedAt": "2026-10-04T10:44:43Z",
+      "title": "Konsensus yang Dipaksakan: Kesepakatan sebagai Pembungkaman",
+      "source": "Kompasiana.com",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQZFQ3N1RXWWpZUG1NUVQza0p0LXF4MTROY1NqLXh2dlRyNUhpaFJiNFdqcEZ6U00yN3JhQmtHSWFlLU11LUZDdllObzhXcFBWaWFWZml1OWJMSHRtQUtJVzQ2SmtfUG4zeGJDazJ5SzdxbU80MnV2ODNEaWR4UjlXZXdjV2VQUHRLRUR3SDA0U280QXRLajhzZ0tFTi1HYUZuOC1hZ3ZwUDVtMVFoNVNhWnF3WWtJRG1mS2RYeWZyQm9jUWFBWWUtVlZlSFdVaDNJa3Z5STJxQm4?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-04T21:32:24.415660Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "49fd89d243ed77789719f487",
+      "publishedAt": "2026-10-04T09:45:35Z",
+      "title": "Dalih Antisemitisme untuk Bungkam Pro-Palestina? Komisi AS Soroti Kebijakan Trump",
+      "source": "jurnalislam.com",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxON243YXJsRUJsQUtvU0NZdFBYdG1NbTh2MU11eS1IS1RtU0RIcndmNm1RVXNsN3hmOGN3ZGVvc3U4N2dMWVBDcGVENFN1ZFVXU3NsZUlUY29ZSVlDaDJ1aEk1MVJxUEZKSktKeENGcW5ZWDVsTk82dkVEdW93d2JQeVpQU3BuTmprbUpaYmNJSDVTdGp3SDFBaEpTWFNIYk1LSnUxeU9SNXQ?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-04T21:32:24.415660Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
@@ -200,6 +315,29 @@
         "Doxxing & Intimidasi"
       ],
       "collectedAt": "2026-10-04T05:58:49.151705Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "d48d3476fd030f94e921edd5",
+      "publishedAt": "2026-10-04T01:30:00Z",
+      "title": "Polemik Memburu Muhammad: Jangan-Jangan yang Kita 'Buru' Bukan Bukunya, Tapi Asumsi Sendiri?",
+      "source": "yoursay.suara.com",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNbnRpOGlRUkROZXV2RFdMOXNDOWxIakY3b3dwZUp3YmF1R0ZzREdfVXB1bE41Q2tVVUxvaEFEVGV6UmI0aGZtT2stMHBnY2lUNGFVX0JnVENxbU5rV2JFV0hibUtZTGQxWG05SFpZc0hYaTRwYVNWdFNUMndJdERMYUhIdjV4eWM1YWhGWWtTVG04OTBadEdsNTgzMmFGU1B2WWxFaEI0dmdhU3FCTkJwMXVTUDhfa3BubThOUmFENEx0V3d2TnNCenp0QlczVlZ1cld1cTlZUnjSAdgBQVVfeXFMTW50aThpUVJETmV1dkRXTDlzQzlsSGpGN293cGVKd2JhdUdGc0RHX1VwdWxONUNrVVVMb2hBRFRlelJiNGhmbU9rLTBwZ2NpVDRhVV9CZ1RDcW1Oa1diRVdIYm1LWUxkMVhtOUhaWXNIWGk0cGFTVnRTVDJ3SXRETGFISHY1eHljNWFoRllrU1RtODkwWnRHbDU4MzJhRlNQdllsRWhCNHZnYVNxQk5CcDF1U1A4X2twbm04TlJhRDRMdFd3dk5zQnp6dEJXM1ZWdXJXdXE5WVJ4?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "doxxing_intimidasi",
+      "subclusterIds": [
+        "doxxing_intimidasi"
+      ],
+      "matchedQueries": [
+        "Doxxing & Intimidasi"
+      ],
+      "collectedAt": "2026-10-04T21:32:24.415660Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
@@ -780,6 +918,29 @@
       "reviewNote": ""
     },
     {
+      "id": "b04b5c3524f7934515167987",
+      "publishedAt": "2026-10-02T15:00:00Z",
+      "title": "Jebakan Open-Minded Palsu : Kena Main Character Syndrome, Maunya Menang Sendiri - kumparan.com",
+      "source": "kumparan.com",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOcThTNEJKSnh6ajJiSGJfLTY1cmltTlU2dmlJTndweVlIYkRzdDFnNFVqLTN5MTFLaDRtOXlsenNEVC0tZkRyT3NvUUJwZmczYm9HclJmN1N2RnFMQmNZNDYwNTgtTmhJQzRMb2tieWMyYlFqb2Fzd25hSTBSSWhFcmdMUGQ3NXZ4bDIxSmRVRzdVemVxYW9OeDJzTHV1WVNzYkxNYUZXZEFyaXNZNTZ6cUFuZmFVRUNNZTY3Qko2OHNNVXhOSjJXblhmbHJHUdIBzgFBVV95cUxOcThTNEJKSnh6ajJiSGJfLTY1cmltTlU2dmlJTndweVlIYkRzdDFnNFVqLTN5MTFLaDRtOXlsenNEVC0tZkRyT3NvUUJwZmczYm9HclJmN1N2RnFMQmNZNDYwNTgtTmhJQzRMb2tieWMyYlFqb2Fzd25hSTBSSWhFcmdMUGQ3NXZ4bDIxSmRVRzdVemVxYW9OeDJzTHV1WVNzYkxNYUZXZEFyaXNZNTZ6cUFuZmFVRUNNZTY3Qko2OHNNVXhOSjJXblhmbHJHUQ?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-04T21:32:24.415660Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
       "id": "87a14fd89672ed92e11d910b",
       "publishedAt": "2026-10-02T14:02:17Z",
       "title": "UKSW Gelar Kuliah Umum, Bahas Pencegahan Kekerasan Ekstrem dan Kebhinekaan",
@@ -867,6 +1028,29 @@
         "Sensor Konten"
       ],
       "collectedAt": "2026-10-02T22:17:33.811695Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "a6a35e52b41df4895db93ed3",
+      "publishedAt": "2026-10-02T12:35:36Z",
+      "title": "Pemilih Majalengka Tembus Satu Juta Orang, Generasi Milenial Jadi Kelompok Terbesar",
+      "source": "Fokus Jabar",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPUUFoaFZDWklURlJ1Q2pzV2lNODB5Z2ppeXRkdFdmM0o3ZGZBdmFteElLWXFVanBwQ1Fla2ZEX0dQck84aVN0d1hmZWIwQVcyQUdJeUhkM0t1bmpad2JNanV3QkQ5LXRvRnlGcXloWXozd1QtbjI4UkZQLVVQZWF0R2RIeW1vaWNJU2Y5RjJNb1dkM3M2SGlRZF8tNGpSM29DaU8zZzFQTkxoR3h5WHpPZHZxU1EtaUE?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-04T21:32:24.415660Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
@@ -1125,6 +1309,29 @@
       "reviewNote": ""
     },
     {
+      "id": "9ad86d98d4ce150a6615ebfa",
+      "publishedAt": "2026-10-02T06:58:37Z",
+      "title": "Komisi III DPR Minta Kapolri Suyudi Ubah Kultur Polri",
+      "source": "Akurat Sumsel",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQNElTWlVVSm1kbjRvckJndlhkRVhPam1SWHdCZGNKLW5fbFdDVVd0U0l4N1paSlVsV3AxRzZ5VFIyNkNuYWgtWUtKdGZSTlE4Y2cyR2lDLXJHeGNGTlU0SjlsUkF0QnNqdjk3ZnFTVy0tSG04Qnh6Y3FzX0dldjFXVjFSdW1peUdIbklLZG1rcXZlVWF3?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-04T21:32:24.415660Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
       "id": "6050d55bfdfe618b39cc1ec5",
       "publishedAt": "2026-10-02T06:13:16Z",
       "title": "Aksi Jake Lang di Minneapolis Berujung Ricuh, Spider-Man Ikut Turun Tangan hingga 11 Orang Ditangkap",
@@ -1304,6 +1511,29 @@
         "Sensor Konten"
       ],
       "collectedAt": "2026-10-02T05:44:30.345659Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "2ad4c9ec61040f440a4a22b4",
+      "publishedAt": "2026-10-02T00:01:16Z",
+      "title": "4,1 Juta Konten Judi Online Ditangani Komdigi dalam Dua Tahun",
+      "source": "gadget.qoo10.co.id",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQbmlKWUxGbFJWdmhuYjlwTEM1aFBnNmgxSUJpR19IOVkydWpYM0dBZHY1S3Y1Z05yc1dBdlBKQWZxQUdZWmFiODBkT3ZUbXJSRkoxZHZSMU1wRV9rd0VWRnY0VVl1N1o5bnZ0VWhzSG9vTnBuM3I0bWFrcjBmNFhfNXc5cU5wUlk?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "sensor_konten",
+      "subclusterIds": [
+        "sensor_konten"
+      ],
+      "matchedQueries": [
+        "Sensor Konten"
+      ],
+      "collectedAt": "2026-10-04T21:32:24.415660Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
@@ -1493,6 +1723,29 @@
       "reviewNote": ""
     },
     {
+      "id": "345a44152edeac56cf9ca8a8",
+      "publishedAt": "2026-10-01T11:46:27Z",
+      "title": "Pesan Bupati Rudy untuk Pemuda: Kenali Sejarah, Hargai Kemerdekaan",
+      "source": "detik.com",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOTXRtd1JFY052ZWFpZGt3aUpSWmtRRnM5N3M0aDU3akIwUGlBZlJhWXBtSzBobnhQV0hoMzljZ0xaNjh3dEVEcTExb3RxUVRfaG50Tlh1bV8yZ1hOU1ZyVUV4T05YcmtoLXlkNldhcl9lR3dGZlJNcTk1UHUyeG03XzVqZ0hzYUJPTWJyYld6RVJmTlg3ZFRwbGw3ektXckdHeXFsRmpFdElYeG40ZGfSAbMBQVVfeXFMTmQ5S21fdWoybV9zWlNnSjl6c1JXZ1oyeVBqUFdlckd6M2o5Sm9EVHAxMlRIcG9fdnhlcm0yZTVoVGZ3dGtqb25yWUZFMjZuV2JGVkh6bl9QUlNpcEdFV1RGMllyTllOX3lneVNEZjFtbmpkU2Y0SWpSTklhcm8wdjFRSURGZzJlREZDSTVKbS1TX2FJYXhEZzk1bzdsZWJFak5HWDlSRjgzck5OVlg5S0JDdms?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-04T21:32:24.415660Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
       "id": "3cbe72aef5c608c3eacbf6c0",
       "publishedAt": "2026-10-01T10:19:10Z",
       "title": "Pergantian Kapolri Dinilai Terlambat, Guru Besar UII Sebut Prabowo Lamban Respons Aspirasi Publik",
@@ -1534,6 +1787,29 @@
         "Kebebasan Berekspresi & Berpendapat"
       ],
       "collectedAt": "2026-10-04T12:26:46.987238Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "7ca278fd2da027397aec4961",
+      "publishedAt": "2026-10-01T09:46:00Z",
+      "title": "Saiful Si Pendekar Skena Ungkap Sisi Lain Dunia 'Content Creator'?",
+      "source": "lifestyle.sindonews.com",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOVHVraGVuVGo2bTJfWmE3Q19lTHBGaENsd1ZCQ0gydThJZ0YxTWprZG1ZODhWaGZ2dXZEWHd2ZkM4dE9UMU45cldKTDBodlpjLTlvYkExTXRNOGNxRVFMd3JoV0FSZncxVHJzSXdURDhkd21XMElib0xsNGRCS2NzRXB3dzFPQTlnVVozTUszYjdibklVQWNwRzNkWDdjaGV4Z1RlbUZ0Y3VsWnd3ajJEeENMUWNpcHEtRVhnNkcxcHYyOXPSAcYBQVVfeXFMTTJTSlYzU0V5dmF3cWNIV1dmc3F3ckhZX0JhN050ZjNYVGdvUDNrTUQ2YktOaWdlRURxbXB0VWc4emduM0VVRE1pNEd6Z2RIZXphRl9aUTdiN0ZlTGxtcUdLRW9STGNockR5bXEwU1VpVWtjMlpQNFVVUWVwWEJGNFlKU2xma1V2ZzNUWDU2enlQbWpBRXNNRGxfb3JTQjZoWE9UOVZuYXhfUGJaa09oWkgzbEQtRWhHc3pFaGVaMDUyeEZWelh3?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-04T21:32:24.415660Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
