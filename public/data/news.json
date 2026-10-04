@@ -1,15 +1,15 @@
 {
   "meta": {
-    "generatedAt": "2026-10-03T21:21:27.398088Z",
-    "lastRunAt": "2026-10-03T21:21:27.398088Z",
+    "generatedAt": "2026-10-04T05:58:49.151705Z",
+    "lastRunAt": "2026-10-04T05:58:49.151705Z",
     "startDate": "2026-01-01",
     "refreshHours": 6,
     "mode": "incremental",
     "feedsOk": 16,
     "feedsFailed": 0,
-    "totalStored": 1920,
-    "totalPublished": 1920,
-    "newArticles": 2,
+    "totalStored": 1927,
+    "totalPublished": 1927,
+    "newArticles": 7,
     "warning": ""
   },
   "clusters": [
@@ -135,6 +135,98 @@
     }
   ],
   "articles": [
+    {
+      "id": "24af1a68510bdef9b61f8821",
+      "publishedAt": "2026-10-04T01:30:00Z",
+      "title": "Polemik Memburu Muhammad: Jangan-Jangan yang Kita 'Buru' Bukan Bukunya, Tapi Asumsi Sendiri?",
+      "source": "Yoursay.id",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNbnRpOGlRUkROZXV2RFdMOXNDOWxIakY3b3dwZUp3YmF1R0ZzREdfVXB1bE41Q2tVVUxvaEFEVGV6UmI0aGZtT2stMHBnY2lUNGFVX0JnVENxbU5rV2JFV0hibUtZTGQxWG05SFpZc0hYaTRwYVNWdFNUMndJdERMYUhIdjV4eWM1YWhGWWtTVG04OTBadEdsNTgzMmFGU1B2WWxFaEI0dmdhU3FCTkJwMXVTUDhfa3BubThOUmFENEx0V3d2TnNCenp0QlczVlZ1cld1cTlZUnjSAdgBQVVfeXFMTW50aThpUVJETmV1dkRXTDlzQzlsSGpGN293cGVKd2JhdUdGc0RHX1VwdWxONUNrVVVMb2hBRFRlelJiNGhmbU9rLTBwZ2NpVDRhVV9CZ1RDcW1Oa1diRVdIYm1LWUxkMVhtOUhaWXNIWGk0cGFTVnRTVDJ3SXRETGFISHY1eHljNWFoRllrU1RtODkwWnRHbDU4MzJhRlNQdllsRWhCNHZnYVNxQk5CcDF1U1A4X2twbm04TlJhRDRMdFd3dk5zQnp6dEJXM1ZWdXJXdXE5WVJ4?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "doxxing_intimidasi",
+      "subclusterIds": [
+        "doxxing_intimidasi"
+      ],
+      "matchedQueries": [
+        "Doxxing & Intimidasi"
+      ],
+      "collectedAt": "2026-10-04T05:58:49.151705Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "ee3d01ee901b69c379ac58b5",
+      "publishedAt": "2026-10-04T01:00:00Z",
+      "title": "Soal RUU Penyiaran: Antara Riuh Narasi dan Kebutuhan Perlindungan Publik - kumparan.com",
+      "source": "Kumparan.com",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOalhLajY1Ul9xY09sVnpkV2RwODZ2Y3BfSUpRcGN4d3pLZGFHcHREVlpqMjdIcHJ0RFY3UnJSQWRoVWVrSHE5U2Q5bFZFcWdKbGJ2SnFvX0g1X2dhVE9wREtMNmMtRHVnWktWdlNfTkhrLTdPQkRwbXU0LVZiLXIxM3JCYnNqem9URUNhNFhTYWhkYjVKaDdpUmFueFNhSW1OYXB1WnltQXNBZTVIMUwxTmhOb0VhLW5zSFZBSzljNWJiSng1MXFncEtTdXdQeklOaXdYb245ZnJ5Z9IB2gFBVV95cUxOalhLajY1Ul9xY09sVnpkV2RwODZ2Y3BfSUpRcGN4d3pLZGFHcHREVlpqMjdIcHJ0RFY3UnJSQWRoVWVrSHE5U2Q5bFZFcWdKbGJ2SnFvX0g1X2dhVE9wREtMNmMtRHVnWktWdlNfTkhrLTdPQkRwbXU0LVZiLXIxM3JCYnNqem9URUNhNFhTYWhkYjVKaDdpUmFueFNhSW1OYXB1WnltQXNBZTVIMUwxTmhOb0VhLW5zSFZBSzljNWJiSng1MXFncEtTdXdQeklOaXdYb245ZnJ5Zw?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-04T05:58:49.151705Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "b59be416f3d9dcbc7d15f195",
+      "publishedAt": "2026-10-04T00:38:19Z",
+      "title": "Kebebasan Berpendapat dalam Ujian: Sikap Fraksi DPR 1998 vs. DPR Hari Ini",
+      "source": "Kompasiana.com",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPVzRBZzFXcGlmNGJQaFp4SG9DaXJ1dVVBVmxodU9tNi14d0RFbk9zV0pPM3dublFwV2ZybjJpdTJFRmE1cnpjSTF3S2poVWxEc1BXRUpCMUxEaGVmUzgyaUlsTXVabVVEOENLWGZ0S1hZWXRLLUpsR2RlUWNSYk93M1dXVGxlcl9uM0lRcmtNck42bjhrRGk1YlRJWEhVRjR5NWtyQUo5bmVqd2xJQk1HSGY4SmNwd2REMTRENmUwbjE5RHNJTmZ3SG81ZWRnN2RYRU1VYUdGLXR5d3IxbDdzQUlYWQ?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-04T05:58:49.151705Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "3ce7c1e83db721731efb4f59",
+      "publishedAt": "2026-10-03T21:56:00Z",
+      "title": "3 Berita Artis Terheboh: Kasus Penistaan Agama Berlanjut, Daniel: Enggak Semua Bergelimang Harta",
+      "source": "JPNN.com",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOYTNMb00xckRoVm5ETjNMNjZxRzJ2anI4cE40SkpuUk9YeUlpYjJla0kzbnMzeUtsRXRGdUNnNG5QdXVOSDQ0LXBVcmQxS1ZzU1lTNFI0VWVGaXpHdmd5ekhHeHVFMWNheUwwT1pzSXBTSWRack9ZSHdSeHNpS1ZRQXNvYUJkeXBMclk0dUtQeDdQY25YTjdWQ0hmcGRGelo2VHp1a1BRMlJLRF9SQUJmNElEUDZjV3Bjdjg40gG-AUFVX3lxTE1xVXQ4MjVuZEdxWWRYT1Z6Z2JMOXpuazRfUWZvMnlLZFR5cE10ZWgyaHA4VVBDN2hDTnZoOWxpS1VRT1VnVFFfR1FKaGtqLURyVHpXWmJSd2V6S0t3YURnUzJTVE40TzRZd1VWbnFDbFJSeHVwVEUxbjNmWlQ0ejQ0VHBTVTY2NWNicDJzcjFPczE5Zl9vb0VLTFhoVXMxdUNMdV9WY0ktelMtVDV6ZzRaWXQwV1VmNmpvRHRhaUE?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_beragama",
+      "subclusterIds": [
+        "kebebasan_beragama"
+      ],
+      "matchedQueries": [
+        "Kebebasan Beragama / Berkeyakinan (KBB)"
+      ],
+      "collectedAt": "2026-10-04T05:58:49.151705Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
     {
       "id": "05b544a79358fe397108c12a",
       "publishedAt": "2026-10-03T18:56:15Z",
@@ -274,6 +366,29 @@
       "reviewNote": ""
     },
     {
+      "id": "c79f1374d05cb766f8b0a819",
+      "publishedAt": "2026-10-03T05:07:47Z",
+      "title": "Wantimpres: Penghargaan bagi Akademisi atau Pembungkaman yang Halus? Halaman 3",
+      "source": "Kompasiana.com",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQaEgyeDBuTVNFcHEwbWFBTjNERktSUXZfb211MHRDVFQ3bmdiRHBCWGF6OGxpU09FVTJBRGhhVV9nOHdCWGtHTzNzdmRDekNXd3l5WG53WHY2NzR0YUxaWG5QbzJLZTNHXzJOc1V6QUdGSnhocWt3OTZsQ3YwUDlZRHZQZUVjc2dyZWpUUkh0R0J0dlp1NzAwbzlsMXdQUFZJTUlpVENSMmZxdzVIX2oxWVgtUVBDUEcxeDQ5ZDBFNWxIUkhrUTZDSXlwLTZIZUJIcFJiOHVudEk4YjFIUkdv?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-04T05:58:49.151705Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
       "id": "75fac7e2f3fd325d0e9b76d9",
       "publishedAt": "2026-10-03T05:07:47Z",
       "title": "Wantimpres: Penghargaan bagi Akademisi atau Pembungkaman yang Halus? Halaman 1",
@@ -361,6 +476,29 @@
         "Doxxing & Intimidasi"
       ],
       "collectedAt": "2026-10-03T11:43:54.995549Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "5e8c090bab47fa57f69a5e91",
+      "publishedAt": "2026-10-03T02:36:57Z",
+      "title": "Koalisi Masyarakat Sipil Kecam 21 Kasus Intimidasi Nobar Film 'Pesta Babi'",
+      "source": "Kaltimtoday.co",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQT1pUeV9IdFVnRlZ1Wk0tbnh5WHBiUzBnNDNqN2JnRGJZWFRzRl9ScW94T0dGblBIRWlXb2RCa1BxazRqSlV4aV9MZlJaVktnYjliamdHWV9WanBneGotcG9CN2NUeDRTNjZJa1RtVGo5MDJPUzdOZ1ZXdHk5Rl9tTjI3RHphWjNlbWJCcVE4bDYtMl9oZ1dPeEUzTQ?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_berkumpul",
+      "subclusterIds": [
+        "kebebasan_berkumpul"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berkumpul / Berserikat"
+      ],
+      "collectedAt": "2026-10-04T05:58:49.151705Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
@@ -614,6 +752,29 @@
         "Kebebasan Berekspresi & Berpendapat"
       ],
       "collectedAt": "2026-10-02T12:42:34.620265Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "9f29d4f60b8cb118ed901cd6",
+      "publishedAt": "2026-10-02T12:13:28Z",
+      "title": "HMI Majalengka Buka Panggung Kebebasan Berekspresi, Orasi hingga Musik Ramaikan SIMPONI",
+      "source": "fokusjabar.id",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPa0htQ2JqNVlZVDhfSVZjRU9MM1R0dmI0ZTVQUFE0MlpyNFNYdzl5c1o5UHpMckdQb3RkZV9YVGZxemlkMkN6bzJyNDN3NWtPRkFKQTF6X0hDUXUwUzFOMmVKM2M3RjNtLXdpeWFNQzlCWElnRnh4N1ktdU1Ra3RObkNJdDJKRE90R3pQRnpsaUdQbmlkZHVYVGlNNnJwNnc4Yy1hY3U5U3V1VWc1LTNKaF9wUThzR2FSVFFwYQ?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-04T05:58:49.151705Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
