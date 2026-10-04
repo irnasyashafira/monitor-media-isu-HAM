@@ -1,15 +1,15 @@
 {
   "meta": {
-    "generatedAt": "2026-10-04T05:58:49.151705Z",
-    "lastRunAt": "2026-10-04T05:58:49.151705Z",
+    "generatedAt": "2026-10-04T12:26:46.987238Z",
+    "lastRunAt": "2026-10-04T12:26:46.987238Z",
     "startDate": "2026-01-01",
     "refreshHours": 6,
     "mode": "incremental",
     "feedsOk": 16,
     "feedsFailed": 0,
-    "totalStored": 1927,
-    "totalPublished": 1927,
-    "newArticles": 7,
+    "totalStored": 1939,
+    "totalPublished": 1939,
+    "newArticles": 12,
     "warning": ""
   },
   "clusters": [
@@ -136,6 +136,52 @@
   ],
   "articles": [
     {
+      "id": "5e10e0e0b600e9e9fde9da19",
+      "publishedAt": "2026-10-04T10:44:43Z",
+      "title": "Konsensus yang Dipaksakan: Ketika Kesepakatan Menjadi Nama Lain dari Pembun",
+      "source": "kompasiana.com",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQZFQ3N1RXWWpZUG1NUVQza0p0LXF4MTROY1NqLXh2dlRyNUhpaFJiNFdqcEZ6U00yN3JhQmtHSWFlLU11LUZDdllObzhXcFBWaWFWZml1OWJMSHRtQUtJVzQ2SmtfUG4zeGJDazJ5SzdxbU80MnV2ODNEaWR4UjlXZXdjV2VQUHRLRUR3SDA0U280QXRLajhzZ0tFTi1HYUZuOC1hZ3ZwUDVtMVFoNVNhWnF3WWtJRG1mS2RYeWZyQm9jUWFBWWUtVlZlSFdVaDNJa3Z5STJxQm4?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-04T12:26:46.987238Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "c959f38eaa36c3aaa6010bc6",
+      "publishedAt": "2026-10-04T08:42:00Z",
+      "title": "Ada Festival Palang Pintu, Begini Situasi Terkini Jalan Kemang Raya",
+      "source": "IDX Channel",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQSVhwWFZsS0RYUjM1dElodFhCWWxDV2g4bk1SM2lRd3lTV0NOVloxZFdETmRLVlZMdDgwaTVkX19CdWUwaW91WU5xc04tYThWZTdIRzZMWV9kampNZDh3RGhiMlh5c1U0TGl3OVBCWVFkaHZBQnJkXzhpTlYtdE95OHhENHltSDdHbUl2aXlqYVB2SEtUTVNDSV95cHEtMHl0a2ViZ9IBpAFBVV95cUxQSVhwWFZsS0RYUjM1dElodFhCWWxDV2g4bk1SM2lRd3lTV0NOVloxZFdETmRLVlZMdDgwaTVkX19CdWUwaW91WU5xc04tYThWZTdIRzZMWV9kampNZDh3RGhiMlh5c1U0TGl3OVBCWVFkaHZBQnJkXzhpTlYtdE95OHhENHltSDdHbUl2aXlqYVB2SEtUTVNDSV95cHEtMHl0a2ViZw?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-04T12:26:46.987238Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
       "id": "24af1a68510bdef9b61f8821",
       "publishedAt": "2026-10-04T01:30:00Z",
       "title": "Polemik Memburu Muhammad: Jangan-Jangan yang Kita 'Buru' Bukan Bukunya, Tapi Asumsi Sendiri?",
@@ -228,6 +274,29 @@
       "reviewNote": ""
     },
     {
+      "id": "1806aae1b85972ec8a227f04",
+      "publishedAt": "2026-10-03T20:46:00Z",
+      "title": "Video Potongan dan Hoax Berpotensi Dosa Jariyah",
+      "source": "RRI.co.id",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNNmlNdmY2dkxCS3FhakJidmlPVHJpUEExY2pYM0VrdmdUTUtXQWZZcnZkVHFHZ0gyTGFzUUpkSUFRY3VkejVHdTVpZS1MQVlPWlFlZVJGZmt1QlpfOHJyNzdWSF9UeFdkU3BYZWxlbFpvMU1OUFdIMVZ1Zmg1YVRINTBSbW5oVC04OG84YWVsNTkwTHFzbjFPQnhYaFI?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-04T12:26:46.987238Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
       "id": "05b544a79358fe397108c12a",
       "publishedAt": "2026-10-03T18:56:15Z",
       "title": "Kiki Aston soal Polemik Asep Nurdiansyah: Jangan Jadikan Medsos Pengadilan Opini",
@@ -269,6 +338,29 @@
         "Kebebasan Berekspresi & Berpendapat"
       ],
       "collectedAt": "2026-10-03T21:21:27.398088Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "f44f5dd79c7b22bac032f263",
+      "publishedAt": "2026-10-03T09:52:30Z",
+      "title": "Gema Sinergi Seni Cadas Prasejarah hingga Komunikasi Modern Halaman 2",
+      "source": "kompasiana.com",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQUVI1Z2J5SHFtZU05aU5OUFBJY3lSUW5YV0VjUkZvcmszWTZlUnlQN3ZaWFpHeTl4WGQ4blg1OW5ES1ZCRjRELWt2N1loSi12cEdtN2taQnFHdm9zcGNRZ3VhUk1vTnFZaWE4YjNoNFpzVlE1VkJQV0d5SllVT2VyVDNVd2tGZ0doZHdqS2I0U2tLT251anItcnRZV3VpVU5zbzhRX3BmMmNsU1UybUd2UFZDNUw3MmQtNnEwMmFiSWhTMzVRMnZqQmZsQ0hTaURt?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-04T12:26:46.987238Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
@@ -343,6 +435,29 @@
       "reviewNote": ""
     },
     {
+      "id": "a996bdff726b8154c08897f9",
+      "publishedAt": "2026-10-03T07:18:26Z",
+      "title": "Hakim AS Perintahkan Deportasi Seorang Tokoh Muslim Milwaukee",
+      "source": "خبرگزاری بین المللی قرآن",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQdkVDOEpZYWhsSTNRdnIyZTN4Umo5aEhyUnZ1OFNBXzc3RnlSZFNBalVVb3J1alQyWDNWaHVLRFRSQmR1RXdfWEphUDVxdnpLbEw2b2RmM3lNXzEzYzVmOVFzSGh6NTl1T3FCUFNOdUxjcUllVmF5XzdQSERnSElFSzBaYi1tRjNRYzFlX0hKMVdwZWM4SV8xMg?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-04T12:26:46.987238Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
       "id": "901a47c8a62b8670df7ee3e5",
       "publishedAt": "2026-10-03T05:50:47Z",
       "title": "Dinamika Posisi Baru Rocky Gerung: Antara Karakter Kritis dan Etika Kelembagaan",
@@ -361,6 +476,29 @@
         "Kebebasan Berekspresi & Berpendapat"
       ],
       "collectedAt": "2026-10-03T11:43:54.995549Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "9b149b1a1c9f7c7770abc1d7",
+      "publishedAt": "2026-10-03T05:31:48Z",
+      "title": "Resume Kajian Hukum: Kasus Yusuf Hamka VS Hary Tanoesoedibjo, Sengketa Perdata yang Merembet ke Pidana UU ITE",
+      "source": "Sudutpandang.id",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNRmZibzRPSmlhOVJiZjVYVWF2R0x1UDRhUVhfWk4tbmRHdEZjV3hvZTBLZFNMVFRpSDV4T1RlMkVzYVEzbGYyX2xnbHgtVXFWX2VOQVRjVFBEdDBUZnJSRUhMQmZZVGpDYW1XUGZwZjYyNU55VV9rNGNyMURkT005Z0NsQUZUN0ZsNExQNVVKTHpUS25yTmc5dDNHaXVMT2lwU0RNUW5uMmpTTlpZV2tvemE2QUs4aU9yRGFZa1d3RUxYeTFqSkp5VUhUc3E?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-04T12:26:46.987238Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
@@ -918,6 +1056,29 @@
       "reviewNote": ""
     },
     {
+      "id": "13a79e098993997fc851312a",
+      "publishedAt": "2026-10-02T10:34:02Z",
+      "title": "POSBAKUM PETISI AHLI Tegaskan Tiga Fokus Perjuangan: Bantuan Hukum, Antikorupsi, dan Akses Keadilan - Poros Jakarta",
+      "source": "porosjakarta.com",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNNWxEMVdrZHBlVUNfOUtnUy16dVFwaEk3d3FmeDFTMGhDa3cySzdubHZpeGtvMnVtZE04Ym81Ym10cXNZT3BiMVF2Z2JJLWFyODVNUTZndXdnWGRvSnlGcDdsaE53Z0Y2aGM5RVdLVFpCQl9mV3dINlhBc1FYWW1JSXRoMzJzbXEtdmpBamtwQTBuYlVkNE5Bb0V0VzVlVEFmYjB5WHlXcWZTT3R2bzdLR0tTNVVpNEtCREtGWFBGeVNjRUkwVVRHSXgydUtsXzhQanRlckh1d07SAd4BQVVfeXFMTWFRSmRZWl9LM1dzb0VkVW5NREpzT0FqanE3Wkk3S1RKWjFiMmQyWGZvaGlHdWFpX1Q2TmhnLU1rUDlaY3dINV90aEFLOWFNSHRKZ01kSlFFQzFLYkRuN1lSTHA0RVZZX3hwWUowdmNLcUo3dlZYNkxLNnhtUXVacHFGZ2ZJcUpkbXRkYlRHRmF6bVUwV2QxemNXLUhzZ2lPVjBETF9qYlpmOVc3VWlWaGNZTXJGbV8wZ1VFOTdvZ2MxQ0hNdmtLeE9iVGY2LXgtaktLWnZ3dUZxYXpORjJn?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-04T12:26:46.987238Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
       "id": "fa8e9daeb9541978a470f4c9",
       "publishedAt": "2026-10-02T09:50:58Z",
       "title": "Empat Tersangka Dugaan Penistaan Agama di Ancol Diserahkan Polda Metro Jaya ke Kejari Jakut",
@@ -959,6 +1120,29 @@
         "Kebebasan Beragama / Berkeyakinan (KBB)"
       ],
       "collectedAt": "2026-10-02T12:42:34.620265Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "6050d55bfdfe618b39cc1ec5",
+      "publishedAt": "2026-10-02T06:13:16Z",
+      "title": "Aksi Jake Lang di Minneapolis Berujung Ricuh, Spider-Man Ikut Turun Tangan hingga 11 Orang Ditangkap",
+      "source": "urbanvibes.id",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNSnFPRFFKS21KYTI0cEc4Q0x1bWZKa1BtYVNiMGNFWTBpbW9lYThhV0RXRk9vaU80MnFaS3JpRzNMTkpyQzRiU3RaSW1QeUlDOFBpNW1waHRETGdaTDJTY0U3TUJabHh5LTJPSENBdWFoOWdzaGZHeXJGX0p4SXl1a1Y2c2JaZFVRQS1fZ2dKZWp6UTdmSGJBUkpmSVBRaFV2WnFFcmNId281SlMyMDJDZmZKZHA4LWV1angxejZBWi1JckViX1E?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-04T12:26:46.987238Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
@@ -1194,6 +1378,29 @@
       "reviewNote": ""
     },
     {
+      "id": "bdbcbbfdbceb53c40668f1ad",
+      "publishedAt": "2026-10-01T18:32:00Z",
+      "title": "UKSW – Pusat Studi Kepolisian: Memahami Kekerasan, Merawat Kebhinekaan",
+      "source": "Mediahub Polri",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOU1h6Sm8wNXhpcEVuc004RVh5QVlPRVhSMkx5WmJvMmtwdjBpRUxQRTJ4YmtuVUpXQk5SMW5jbzA4NEIwalQ5YU1kR3Z5ZFlfSFFkbkdVRERwY3NZNXNSdnR1SDRlWU02VmtOSmdLVmJ6VmR1LUpXd0FtcHcyWW85TzBrYWVMMHZrYkREQThRMXRDYTUzOEZXWUpIU3JrVkxQdlp1ejU5NVVOUnREaUhobi1Vank1SFFKRThOcWZxZTZhd1ZHcFJqdkhMTkZJWjg?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-04T12:26:46.987238Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
       "id": "93ea23b010484fb8ca141cdd",
       "publishedAt": "2026-10-01T13:26:49Z",
       "title": "Bupati Bogor ajak generasi muda maknai kemerdekaan dengan hargai perjuangan para pahlawan",
@@ -1309,6 +1516,29 @@
       "reviewNote": ""
     },
     {
+      "id": "7f10f3d47f908631dea7e2f4",
+      "publishedAt": "2026-10-01T09:46:00Z",
+      "title": "Saiful Si Pendekar Skena Ungkap Sisi Lain Dunia 'Content Creator'?",
+      "source": "SINDOnews Lifestyle",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOVHVraGVuVGo2bTJfWmE3Q19lTHBGaENsd1ZCQ0gydThJZ0YxTWprZG1ZODhWaGZ2dXZEWHd2ZkM4dE9UMU45cldKTDBodlpjLTlvYkExTXRNOGNxRVFMd3JoV0FSZncxVHJzSXdURDhkd21XMElib0xsNGRCS2NzRXB3dzFPQTlnVVozTUszYjdibklVQWNwRzNkWDdjaGV4Z1RlbUZ0Y3VsWnd3ajJEeENMUWNpcHEtRVhnNkcxcHYyOXPSAcYBQVVfeXFMTTJTSlYzU0V5dmF3cWNIV1dmc3F3ckhZX0JhN050ZjNYVGdvUDNrTUQ2YktOaWdlRURxbXB0VWc4emduM0VVRE1pNEd6Z2RIZXphRl9aUTdiN0ZlTGxtcUdLRW9STGNockR5bXEwU1VpVWtjMlpQNFVVUWVwWEJGNFlKU2xma1V2ZzNUWDU2enlQbWpBRXNNRGxfb3JTQjZoWE9UOVZuYXhfUGJaa09oWkgzbEQtRWhHc3pFaGVaMDUyeEZWelh3?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-04T12:26:46.987238Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
       "id": "d9ac7770bed1bebdb9186a9f",
       "publishedAt": "2026-10-01T09:36:53Z",
       "title": "Cipayung Plus Palembang Gelar Nobar dan Diskusi Film Semakin Ditekan Semakin Melawan, Tegaskan Komitmen Jaga Ruang Sipil",
@@ -1350,6 +1580,29 @@
         "Kebebasan Berekspresi & Berpendapat"
       ],
       "collectedAt": "2026-10-03T05:22:52.715111Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "54dbc6630f72a5d7b8e20252",
+      "publishedAt": "2026-10-01T09:15:37Z",
+      "title": "Mengapa RUU Penyiaran Menuai Penolakan? Ini 5 Poin Krusial yang Dinilai Bermasalah",
+      "source": "FAJAR",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNMDZ2R1hweWFOMHB0b0h3bTZDS08wSHhJTUZFblJMSU8tQmZQdHR4eXNBb2lPMFhoSUhSLUM1ZU9vVEg2R3JOcHJnTS1kVS1TM3pwd25HaV9JejJsbEQ3TmtSa0k1cGhSM3A2TndWbVdleE10cF96cUhXVjhwRWdwVDFvTGRqc0kzTjZGNXk1QzM1Q1EtMkNQODh4clRrdnlJM3l6eFM2dW9OS2NkQ1hiM2hyTQ?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-04T12:26:46.987238Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
@@ -7935,6 +8188,29 @@
         "Kebebasan Berekspresi & Berpendapat"
       ],
       "collectedAt": "2026-09-23T11:43:17.232944Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "ac72dff295f2e756a8a228a3",
+      "publishedAt": "2026-09-23T05:32:47Z",
+      "title": "Tak Perlu Demo, DPR Buka Ruang Aspirasi Luas untuk RUU Ketenagakerjaan",
+      "source": "kompasiana.com",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNOUpJbnRiVThPUU05WFYxYnpCNDhhOWt1clBMbUxtVWhPbTMxOWxNUFp3ZkZjckZpd0I0enBtendiWnByU2pQZ1hnOTNONmVZT2Rja0tENzlHV1oxWkRHaW1Ia2g4VTlxMHEwaGpySWpqUV9jR0ZILU5ONlBxa2ZzUDlYVkFFUUNQWnZHZ29XYlYzbWxCS1QyRXZQX0dndEpONHM4cGRIVHcxU1lmdlVpUEtKR3NOYlNfMDdwZWdlY1QxVDZzUW5V?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-04T12:26:46.987238Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
