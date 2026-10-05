@@ -1,14 +1,14 @@
 {
   "meta": {
-    "generatedAt": "2026-10-04T21:32:24.415660Z",
-    "lastRunAt": "2026-10-04T21:32:24.415660Z",
+    "generatedAt": "2026-10-05T05:47:20.949390Z",
+    "lastRunAt": "2026-10-05T05:47:20.949390Z",
     "startDate": "2026-01-01",
     "refreshHours": 6,
     "mode": "incremental",
     "feedsOk": 16,
     "feedsFailed": 0,
-    "totalStored": 1951,
-    "totalPublished": 1951,
+    "totalStored": 1963,
+    "totalPublished": 1963,
     "newArticles": 12,
     "warning": ""
   },
@@ -136,6 +136,236 @@
   ],
   "articles": [
     {
+      "id": "a092b7279066ac2bc8271ee1",
+      "publishedAt": "2026-10-05T05:39:22Z",
+      "title": "Wartawan GarudaTV Diduga Diintimidasi dan Dipaksa Hapus Rekaman, PFI Lampung: Pembungkaman Pers Tak Bisa Ditoleransi",
+      "source": "beritaanda.net",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQUVl1N2NYQTVLOGwzZHdxMl9TNWVDTEZIaXZjV2VQcVN1QTlGc2duMF95d0xONE04Rkk4bjY4ZzVTUlhKcllrS0xoc0xaUnJMQm1zYUJCVjZ6alNKWHlJQ05Xb3NvUU5PeXRnSzVTcXQxaGN2Mkk5bnFoUXE0ZjRvMjA1MHdmYnJob1hpMHRfU3FUWklkZm1JY3Y3Y3RHYm5qMkVzVkFPQmVfVzF0aXp2UVhta0N2Q0t3QklRTEx4S28yaVQ0MUZFMk13U01Fc0xwTC1iOQ?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-05T05:47:20.949390Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "8ace365f42e7326b3558520e",
+      "publishedAt": "2026-10-05T04:24:00Z",
+      "title": "Ngaku Dipecat usai Bongkar Dugaan Jurnal Predator, Dosen UAJY Mengadu ke Komnas HAM",
+      "source": "RCTI+",
+      "link": "https://news.google.com/rss/articles/CBMiswJBVV95cUxNWmk0Qm1qcUFDeXV0QndXZGt0Z19ZQ2ZEM1FtcEpyNHEzZUtyY1o4V0N2OUtEOGh0STVYRXItZndOM3RSSmVDcEwxR0xtRDZvSG9kRUM1OTNCMHlnRmJvbzEwOHlTZzVqOXBGR19iWW5URFpsTzUzZmtkZFNFc3AyLVFlWk9xQ0x0dm1XelZyam9aYlJVemdJbmNSN3FmUTBNaEJiSzhSQ0MxU1lHcEUzVWlWcVZ3dDljVDBsbElDQkc5SjBkT3dGTV9DdVZZUFpPdUdiQ2NNbjFmVE5EbjIxeG5MLThQTzQyLWFyc2c4cERBMXFUWUY3elRBaEZkcTFQbV9MdFpsU3BoRE9QSWk1YWVYc0p6Vk52YnBzcWZsZmt2Z2lsU050WTRpQ2ZJZ3ZkRlVV?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-05T05:47:20.949390Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "5086ab5f2c24dee90ff0b4dd",
+      "publishedAt": "2026-10-05T03:30:00Z",
+      "title": "Film Laut Bercerita Tayang 29 Oktober 2026, Angkat Kisah Perjuangan Biru Laut",
+      "source": "NNC Netralnews",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPa2dYaG1maGlOODNjSlRDeWhrWkJQMmRTaFg5anRTeU1HdkpES00wTG1aQmppZEIzWm5DTkhOMFh5WktUbzgxWklZOHE2R2JmOW1jZklpakhTX0FBaVgwNzN5OU00MVJuS0wzLWMzd1JHdHZsMndLUjVvZGZ0WFJhUVlkWGxTWEwxMDZaTkUyZUhlSkxZU2RKMlhKVlpEbFMwQXRoWUdwMnlVeXk3blY3M0ZiaUpKRE0?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-05T05:47:20.949390Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "8075a63cdc9b1e4d96c8817c",
+      "publishedAt": "2026-10-05T02:57:06Z",
+      "title": "Pemerkosaan Melibatkan Mahasiswa CornelI University, Upaya Pembungkaman Terkuak",
+      "source": "MetroTVNews.com",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOTG9Gdl92Q01hUHBUYXRCVWtkWkxGU3lmSGlodnI0Ull2amZfUFQxRnNqRm5CbW41MFo1YkhqaVpsS3UzczVBemlHQVd3bXBUU0h6TzJtblgzRFVucWpxb2hlekNsZmp3eUg2TF8yZ3hqZ0ppQTlualA3TVZkR0ZDS0RrUHNZWFl1NVJyUlZYUFg0Xy1rZFNKanJKSE5CNTFERW94SkJraGpWVVphSXo5UFJuemw4c0h4SVQ0QQ?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-05T05:47:20.949390Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "c4d2c671e0b516c4b2f3b8cb",
+      "publishedAt": "2026-10-05T01:51:00Z",
+      "title": "Yusril: Pemerintah Tak Larang Demo, Tuntutan BEM SI Disampaikan ke Prabowo",
+      "source": "Head Topics",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNQkpaQ1hYazJHSF9BQlhKRUVVUkljbkZ3Q1RjTk9pNkhuS1V6OE5LUk9SSkVqV1BqbWtmWTFTUWI4X1lENzQwcy10bjYta3pGQjRxUlVjQ1QzcmtEQmVxeWxZbVFNZVowMTZaT0FYeWZrZnhLNzQ2Q3Fadkd4WEowVG1RbDExS3YzOEF4Y3MydkJHVFU?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-05T05:47:20.949390Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "db4dcc095eaeb5706fcdbfb1",
+      "publishedAt": "2026-10-05T01:35:00Z",
+      "title": "Jelang Aksi BEM SI di DPR, Polisi Siapkan Rekayasa Lalin dan Ribuan Personel",
+      "source": "Merdeka",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPNk9GZklKQm96SmJfTlZtU011VGZ0VEN0UjVYN0NFZjFLMXdfQWdUZk5zVzFwSWlLdFVGSEpodnNFM2gtV1FYRm15dVVBTk5heFg5c0lBeGlLZmZpQm1UakgzVVhDY1NRVGUzRGpROWJ1Z3AxdlBIbnlENFpXbklLOGN4VnNCVkQ2NUY4d2p2WFdVRlhQelJhc1NFSGw5T2l3b2dVNE5RQlNRS0xzVEZhU016TGpEeEFfclFNQlktNA?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-05T05:47:20.949390Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "1cec59160c2f7e5d5b368a7d",
+      "publishedAt": "2026-10-05T00:51:00Z",
+      "title": "Doodle Art Purwokerto Jadi Wadah Anak Muda Bebas Berkarya",
+      "source": "RRI.co.id",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOcmZBT1luWDBEN2dnNGJJSFNOVl9maFVTRTB4QzJPb3dHTE1vblRwVFNGNDVrRUZFVFcza0tUYVhNRWJ4WnlGNnNONnRyS3RGUVkxdXVyeThQVTJUeDVUYWFPTHUzRWdaRF90SkZzNTM4Y1RxRWU2TXJQcDFmeDJCdm0xS1V3S1FyWEZnVUJ3NGlQVENpM0g3M2ZmR2F0eFYzUjVUcnNNOUpIZw?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-05T05:47:20.949390Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "eabcb5c675799ea6fc5c6f1a",
+      "publishedAt": "2026-10-05T00:49:00Z",
+      "title": "Judul: Polres Jember Dalami Laporan Dugaan Penistaan Agama, Sejumlah Saksi Diperiksa",
+      "source": "Tribrata News",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOUlhVazRNTFdvY3MwanRfN3M5VjZTYTRVQm1BZldrR2FUSXVwdU80dERMSW1WdUpfMklfNEgzYktRX2xZX19qemxmamF4Y2pJMTdmNFNLWno5WTFLOFFpd1UtR3RpTXBka3FzRi1uVEJLS3JSUFNyQTg0OE8xdnZqQ3BoNy1HX1RBQnFJRGc3ejYtRnB6Qi1zaXl3aUlEZWotZWN4S2d1dEdWRUM5NEU2VHBvQ3B4VUhJcGdGSWFMbnNCc0ROTEtSLXg4MVgwYXhkSnM4MQ?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_beragama",
+      "subclusterIds": [
+        "kebebasan_beragama"
+      ],
+      "matchedQueries": [
+        "Kebebasan Beragama / Berkeyakinan (KBB)"
+      ],
+      "collectedAt": "2026-10-05T05:47:20.949390Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "be72be39b3ee1eb72795ebc6",
+      "publishedAt": "2026-10-05T00:39:36Z",
+      "title": "5 bentuk kekerasan gender online, dari doxxing hingga sextortion",
+      "source": "ANTARA News",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNRUw1NWllcGlpNU5TbGNpZkIzVUdmN19QRFh5Q1dJMFlIS1dISjkzYnp2amR2ZTlfOVdsdmJCaHFJRXAtMGtHVVVVcEZJZlVUekJwWDBBTTNjUnltOHRoVldaWTBJOWhIdWNTNmZQUjlDczUxSHpva2VTajlvTjNjSWN5b2Mya285UGtZWnd3a0lPOG1aR1ZIUENlQWMwVGZJN0lFbUtMbGVaTFXSAasBQVVfeXFMTUVMNTVpZXBpaTVOU2xjaWZCM1VHZjdfUERYeUNXSTBZSEtXSEo5M2J6dmpkdmU5XzlXbHZiQmhxSUVwLTBrR1VVVXBGSWZVVHpCcFgwQU0zY1J5bTh0aFZXWlkwSTloSHVjUzZmUFI5Q3M1MUh6b2tlU2o5b04zY0ljeW9jMmtvOVBrWVp3d2tJTzhtWkdWSFBDZUFjMFRmSTdJRW1LTGxlWkxV?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "doxxing_intimidasi",
+      "subclusterIds": [
+        "doxxing_intimidasi"
+      ],
+      "matchedQueries": [
+        "Doxxing & Intimidasi"
+      ],
+      "collectedAt": "2026-10-05T05:47:20.949390Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "211ec95d6609edb1ddaafbe2",
+      "publishedAt": "2026-10-04T23:00:50Z",
+      "title": "Tsunami Penutupan Gereja di Amerika Serikat: Tantangan dan Adaptasi",
+      "source": "Media Indonesia",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOeXRoSHlabXFKSzRick1rakFBSVdXc2JZVTd1VjNSTFJacmU5VElJSUp4V0RBVmh5anBZMEhua3o2ckIzWDFQYmhQc3l6OGhMUUFfaEU0WWpQVmJDQ0hpR3phR0sxY1VBdGhleklMaXhfRDFIbTlIMUEwSC1RSkRENEdfMVo1elFlU0lrOGp1RjVlOWc0bnNSVDRmbnB3b0tQb2NRRXdlUW5lQmxfcXBZT012S2Q?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_beragama",
+      "subclusterIds": [
+        "kebebasan_beragama"
+      ],
+      "matchedQueries": [
+        "Kebebasan Beragama / Berkeyakinan (KBB)"
+      ],
+      "collectedAt": "2026-10-05T05:47:20.949390Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
       "id": "b6391b91d7257e4b6843e590",
       "publishedAt": "2026-10-04T13:13:06Z",
       "title": "UMKM Tulang Punggung Ekonomi,tapi Mengapa Sulit Naik Kelas?",
@@ -200,6 +430,29 @@
         "Kebebasan Beragama / Berkeyakinan (KBB)"
       ],
       "collectedAt": "2026-10-04T21:32:24.415660Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "46600f294f0c751a444f40af",
+      "publishedAt": "2026-10-04T12:56:37Z",
+      "title": "Duga Halangi Peliputan dan Paksa Hapus Rekaman Wartawan GarudaTV, PFI Lampung Kecam Keras Pembungkaman Pers",
+      "source": "Sinar Lampung",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNMVUyeGVrdnNrM3dpeXp4QWtiOHlZZFhZQlR1NmtHWmc1NlJDNUpJWk56WDBOVjlodWpfVkF6Nm9GZHdhZjNPQlV0QWpXenJrUXNQNWktZE05NlNoM25pU2JIS2pWX2dWcjdHQk9TRUttTWVtMFBfTlpwalRCZUdWQktSQ3hva2d4WXlLZkJPVTg5T1M0OFdXVGRyd2FFSkZxWHJQS052a0oweXV4azJuaTdDZkJuNDFCYUtydFZ0SXUtdVhKQkE5VEVNYWRPNzBGa083ZkIzUjg1dw?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-05T05:47:20.949390Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
@@ -44957,6 +45210,29 @@
         "Doxxing & Intimidasi"
       ],
       "collectedAt": "2026-08-31T23:07:12.746081Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "7b8f3e47637bf9e3a46b36e6",
+      "publishedAt": "2026-01-04T08:06:18Z",
+      "title": "Yama Carlos: Teror Mengancam Kebebasan Berekspresi",
+      "source": "Tempo.co",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQRlg4eFJuZXJZLUJVNGxjQ0RlUmlYSHFRbzB6eXZCVDNPVi1SM2ZicGRBR1BFRzl6cUVRZTB5TVotblN0d2pWMzFYZXJrTngxQWlnc2JhaEgzeWVpVE1fNEt1LXJVOUhQZHZTeXFBVG5fSU9ZMTBsT2ltMFZCS19vMFE5R1cxeTQ?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-05T05:47:20.949390Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
