@@ -1,15 +1,15 @@
 {
   "meta": {
-    "generatedAt": "2026-10-05T05:47:20.949390Z",
-    "lastRunAt": "2026-10-05T05:47:20.949390Z",
+    "generatedAt": "2026-10-05T14:47:44.518691Z",
+    "lastRunAt": "2026-10-05T14:47:44.518691Z",
     "startDate": "2026-01-01",
     "refreshHours": 6,
     "mode": "incremental",
     "feedsOk": 16,
     "feedsFailed": 0,
-    "totalStored": 1963,
-    "totalPublished": 1963,
-    "newArticles": 12,
+    "totalStored": 1972,
+    "totalPublished": 1972,
+    "newArticles": 9,
     "warning": ""
   },
   "clusters": [
@@ -136,6 +136,121 @@
   ],
   "articles": [
     {
+      "id": "c6f16aa4d53e1600f00772c4",
+      "publishedAt": "2026-10-05T12:05:32Z",
+      "title": "Ulasan Buku Pengantar Ilmu Politik Karya Jacobus Ranjabar",
+      "source": "Kompasiana.com",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPcHFUSnVZUmVVQmNJSnd2OUVlOFVWTFlSUnBvR01UQTZ0WG9SZGhFeG9DdmtTeXNtXzgzNkJLcDZCYmpyQzlXRGJ2Um5ta1hWdDZjV2FOQ1Nuc0dpRjEzcG9RZHBfNTFTVjN3X3QxMkYwc3JjRWVjY0xHcHU5dmtGMVBHa2pmTkRyekwycHRaTVBjTVJ5LTBTdWlpNDQ5VjR2VndNSzcycEpTaWRYYzF4cXIzNWpYbzBBdlNkX0FpallpMzVmbGlV?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-05T14:47:44.518691Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "3ce544b4d6e6539a696b5ce8",
+      "publishedAt": "2026-10-05T09:48:15Z",
+      "title": "Setelah \"Om Rocky\" Dijerat Istana, Republik Akal Sehat mau Kemana? Halaman 1",
+      "source": "Kompasiana.com",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOWkhaZjZycGNYVnBZN1NCbDcwNzZna1VPZkMtcEF2MmlTYUhCUGxycW1NdlczSDMzNUZJVk5NNmM2emdwaHdvT25nUFZSclpkVS1fSU1nZEpqUzZIRjdydnd5bXowVzZ5UWR4ZUJwb0JZV3d2aU1LMkxIYXhpci1wbmRpaXhfc19SRDdIMEZPbFJ0M1kwS0JBOVljSzJaTXN2bzNZel9lTFJtVFhjS3RwOF9xSGZNWFQ1VjlaX0J3dHBmZVRfV2xDRkppSng?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-05T14:47:44.518691Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "8f8834267649e7681abb11d8",
+      "publishedAt": "2026-10-05T09:28:03Z",
+      "title": "bagaimana merayakan Hari Demokrasi Internasional ini? Halaman 1",
+      "source": "Kompasiana.com",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOLS04Unl0azFVb2J6WUVtbjk0dl96SDJ4SWVZdi1vc2FZdzd0T3ZtZ25PaEkxd2VxS01IaFYxeUlPbWdlaW9lRkZsQ1pEY3o2U21UdW14a0xGcnVaRHNGOTJGdUlFR3MxYmctdmx5UXY0S3N0NVZtdjlmOXZNLUhrWDBBQkFKbkhIMmVzUXBWZzU3Ukh6c1hLSVJuN2NqTDNRSzB5Rlp0ZnNoUGNVdWNNRXI2UmhsTzFkenNYUQ?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-05T14:47:44.518691Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "7805a6d36af95cb6a029c012",
+      "publishedAt": "2026-10-05T08:43:25Z",
+      "title": "Gugatan Rp25 Miliar Togar Situmorang Dinilai Prematur oleh Ahli Dewan Pers",
+      "source": "Radar Badung",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQXzNOS1NURVF4eXZrVmhPTWNGSXFBQ25Nb3N6MVdDUDZ6UXBIS2RRM1BDWTV0clNWcy1TdGpfMWV1X2pBS0wyem5JcW5PMGFORG5uWGh0eGs3b1F1RzEwVnNPMllWRlc4ZENGTjFoWWRHWDBXa0F2ZnVIa2NUOW9lUzJzeERMelZVb3hxbGR5aVJueHdnQTlKeVNteTBXbDhRek5yQmN4QzlNMmw2Ri11ZkU0OFFkZ1VsNGY3QmVna3prcmRiU3Jhb29ySU3SAdIBQVVfeXFMUDBiM25EUjNrbVZmOTFEMFY2MFlaSk85TTBqRTA5cVFTSGhJT0FoNGltVDFoQ1JQYi1TeE5xTVB4bnRkLUZHUzFSN2ljejBVSTU3akhYWUVRLXkwWHBBdmEzOE9VUGM2Z2xqbWhIaGctLVZMbGNUbS1ZTmZHMjRCZWtNa2ZyNms2X1RQdC1sS2hmczd6TTFEOXVGSVVMRFV5SDhmUE9TQ1dLSnh2aElka0NkUWpMQWgxYjhxbEducHRFOGNNcFNmRHdTdE83OVJFZWpR?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-05T14:47:44.518691Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "921aa2c67891a48a8b458d47",
+      "publishedAt": "2026-10-05T06:30:00Z",
+      "title": "Pameran Alih Wahana Saling Bersua(Ra): Merawat Ingatan, Membuka Ruang bagi Suara Rakyat",
+      "source": "RiauSky.com",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOSVk1Zl9hX2dPbHVkck1ISVRyQmlNNjZIVHFtZXpsU2RoRHJnQk5fOG54NUxjdlhQejN2MDFsNGJKMG9oNmdnekw5cm1wUnBxcTEzYmZ0RTZDQkVpRjZCb2dHWWg1REt0bEpNRDh4ZS1BZ2p1SW1CRi1rZDNMX0VBcGh5TXBpamVBM0FTMXdFejJPMTgtdDZNR2xrWUZqSGp1Y09Jcy1qSmlpczNaRi1Zd3VoZ0JtYlcxbGIwb9IBvAFBVV95cUxOSVk1Zl9hX2dPbHVkck1ISVRyQmlNNjZIVHFtZXpsU2RoRHJnQk5fOG54NUxjdlhQejN2MDFsNGJKMG9oNmdnekw5cm1wUnBxcTEzYmZ0RTZDQkVpRjZCb2dHWWg1REt0bEpNRDh4ZS1BZ2p1SW1CRi1rZDNMX0VBcGh5TXBpamVBM0FTMXdFejJPMTgtdDZNR2xrWUZqSGp1Y09Jcy1qSmlpczNaRi1Zd3VoZ0JtYlcxbGIwbw?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-05T14:47:44.518691Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
       "id": "a092b7279066ac2bc8271ee1",
       "publishedAt": "2026-10-05T05:39:22Z",
       "title": "Wartawan GarudaTV Diduga Diintimidasi dan Dipaksa Hapus Rekaman, PFI Lampung: Pembungkaman Pers Tak Bisa Ditoleransi",
@@ -159,6 +274,29 @@
       "reviewNote": ""
     },
     {
+      "id": "c5cc6286f91072f33eaf0bd0",
+      "publishedAt": "2026-10-05T04:45:00Z",
+      "title": "Judi Online dan Pendidikan Agama Islam: Menjaga Generasi Muda Kota Bogor",
+      "source": "Kompasiana.com",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOd2RyNGxtbzZnN0owQXl5TGlmYUFHNnR0T2dYeU5KemJIbDZMVkFpSzZqMUFtbU9waGN3Mk53ZDRqTFd5aWFSbm5uWGhxUWVvZGpvNGJRSlJaTEtzT01CVEU5eC1adXNuRHJaem12TjBJRW5RQkR5SmVUV002MHZwZ0pBb19DWlEwVE1HQ2JOaGRHaV9BYmF6SWk2Tm5tR2dmcHpUM2NJZkxJeF96VzJKUWtINTROUWdWelpseHYyc2gzN3ZnU2xSOTYwMXRqZHpva21zS0Y5dVc?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "sensor_konten",
+      "subclusterIds": [
+        "sensor_konten"
+      ],
+      "matchedQueries": [
+        "Sensor Konten"
+      ],
+      "collectedAt": "2026-10-05T14:47:44.518691Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
       "id": "8ace365f42e7326b3558520e",
       "publishedAt": "2026-10-05T04:24:00Z",
       "title": "Ngaku Dipecat usai Bongkar Dugaan Jurnal Predator, Dosen UAJY Mengadu ke Komnas HAM",
@@ -177,6 +315,29 @@
         "Kebebasan Berekspresi & Berpendapat"
       ],
       "collectedAt": "2026-10-05T05:47:20.949390Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "f32bc838921095c75a414afc",
+      "publishedAt": "2026-10-05T04:24:00Z",
+      "title": "Ngaku Dipecat usai Bongkar Dugaan Jurnal Predator, Dosen UAJY Mengadu ke Komnas HAM",
+      "source": "iNews.ID",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPMnhzbV93MERpYzRqOGJrRjQtSG9iam9sQVBMdVpoUWdhWjdFNlhPbG8yaWVBOXV5dUxJQm50ZTJqR1ZIaUlWSFlqdU9qWGs3U01lV2NSSXpQMG0zY19VZ0U3NXNNX2wzdmxfdUFWMWhCckE0cUQ2N05KY185OFA2TWQwS3ZKWlBaRW5kbGpLTWNFcWh1eW1menV5YmY4dmFsVVk0QnZnVkh3YTN6ZFpNb1lCUGlvS1lhNVd6S0tB0gG-AUFVX3lxTE8yeHNtX3cwRGljNGo4YmtGNC1Ib2Jqb2xBUEx1WmhRZ2FaN0U2WE9sbzJpZUE5dXl1TElCbnRlMmpHVkhpSVZIWWp1T2pYazdTTWVXY1JJelAwbTNjX1VnRTc1c01fbDN2bF91QVYxaEJyQTRxRDY3TkpjXzk4UDZNZDBLdkpaUFpFbmRsaktNY0VxaHV5bWZ6dXliZjh2YWxVWTRCdmdWSHdhM3pkWk1vWUJQaW9LWWE1V3pLS0E?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-05T14:47:44.518691Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
@@ -1281,6 +1442,29 @@
         "Sensor Konten"
       ],
       "collectedAt": "2026-10-02T22:17:33.811695Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "408ebe4ac9df2e9eaf343f24",
+      "publishedAt": "2026-10-02T13:00:00Z",
+      "title": "Lima Mahasiswa K3 Unusa Kembangkan Rambu Evakuasi Tsunami Berbasis Sensor - Suara Merdeka Surabaya",
+      "source": "surabaya.suaramerdeka.com",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNZGgzb2RVQUVDek9ZdEVMY3JoNWllamtpWHFhZGIyMmF0TVFOYTlhZW1IUE93Qk1xU20teE14aFppb213QlR4ekswMzdMTEhURWkteXhYMElHajBqYmRneG1SSFpKNzVVOGNhVmNVN2RiY1pIQjd4b3Q3N0gtYlpxbXJMV0RTa05SQUUwN3FMb0NFYkgzaVVrajBwQ2NLNnpFNDJ2XzBORGNIcTVqbGFBb1NPMUoxOXRtNnozQVBacUROX1hqQjFESW1oTnpmSWV4NWgwWW5ZTnd2UdIB2gFBVV95cUxNZGgzb2RVQUVDek9ZdEVMY3JoNWllamtpWHFhZGIyMmF0TVFOYTlhZW1IUE93Qk1xU20teE14aFppb213QlR4ekswMzdMTEhURWkteXhYMElHajBqYmRneG1SSFpKNzVVOGNhVmNVN2RiY1pIQjd4b3Q3N0gtYlpxbXJMV0RTa05SQUUwN3FMb0NFYkgzaVVrajBwQ2NLNnpFNDJ2XzBORGNIcTVqbGFBb1NPMUoxOXRtNnozQVBacUROX1hqQjFESW1oTnpmSWV4NWgwWW5ZTnd2UQ?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "sensor_konten",
+      "subclusterIds": [
+        "sensor_konten"
+      ],
+      "matchedQueries": [
+        "Sensor Konten"
+      ],
+      "collectedAt": "2026-10-05T14:47:44.518691Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
@@ -3330,6 +3514,29 @@
         "Sensor Konten"
       ],
       "collectedAt": "2026-09-30T22:19:45.392870Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "2f54a8a6f0c2ffc182393a1c",
+      "publishedAt": "2026-09-30T07:00:00Z",
+      "title": "Dua Pelaku Penistaan Agama Promo Miras dengan Hafalan Quran Diborgol!",
+      "source": "KoranKota",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNOVdwQjc2VXMxenIzbGlERml0SFFKc3VWTXZOaXZoMC0zcm1fZG9CeDBKS000MGVxVThzSl9tR25sbWd0SUdtT0JkX1pOM2ZITGFQZ1V0RExVYjR2TWl2NlBIa0tFektUSnk3d0szdkQxRDdpWUphUldzUWtfZmpyZ1FSaGYzOVZMZ25kSDNYVmtYNnhSVjNpaXFMSGlKWmd4MHM0RHl3VGFhdw?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_beragama",
+      "subclusterIds": [
+        "kebebasan_beragama"
+      ],
+      "matchedQueries": [
+        "Kebebasan Beragama / Berkeyakinan (KBB)"
+      ],
+      "collectedAt": "2026-10-05T14:47:44.518691Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
