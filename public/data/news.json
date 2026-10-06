@@ -1,14 +1,14 @@
 {
   "meta": {
-    "generatedAt": "2026-10-06T00:06:11.505070Z",
-    "lastRunAt": "2026-10-06T00:06:11.505070Z",
+    "generatedAt": "2026-10-06T06:26:36.840156Z",
+    "lastRunAt": "2026-10-06T06:26:36.840156Z",
     "startDate": "2026-01-01",
     "refreshHours": 6,
     "mode": "incremental",
     "feedsOk": 16,
     "feedsFailed": 0,
-    "totalStored": 1984,
-    "totalPublished": 1984,
+    "totalStored": 1996,
+    "totalPublished": 1996,
     "newArticles": 12,
     "warning": ""
   },
@@ -136,6 +136,213 @@
   ],
   "articles": [
     {
+      "id": "09c25e3a77abfef823b32853",
+      "publishedAt": "2026-10-06T06:00:00Z",
+      "title": "Deretan Peristiwa Hoaks di Solo, Aksi Demo hingga Diserang Rudal",
+      "source": "Liputan6.com",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOZ0NGaUZEbjBBLU5IY2h0SDd2M3ZkZnM2bTFsNnZwUm5FejFRRURUeHNmMjYwSXRIeWNtUl91UHhhbk9MYWVBSXVpXzRLLXdxbzNqWm85ZVc4ZjhSZXhLaXJRMDJ5OUhDOXdsUVFhb0s0WTV4eGRRSUs0WWJTUU11MHpSc0JnVlBpdF84SlVvZFA5eDN4U1F5c1VBdXBsczlHUDhIZ0pqZEp6RmhnRkR6UtIBogFBVV95cUxQaXA5ektRbTFPSnAzS3VsS0N6VkpnREZZenRvMHNqcUhBUHl1OTMyZkNud05jZ0d6aVFpVEdhTWhWTVZnbHBkU0ZJalZBc25yeUwyQjNsNVJsZDBzem4wVERxTXJjTkpKS1dvcFA4TEFFeE9zRFZWRlpoeEc0SkRQN3Y3WVJVZWZXYTlhaWNJZW51cjdRbE9obnRJSm5YVzM1ZXc?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_berkumpul",
+      "subclusterIds": [
+        "kebebasan_berkumpul"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berkumpul / Berserikat"
+      ],
+      "collectedAt": "2026-10-06T06:26:36.840156Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "66a0d6ecdb4d10fe6f07db19",
+      "publishedAt": "2026-10-06T04:34:30Z",
+      "title": "Cara Sederhana Merayakan Hari Demokrasi Internasional ala Generasi Muda",
+      "source": "kompasiana.com",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQZjFpbWJRaVhxTnBuR0dMUTBtaVJsYTMxQTJOeTFtV0l6YldZRFhKanJtR0EtUTA4aDAwX240bnZXejV4QzI5R05XTWFTMlRXZ19BZnRaZUFZRVJEZHF2UzMwOG5DZEY0eWVCQnN3Z2RPaHAzLTdNcVhmX18yVnd0RTlJS1Nob3pYbnUwN1ZqUUVTZzZGUVpIaEZsNkREOGZodjN0bDhJZW1JVUlyek85ZWNsaVIzdkJOZnd4QnBPQTVGUHNSdlQySnoyMHA0QUlsUjZZUHBR?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-06T06:26:36.840156Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "858d6982563e24d7fff5d62f",
+      "publishedAt": "2026-10-06T04:00:00Z",
+      "title": "AnimePlay Tutup Permanen, ini Alternatif Nonton Anime Legal",
+      "source": "VCGamers",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQUUE0eU9fOWRUT2x3dmxYOXVnNTh6ZmkzYXFzTXRBcjBja19kcFY2cVNtSkhpUVVzTVBoZmhYb1hMRVE0TEVfWmo2Yy1ZeWtrQzdpbEptUDdMbUhMSGFtU1lGWWNaTjBpQmJYUmhFQjU5SXNRUFowekxWYWRRdy1mYXhOcGVGU25peWdmWEhhUXJmcEE?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "sensor_konten",
+      "subclusterIds": [
+        "sensor_konten"
+      ],
+      "matchedQueries": [
+        "Sensor Konten"
+      ],
+      "collectedAt": "2026-10-06T06:26:36.840156Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "d56c74f4ee21f59517804abd",
+      "publishedAt": "2026-10-06T03:51:03Z",
+      "title": "Diduga Terkait Rencana Aksi 20 Oktober, Aktivis BEM UI Ditendang dan Diancam Dibunuh",
+      "source": "Media Indonesia",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPMW5HbTBxSFdLMWNNWjBPeU5oTGI0ajhjek53VkpxWnpseTVjRFBkSm5teDJETWJZYVkwWTFwQ2V4YWdDd2o1NmcyeUtoalY0ZVNZOUxEdjkycTVhS3RhT0RTOFVMdmFfUkNTMWdWMk9PYXdZc2R1Y0d1THBJZUVDS3pKTWt2Sm13TTJqWTA5TFlvb3QzYkl3bDRNTVUwWkxOcVdCdVlNZ0FkSGFVellEc3VNejRJZVRKN21PQjlxbUo4WllCYndOVTFMR2lQQXV0?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-06T06:26:36.840156Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "a5b4277977c8319d628c8440",
+      "publishedAt": "2026-10-06T02:21:46Z",
+      "title": "Membincangkan Situasi HAM di Sekolah: Guru Dibungkam, Murid Dihukum",
+      "source": "BandungBergerak.id",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOSndUU0Y0eV9KTl93WnZBb1dtOW9sTkRwcFpQc1JROEJRNEVMLWlvRmV1ZHY5UV93WWZ2RzVyMEh5d0JUeVNXV2Y5N3hTTlhjZHNOSmMxekRRNG91SUl1OTljcFNXcmF5X2poNTg2OVBZa2FSdEtaQUs5X2paQ0tUbFRtUGJXN09EWWJTVHpMTkRSZDRiVTdiUGs2dmhweXlWaDRqd2tlSVh6SHY5bDVqT2I1VWFLOExMX3c?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-06T06:26:36.840156Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "1c020580375772406ba303f2",
+      "publishedAt": "2026-10-06T02:00:00Z",
+      "title": "Bandung Kota Ramah HAM: Mengapa Ruang Kritis di Sekolah Sunyi?",
+      "source": "Tirto.id",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNZjZzTXV0TXpORHlOWG9kWDJMVjNhajNPYWNyaDVMdnhqR0hPSEZWYVo2UVZNamhlYm1aZURVdlpGUk5XMXJpeThtY05TenB6QnB1RVd4MzJXS05IVnY2ZHYxNmxQbnNxelR5TGMxaDBqbHFXSExTVUE2MHpyakIya08yWlFPbTVtWFE?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-06T06:26:36.840156Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "008c789f660c781c041436d2",
+      "publishedAt": "2026-10-06T01:18:24Z",
+      "title": "Angkat Isu Londo Ireng, Mahasiswa HI Raih Juara 1 Journalism National Competition",
+      "source": "Prasetya UB",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOWkFHbkFXbXZESmV6d09ZVTZ3b1dUMlZGcC1KRFE3XzlQczlfVmxEQ09qckswaFRRTHQxMVJFQkczbm9ZSFBuX1REMkRua2dILUMzNmZtd2FReXdhc3ZzWEUtQXFCUmR4c2xlYnFZTTZ5cnR3OGRYMHJncFh0SVZDMTRMbzJqT3F0VGwzQlNSTGtEcXp3c05Xd1ZMRG16SzU5YmdDNzc1UzdFQkk?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-06T06:26:36.840156Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "8a85493b63793720d31aeab5",
+      "publishedAt": "2026-10-06T01:14:05Z",
+      "title": "PT Semesta Berkati Sega meluncurkan SEGA COIN Smart Farm di Salatiga Halaman 1",
+      "source": "kompasiana.com",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNVDR1MllXaXcycHZJd2VXSFFId08tRm1lX0VrSzU0YjVWWTlzTFNkZWdHQnlEYW1VRnV6VXdFZ0d4THlVekVURUFwZE0ydlVaYlVqNmQyZVcyVUJmTnNJVHljZ215WlVKaHF3emlvYWQ4c2x5Z3ZabE82OGpzUWJFVEJwWXluRUhYOEFVQnhVRnNzZHFGb0t2c2tUdy16Y21xdDhKSEtINFJjdGwyY2ktTzI3NG9zTlpXOGczaFhtbWcxVnR2Y3h0NVJCMFZaMzdZ?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "sensor_konten",
+      "subclusterIds": [
+        "sensor_konten"
+      ],
+      "matchedQueries": [
+        "Sensor Konten"
+      ],
+      "collectedAt": "2026-10-06T06:26:36.840156Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "0e57371b618d383c337252f4",
+      "publishedAt": "2026-10-06T00:53:00Z",
+      "title": "Aktivis BEM UI Diserang dan Diancam Bunuh, Amnesty Desak Kapolri Tangkap Pelaku",
+      "source": "Sumbarsatu",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxObHNWNElaOEFPeTBoS3RJWHhUakdwb1Y0ZjhwX1A0Z2UwUzNRa0RPRW9DQ096V2ktR2JGQURFVHE4Vk51TVFLY2RYVzRCMlVpSDRiVkVJLVJXbjRNbThlOFNjczB2RXQwRnNBYlVwN0hIdlBfNFhIcUh3OVZQY0l2MFp5LTBOOHZBSk1vYkJrWTlZOFFERTNyeFJCY29TTWZfYWU0WXJqQ2hjUkprbzNBSUduLWg?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-06T06:26:36.840156Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
       "id": "117668d0a870ce1a6f6b516a",
       "publishedAt": "2026-10-05T18:34:20Z",
       "title": "Kemerdekaan Pers Terancam Kriminalisasi, Jurnalis Bali Diminta Makin S",
@@ -251,6 +458,29 @@
       "reviewNote": ""
     },
     {
+      "id": "3560cb8c7d25fefc69578102",
+      "publishedAt": "2026-10-05T12:54:01Z",
+      "title": "Israel Perluas Penindakan Dengan Tuduhan “Hasutan”, Pendidikan dan Memori Palestina Menjadi Sasaran",
+      "source": "indo.palinfo.com",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBoRmQwVFlDY2kzUXZVTkhZa2FXZlZkUGpIV1RPNlhuSHhTcVA3aVMtbW1tai1DSkttQTJJZmJleWhSNWhpeWYxOTA0OE9WcE5nWFM3dVdB?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-06T06:26:36.840156Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
       "id": "c6f16aa4d53e1600f00772c4",
       "publishedAt": "2026-10-05T12:05:32Z",
       "title": "Ulasan Buku Pengantar Ilmu Politik Karya Jacobus Ranjabar",
@@ -269,6 +499,29 @@
         "Kebebasan Berekspresi & Berpendapat"
       ],
       "collectedAt": "2026-10-05T14:47:44.518691Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "919e1876d7d775935f56aa91",
+      "publishedAt": "2026-10-05T09:48:15Z",
+      "title": "Setelah \"Om Rocky\" Dijerat Istana, Republik Akal Sehat mau Kemana? Halaman all",
+      "source": "kompasiana.com",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPRFVvdkpENFpsNVZiTHFGdHk4b3VORndnWmdMS0xBbDl1NU1BU29NMzNsTGZjejByUnM3bUJKbm1TYXNtMlZQTm9MZ2VNMnowMzJuV0hBT1llWjNKN1VCeFlpQXkzTlJ0T2c4S1Z6YWdoRjUtdTRENW9mWWY3ZjhSb2tLRWc5RFJmSU5RVFpvRFB4LWpzLWFGRXlBRTlZRGdiX1hfWm9GZnJyOHZ1amtrUlhYQzhLYkhRM010dVM4bWlhT0pJM2VQMTRxRTFBc01QWklFVHp5WVU?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-06T06:26:36.840156Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
@@ -1948,6 +2201,29 @@
         "Kebebasan Beragama / Berkeyakinan (KBB)"
       ],
       "collectedAt": "2026-10-02T12:42:34.620265Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "f42b55bc679e2a0c4ecfa877",
+      "publishedAt": "2026-10-02T09:50:58Z",
+      "title": "Empat Tersangka Dugaan Penistaan Agama di Ancol Diserahkan Polda Metro Jaya ke Kejari Jakut",
+      "source": "poskota.co",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQTGJzaHd3V3czdXgxNjdRQ3cxUWFESFBZMUtzbUIzeDNCR2EzWms4c1Y3bFVzZXFmYmcxVDZZNXR3NnVOaExsSXFPS3FMeE9jSzI5S0tSbC10alFzY0ItN05JSkxIYXcwRndLOXBlc0VBMi16Z3FzR0lMMkxlSG9aMkk4QktWQVFVSlVvOXhHcTNmcHdLMXBPUk9mbHRUVmdRSC1MSjlZaXk3R3p0c04zOGxuVEhhU3Nla3BQSzNTdDA2VVJ3?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_beragama",
+      "subclusterIds": [
+        "kebebasan_beragama"
+      ],
+      "matchedQueries": [
+        "Kebebasan Beragama / Berkeyakinan (KBB)"
+      ],
+      "collectedAt": "2026-10-06T06:26:36.840156Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
