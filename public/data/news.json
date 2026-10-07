@@ -1,15 +1,15 @@
 {
   "meta": {
-    "generatedAt": "2026-10-07T13:30:21.084354Z",
-    "lastRunAt": "2026-10-07T13:30:21.084354Z",
+    "generatedAt": "2026-10-07T23:08:09.136724Z",
+    "lastRunAt": "2026-10-07T23:08:09.136724Z",
     "startDate": "2026-01-01",
     "refreshHours": 6,
     "mode": "incremental",
     "feedsOk": 16,
     "feedsFailed": 0,
-    "totalStored": 2047,
-    "totalPublished": 2047,
-    "newArticles": 7,
+    "totalStored": 2050,
+    "totalPublished": 2050,
+    "newArticles": 3,
     "warning": ""
   },
   "clusters": [
@@ -135,6 +135,29 @@
     }
   ],
   "articles": [
+    {
+      "id": "6e7d41d17a434b4ce8832273",
+      "publishedAt": "2026-10-07T16:29:26Z",
+      "title": "Kongres AS mengajukan RUU yang mewajibkan VPN memblokir situs bajakan",
+      "source": "Pasquale Pillitteri",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOWmlPUU5jSkFQQWttTmlSQzVvNGRGa2tKUzBiVndCSDNmS3VwM3pwaDJyQU9pLWJBT2VIYkRyRWMxNy1IWTJqWXlxODhWdkwzSHRoYk8zcjQ1Q1NXNEkwQjNXclpxRnJpWDN0OFNscXFlM3ozQTNDS0J6Wl9RcU9HczN2T0NwS0l4cjBZZw?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "sensor_konten",
+      "subclusterIds": [
+        "sensor_konten"
+      ],
+      "matchedQueries": [
+        "Sensor Konten"
+      ],
+      "collectedAt": "2026-10-07T23:08:09.136724Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
     {
       "id": "35c1285fa04d8192d0c7c90c",
       "publishedAt": "2026-10-07T12:49:00Z",
@@ -826,6 +849,29 @@
       "reviewNote": ""
     },
     {
+      "id": "d5143f38e1873bac3833259e",
+      "publishedAt": "2026-10-06T21:00:47Z",
+      "title": "Review Film Laut Bercerita: Perjuangkan Kebebasan Berekspresi, Mahasiswa Hilang - GenPI.co",
+      "source": "GenPI.co",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQMnoyM1JRZTEyLXhqMnlobFd5UUEtWXc2X2VLNC1fZ3h2bWc3elZoWFpMMmczeHlwVHdsZGN3TU42ejAyV01pSTNtWW4zZE1PZHJNWTQ1Q2pER09WUlVDYU1LUk80RVVaMVQ0QjZERDhjNkplRFUxMWFGUXpDanN5ZHNDQnpRbmlXdmR2UkVxU0QyNkpab2RZTlBvVUtHQXEyNGJVTGZvTl93d0JXNGowZGFNeFZaOEdjNTlQatIBwgFBVV95cUxQOXl6ZWtuejJ4X1B0U2djTzNOR2s2dE81MlBJN2ZhcHRvT2NnVUtFZkUycEF4OVdGZzZRV2x2VXBTU0JYQmNwa1V5OThRLTZWQ1FMU0N6WVpwSEUtSEpKZTU2V0ZDakk1Z2p4Z2JnR1BjY3M1d1FvcWlQMERwV01nb00yVWh3UUhSTVdGVTBXcHUxcVdzekFsZjVmX0lCMGlpdUYtY0lsRW9oMjhVcG1pSjl1N0tfZWJHb1lqYm1tNnEtdw?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-07T23:08:09.136724Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
       "id": "db843ebded8cccb04f69cc7e",
       "publishedAt": "2026-10-06T21:00:47Z",
       "title": "Review Film Laut Bercerita: Perjuangkan Kebebasan Berekspresi, Mahasiswa Hilang",
@@ -867,6 +913,29 @@
         "Kebebasan Berekspresi & Berpendapat"
       ],
       "collectedAt": "2026-10-06T18:25:17.897506Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "9228801154d81b639a501031",
+      "publishedAt": "2026-10-06T15:00:00Z",
+      "title": "KSPSI Adukan Dugaan Intimidasi dan Dualisme Serikat Pekerja ke Disnakerin Padang - Laman 2 dari 3",
+      "source": "Sumbarkita.id",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQeUVfRnk3OTRFQVVBcGRab1ZuQWZKenhRZnN6YW1lUU5WcTR1azBOLUQwbTVOdlZLc1JEM3VGQWVwRjdXYzd0dUZ6Z3NORXBMZ1ZLbnhEQWpUZjNKYm5Malo3UEV4N3JBZDd3N1dCSS1XRTBGckVuUzYzRmdUYmNuS3I0bm5EQktKbTBKdm9PUFo4SHFjSGh5cDUyTlQzZnJ2RmxjM2Zqb2w?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_berkumpul",
+      "subclusterIds": [
+        "kebebasan_berkumpul"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berkumpul / Berserikat"
+      ],
+      "collectedAt": "2026-10-07T23:08:09.136724Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
