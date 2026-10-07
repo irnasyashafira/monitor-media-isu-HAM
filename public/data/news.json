@@ -1,15 +1,15 @@
 {
   "meta": {
-    "generatedAt": "2026-10-07T06:05:33.334138Z",
-    "lastRunAt": "2026-10-07T06:05:33.334138Z",
+    "generatedAt": "2026-10-07T13:30:21.084354Z",
+    "lastRunAt": "2026-10-07T13:30:21.084354Z",
     "startDate": "2026-01-01",
     "refreshHours": 6,
     "mode": "incremental",
     "feedsOk": 16,
     "feedsFailed": 0,
-    "totalStored": 2040,
-    "totalPublished": 2040,
-    "newArticles": 26,
+    "totalStored": 2047,
+    "totalPublished": 2047,
+    "newArticles": 7,
     "warning": ""
   },
   "clusters": [
@@ -136,6 +136,144 @@
   ],
   "articles": [
     {
+      "id": "35c1285fa04d8192d0c7c90c",
+      "publishedAt": "2026-10-07T12:49:00Z",
+      "title": "Khariq Anhar Ngaku Vonis 5 Bulan Penjara dalam Kasus Timpa Teks Tak Buatnya Menyesal",
+      "source": "Kompas.com",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNZ05YMlFycjY5cVQ1ZEQ1bW8xcFo4TElKWnAwbG0yblVBZE52b0g4aVVta1h6aXRnRnExUmFjQ19SaWlEUFgxanQybEYtM3RydW1lNC1HTnVYWHVrWVZSMmhKQ2M4WFlySGVrVHlWek5sdnJfYnJEZGhWUlVwQm16MlZyaTNvSzFEQlIwand6WUQ5bFFFVElIMDBBQV9Yd2ZMWjdzWHQtTGthRjhWYjgxOUZzRERvVWF5ZklNUXZOZFQ?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-07T13:30:21.084354Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "3c5951c3a9f6f840ef2a1fd6",
+      "publishedAt": "2026-10-07T09:17:00Z",
+      "title": "Anime Jepang Makin Mendunia, Kreator Dihadapkan pada Benturan Budaya dan Kebebasan Berekspresi",
+      "source": "VIVA Jakarta",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPMEZhMlNQSG1wLVl4eGxoZ2I3eFhOUUlXeFRXUUFuUXM5ZWs3MlNRUk81bzg4OWNnSTVEUVZPZkFHc1N2YWtEdjBRTmVJcHNtaUktTFRBVEwyVm5DWlNzYzg2dDRQQU9MM3VpSkVqa1NMa19lVE10a19ERzhwejdHQzRKZ3pxU0YtY01oZ1JqMnY0WTdJNGRKYlh4ZXBGYTBmbEY5d0tZcGJtZXhSQkFMc2IwbHYyMTdWY1JMdDlEaV9jdy1kRFA2ZEhlNNIB0AFBVV95cUxPTVd0TjVOaWY0Y3JUYmtNX2hfT3Jkcmc3UHZ1QWJlMnNCRFJPZ3BNWlZEVEcteDc3TzU0eHN3UjJXaWp0NEI2OFEzTEhmdW1DdFRNODJxS2FwcmU2YjBvZ2VpTnpaOEJPU2Q2YjNwaHhmUy1XQUk5RjBqbTB4VzMtalZIUGFZZjdrM1k0Y3c3NGp2dWhKeEEtMERhNkRfRVpKRTRVV3Q5QXdSVnhILUxMN3lfQXR3bmY4VlJzNHVXRml2Z2pzSnF0SVc0RmVGXzFs?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-07T13:30:21.084354Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "8ad3456f4d6cb99cb597daea",
+      "publishedAt": "2026-10-07T08:49:00Z",
+      "title": "Tak Cukup Bubarkan Balap Liar di Kota Malang, Polisi Edukasi Pelajar di Sekolah",
+      "source": "TIMES Indonesia",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNVDJpRm91RVI5SFhQdUx4QU5ER01LbUZTNHdOcjdndUNUeGxHVExXcWE1N2ZCTHdBVUNLTGh6ZHVqMWJoTm9QNTVSUUJscnZtUEtDbm94MmN5alcwQ0FTM3VRSjJNRmU0ODctTFI5aVBxWHkySXNaY3llU092MVBWZXk2dTJlQUNmcEU2WF84LWJPVUF3S2pKdzhoc1BZMDVKVmEzX2RZbGRMUFJLdzhTTUhMcmdyckVKdkIyWnJLd2M0cFU?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_berkumpul",
+      "subclusterIds": [
+        "kebebasan_berkumpul"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berkumpul / Berserikat"
+      ],
+      "collectedAt": "2026-10-07T13:30:21.084354Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "52d3a0d60271da1f5dd4bc93",
+      "publishedAt": "2026-10-07T08:02:00Z",
+      "title": "Divonis 5 Bulan Penjara di Kasus Demo Agustus 2025, Khariq Anhar: Yang Saya Lakukan Murni Kritik",
+      "source": "Tribunnews.com",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQXzJGa2RWUmhVUHZSdGd1WUNkT1Z2MzhkcUR3M2w2VUpkQ1dXWDdSbWVJZTNGbk9RNlFFSnh5MzlaMWVyNVliejVGOUxuREFJUTAzTmpoZHBHQ1U3bWY2dF9LQy13UE5zb19heVZ0NjdhZGtybjRRZTh3M0dYWHEzU3UtXzBudHhmaDdJN2FfM1ZMYWJObGRHQ0gzZEV3TWdHQk5vRnRGMXBrQlZzVWxSYnNYeERHajRaSDRWeFBheU84VkpMOXBVRkFDcl9jckFKXzlBMW5ScjZZQQ?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-07T13:30:21.084354Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "08cb7d9cbbc08048693886ca",
+      "publishedAt": "2026-10-07T07:51:40Z",
+      "title": "Bebaskan Khariq dari sesat pikir hukum",
+      "source": "Amnesty International Indonesia",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOUWxTZ2RwVDN6cXZfRHVCQUhPd2NucEUwV2taVjdJTXA3M0VlT3B5UTRCWllpQWIzNlJobXpHSElsSHp4LXFhUXdDdkhjNHJYcTRZUUF3aElxcW1XZW9YS0lZb0hseV9mazlOVGhtQU00R0J2NkNEWUV5MWZUdF9XY05iSnJyOHBFdjRRLXktRVQ2SU91dTZfbzNYZ1g?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-07T13:30:21.084354Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "551427c0b707beb97d8676e5",
+      "publishedAt": "2026-10-07T06:57:00Z",
+      "title": "Kekerasan Terhadap Pengurus BEM UI, Fraksi PDI Perjuangan: Negara Harus Jamin Rasa Aman Penyuara Pendapat",
+      "source": "gesuri.id",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOQVFBTkkzTUtvRUZIVjNvYXpqalVpdnc3N0RVN1oyWWp1VW41Z1VEVW5WN2g0VXRWaDc1bTEzRmZHZUUwSFdHYjFYLUx5SUxpTlhBcnRYVUNoMGVTc2U3cnJ6LVY3NUQ1ekF5bU9BWVJQbUc0SWZ2TDlGSi00UUNIWWZrOGdNeW81ME0yaVFOVTdmWWdzSUszd2VNS3hCUTVWLW1SQ2RyZUFrc3o0Q0sxeG5ocUxQNk9CTHlnMlExRWhVaElBdjFxQTFDWnYtZktXQklfSlVNOFE0LW5VbzJXaUwxVdIB6AFBVV95cUxOMnJNbUEydGtjUVZvazVaUkdKeWJucnZaXzVIMkJnc28zcEdIQW9ZNGVhTTRNUlVNYTJHaXJqZ3dBeGZ1LU5LdVV4cnBpa0NpTE5tbGN6RGUwRWItUHJGcDUyd0pWS3NzMm50Ql9fZ2h0cXZkMFh5U21LaUpBZ3hya3YzNXBob3QyTlhoMmFoN0lpX0R2cVdOMGdCT3g0OVlqQ1ptaTJfTy1EemNWVWN0ZkliTUFfX1E0anVOMW55OW90OVl2alFTZjV2ZjlXQnFscDVmMlp6TTNyeEh0OW9TY19qQzVINGp5?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-07T13:30:21.084354Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
       "id": "340cf2c03ad4f94f76b0ec86",
       "publishedAt": "2026-10-07T05:50:00Z",
       "title": "Aktivis BEM UI Dianiaya, Yasonna Laoly Desak Pengusutan Transparan: Jangan Jadi Teror Ruang Sipil",
@@ -177,6 +315,29 @@
         "Doxxing & Intimidasi"
       ],
       "collectedAt": "2026-10-07T06:05:33.334138Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "b177ad6f7023658740728f85",
+      "publishedAt": "2026-10-07T04:19:00Z",
+      "title": "Diduga Rugikan Negara Rp405,8 M, IPW Desak KKP Usut Penerima Manfaat PT MMP dan Baramuda Bahari - Paradigma",
+      "source": "Paradigma",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOWlcxOGlzSXFwRUljdWx4cnNTeDVDLTJvRkt3QVJ6NmM4YTcxQkVycWl2cWUwQ2ktSktjZENuWHFWNUtxcndZZ2t5bFlLZTJkQnlZN0pQa0l3REc5Rm51dTVud05Jd0dRYm1YLS15VHNhYS1xdU5qVVBZWDVVVzZrYWlNM3dhTEFYYkkweHR5YmJJTHR4LVJKc000ZlY4UW1uNFJIQzhOekVnTEI0RldoVC1ZVjVVV1h5elVqVENFUmowckZucWZKNVFrUS1sTGdjR2Frc29kSGpvVFlE0gHcAUFVX3lxTE5aVzE4aXNJcXBFSWN1bHhyc1N4NUMtMm9GS3dBUno2YzhhNzFCRXJxaXZxZTBDaS1KS2NkQ25YcVY1S3Fyd1lna3lsWUtlMmRCeVk3SlBrSXdERzlGbnV1NW53Tkl3R1FibVgtLXlUc2FhLXF1TmpVUFlYNVVXNmthaU0zd2FMQVhiSTB4dHliYklMdHgtUkpzTTRmVjhRbW40UkhDOE56RWdMQjRGV2hULVlWNVVXWHl6VWpUQ0VSajByRm5xZko1UWtRLWxMZ2NHYWtzb2RIam9UWUQ?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_berkumpul",
+      "subclusterIds": [
+        "kebebasan_berkumpul"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berkumpul / Berserikat"
+      ],
+      "collectedAt": "2026-10-07T13:30:21.084354Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
