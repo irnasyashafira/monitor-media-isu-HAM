@@ -1,15 +1,15 @@
 {
   "meta": {
-    "generatedAt": "2026-10-08T06:11:04.379517Z",
-    "lastRunAt": "2026-10-08T06:11:04.379517Z",
+    "generatedAt": "2026-10-08T13:36:19.754086Z",
+    "lastRunAt": "2026-10-08T13:36:19.754086Z",
     "startDate": "2026-01-01",
     "refreshHours": 6,
     "mode": "incremental",
     "feedsOk": 16,
     "feedsFailed": 0,
-    "totalStored": 2058,
-    "totalPublished": 2058,
-    "newArticles": 8,
+    "totalStored": 2068,
+    "totalPublished": 2068,
+    "newArticles": 10,
     "warning": ""
   },
   "clusters": [
@@ -136,6 +136,167 @@
   ],
   "articles": [
     {
+      "id": "2b331f2545603342798b8dc8",
+      "publishedAt": "2026-10-08T13:16:00Z",
+      "title": "Ruang Demokrasi Menyempit, LBH Pers Bongkar Ancaman terhadap Jurnalis",
+      "source": "Sumbarsatu",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQOHFFZU9MNFNUcDFKbjBwdDdQMXNrQ0NsWlZ3bk9XVFFDZUZQeUdEYW1NZEtkRm5DQnFveW5VTEZncUcySjAtQklkUG1JajN4WUhkUFJKMGNBRG5KZDc5dnZPaXBpUU9GOW5fSS1XRWl3QjBCRWFBNTBVYmxYSjMzRHpFTU5sSE9hRWFFdjhJNlZoVU9rX3JsYW0wbHV3My11VnlGV2hQTQ?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-08T13:36:19.754086Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "b95217edc40b2d1dd40aed52",
+      "publishedAt": "2026-10-08T12:09:48Z",
+      "title": "Perkuat Kolaborasi Pengacara Pers, Mendorong Perlindungan Hukum",
+      "source": "SigapNews",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZHJuQy1ITVNIN3FCMVNnZEYxcXdqLTE5RWdVV1VaNXBiejBxSGtFV2VMWVZSYmFNanFwekpVakhjTFdSdnBlVTg5Vk96VHRJTlNpUGhOR0NwMlpBaDhUQ2V2eEVsZEVwemtDZ0c2TnJkX3AyUnVXVTBGSzVqOVhJam1OQzdmTXBtd2ZLOGFOazFBUlJHVEw1dmwwZjhJNTZZcC1rS1g0UldDX1FkQ0dGQnBsT2Q1VTlrUnc?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-08T13:36:19.754086Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "97be2a719436851dc6eb39ac",
+      "publishedAt": "2026-10-08T09:19:43Z",
+      "title": "Komnas HAM Tegaskan Keterbukaan Informasi Publik Merupakan Hak Asasi Manusia",
+      "source": "Suara Pemerintah",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPcUhxS09jeGxkMFU0SGx2SnNHTWRtZ1VVeXJSOUo4NEFqZy00VTdJa0hQc1RmR1g4RW1rUWNGOHFUdmRiTEJORU0za2Q4RzVVZDZQZjlOWEotNXdnMk1EYmFIQTVmODJKR2w2VE5ZdVBxRUdMMnd4RTE3ZnZuQWxfUXVySE1Ud3V2TlpqR3dUMHlManhxWG5qUzliQWluVU1KcnhSb09zeTNPOWtoR3dtZVJn?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-08T13:36:19.754086Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "9be2293ee607baeb22f6cf79",
+      "publishedAt": "2026-10-08T08:46:27Z",
+      "title": "Buntut Ribuan Siswa Keracunan, Komnas HAM Sebut Pelaksanaan MBG Masuk Pelanggaran HAM",
+      "source": "Suara.com",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNOG8yTXU2UVZvOFlNTkxTTk8wcTZTU0RjVTBtcTZpMjRhZEZLUlNqSzBmakRQMXJoZUI3akFjb1RXQlZHWUdhQkFrQ25TbEFpaXZhdGYzSUlZUVIybk9Pc3BqUzFJWU1YS1ZDRGdUQTdwVGFPSk81c3VYYzdZR2M1RjcxdzhqeFptYm9fdklUSjVXQ0RuNk1xZEtuanhTQkI4RVYwSVdSSzdQZlFOUDNYQU9XVzB1enpWdllZR1hrOVd3YmVmcktkatIByAFBVV95cUxNOG8yTXU2UVZvOFlNTkxTTk8wcTZTU0RjVTBtcTZpMjRhZEZLUlNqSzBmakRQMXJoZUI3akFjb1RXQlZHWUdhQkFrQ25TbEFpaXZhdGYzSUlZUVIybk9Pc3BqUzFJWU1YS1ZDRGdUQTdwVGFPSk81c3VYYzdZR2M1RjcxdzhqeFptYm9fdklUSjVXQ0RuNk1xZEtuanhTQkI4RVYwSVdSSzdQZlFOUDNYQU9XVzB1enpWdllZR1hrOVd3YmVmcktkag?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-08T13:36:19.754086Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "63e8c94134058d24794a9feb",
+      "publishedAt": "2026-10-08T07:24:00Z",
+      "title": "Apa Itu Demokrasi? Memahami Hak dan Tanggung Jawab Warga Negara",
+      "source": "PenaKuID",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxONTM3SjZpZTBvdV9ESlk4SF80S3dMcUh2UTFVaG9ST1hnZ084SnRNSkdtNjJqbVZzaFJqVFl6Nml0NFZrTUxKZDE2eFdZUlpEMnNfVmhDcFdEQy1WQ19Db2kxa1VWbEhYQ1laVXcxSGU5eThPaGFQYmdMVGpZcmg0UFJ0NTliV2EzY1hUSnROS07SAZABQVVfeXFMTjUzN0o2aWUwb3VfREpZOEhfNEt3THFIdlExVWhvUk9YZ2dPOEp0TUpHbTYyam1Wc2hSalRZejZpdDRWa01MSmQxNnhXWVJaRDJzX1ZoQ3BXREMtVkNfQ29pMWtVVmxIWENZWlV3MUhlOXk4T2hhUGJnTFRqWXJoNFBSdDU5YldhM2NYVEp0TktO?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-08T13:36:19.754086Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "8f558a7a3743c121ca151c3c",
+      "publishedAt": "2026-10-08T07:05:00Z",
+      "title": "Menkomdigi: Berantas Judi Online Tak Cukup Blokir Situs, Aliran Dana Diburu",
+      "source": "jurnas.com",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNNGltOWJUNEdNTy1GbXE4WTlwVEZfcGJpOERjWlNfbW9YU3VTeElqU1pfektROEM2aHpKZlg3UW9UYkV1YTNLTkZsWndGcnRFNzdFbENBS2lDaEFSRndPVEVtYThLTEJXT0JQTFVRVWh2dWtXWnRmQll0RHNENVRtR29SUWZpNlQzcjQ3OV8zYkxmTkJ6aTRlM1VWUTFZSkk4bnZXMWlCZTVTM3VXYzd3Ukdpcw?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "sensor_konten",
+      "subclusterIds": [
+        "sensor_konten"
+      ],
+      "matchedQueries": [
+        "Sensor Konten"
+      ],
+      "collectedAt": "2026-10-08T13:36:19.754086Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "8c921bc70da8abc3d44bed38",
+      "publishedAt": "2026-10-08T06:40:00Z",
+      "title": "DPR Desak Kemen HAM dan LPSK Kawal Kasus Penganiayaan Aktivis BEM UI",
+      "source": "VOI.ID",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNdHZSMkZQaUNrTGIzMjF2WmZYX2RNVWw4N004bF9qUTZad1VmemQwbko1d3FDRF9TS3JLTTI5bVkxNm9NVUUwY2tjX0lQemhnY2V4dEYtSjZIdk42TEdNSF9QRGJCbmZDeFNqWXR1UGIyZHFUR29FN1AweFd0Q05QUHFjNENJSlQ3Mm1KVFcxbTV3X3Z0aDAtc0hmbndVd9IBmgFBVV95cUxOSTNYZHE0S0dJcUFvT3VTREJWeVI5d2d2a1VmRTNpMHpyZTEyY0p1blU1b05XMW1aOU5LdkhEQUg2d2hWeXBkaUpDSENVY00xaFBZVkpwQk51RVZOdWczYTd1bmtqTldCT2FQdmZ0R2VGZXEzNzU1SzdmY29ya1pVeVJaUW9kQ0Eyd1FXMlpyenQ5WW0zRlRPY3Fn?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-08T13:36:19.754086Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
       "id": "e4caab2fac3ff90950fc1539",
       "publishedAt": "2026-10-08T04:03:32Z",
       "title": "Diteror Foto Asusila Editan AI, Wanita di Gresik Menangis Histeris di Depan Kapolres",
@@ -200,6 +361,29 @@
         "Kebebasan Berekspresi & Berpendapat"
       ],
       "collectedAt": "2026-10-08T06:11:04.379517Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "3f0d1d48a8df2efb9d28f420",
+      "publishedAt": "2026-10-08T02:40:28Z",
+      "title": "Pemerintah Perkuat Integrasi Hilirisasi dan Transisi Energi demi Kemandirian Ekonomi Nasional",
+      "source": "beritanasionalupdate.com",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPTWdPS0dwaV9QUVNYdlU0WHNyU29iX0lyUjIzczluTl83eEFodGV2VmRTQUxkQmdXMW93ZGZQOHVFak5scUI4Q3J1bGx4SG0tVFJaY0htcVU1bm8tWWlYYmdvWjA3ZG54RHdhQ1BZNFNUem5zM2ZhaDFMbzI0MmU0ckxxQzQ2eFlMNEtvbVNDTnk1SUNKejZLQnVOTjNTOGlZVEduWVBzNkZWSUJOYVIyaGM2REh1OXA5bUlnRFVJSktmNzR6VzNWb2JsUWlCR2hxQzd4Um5vUm9vakdCTFlJ?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-08T13:36:19.754086Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
@@ -297,6 +481,29 @@
       "reviewNote": ""
     },
     {
+      "id": "9fa45f592f073bba1890a69e",
+      "publishedAt": "2026-10-07T16:48:00Z",
+      "title": "Komdigi Ubah Strategi Berantas Judi Online, Sasar Transaksi hingga Aliran Dana",
+      "source": "Batamtoday.com",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQdTVaT1hsS2ZpY2dYeDZZVGR3SkJLODZRWE5OaTR1VlZZTVR3cC1JTE9QX05HWlR5cnI2YUFrOE5JclhjMy12SXpiZ1NNREljbGxzeUw2Q0dLTG80SWtYZ3F3VU8wYXNPQ3hOUm9aTHJneTZ3YmR3dS04LU9PeGlnNVJ6MjNoZzI2REV0NThKTkFRbmsyc3pFbThaVkdBajNQc21VQzNBN0I?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "sensor_konten",
+      "subclusterIds": [
+        "sensor_konten"
+      ],
+      "matchedQueries": [
+        "Sensor Konten"
+      ],
+      "collectedAt": "2026-10-08T13:36:19.754086Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
       "id": "6e7d41d17a434b4ce8832273",
       "publishedAt": "2026-10-07T16:29:26Z",
       "title": "Kongres AS mengajukan RUU yang mewajibkan VPN memblokir situs bajakan",
@@ -338,6 +545,29 @@
         "Kebebasan Berekspresi & Berpendapat"
       ],
       "collectedAt": "2026-10-07T13:30:21.084354Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "de7a8566dfc05c37fdd30574",
+      "publishedAt": "2026-10-07T11:30:24Z",
+      "title": "Foto Artikel : Wajah Baru Pembatasan Kebebasan Berpendapat",
+      "source": "Kompasiana.com",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPbjF3U3MxV0RHQmZhbDV4UkNpZmhITlg2S2xsdWlUTEswSm1TYlRwNWlUaXQwMEV3UElWTUREV2FRbHhoY1dheEpoVy1OOVFTRGVOdF9MS3lYdm9qX1k3SlVMckQ5U2JOMzl3ZTQ2Qy1Ldi1GOC10S3k0dXhmOHFmZUV5MDhXZVRWWEdRMWFIM0FEQnA5bXlVSlRneDZhUWw4TW13OHN3VjVtTno3c1MtcUhsRTE2TEMya0dwQ3BqZEh3X0pN?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-08T13:36:19.754086Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
