@@ -1,15 +1,15 @@
 {
   "meta": {
-    "generatedAt": "2026-10-07T23:08:09.136724Z",
-    "lastRunAt": "2026-10-07T23:08:09.136724Z",
+    "generatedAt": "2026-10-08T06:11:04.379517Z",
+    "lastRunAt": "2026-10-08T06:11:04.379517Z",
     "startDate": "2026-01-01",
     "refreshHours": 6,
     "mode": "incremental",
     "feedsOk": 16,
     "feedsFailed": 0,
-    "totalStored": 2050,
-    "totalPublished": 2050,
-    "newArticles": 3,
+    "totalStored": 2058,
+    "totalPublished": 2058,
+    "newArticles": 8,
     "warning": ""
   },
   "clusters": [
@@ -135,6 +135,167 @@
     }
   ],
   "articles": [
+    {
+      "id": "e4caab2fac3ff90950fc1539",
+      "publishedAt": "2026-10-08T04:03:32Z",
+      "title": "Diteror Foto Asusila Editan AI, Wanita di Gresik Menangis Histeris di Depan Kapolres",
+      "source": "Suarajatim.id",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQOHRTVjE5Mm9oRENoTUxNclJDajBhN3ppR2R1U2xfYTd0OEh5WVcxNkhQWXZkajFHZTZtM1dDUWhCNHJiVERyR3FrYlBvY1FVNWJlM2V2WFdUZUNNdmI4Y3RJWjk1VUtjOFdxUENfeGY3czFwWkVOOThraE1wWXpSNjNtd05TaHhtb25NR0FSX09RZWtjbEhLdFRzUGtVYWJVei1POHF1OFpfZUVfWkUxdGpFc3BvVGhKd3Z0ZHV6WTYyZE0xV192NTJR0gHPAUFVX3lxTE8tUEdvWnNZZTJkR2RaUjFSclVyQThjQzV5QWVGSk9nXzNkZlBKcUpWNXcwR0hlbnRCWTllMnYxZk1jdXNfRjNSMG5kYVkzbFFDRnhMRUJrSHhSZ3BFT0Rzekx5YzVSUk9sQ1ZjUmlvR0FlY0lSVGppdDRXdzd1S1VFbjJnclBkNVRvQ2lxZ1IxSVZNWlhmUVlfanA2ZHlVQU9UOGhCNzlwU1VIYjJycWgwTDkxTHl2eXJ1U0ZTTzllcXo4SE1kbEZ3NzVlR0E0NA?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "doxxing_intimidasi",
+      "subclusterIds": [
+        "doxxing_intimidasi"
+      ],
+      "matchedQueries": [
+        "Doxxing & Intimidasi"
+      ],
+      "collectedAt": "2026-10-08T06:11:04.379517Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "7283eb385fb7b2af22069ef0",
+      "publishedAt": "2026-10-08T03:44:04Z",
+      "title": "Situs kena blokir Komdigi, pemain judol kini tak berkutik",
+      "source": "ANTARA News",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNdnUzT2xXSFZMYWFfQ0VOdkpFb2R2OU5rdXl4UkJpblViLUhzOFlOM2JJTGYzbHozMUFwZ20yVFA0YmFxY0M4N2hSYkVydHdJaS1UMFBrU2dVdTN3NjdjVjlBWjBUQ3Q2TDFSNXRST3Z0S0lXV3FQR1UtRG5CRjZ2WTRnc19zZElSTXEwY3o2cUM2dk5jaFpWR3NNMml1UlJr?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "sensor_konten",
+      "subclusterIds": [
+        "sensor_konten"
+      ],
+      "matchedQueries": [
+        "Sensor Konten"
+      ],
+      "collectedAt": "2026-10-08T06:11:04.379517Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "bcc6cb3b71a1d6f863a3fba5",
+      "publishedAt": "2026-10-08T02:55:07Z",
+      "title": "Kekerasan terhadap BEM UI, Andreas Hugo Pareira Desak Negara Jamin Keamanan Mahasiswa",
+      "source": "Ruang Politik",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOVFpRVEtoLXlBT0o3bkE3enVVeVdlWTV0SVp6TWNWb3J0dlctOWptQzcwOHdzTlMyd2hacGEyb1NVMHk5MmtSQkxxZ0QtQXAzYnc2c3lGWGpqLWFUdDFWQWVfSG9lMUc3aVJEWGVIX0lJRndaenA0WjBNVUpxTmF1MUxuUE9LaWw1cTcwY2RYSndoMy01QjlqTXJQSTdMOGdKRXN6dS1hYTAzckF5b05zckFIa19jZGc4UmdDVFhB?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-08T06:11:04.379517Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "3e4637f81c8af0cf978d7c42",
+      "publishedAt": "2026-10-08T01:40:39Z",
+      "title": "Guntur Romli Soroti Penganiayaan Terhadap Koordinator BEM UI, Diduga Operasi Terencana - GenPI.co",
+      "source": "GenPI.co",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNdFBNbFpqcHpNSnAyOHFhYkNQNk5CTWxKeFpONEt4dF9tVDEwT2w0UWlPTTBUQ1JXNXpDRjlFM0x5cW1qWHpJcVJPZ25LUU1nMzdzUGFiN2E5TUVyR1htQzZLSl91V3puRVRNWUlwZFhyek1TOFdmUmg1bXpNUXlENXRsd2MtN0pXYVZLRldlT1JkSmc0eE1NNURQamhMTkZfX0hvY0Q2V0tzU0lBUjdIM1VXYnZac1pna3RQQVFxdlBabV9r0gHEAUFVX3lxTE10UE1sWmpwek1KcDI4cWFiQ1A2TkJNbEp4Wk40S3h0X21UMTBPbDRRaU9NMFRDUlc1ekNGOUUzTHlxbWpYeklxUk9nbktRTWczN3NQYWI3YTlNRXJHWG1DNktKX3VXem5FVE1ZSXBkWHJ6TVM4V2ZSaDVtek1ReUQ1dGx3Yy03SldhVktGV2VPUmRKZzR4TU01RFBqaExORl9fSG9jRDZXS3NTSUFSN0gzVVdidlpzWmdrdFBBUXF2UFptX2s?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-08T06:11:04.379517Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "c4219e6cc04607ecdedbb380",
+      "publishedAt": "2026-10-08T00:52:21Z",
+      "title": "Pengacara pers kolaborasi perkuat perlindungan jurnalis",
+      "source": "BeritaKaltim.Co",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPdGY4TFpFbDRCZG9CdUxDQ1FqXzBVMVpTajQ0bEZYWXE0OHZMbDFDMV9DUko4UHBnSU1ySS1kYzNxd0NqYlJLR3lpbDNGaXZ0ckY4TWtVRnF5YVZYY1g0YkJiMDhUbTlIZkZwbmF4RG1oS051VVl2Y21rS0hrdmpmQzZwUXBfd1IyR0dnQ2NFOG5MMURSdGc?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-08T06:11:04.379517Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "695ddd860cfb6a2b04072a35",
+      "publishedAt": "2026-10-08T00:12:23Z",
+      "title": "Bocor Surat dari Kades Seriam, Izinkan Bakar Lahan Seluas 2 Hektare - Kilat",
+      "source": "Kilat",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQSFZ0ODBmVEZmNXJPdTdUam1CbU1Ybkd2RFN6dHdGWFZES0FWYjk0cUQxbjY2MG5ET2RyMzMzbVFXV1FWUXJDRmJrcXdZRDVrSEhmR0ZycC1rVFpzVVBWWGU5dTBGUnJCMjhQTThfa2NBNXBZaEw5NlBzMjc4b25XRHJfdm1tZXhqdDZicWZxS3hjX1FkVDFDQVNDbHhWRmZNVUtuNGFUTWdqbFJfR1HSAbMBQVVfeXFMT3lqVmVVcTRRYmJMRWZSZ1ktQXFRUnlxYjQtM3M0TDdjQ0hfbXkxdWdWZEdpTTlhQkZCWHlfX3l0THV0OExFODZuR0cxUXJvbENqR21uM1BnSF82bVBMVklKbm9pS3IxTFI1N3ZreEs4eFVvQ0Y0dHVranhSVk9KZzBieXRPbzFrcFVHTGJtd2hUeVB5RUVPeEpMYmU2QzdpSm80T0JkUnpsN3VXN2lPeXRpU1E?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "doxxing_intimidasi",
+      "subclusterIds": [
+        "doxxing_intimidasi"
+      ],
+      "matchedQueries": [
+        "Doxxing & Intimidasi"
+      ],
+      "collectedAt": "2026-10-08T06:11:04.379517Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "a6745c831026e9e786aa6acb",
+      "publishedAt": "2026-10-07T21:00:02Z",
+      "title": "Vokalis Govinda Muhammad Irfan Keluar, Banyak Cerita Suka dan Duka - GenPI.co",
+      "source": "GenPI.co",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPOFVsc0hnX3E0bFFSZFZaTWxldEJ2S0JNblNDZ1N2UXJob3JHU09mZnBHRDZFRWYtWnI2UGlKanhZd19sMmtXWjJpR29KbzNNSnREWEcxd0hrS1FUM1dmU1NsM054T1hsb0JycUhEZ3pGaFhyUnljNTd3TUpiSjk0QkQ4ZTdFVlVjMUt4eDc0RXBENGpEcXoxU0lhbnZ4X3AwWEptTTVrdlNma3VCVFE1TGhn0gGyAUFVX3lxTE84VWxzSGdfcTRsUVJkVlpNbGV0QnZLQk1uU0NnU3ZRcmhvckdTT2ZmcEdENkVFZi1acjZQaUpqeFl3X2wya1daMmlHb0pvM01KdERYRzF3SGtLUVQzV2ZTU2wzTnhPWGxvQnJxSERnekZoWHJSeWM1N3dNSmJKOTRCRDhlN0VWVWMxS3h4NzRFcEQ0akRxejFTSWFudnhfcDBYSm1NNWt2U2ZrdUJUUTVMaGc?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-08T06:11:04.379517Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
     {
       "id": "6e7d41d17a434b4ce8832273",
       "publishedAt": "2026-10-07T16:29:26Z",
@@ -2017,6 +2178,29 @@
         "Kebebasan Beragama / Berkeyakinan (KBB)"
       ],
       "collectedAt": "2026-10-05T05:47:20.949390Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "6bfb6d071351ff7c5ac3ec72",
+      "publishedAt": "2026-10-04T23:00:50Z",
+      "title": "Tsunami Penutupan Gereja di Amerika Serikat: Tantangan dan Adaptasi",
+      "source": "Mediaindonesia.com",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOeXRoSHlabXFKSzRick1rakFBSVdXc2JZVTd1VjNSTFJacmU5VElJSUp4V0RBVmh5anBZMEhua3o2ckIzWDFQYmhQc3l6OGhMUUFfaEU0WWpQVmJDQ0hpR3phR0sxY1VBdGhleklMaXhfRDFIbTlIMUEwSC1RSkRENEdfMVo1elFlU0lrOGp1RjVlOWc0bnNSVDRmbnB3b0tQb2NRRXdlUW5lQmxfcXBZT012S2Q?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_beragama",
+      "subclusterIds": [
+        "kebebasan_beragama"
+      ],
+      "matchedQueries": [
+        "Kebebasan Beragama / Berkeyakinan (KBB)"
+      ],
+      "collectedAt": "2026-10-08T06:11:04.379517Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
