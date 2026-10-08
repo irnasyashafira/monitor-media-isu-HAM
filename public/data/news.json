@@ -1,15 +1,15 @@
 {
   "meta": {
-    "generatedAt": "2026-10-08T13:36:19.754086Z",
-    "lastRunAt": "2026-10-08T13:36:19.754086Z",
+    "generatedAt": "2026-10-08T23:23:49.716250Z",
+    "lastRunAt": "2026-10-08T23:23:49.716250Z",
     "startDate": "2026-01-01",
     "refreshHours": 6,
     "mode": "incremental",
     "feedsOk": 16,
     "feedsFailed": 0,
-    "totalStored": 2068,
-    "totalPublished": 2068,
-    "newArticles": 10,
+    "totalStored": 2079,
+    "totalPublished": 2079,
+    "newArticles": 11,
     "warning": ""
   },
   "clusters": [
@@ -136,6 +136,213 @@
   ],
   "articles": [
     {
+      "id": "695898315410f4d2e938673e",
+      "publishedAt": "2026-10-08T21:00:48Z",
+      "title": "Review Film Bapak Paling Jujur: Kejujuran Ternyata Sangat Berat - GenPI.co",
+      "source": "GenPI.co",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNb1g0ekE0TTY5ZEY2OXFvNS01MXZEUnloU3JqTnRISXdXVFhSMXl4bU5GaVFUUGhOZV9tWnJzZFQxWlFMcnQ0cGNGYWtpUmVDbENGZ21laXhUWUxpTW5sU041WTlJYjVmMl9aemswTGpFUktwdFFGR2tfMEY3cEV4UzFXQ1FRTGtiUG9PWUsyOWlwUjBScTA4Szl1YWRRdXJJRW1wQTV4czdMeC04ZFHSAa4BQVVfeXFMTW9YNHpBNE02OWRGNjlxbzUtNTF2RFJ5aFNyak50SEl3V1RYUjF5eG1ORmlRVFBoTmVfbVpyc2RUMVpRTHJ0NHBjRmFraVJlQ2xDRmdtZWl4VFlMaU1ubFNONVk5SWI1ZjJfWnprMExqRVJLcHRRRkdrXzBGN3BFeFMxV0NRUUxrYlBvT1lLMjlpcFIwUnEwOEs5dWFkUXVySUVtcEE1eHM3THgtOGRR?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-08T23:23:49.716250Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "2f0d07179f49d678e486b36c",
+      "publishedAt": "2026-10-08T16:57:42Z",
+      "title": "Gerebek Tambang Ilegal di Jantho, 14 Orang dan 3 Ekskavator Diamankan",
+      "source": "AJNN.net",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPNjc3QUNKLWtyb2VFRk5aR2ZJcDBVa0FNTlRfd0JqZkJyT01CUWtaaWVJX3Jhb3pISzRRbTRMYWlQWlpyY1lRNVItSE11cEdmRnp3SmI4eElZUFNTRkF1VlNvN29hS0lzUHFLU3VMSW9qSm9uV2I1dGttb0xzWFpmRnZqcU9XYU5idFBjYzdLMUoyczZadlkxNHFYdEstZEppcy02aXRR0gGmAUFVX3lxTE82NzdBQ0ota3JvZUVGTlpHZklwMFVrQU1OVF93QmpmQnJPTUJRa1ppZUlfcmFvekhLNFFtNExhaVBaWnJjWVE1Ui1ITXVwR2ZGendKYjh4SVlQU1NGQXVWU283b2FLSXNQcUtTdUxJb2pKb25XYjV0a21vTHNYWmZGdmpxT1dhTmJ0UGNjN0sxSjJzNlp2WTE0cVh0Sy1kSmlzLTZpdFE?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-08T23:23:49.716250Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "a22ae94cb8e665accb735a70",
+      "publishedAt": "2026-10-08T16:40:19Z",
+      "title": "Aplikasi Iblis: Saat Rindu pada Kekasih yang Meninggal Berubah Menjadi Teror Digital - Detik 60",
+      "source": "Detik 60",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQNFhFUjMzZWVocHVDVGFVVzRxcWQxalJaTTFjUTJGSUNGV1JCbF8xT1VDckpWTVNTTzB6REFobTNWZU4tMHljZTVBQTc1RnRpczd2YnYyNUZ2VmQ2eDR5ZW85bWtlV19jeFJDVURPMF8ySFRXcF9kWnhybkxtSU9NX1pGbHVqQldnVU5EMWo2Mm80YmRCOVZWUHkwT1hvRDlWUGRXcXg4RUtVUjdyRU5xa0ZmX1hSOWFpNC1uUEJZUVBITXNtWXfSAcsBQVVfeXFMT2EtUlBzLV9DYzlBZUp3VUROTFhGT2g0QnEzWVFJWm8xTDBpOEYtcVdjeHcySjlVdVlMRFJTeVcxbGx5M1hCMU5mamo3dWE2T0VBTVVJNi15VDhiaHMtamlucktBSTEteTFOaGZGS3R0TzdKc2JjeV9MVmZySGFuYjRxMmFNcm00bDRsV1hNcEtTdzlkUHVsOGQzd25rMUlJS0E5WnhaeDQ1TWtQa0REQ1lyY0JNWENha19QTE9kTjlEMzlBY2MzbHpyTTQ?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "doxxing_intimidasi",
+      "subclusterIds": [
+        "doxxing_intimidasi"
+      ],
+      "matchedQueries": [
+        "Doxxing & Intimidasi"
+      ],
+      "collectedAt": "2026-10-08T23:23:49.716250Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "52ae37dbc9d9be503120491b",
+      "publishedAt": "2026-10-08T16:00:37Z",
+      "title": "Denda Keterlambatan Pekerjaan di PUPR dan Dispora Gayo Lues Rp 351 Juta Belum Disetor ke Kas Daerah",
+      "source": "AJNN.net",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQQUZNRzMtZnphOVlJTGFpZG9LaTNFZ0NRN1RUQlZYVkN1OHJmZzRPU3VYeGFKQkVCT2lCNzhLd3ZXVUYzbjZUckI3cFp3M0F2c1NoYVY3YmpkdkY2eHFsQzVLdW1pZTZzM0ZpWGtvamNoOTM1TTh5QXRzN1hQVGFsUVQ4TUpZVldFa3U2YjVXUF80YkFhZnkwYTNvSXl2NXU1S1hMNGYtaFBZanFzQ053NWxkR0ZhV2FBRm9vcXhvdU1OWnZCdmN3cFUzbXlYazDSAc8BQVVfeXFMUEFGTUczLWZ6YTlZSUxhaWRvS2kzRWdDUTdUVEJWWFZDdThyZmc0T1N1WHhhSkJFQk9pQjc4S3d2V1VGM242VHJCN3BadzNBdnNTaGFWN2JqZHZGNnhxbEM1S3VtaWU2czNGaVhrb2pjaDkzNU04eUF0czdYUFRhbFFUOE1KWVZXRWt1NmI1V1BfNGJBYWZ5MGEzb0l5djV1NUtYTDRmLWhQWWpxc0NOdzVsZEdGYVdhQUZvb3F4b3VNTlp2QnZjd3BVM215WGsw?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-08T23:23:49.716250Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "3e6f6fc7577ab7acab9c5aa5",
+      "publishedAt": "2026-10-08T15:30:57Z",
+      "title": "663,7 Hektare Sawah Aceh Utara Belum Produktif Pascabanjir",
+      "source": "AJNN.net",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOQ2lpX0NBNi1naC1YYkgwNV9fM01DUkZXZURwbko4WmpqaUdNOVg3R25XQ2swNXgzM3BtQnFxYmhVanUtNWpZS0NlZGdNTmx0dWp2N3lLdGhQdDVaZ2cxb2JrbTcteVE1eUN3WDBrNE9PVHV4VkhqVmFHWjZuZEdaQTdhYUFqcFF1UkFwSjctX2cyUWNsZUpuWdIBmAFBVV95cUxOQ2lpX0NBNi1naC1YYkgwNV9fM01DUkZXZURwbko4WmpqaUdNOVg3R25XQ2swNXgzM3BtQnFxYmhVanUtNWpZS0NlZGdNTmx0dWp2N3lLdGhQdDVaZ2cxb2JrbTcteVE1eUN3WDBrNE9PVHV4VkhqVmFHWjZuZEdaQTdhYUFqcFF1UkFwSjctX2cyUWNsZUpuWQ?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-08T23:23:49.716250Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "902c6f9abd8e7ecf4d884f67",
+      "publishedAt": "2026-10-08T15:03:09Z",
+      "title": "Wangsa Laporkan Kriminalisasi Aktivis ke Komnas HAM RI",
+      "source": "AJNN.net",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPekZLeWpJN2NmZDdGXy00N2o4ZGsxN0hhdlMtMUoxYVptQnV5UlFySzBQOEc3M0xwbTNWcXlSSUlPdXN2dnNoU1NMNTRKeVVZQVVKdHZJUzY0ckUzb3BKYkZDRmZJbDRodDJKQ09CTS1fOG93YjAtTklrUFVsLUhOU2RhbWxRSzFSZ0NFeE41V2VhNkl3Z2fSAZMBQVVfeXFMTzI3SllWbGRGRjNfSW1JZy1OY1V5a0VKaWlhNkI2bnZBdXA3Uk5KajAtUkRjNjR0ZW9vdk5ZaFF2eU5lZnREQWdZZEtwd2JwX1AtMEJpSVFSVVp2d2NsMFhkRnJoa1NxNU9wczc4LTVwTXhCczR4VVhJQnFQQy1tX2I1LVp1dzMzYXRVQ2pSY0IzalM0?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-08T23:23:49.716250Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "a87b80d978a65c3879b40bb4",
+      "publishedAt": "2026-10-08T14:38:32Z",
+      "title": "Viral, Bayi Diduga Meninggal akibat Lambat Penanganan di RSUD SIM Nagan Raya",
+      "source": "AJNN.net",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQbWFRR1JtYmJkLVF1NjNlM29HLVFtNFhwMXp6bmR2aXVucWNtV2VQQktSd1A0cEcySFZNTjNuWFp6SUJmUVFFTFVBTzROcFA0dW8zUFhwRW1Wa1FLRnFpSFJidHloZ2VoM29GTEhjTWE2aXk0OWFSOGU3SmtDSlZ4WHJxZkNacDY4QklZSnladzdFN0NpWFdNT0hkaVpQbWJvSExmeGFWWUZseG1TR25j0gGvAUFVX3lxTFBtYVFHUm1iYmQtUXU2M2Uzb0ctUW00WHAxenpuZHZpdW5xY21XZVBCS1J3UDRwRzJIVk1OM25YWnpJQmZRUUVMVUFPNE5wUDR1bzNQWHBFbVZrUUtGcWlIUmJ0eWhnZWgzb0ZMSGNNYTZpeTQ5YVI4ZTdKa0NKVnhYcnFmQ1pwNjhCSVlKeVp3N0U3Q2lYV01PSGRpWlBtYm9ITGZ4YVZZRmx4bVNHbmM?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-08T23:23:49.716250Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "fbc5138de368e65e218724b9",
+      "publishedAt": "2026-10-08T14:14:00Z",
+      "title": "Fenomena Konten Sensasional dan Tantangan Literasi Digital",
+      "source": "RRI.co.id",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOTzF4RDJOeVlVRENzY0FCcndzOGhHLVhjQWNXMWppcHY2ckEycDJSanpjM1JYRUstekRvbExibkI4TVlCUnpLdkRJOGRJeWVnWnVOeUxJbDJpbkp1T2VGNFhvV1RwVXpDcUNmcjZfRHAyTzJEaDFENXlNRVA2eDJUQUNyZ3RGcFE1c2V1N1JWbWdBQXlRcGVUNWZTYV9NcldQWklBWFV2Zw?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-08T23:23:49.716250Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "37b5ba8a5750f183178dc26d",
+      "publishedAt": "2026-10-08T14:11:45Z",
+      "title": "Palu Hakim di Ujung Jempol: Membaca Hujatan Netizen",
+      "source": "Kompasiana.com",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNdUhhS1gzYktDTVE0UUEyR2k2bWJrSlpZbzVSWDBvZzVBTkNGMFNuZEd4MVVOTXVjaWxmRU5pU0dYVkdQNUE0T3NrLU5rYXVTSlJ3Q2syV0otSHViLWJtMUY2eHh0TGJvVk4xWDladEVGN004WWw1bVJzSFIxalg1eEVrbFRwWldwLXROMWNJRkFwX2hBY2Z1ZGlDWEZOS19SalRBN0ROaWxUSUZHOXZjNXRnenc0VHM?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-08T23:23:49.716250Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
       "id": "2b331f2545603342798b8dc8",
       "publishedAt": "2026-10-08T13:16:00Z",
       "title": "Ruang Demokrasi Menyempit, LBH Pers Bongkar Ancaman terhadap Jurnalis",
@@ -154,6 +361,29 @@
         "Kebebasan Berekspresi & Berpendapat"
       ],
       "collectedAt": "2026-10-08T13:36:19.754086Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "970534da0fd84293401cdb5e",
+      "publishedAt": "2026-10-08T12:45:00Z",
+      "title": "Pelanggaran HAM dalam Kasus Keracunan MBG, Komnas HAM Desak Penegakan Hukum - Sukabumi Update",
+      "source": "Sukabumi Update",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQRjdjeXlLMXF4WF9kV2hTYzd4ZGZ2VUJxSUtGZEdBZldkWFFoNlNFalB6WWtMM1ZRb2JaS1RObHdQNWI3cVpUZTNHQVdmeU83WFQxTDd0cjJrM3dzZ0kxR2ZDaEx4VUJWU2dMMVdpT1k1T0pIRXlGbks1UlhRU1FRZHoyTVplUlF6aEUyRTJxX0N0S1ZRUFhDYTI5N3hqZ3pUSlBQMFRMSG5acW9GbFVqMUdTTERScENfR2laR3J30gG-AUFVX3lxTFBGN2N5eUsxcXhYX2RXaFNjN3hkZnZVQnFJS0ZkR0FmV2RYUWg2U0VqUHpZa0wzVlFvYlpLVE5sd1A1YjdxWlRlM0dBV2Z5TzdYVDFMN3RyMmszd3NnSTFHZkNoTHhVQlZTZ0wxV2lPWTVPSkhFeUZuSzVSWFFTUVFkejJNWmVSUXpoRTJFMnFfQ3RLVlFQWENhMjk3eGpnelRKUFAwVExIblpxb0ZsVWoxR1NMRFJwQ19HaVpHcnc?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-08T23:23:49.716250Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
@@ -223,6 +453,29 @@
         "Kebebasan Berekspresi & Berpendapat"
       ],
       "collectedAt": "2026-10-08T13:36:19.754086Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "fb3e03956155c2e951e8c00a",
+      "publishedAt": "2026-10-08T07:47:00Z",
+      "title": "Bukan Cuma Blokir Situs, Komdigi Bidik Transaksi dan Aliran Dana Judi Online - jektvnews.disway.id",
+      "source": "Disway",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNcXFCaVItZnduMTdkSjAwVnlXdXJqQnJMYkxCSmxJYk10NjVpUmdYcjZwSGU4Z05ZdWlyUE9NeF8xbVNZcGh3MzJySG5GTFpWZ0R1UHFVZjBzSkxBb1JLcGtfaWpxeXFvLUNLSzRXR3lWWmdOZEQ3ZWJ6MTh1VFJtUWcycDFqVE5OaS1FUWFwN0dYR1ZoTWZNcmlIazNFbEFMblZBNTdCRGlGNk1Ha2tWNjFBM25sd285TUhrdjdlVU3SAbMBQVVfeXFMUGU0TWdHSklRa1dsNksxbHJidDhnTTJOcVczc3RyR1Rub0Z1VXQ2Yk13ODZGNk9UUHA2ZmJYNTUzazhaQ2dpcDlFNDFES3YxZktGYlkxMjNWaTZlLUNXN1oxbnlyR0tiQ1JXUjZJSFlrWkZBZ0JjSmtWRG1hOU5LYUtTN0FKc3JWWGtOREFlWlkwTHY3cXhPcVN6QURUbUhJRC1BeGFVR3VxSmYycVhxNnJMakk?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "sensor_konten",
+      "subclusterIds": [
+        "sensor_konten"
+      ],
+      "matchedQueries": [
+        "Sensor Konten"
+      ],
+      "collectedAt": "2026-10-08T23:23:49.716250Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
