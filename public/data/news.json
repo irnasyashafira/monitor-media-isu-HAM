@@ -1,15 +1,15 @@
 {
   "meta": {
-    "generatedAt": "2026-10-09T13:26:24.550622Z",
-    "lastRunAt": "2026-10-09T13:26:24.550622Z",
+    "generatedAt": "2026-10-09T22:41:52.018827Z",
+    "lastRunAt": "2026-10-09T22:41:52.018827Z",
     "startDate": "2026-01-01",
     "refreshHours": 6,
     "mode": "incremental",
     "feedsOk": 16,
     "feedsFailed": 0,
-    "totalStored": 2095,
-    "totalPublished": 2095,
-    "newArticles": 11,
+    "totalStored": 2102,
+    "totalPublished": 2102,
+    "newArticles": 7,
     "warning": ""
   },
   "clusters": [
@@ -136,6 +136,98 @@
   ],
   "articles": [
     {
+      "id": "5e5e127e5716222b60b32979",
+      "publishedAt": "2026-10-09T17:57:07Z",
+      "title": "Kampus Bukan Tempat Memenjara Kebebasan Berpendapat, Majukan Perundingan Indonesia-Papua",
+      "source": "Suara Papua",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOWi1LeThiUUhjZFBpS05tYTVmdTVFMWdxYkNaUVJmdHQ4Vm5yUGlZeVczeFNaY29hN3NqWFZsbHdqS3JUQUxIM3l2eUozamdYNTA2em15alduQ2M3SFM1QnAtMFJCVXM1eU9NSTZkdXV1aXhOUkdmVVNYUGVKeVBsMTZCd0FxdEhySkxTOVZEOGRMZzRFcjBlX0xzZVZtRlZ0RkUwbERsNnc4NFFIS0tfRnc3M2JQYVhXeTZ6ai1QOA?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-09T22:41:52.018827Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "4ee03f686463747750845656",
+      "publishedAt": "2026-10-09T16:43:23Z",
+      "title": "Teror Kampus: Pelecehan Sebagai Pembunuh Demokrasi dan Kebebasan Berekspresi Mahasiswa",
+      "source": "Harakatuna.com",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOYzJRS0JMZGo4bkZfTW53YklqNUdlOV9sbWJGUG1tUmczYkVqbm9qNHdONXQ1QjRkdVpTdTdaUW5KZ1FKekU1cUxuX21uOGNhRlU0RHNaNTBTdktERV9rNTNsZV9zZGJuLVFMWnNuRG9JRDJhUnRsb3YyOFN6c1AxUzBPMEdaRi1ERTc5aDlPVzVtNnVhZzNMZVU2MGswaU9NeEQzM09Pck9VQU1qX2cwaC1UekNSZw?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-09T22:41:52.018827Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "6116f762d728b98d3a382e03",
+      "publishedAt": "2026-10-09T15:00:35Z",
+      "title": "Polda Banten Terima Laporan Wartawan Korban Dugaan Kekerasan Aparat saat Demo HUT ke-500 Kabupaten Serang",
+      "source": "Faktabanten.co.id",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNUDNRZ0htMVFDb1BBVllZRFZyVWlIQTdQS0h1YzBNdVhjZXdUelowUmV5VTN4R0JEdGZ6X2pqQ0FOenhpWUNEazZDdzNUSU5DY3hXR3U3SDZRT3RaQ0s0NENOSUZFUm5mdk92TXE5ZXNFUHUyX096V0o2VmFycThhdFhVQWpITVlRSklkMDl6VUpua3UyS3htVWkzeUdEUUZvNV9QVUdsNWFGLVptY3MxSkota3I5VmNvNTFNVU42ZF9Kb1NpZWpQclpaNWtqUEdUMnlvZjN30gHbAUFVX3lxTE96Q0RlTC11NmQ2dDlUTm04eGlQd2ZkcEJaQTM1cF84Z19NS0RPUFZ1M08tNm5yNmFCR2hzX2hSdVNJbFZveWFuNEkxYnZ3ZkljU0JVSXVXaWg5NkhVSC1vWUZFZ1hjSXRvZXBiZU5rdUxsamlhOV9NbG4wYmNNM2lyeEdVZExRT0R4SGhCUTNsTEU3UG1paEsyT3pLNTk4UzVlVUpTUDQ2RHpBODlnSzVNcVlGbWF3M1VyT29CQ01Ed2VGelNuZXNYekpSXzg4QzhfR1lzRURsZUVVSQ?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_berkumpul",
+      "subclusterIds": [
+        "kebebasan_berkumpul"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berkumpul / Berserikat"
+      ],
+      "collectedAt": "2026-10-09T22:41:52.018827Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "0087e455954222d8958b74dd",
+      "publishedAt": "2026-10-09T13:39:46Z",
+      "title": "Mahasiswa Muhammadiyah Diancam Pihak yang Mengaku Orang Wagub Krisantus",
+      "source": "Media Kalbar News",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQSDloVUR6LXAxZ01tS1lTZVNvR0piOG92N25HM3ZOYk1WSUQtZlFSWVdTX09GT1lQbE83cFVHb3IwTWRWNmtVYXhrVmZKb2h3al9NakppenVyY0FyVVE5ZW9sN1pPaWF4bFViSEtGLXp1Q0RZQ1BTdWE0N1l1ZTJzc2VCNWdpRGdrcXUtWUtjNFNVRS1Ba29lM25NVXl5QWtZM1E?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-09T22:41:52.018827Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
       "id": "d14e81e56e64d26b1d867238",
       "publishedAt": "2026-10-09T12:30:47Z",
       "title": "Sisi Gelap Cyberbullying: Saat Netizen Hobi Main Hakim Sendiri",
@@ -177,6 +269,29 @@
         "Kebebasan Berekspresi & Berpendapat"
       ],
       "collectedAt": "2026-10-09T13:26:24.550622Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "42e00d6279e4a512ef9bb09f",
+      "publishedAt": "2026-10-09T07:57:13Z",
+      "title": "Prakiraan Cuaca Jabodetabek Jumat 9 Oktober 2026: Bogor Waspada Hujan Petir hingga Malam - Detik 60",
+      "source": "Detik 60",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPMzh2UFljNFhRcjN4THpkUFd4UlhuLW1oX3c5NVMzY0NpS3Zic2ZpZGt6VU5hZ3FqVElxMG9Vb0pEUVJldks2bTRHTDhjNld6TmZ3RUdPYjFpZjJoVmNwVkR2Q3BfVVo1WEZ6OFA1NWNxVjdhbm5HODVEejdsODlxc3RBMXhCMDlReUZHeWpWN3BEYk9vTk55QWNzY0xGY05mbUJ4bXBpVHZkTEppZmV0NkgtYVRzQjQxYm00LWtnR2hjRzZaQmxr0gHMAUFVX3lxTE52bVowSjUtRzdFM2hTU2dNRkRNb2lZVDBIUHZZbUhFLTVoYV9CdmY3c1paTmFRZmpsMXRGbmVNbV90RjlIVkZEcElXVmstdnk1S2pIbmhCaWhFV295Y3kzcWtsR2RXR3o5aXEzS2hNVHUwOWZjZGV2NDlBVHdTdVA2RWJnODIyZE8zWkpzQVZJbTFpY0gtTldTX2RXTTBzejgwdmhsSmNVeXBud0lYUUlEQWFya3dOekNCZXFRcllfS0R5VFB6NHpHSzctUw?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "doxxing_intimidasi",
+      "subclusterIds": [
+        "doxxing_intimidasi"
+      ],
+      "matchedQueries": [
+        "Doxxing & Intimidasi"
+      ],
+      "collectedAt": "2026-10-09T22:41:52.018827Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
@@ -821,6 +936,29 @@
         "Sensor Konten"
       ],
       "collectedAt": "2026-10-08T13:36:19.754086Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "60960d5c51ffb7146afb3069",
+      "publishedAt": "2026-10-08T07:00:00Z",
+      "title": "Polda Banten Terima Laporan Pengaduan Jurnalis, Pastikan Penanganan Secara Profesional",
+      "source": "Media POLRI",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQSGx1cjhlNHVqWUhDMXFrVVRWNEgxUDdnWlFJZENfNDEzMmJwcG9wd1RYME5CMWNERUJNVlJOUml5ZFNJU3VoNndqME40LVA4SExweXpxSUtVelZ4dDdpc2U4dVAxS0xMd2RuVThUMVU0LVpOM1BVNXdVTGVBTjRPNy1memVTamkzNlBvWlo0Y0JFa2JPQU5FS0hMWkZfYWZPNkEwb2lSbVlGNFpUUHZyOWtn?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_berkumpul",
+      "subclusterIds": [
+        "kebebasan_berkumpul"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berkumpul / Berserikat"
+      ],
+      "collectedAt": "2026-10-09T22:41:52.018827Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
@@ -10577,6 +10715,29 @@
         "Kebebasan Berekspresi & Berpendapat"
       ],
       "collectedAt": "2026-09-26T21:13:46.066653Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "cf10f86d0f11ee0683c29318",
+      "publishedAt": "2026-09-24T08:30:00Z",
+      "title": "Polisi dalami dugaan penistaan agama terkait buku \"Memburu Muhammad\"",
+      "source": "Antara News jatim",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQM3loRFM5TFNoZFVzM3RBRzRfNDJVSnpnYmJPcFYtV2RCN0ZPTE5ZLWQ5MGhuQjI4SjgtR0NVZjNMQ0djS2ZSMzFzRURFeHNrSGtneXcyZEJfdUpsVk5nbWo2OHdDZkJ2MVZLSkl5UkFoWFlFV1N1bUQzVG5QR285dDFYcFRYRXRxaXFURXRpY1Y0RVBsbjVybDVfSXdTNmVEblRVYUZoOWRyY290MUVB0gG0AUFVX3lxTE9LbnJObEt5XzhwX2NRajBmQmhHMW1wdndwdzNaUWJPNDlCS2ZTVkI2S041RmV5djd0c1drOVd4SDh6dDBsa1p3WkJhSXhfU1hnRVduX0FRZDdCTkRIYnZseWhPVmhvWmM2VjlnVTdzVDRJd0xyNGdjS2JYRDFTSTl5U1ozV3d6aWNMU1Iyc1NLNEhBVS13a1h5YzJWX3RaUWNBUGdWUlhhV0hPbS12eFVsTUpHMg?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_beragama",
+      "subclusterIds": [
+        "kebebasan_beragama"
+      ],
+      "matchedQueries": [
+        "Kebebasan Beragama / Berkeyakinan (KBB)"
+      ],
+      "collectedAt": "2026-10-09T22:41:52.018827Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
