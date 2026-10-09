@@ -1,15 +1,15 @@
 {
   "meta": {
-    "generatedAt": "2026-10-08T23:23:49.716250Z",
-    "lastRunAt": "2026-10-08T23:23:49.716250Z",
+    "generatedAt": "2026-10-09T06:14:27.724853Z",
+    "lastRunAt": "2026-10-09T06:14:27.724853Z",
     "startDate": "2026-01-01",
     "refreshHours": 6,
     "mode": "incremental",
     "feedsOk": 16,
     "feedsFailed": 0,
-    "totalStored": 2079,
-    "totalPublished": 2079,
-    "newArticles": 11,
+    "totalStored": 2084,
+    "totalPublished": 2084,
+    "newArticles": 5,
     "warning": ""
   },
   "clusters": [
@@ -135,6 +135,98 @@
     }
   ],
   "articles": [
+    {
+      "id": "d4dd34359e40d920ffbe6c7d",
+      "publishedAt": "2026-10-09T03:53:00Z",
+      "title": "Pemkab Sinjai Serahkan Teknologi Pengering Cengkeh Berbasis IoT di Desa Kanrung",
+      "source": "RRI.co.id",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPaEc3ZjIzdldxV0lYaVhuek42TzBaM3IxZnZqU1dLcGlWTDlGeVFGcTB3STM3NEo2SHowMk1vTjFSZUZXd3BXNHplSnctWWprUmk2Tk9mSFhwcTRFXzcwYzRxY3lLdENFbHFWLW1WSWdkdktoMFhaS3F2cWl0WFhTUVZuV2Jqa0lMdGhPbnU3N2xRWm8xT0JNOEZXSVlrVFY2aHBjVTFHZXlYSm92dVRiZXpHQmRfN0tSSFhn?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "sensor_konten",
+      "subclusterIds": [
+        "sensor_konten"
+      ],
+      "matchedQueries": [
+        "Sensor Konten"
+      ],
+      "collectedAt": "2026-10-09T06:14:27.724853Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "b45997926d8dee85039da3a9",
+      "publishedAt": "2026-10-09T03:18:00Z",
+      "title": "Bertahan hingga Malam, Kapolresta Jambi Kombes Pol Ananto Herlambang Meski Lelah, Tetap Humanis Amankan Aksi",
+      "source": "Swaranesia",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQZEdiWXZZTEUzd3k1YWdsTzB6X3NaYUxvdmxzSFVIUWEyRF95WndkNlZyT3hpenMtUlUtanM4MGN6dS1rNDVzSzNPWVB0ZkQ1WVpPZE9YVHQxQlVwaGI0YklyWXk4TDRxOUFqR2tfQkRyNW5VNUhOMnVtWHdGYjY4QTlyMU0?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_berkumpul",
+      "subclusterIds": [
+        "kebebasan_berkumpul"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berkumpul / Berserikat"
+      ],
+      "collectedAt": "2026-10-09T06:14:27.724853Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "16f00072d59331ea0a360139",
+      "publishedAt": "2026-10-09T02:40:35Z",
+      "title": "RUU Penyiaran Bisa Atur Konten Internet, Kritik di Media Sosial Bisa Ikut Terdampak",
+      "source": "Radar Tuban",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQMGtHX283aEhvZlQ4ZC1aM09kWkw5a2ZXOWJLemowME1uRkt4ZS1JTV9vLUI3SUlHTE1TNE5yeW5Ock9wWlltbUVZb204Nkt0cGxObTBrWl9tR2pyZXJvbVBIMTJ2aGszd0otWkpvdjZfMjdiMHlaa0xKSFBqODE2YnBZR0hQLXFOZDJBazdEaWNQaVByMzFYLVNWWlpGZ0ZwY2ROT1llU05EMmVyOTNDbzVrajlsY2xjMTFtTjRUVGlrT3Q4R0JQb0gxVkJQUdIB0wFBVV95cUxOQjVPT2hCLUJGamZWaFdvVWNpT3J1RktZQnFUQ2tnM3lXZ2o3WWRMdzBkYVBGdHhCdjNPMlVOUzVNQWdGbTRVXzZFTGpyQ3diZTdMbGlWVXRTUEI1dkdqM09mMDVMQzVoNmdWMVVoTjFIbzZZVVdkS0ExY0FQSFNfX0s2WnNtWFl3OFNGemxzTEE5Q0Q4dzZrZnhQbGsyTWFEVVZBM2NEbmdZdEZXdkJGWGVIb2YwUHNSX0trTHFxZ1pJU0tPNFdVbjdkM05ZQkVzb3RF?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-09T06:14:27.724853Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "b3b61e999d0f374af5ccceea",
+      "publishedAt": "2026-10-08T21:54:18Z",
+      "title": "Perkuat Privasi Digital, Siber Group Hadirkan Layanan Pelindungan Reputasi dan Data Pribadi",
+      "source": "fixsnews.co.id",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOQWY3ekQteVVEby1RUllOQUNpTHJ6MlVWWTlKNWJQZm5XQTdhZVE3NzRqZG01anNyZHZMQUJubmhQRk1YRFJDLWxCNThCdk9jeFpwUWdNSEV1Z0NmRjloU3B3WXp5d19rbXN0eFp5X3o4N3JtckFFTjdfc3VXV0ZpdUtwVXZUanJ3eDcwZ0xORHN6Z0NFVkdxQmNQNm00UGVjZXhDLUE5cmFobkY0dDl2V2tTN0s?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "sensor_konten",
+      "subclusterIds": [
+        "sensor_konten"
+      ],
+      "matchedQueries": [
+        "Sensor Konten"
+      ],
+      "collectedAt": "2026-10-09T06:14:27.724853Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
     {
       "id": "695898315410f4d2e938673e",
       "publishedAt": "2026-10-08T21:00:48Z",
@@ -32139,6 +32231,29 @@
         "Kebebasan Beragama / Berkeyakinan (KBB)"
       ],
       "collectedAt": "2026-08-31T23:07:12.746081Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "c597cdb088352f090e453ade",
+      "publishedAt": "2026-08-14T07:00:00Z",
+      "title": "Polisi Tetapkan 4 Tersangka Dugaan Penistaan Agama di The Sounds Project",
+      "source": "tutur.co.id",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOVTY2LW1HZkE4Y242alRXUTd2bGh4SzFlX3YtZW9YaHl5azFOQWFta3A0WXZhWWxzV1VoQjhLS0pjLVZyT1R6M1dWVzJneVFmM0pQR1dYcVlhaVNjMDlWNnZLdDlYYURyMVpoNU4xdV9GN0FUWjZXTmhBUjJVN29rb1FPa0UxZlpEMDc5dmVTdG04SmRyNFU3bQ?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_beragama",
+      "subclusterIds": [
+        "kebebasan_beragama"
+      ],
+      "matchedQueries": [
+        "Kebebasan Beragama / Berkeyakinan (KBB)"
+      ],
+      "collectedAt": "2026-10-09T06:14:27.724853Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
