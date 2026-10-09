@@ -1,15 +1,15 @@
 {
   "meta": {
-    "generatedAt": "2026-10-09T06:14:27.724853Z",
-    "lastRunAt": "2026-10-09T06:14:27.724853Z",
+    "generatedAt": "2026-10-09T13:26:24.550622Z",
+    "lastRunAt": "2026-10-09T13:26:24.550622Z",
     "startDate": "2026-01-01",
     "refreshHours": 6,
     "mode": "incremental",
     "feedsOk": 16,
     "feedsFailed": 0,
-    "totalStored": 2084,
-    "totalPublished": 2084,
-    "newArticles": 5,
+    "totalStored": 2095,
+    "totalPublished": 2095,
+    "newArticles": 11,
     "warning": ""
   },
   "clusters": [
@@ -136,6 +136,144 @@
   ],
   "articles": [
     {
+      "id": "d14e81e56e64d26b1d867238",
+      "publishedAt": "2026-10-09T12:30:47Z",
+      "title": "Sisi Gelap Cyberbullying: Saat Netizen Hobi Main Hakim Sendiri",
+      "source": "Kompasiana.com",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQcXVKVXdmb3g4eDhFU1FvbUVybjU0ZEtzRXo1TFhVUVdNVW5UTlgyVlBJX0RlM0c0UExIZjd4d1RhcE1ScGtSTGozNUh0Tk84ZmpJc0cyRUJTMEY1WEZEbmxKdUhWS2JmLXh4c2dzRmlBTE94UlFETER1a2NrY3ZmMy1VM1huc0FheDZMR1hTbk8yLTlKR0l6Y0t2a2ZOdjdPNkdSYWpfVGY0UHFZQTMzT3ZTZE9nbVN4dVBWUmFqb0dPRUNtMmhZb09R?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "doxxing_intimidasi",
+      "subclusterIds": [
+        "doxxing_intimidasi"
+      ],
+      "matchedQueries": [
+        "Doxxing & Intimidasi"
+      ],
+      "collectedAt": "2026-10-09T13:26:24.550622Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "3b80a56c19466a948a3413fb",
+      "publishedAt": "2026-10-09T10:23:42Z",
+      "title": "Kebebasan Berekspresi di Media Sosial: Ketika Kritik Berubah Menjadi Perundungan Digital",
+      "source": "HarianHaluan.id",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPa214bFZPUW1nWVBOanNESnpJVEtRU1VPZzM1ZFBrbTlRbWZ0THVaeXU1WVdRZkhwY2VaMlQ0SG5jMkF5YTZuc0EtU0p6UW9KSkNRYkxZYkdBMnVwWjlBbUtZYnY0MkRhYWJhUDVkTllRWkJFWFUwOUtBS0tTQm5CMUVHU2JQczNZVW1RQ2tVb05UbmlQTXBYejkyN0oyLUVOUUJVbUp4YV96SkppX05fZDZ3czdWRWNDSC1r?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-09T13:26:24.550622Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "679d99fb3864e8ab308c97e2",
+      "publishedAt": "2026-10-09T07:34:40Z",
+      "title": "Hentikan Pembungkaman Aktivis! IMM: Usut Tuntas Korporasi, Transparansi Anggaran Karhutla",
+      "source": "Media Kalbar News",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNN3J1aG9lZU9wQXdyYXN4TFdwaTVKdXdIOHRzQjRDdTNkYXFHTXVQTGFwekQ1V1RrdlV5YlpqQ29TYzY2MWR5RmZGeHJQb2FTZGU5aE1NUnZQNGRhUlBpYzB4Zy0xUVNMUTVKSTdJVy1RY0syVmVHN040QWlOSDV1N1AtQk5uVGxjekthVmdJbFQ5UUZZemJlRWZyNndDU3A5Rzl2enpZOWtIOUFpMEZqN3VTREdtdw?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-09T13:26:24.550622Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "240a6227dbd16774bd7e6021",
+      "publishedAt": "2026-10-09T06:55:26Z",
+      "title": "DPRD Jatim Desak Komdigi Percepat Blokir Judi Online, Keluarga Jadi Korban",
+      "source": "Pikiran Rakyat Kalsel",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQN0d1ZlBESHU1WV9CWGJYdWY3ZUU2UnBwUmlZUVJJUlljUUotSURBWE5DS04wN0RUcmRweEdlVGEyTnpVVWhZNUVkT012Z2ZiTWxpcTJTMUJ1dTJCdkdJS3QwRE1YSGZMV2hGRkRsSjA1Z2tGRTZJNm9xSnprWGc4alctRlU0dEx6R0t2aDlnLUQ1bUVkcUNhQXJNdHZlUldrZEZ2bURyRm1SNHgwSE8zb0pGazFPVlVITWNsT2l6Wm5FT1o4N2lsdm1aVnJaZG5ZbHQzTTFoUmV6d9IB2gFBVV95cUxQN0d1ZlBESHU1WV9CWGJYdWY3ZUU2UnBwUmlZUVJJUlljUUotSURBWE5DS04wN0RUcmRweEdlVGEyTnpVVWhZNUVkT012Z2ZiTWxpcTJTMUJ1dTJCdkdJS3QwRE1YSGZMV2hGRkRsSjA1Z2tGRTZJNm9xSnprWGc4alctRlU0dEx6R0t2aDlnLUQ1bUVkcUNhQXJNdHZlUldrZEZ2bURyRm1SNHgwSE8zb0pGazFPVlVITWNsT2l6Wm5FT1o4N2lsdm1aVnJaZG5ZbHQzTTFoUmV6dw?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "sensor_konten",
+      "subclusterIds": [
+        "sensor_konten"
+      ],
+      "matchedQueries": [
+        "Sensor Konten"
+      ],
+      "collectedAt": "2026-10-09T13:26:24.550622Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "d4770fca273f4fc4e500597c",
+      "publishedAt": "2026-10-09T05:22:31Z",
+      "title": "Tak Sekadar Masalah Tata Kelola, Komnas HAM Ungkap Pelanggaran HAM di Program MBG",
+      "source": "indoposco",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNX21YeUtWRzhiOWdzbnJuSW5HYWpjT1F4RmpnNnBmcW5WV0FyVVR4WHl1eE1sWHltWU9RaUNBanBnY2tIVjJkQ21rWm5JM25rYjN2M0xHTVRUZlNUVHFDUXpGZUp6WlFfT2s1UzhuZjBIdHdQYjlGVHVIWjZwdDlLZmZNNGhTcXRqY0NMU0hNTE9SaW91TFVremlOLWl3UEhJMGc1eE5IakdHVVZCeW8yakg3VQ?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-09T13:26:24.550622Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "51379bbdaa50313da9d89829",
+      "publishedAt": "2026-10-09T04:44:50Z",
+      "title": "Berakhir Pekan Jangan Lupa Cek Prakiraan Cuaca BMKG Hari Ini, Jumat 9 Oktober 2026: Tanjung Selor Berpotensi Hujan Petir - Detik 60",
+      "source": "Detik 60",
+      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQQ2pEcEl6QjM1T1M2d3JVN3BYdmdGZDc1ZFVVOWl6Q216TmJFZGlXMG01aVZiRE1iMUktNVYycG5KVHljMU01VmdlWmNjd0lwU3NNOUtPQlhyVENpbV9TUlI1RnlZemUzeDZKaU93TU9pcC1kc0dhNjVOb0hOb3BwbzFJSWFIOUxjYlhSRzNxRFMtWnBYQ3RQQ3BpXzNyQndINVN2NDR2a3ZWcWh6ek50dDZ6R1IzVTJ6b3pUMnhnSmVLNU9yXzg1U3p6QXpFb01rdGk4OW02eXEwdFdyOENEWUJ5RXpFZlhtSkU0WjFhM3o5cGUtS0HSAfsBQVVfeXFMTXBXUzB1Q2NyWTU0XzBpeVhzNWMtSU9HOHRqSWJKUWM4X1dqY21vN1FXMldiYlJObzNGWjNIdTQtOWZYb2lSc2s2Vlpzdl91NVVRam1vNVplYkV2elhfcXJNdUFnYUJvak5QMG95UmtYMzRaMWVrMjhDZ3ljb1NXVlZPdUQxa21OU2hmYzFTNHlpenE2WHZySlZqSTRGSkZsVFVUZmFqTFhoNHFqVGRsY2pKVVB2MnZjWFBfaHlqUkJ3RVM4a3Y3b2ZVbzlac2xoamRsNTI1UHEtaWxWV1l3NnR1cG91dmFpRUpmSnFkZlA5YmFBTEVpZUNjU28?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "doxxing_intimidasi",
+      "subclusterIds": [
+        "doxxing_intimidasi"
+      ],
+      "matchedQueries": [
+        "Doxxing & Intimidasi"
+      ],
+      "collectedAt": "2026-10-09T13:26:24.550622Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
       "id": "d4dd34359e40d920ffbe6c7d",
       "publishedAt": "2026-10-09T03:53:00Z",
       "title": "Pemkab Sinjai Serahkan Teknologi Pengering Cengkeh Berbasis IoT di Desa Kanrung",
@@ -200,6 +338,29 @@
         "Kebebasan Berekspresi & Berpendapat"
       ],
       "collectedAt": "2026-10-09T06:14:27.724853Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "03556ea576088e215e4e0ccc",
+      "publishedAt": "2026-10-09T00:35:00Z",
+      "title": "Pesan Wapres Gibran: Jangan Mudah Terprovokasi - Harian Terbit",
+      "source": "Harian Terbit",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOX2JQWGNoUVZqZi12VVliT2k3QlhWYWhBdG56X1pvRXBRUUsxNEFDLUFXU2tQX2lZbTZmRHlkbHN1bTRwUV9XQUswOVZIT1JSSGFhUnpCSDBhcWs0emZiMDZLTWRfLVUwaDZ4WXpHRnMzUW14THF2T2R4UXdKS013QWRwcmhvYVdUVU1EZ0Y1ZlI0WW9GSWw0X05pcXZpanVPMVHSAaIBQVVfeXFMTl9iUFhjaFFWamYtdlVZYk9pN0JYVmFoQXRuel9ab0VwUVFLMTRBQy1BV1NrUF9pWW02ZkR5ZGxzdW00cFFfV0FLMDlWSE9SUkhhYVJ6QkgwYXFrNHpmYjA2S01kXy1VMGg2eFl6R0ZzM1FteExxdk9keFF3SktNd0FkcHJob2FXVFVNRGdGNWZSNFlvRklsNF9OaXF2aWp1TzFR?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_berkumpul",
+      "subclusterIds": [
+        "kebebasan_berkumpul"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berkumpul / Berserikat"
+      ],
+      "collectedAt": "2026-10-09T13:26:24.550622Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
@@ -320,6 +481,29 @@
       "reviewNote": ""
     },
     {
+      "id": "0eecbb9f58e477db420a9a69",
+      "publishedAt": "2026-10-08T15:45:41Z",
+      "title": "Pemkab Aceh Barat Apel Siaga Bencana",
+      "source": "AJNN.net",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5fVmRMbWYxcUhhdElpYkxVdUEtZVFvNkF1UjVNT1ZQZmFleVI5WGpJNVE3Qklod0VxZnZrS2Y4YnZhMnJ2MVlxSUc4Tzg5OTY1MzhfVTRQbEFlajBpajBBdm1qN3dVOHhab3hvZnQtUHBwZDVhWXdNaDRzY9IBe0FVX3lxTE5fVmRMbWYxcUhhdElpYkxVdUEtZVFvNkF1UjVNT1ZQZmFleVI5WGpJNVE3Qklod0VxZnZrS2Y4YnZhMnJ2MVlxSUc4Tzg5OTY1MzhfVTRQbEFlajBpajBBdm1qN3dVOHhab3hvZnQtUHBwZDVhWXdNaDRzYw?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-09T13:26:24.550622Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
       "id": "3e6f6fc7577ab7acab9c5aa5",
       "publishedAt": "2026-10-08T15:30:57Z",
       "title": "663,7 Hektare Sawah Aceh Utara Belum Produktif Pascabanjir",
@@ -338,6 +522,29 @@
         "Kebebasan Berekspresi & Berpendapat"
       ],
       "collectedAt": "2026-10-08T23:23:49.716250Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "4832587d4525d6b4c71ff285",
+      "publishedAt": "2026-10-08T15:12:38Z",
+      "title": "Muncul 449 Dugaan Kasus Keracunan Akibat MBG, Komnas HAM: Perlu Perbaikan Struktural Tata Kelola!",
+      "source": "news.fin.co.id",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQQXYtRDRTRmx6LVBqMURudzlNbnNqek80TXM2aVBERFpxMk1fR2NwUDhaYko0cWFZUmYwZk04bjZDX05LNDdUZGJJbzRCLW84cFNmRm9wZ3ZLZlhEcVBXRnhDRk0wWkRQX1lULVVNaG9UcmdxSkJsUFIwOW9xUV9CU3dwY0tTdkZYREVYcnpFNGtlUU4xaEZ3aHdGRjF3SGZHYi1JWVB5UnhhT0xoODR5Q0tOTmRKSFdIZFJVWXpDdXdjdHRNbTNLVnhkWmU?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-09T13:26:24.550622Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
@@ -642,6 +849,29 @@
       "reviewNote": ""
     },
     {
+      "id": "d01a5a92b969da066a0832f6",
+      "publishedAt": "2026-10-08T05:57:05Z",
+      "title": "Komnas HAM Temukan Pelanggaran HAM Sistemik dalam Program MBG",
+      "source": "Media Indonesia",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNQUp1TjZTVUYyMG41SjIxay1YMHpaRVhYcE8yQ1FfMGpxY21oZk1xQzNON2xtREo1dTUtUE9tbTB6X2lXVUNRaTRIZnQ1em9FZzJTNGlPYzZldldfVjI4X2ZLQzFlaXhuVXdNX19MTFhyemQ2anBvZjI1c3otSnlKYmFid2xEdWJ4RkFfdl9wRDQyOFg2ekkwYklmcnVxYzNCc0h5U1lZX3M?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-09T13:26:24.550622Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
       "id": "e4caab2fac3ff90950fc1539",
       "publishedAt": "2026-10-08T04:03:32Z",
       "title": "Diteror Foto Asusila Editan AI, Wanita di Gresik Menangis Histeris di Depan Kapolres",
@@ -729,6 +959,29 @@
         "Kebebasan Berekspresi & Berpendapat"
       ],
       "collectedAt": "2026-10-08T13:36:19.754086Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "9c86c49fd4d992ce09f4a1fb",
+      "publishedAt": "2026-10-08T02:40:28Z",
+      "title": "Pemerintah Bersama TNI Tegakkan Komitmen HAM serta Profesionalisme demi Keadilan Masa Depan",
+      "source": "beritanasionalupdate.com",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQM09rMHNtLXdJWXNGbFZ2cEhRajVjR2RFWEdZNm93Y2FXY2sydzN1d0YzYktmYnlWVzBSSmVRaWFsSDF2SHFtMGxzTWdsUlhScmMyYVNwVFVVTmhkYXk2WjI5Vk9XUHJQdGxvTzltaWdBVEl5OWstX1M1bFZJTWVhU1RqT19RN0czbHBpc3pDbGo0OU5Zc1VLakxiRlpscEc4VkM0anRQa2NkZk1SR2RuTV9wTjNjQlBqcWlrcExId1ktOFdmZmtNc2JIOENaa01nQ2FUd1Q5NkJSZw?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-09T13:26:24.550622Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
