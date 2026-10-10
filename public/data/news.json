@@ -1,15 +1,15 @@
 {
   "meta": {
-    "generatedAt": "2026-10-09T22:41:52.018827Z",
-    "lastRunAt": "2026-10-09T22:41:52.018827Z",
+    "generatedAt": "2026-10-10T05:57:38.225592Z",
+    "lastRunAt": "2026-10-10T05:57:38.225592Z",
     "startDate": "2026-01-01",
     "refreshHours": 6,
     "mode": "incremental",
     "feedsOk": 16,
     "feedsFailed": 0,
-    "totalStored": 2102,
-    "totalPublished": 2102,
-    "newArticles": 7,
+    "totalStored": 2107,
+    "totalPublished": 2107,
+    "newArticles": 5,
     "warning": ""
   },
   "clusters": [
@@ -136,6 +136,98 @@
   ],
   "articles": [
     {
+      "id": "3694fc5c634deb3a84940124",
+      "publishedAt": "2026-10-10T04:09:59Z",
+      "title": "Komnas HAM Ungkap 7 Masalah MBG, Ikuti Update Kasusnya di TribunX",
+      "source": "Tribunnews.com",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNUHE1cDFVUlA4ZkZzdXBKN1hnRXJRVUxkM090SUo2YnpUQl9Fa0JrRHV4c2Zqb3YwNDBtREZMMjhTNS1pUnhwNGlSRDlCa1NyZWJnWlJQSVE0ZTRuLXZNVjhFYmxIT1pycWdHb0h1dDY3UURQcTdoazVJY01RV3E3cEotRDVGVWlDZlZOQjgzN2NYUmtHR2ZRTGVWdnZ6ZnRPSFZDcmtvaWNpWjA?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-10T05:57:38.225592Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "67406b69ed247396d4cee563",
+      "publishedAt": "2026-10-10T02:52:03Z",
+      "title": "Jubir Wagub Kalbar: Keberatan Atas Penggunaan Foto Tidak Boleh Langsung Ditafsirkan Sebagai Pembungkaman Kritik",
+      "source": "Media Kalbar News",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOZHNDU0M2c01wZmlhaXZrbEV6SzhXelI2aERxYlktVWFvaXNNQTlMSElQc0RYeURsLWRCMG14UVJjZVdwSmFkVVcxZ3g5Mm90MEVBSi1TMWtCeHM3TU5IaHZpRzhmS25BNmtLSlpGUUZGdU9MNjgyV293VWhhSF94dGdQOVdqZWNQbFZQZUhqbWtSdHJORlJWeEVkTC1JU1VvSzFDUzVBS2pBWnNmUXl4ZWtjOTRpM3dsMWN6b0ZnSy1nRkNfbzh3S05RcHVXYm9qZGRMTmJDTG5kZ2c?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-10T05:57:38.225592Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "cfcd51154f62b90608b529a0",
+      "publishedAt": "2026-10-10T02:51:00Z",
+      "title": "UNIQLO x JW Anderson Fall/Winter 2026: Gaya Preppy Kampus Inggris Berpadu Nuansa Teater yang Bikin Look Harian Lebih Ekspresif - Suara Merdeka Jakarta",
+      "source": "Suara Merdeka Jakarta",
+      "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxPeXFYM0hvVEEzYlg4WTVQVDZoYmVSWUV4ZElsRWlvNzV4dDc4Wm5OTkdfNm1yVVJUQ1JsWTZjTVNwUGxJbnZhYXpuMXJaUHpOSzN4aXRZb2xIQmh3MWdYbFRFTzVTQTVqZWZQT2V2ekNvZVN2MHRQYm1SM011RVlncVQweVRRVjNkUWV3OHZBUGRkMEZOTjJuWW55OWtHNWFBOTQ1aC1xVWlCM1FZeW9ldEx2cjRlRUhGR2FCQ3dRZk1sU3Fhd21nRTRoSXBwYm5GT19mOUhDQnotNUplRk9OaTlWbGkwYzJGLXhOeGNxRWpWbnVzcEpSQXgzT2c1WjJ1Y21LM0RDTGtmQmZIVTdsRmd30gGSAkFVX3lxTE95cVgzSG9UQTNiWDhZNVBUNmhiZVJZRXhkSWxFaW83NXh0Nzhabk5OR182bXJVUlRDUmxZNmNNU3BQbEludmFhem4xclpQek5LM3hpdFlvbEhCaHcxZ1hsVEVPNVNBNWplZlBPZXZ6Q29lU3YwdFBibVIzTXVFWWdxVDB5VFFWM2RRZXc4dkFQZGQwRk5OMm5Zbnk5a0c1YUE5NDVoLXFVaUIzUVl5b2V0THZyNGVFSEZHYUJDd1FmTWxTcWF3bWdFNGhJcHBibkZPX2Y5SENCei01SmVGT05pOVZsaTBjMkYteE54Y3FFalZudXNwSlJBeDNPZzVaMnVjbUszRENMa2ZCZkhVN2xGZ3c?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-10T05:57:38.225592Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "c53a4ec018fd6b7c11e3ef66",
+      "publishedAt": "2026-10-09T22:37:00Z",
+      "title": "UNIQLO and JW Anderson Fall/Winter 2026: Ketika Tradisi Bertemu Ekspresi Modern - Pontianak News",
+      "source": "Pontianak News",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPeTN6QWhBR0VsZXBtNjN6bEJzaUdTNDFyS2RBTFZXZXN3SnpldG44LWp1UXZLbVBHeWk1ZC1rZ29CaU1xalppeWNmTFJFNnU2N0ZvWGg3MDFVQjNvZmFaYURSeTdMSmY2Qkg5UHVicWlTVU9zOHduZ1RhcUQ1VjRjdWxNcGFPaWZxUEdLcEpsa0hzSjhrRDR5TWZHRk1DNVB4Y3NkZFFIN0Jxd1E3aHpBanJvVjNqb1BQcFl5T1hUSVJCTVg0Tko00gHHAUFVX3lxTE95M3pBaEFHRWxlcG02M3psQnNpR1M0MXJLZEFMVldlc3dKemV0bjgtanVRdkttUEd5aTVkLWtnb0JpTXFqWml5Y2ZMUkU2dTY3Rm9YaDcwMVVCM29mYVphRFJ5N0xKZjZCSDlQdWJxaVNVT3M4d25nVGFxRDVWNGN1bE1wYU9pZnFQR0twSmxrSHNKOGtENHlNZkdGTUM1UHhjc2RkUUg3QnF3UTdoekFqcm9WM2pvUFBwWXlPWFRJUkJNWDROSjQ?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-10T05:57:38.225592Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
       "id": "5e5e127e5716222b60b32979",
       "publishedAt": "2026-10-09T17:57:07Z",
       "title": "Kampus Bukan Tempat Memenjara Kebebasan Berpendapat, Majukan Perundingan Indonesia-Papua",
@@ -177,6 +269,29 @@
         "Kebebasan Berekspresi & Berpendapat"
       ],
       "collectedAt": "2026-10-09T22:41:52.018827Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "b565e68abc125e40f1ea61b4",
+      "publishedAt": "2026-10-09T15:18:12Z",
+      "title": "Batas Ranah Pers dan Ancam Pidana ITE: Ujian Kebebasan Berpendapat dalam Kasus Hermansyah",
+      "source": "Sinar Lampung",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQSWxWOTN3TVp4QklzZEphdGpSb2p5MkVFVjdubGVKQWtxbzBDRWhIMGI3WnhKR0todHpxSWl6dW55cDVpNG5jdUZILThTS2tpNXdISGJ0d2dSa3kzRzcwc2hsNy1fVEdxUDNFSEVDQTdxei1jSUcyOU5iZXREaDJwM0hocTZvOUE1dGc2dVpXOFR0U3B3NTNrU2FUR1ZZR2NCRVp1a2dwaFVYQmsyVkZ0VTd6MU5vRUwxaEd1dGJRLXJZQQ?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-10T05:57:38.225592Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
