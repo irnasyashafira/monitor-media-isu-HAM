@@ -1,15 +1,15 @@
 {
   "meta": {
-    "generatedAt": "2026-10-10T12:37:35.662361Z",
-    "lastRunAt": "2026-10-10T12:37:35.662361Z",
+    "generatedAt": "2026-10-10T21:48:11.217801Z",
+    "lastRunAt": "2026-10-10T21:48:11.217801Z",
     "startDate": "2026-01-01",
     "refreshHours": 6,
     "mode": "incremental",
     "feedsOk": 16,
     "feedsFailed": 0,
-    "totalStored": 2115,
-    "totalPublished": 2115,
-    "newArticles": 8,
+    "totalStored": 2125,
+    "totalPublished": 2125,
+    "newArticles": 10,
     "warning": ""
   },
   "clusters": [
@@ -135,6 +135,190 @@
     }
   ],
   "articles": [
+    {
+      "id": "fef750b44fb3059ceb58402b",
+      "publishedAt": "2026-10-10T17:10:00Z",
+      "title": "Komdigi Perluas Pemberantasan Judi Online hingga Aliran Dana",
+      "source": "RRI.co.id",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQUFdMSTFGRjZjVUNVQkdXMDZyUDFJRE9OckNScFJqQ0NlZEVsZ01yVGswWXhkWktMTEZ2d1l0a3lzMDd5R25ObHd6UUVLTnBrWWJ5Q0piQW5oaGxqTW1xT293UXVtQngzQy1nUVhtWTloYmxRdWkzLU55S1lOLTdGZm5CcTFUNDA0aHA1ZDJtLW9BeHdYTDZQVkpxWEZaOGJBM1dB?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "sensor_konten",
+      "subclusterIds": [
+        "sensor_konten"
+      ],
+      "matchedQueries": [
+        "Sensor Konten"
+      ],
+      "collectedAt": "2026-10-10T21:48:11.217801Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "916ed9e4d2700c536792574e",
+      "publishedAt": "2026-10-10T16:28:00Z",
+      "title": "Data Kita Bocor, Judol Mengalir: Kedaulatan Digital Tak Cukup Slogan",
+      "source": "Kompasiana.com",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNaEx6VC1TbV9TRk41THhUcTlTZm5YaXRfa25CRGtmN2lQY0N4QjFyUGxWUzYzb3c5R2k5UDdLVEpWeEUtSU1pODFRNzdBejY2SWU3a19RUmJkcEpHNXZDckJhMEI0RGNOS2NGbnkyZHNvdHBucktUMDVTdGV2d29URzFSNXBkWHFJcFpwRkdUSi1GSXpCbnZyRHBEOGtMYnFxcHBCUHd0T2Q0bU8wbGxQckl4UmN1QVpIMXZpWWdZaXRMc25JaXdN?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "sensor_konten",
+      "subclusterIds": [
+        "sensor_konten"
+      ],
+      "matchedQueries": [
+        "Sensor Konten"
+      ],
+      "collectedAt": "2026-10-10T21:48:11.217801Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "900b46cc6c1d158a553b50c9",
+      "publishedAt": "2026-10-10T15:54:00Z",
+      "title": "Demokrasi di Ruang Digital: Kebebasan Berpendapat atau Sekadar Perang Komentar? - Bengkulu Network",
+      "source": "Bengkulu Network",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNeUJZS2RudjRLbjhwbncxTGtCT241ZjgzaHpkSnR2SEZ0ZklydF94d1h3YnhzU29LRnhXTHBzNGVocUZBVnFKanl2LVh5bzZrQlcwYzdmd1dWVFFENm9FMHJkaW1Bc3RvR1UxdjNmeHZfdkV4MnMxWnF4UjlDSHlIbWhNMnBwZTNQbENsd2NQR0pDcEozNlBPWVRGcGJodmhlcmlQb0xjSjU4LWdxQmsyNmFrYVR0ZkdibWVFNGJncFBRd2RhTHdBUlFn0gHKAUFVX3lxTE15QllLZG52NEtuOHBudzFMa0JPbjVmODNoemRKdHZIRnRmSXJ0X3h3WHdieHNTb0tGeFdMcHM0ZWhxRkFWcUpqeXYtWHlvNmtCVzBjN2Z3V1ZUUUQ2b0UwcmRpbUFzdG9HVTF2M2Z4dl92RXgyczFacXhSOUNIeUhtaE0ycHBlM1BsQ2x3Y1BHSkNwSjM2UE9ZVEZwYmh2aGVyaVBvTGNKNTgtZ3FCazI2YWthVHRmR2JtZUU0YmdwUFF3ZGFMd0FSUWc?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-10T21:48:11.217801Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "041d4a20f24d38fa309bcfbe",
+      "publishedAt": "2026-10-10T15:28:11Z",
+      "title": "Dua Dekade Lebih Reformasi 1998 Menakar Peran Rakyat dalam Mengawasi Kekua",
+      "source": "Kompasiana.com",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNZFJyOG1adTNZQkRkelhnQkxHRkU0ZXo3bEJvUnFaWkVMM3dsNko5WTBBc1o0QUpIVjczcC1JZnhPR3IzdDZLV0ExNWdZUkVuNUVSd1VIekIwUVFOemROcTF1MmJZZEwtelN6TlJqWjl2d1FFcGQ4MldHR3JBZnhOUGxVMURvZkFOeVdhVF9VNGlZaTNDelRTajlST2I1RTBUU2VPT09raGFwTVBjN1p4TzZyS1hndFJfbGNmaW50a08xaTFrbl9xVkFzR3NQUnBYVXJud0hNMA?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-10T21:48:11.217801Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "0cd15395b3e1e4468f17ee86",
+      "publishedAt": "2026-10-10T15:04:44Z",
+      "title": "Literasi Digital Diperkuat, Komisi I DPR RI Ingatkan Pentingnya Etika Bermedia",
+      "source": "TEROPONGSENAYAN.com",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQOVhIb2NxXzF2Wk9ZN1h2M296Y2xVNjlwN2lFMm9fNlBHNzZwUnJhQlNhS09EYThVMTNTS1Z0YWxjc3BFZGlFa2E2MUpVU2hqUEo5TUlMcDhSek81bWF5UGNyelhfMThkOW92OWRzbHpXa3BkODY4NkZ4Y0lTODRUOEhOSHU0Y1luaXg5Q1BNSndQdUtrVXFDWElQek91YlZiQXRtalRsWUUwRmYtTFBVX0FnSFFRQlk?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-10T21:48:11.217801Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "f068840ba92402f720b672e4",
+      "publishedAt": "2026-10-10T14:59:42Z",
+      "title": "Etika Digital Kita: Ketika Jempol Menjadi Cerminan Warga Negara Halaman 1",
+      "source": "Kompasiana.com",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQeUx3X05wQXRHaGdMdXMzMjMwQkxvSWtjWDRNQ19aanRkYXBGTFhfcHBZc3h6dGtsSkptc0l3VGhFWUFHcnNYLXI0Y2ZzX3FOcXFlUjFRN0tMNWlud1JaeEI0aFFaNEREVzk4VkllTFlXYV9vZjBlelhKNUp5SV9uaUR4Zi1GNFU3XzkzSm1uYXdid2pOUTNmS1hIYUdFMzMzbEpfbW1zRHFzc1VJQlFjdHlRLW5qYzJsVFJhVnFIUEpoUkN1ZnpWeDkwbTU5UjA?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-10T21:48:11.217801Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "54141c0dbd92529e3e9df17c",
+      "publishedAt": "2026-10-10T14:00:00Z",
+      "title": "Akses jalan yang terhalang longsor di Pantai Selatan Sumatera Barat berhasil dipulihkan",
+      "source": "Banda Sapuluah",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPdWREX1MzYXJjVk1MRHRfdmF0YnRpc2J3ZTVydkNoTHl0b3g1VnZmZXN3RVdpczIzVGl1VzZiVlpsaC1YNWk4aHR5YjBQTExmNlRydGpTS0ptLUk1T0MtOV9kR1V6dFVVLXctQ2lwVmtIVVkwUHRDcXZaN3NMNjlXbjNRdWNaYUNQZ0F5endnaUZ5WlJLeUM4LWF2Y284a0FqQnlVbTBHVW9WTTlmYmdJNUVMWVdUN2ZhSDhRUkRqVklSYVU0RlgzbEZEV1Y1bXQ3VTRic01PMFhmNUJfWFE?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "doxxing_intimidasi",
+      "subclusterIds": [
+        "doxxing_intimidasi"
+      ],
+      "matchedQueries": [
+        "Doxxing & Intimidasi"
+      ],
+      "collectedAt": "2026-10-10T21:48:11.217801Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "eb505ceddb23c4c92e040059",
+      "publishedAt": "2026-10-10T13:25:33Z",
+      "title": "Memblokir Situs Saja Tidak Cukup untuk Menghentikan Judi Online",
+      "source": "Kompasiana.com",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNcjVacWlhcGQwUVB0amZuQmpzdjBuYkVVWlp0NlFIUkktTllZOXI2OWphckxRM2JUb0wzM0RFaG1rSXVZOEhQRWR5Tjg2WWFJdmQ5aHN4d05NVDR0UUlpdFBnNnVmR1dEZWlybGk2M1ZVbUFFZUdXcEp2TXNDTG5BSDFFZTQ5Yk51cjRZN0FDaUloR2R5NE5PU2JORVFlMGYyVDdpWXh1ZDB1WWdGZUJGVHhFdE9Cdy1aR29uaDhHaGlEYTBMQk9Ba3lEaW5ubHZjbmRsNWVfMA?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "sensor_konten",
+      "subclusterIds": [
+        "sensor_konten"
+      ],
+      "matchedQueries": [
+        "Sensor Konten"
+      ],
+      "collectedAt": "2026-10-10T21:48:11.217801Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
     {
       "id": "d2a821f373dde3c9c2f48d39",
       "publishedAt": "2026-10-10T08:07:32Z",
@@ -338,6 +522,29 @@
         "Kebebasan Berekspresi & Berpendapat"
       ],
       "collectedAt": "2026-10-10T12:37:35.662361Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "f670c3a70ca6d3504c8f01b3",
+      "publishedAt": "2026-10-10T00:02:00Z",
+      "title": "Film Laut Bercerita Hadir di Bioskop 29 Oktober",
+      "source": "RRI.co.id",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNTms0bzZGMERuSkxqNEZHYW53UF94LVNqWXAwdk1lTllvSmhvS2JKUWM1TWttVS1zdnNSUXBwemFhdEJJZ0czQ1VXaUhQRzN5R3NlaTlab1VwRk9ybWJPUFJhcENvdnFLNTlVR1MxYjVRRlRYeUVoRE5uN01OckNKVHM1TkhoUENDV2lCYWpRSnpuRFE?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-10T21:48:11.217801Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
@@ -1304,6 +1511,29 @@
         "Sensor Konten"
       ],
       "collectedAt": "2026-10-08T06:11:04.379517Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "a54d5c592aa84256907f889b",
+      "publishedAt": "2026-10-08T03:44:00Z",
+      "title": "Situs kena blokir Komdigi, pemain judol kini tak berkutik",
+      "source": "ANTARA News Jawa Barat",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNanAydE96bzZTa254M3A5Ykd1NzZVTGU5UWc5RXNfV0JyYnVTbU84V3dJenFTOUYzMlFaVl82cF9qNWc5Nzk2V1NpMURtRG1xRkt3RXZ5ODFscVBGMnlWbVpXM1pTU25oci1vNGdZOGJKa3lrSFA0YXZILWMtSVJoM0pkM1REU0Z1a1ZuOE9ZS1VlUTc5b1g0OERqb0I0NGV3?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "sensor_konten",
+      "subclusterIds": [
+        "sensor_konten"
+      ],
+      "matchedQueries": [
+        "Sensor Konten"
+      ],
+      "collectedAt": "2026-10-10T21:48:11.217801Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
