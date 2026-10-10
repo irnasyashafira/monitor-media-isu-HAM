@@ -1,15 +1,15 @@
 {
   "meta": {
-    "generatedAt": "2026-10-10T05:57:38.225592Z",
-    "lastRunAt": "2026-10-10T05:57:38.225592Z",
+    "generatedAt": "2026-10-10T12:37:35.662361Z",
+    "lastRunAt": "2026-10-10T12:37:35.662361Z",
     "startDate": "2026-01-01",
     "refreshHours": 6,
     "mode": "incremental",
     "feedsOk": 16,
     "feedsFailed": 0,
-    "totalStored": 2107,
-    "totalPublished": 2107,
-    "newArticles": 5,
+    "totalStored": 2115,
+    "totalPublished": 2115,
+    "newArticles": 8,
     "warning": ""
   },
   "clusters": [
@@ -136,6 +136,98 @@
   ],
   "articles": [
     {
+      "id": "d2a821f373dde3c9c2f48d39",
+      "publishedAt": "2026-10-10T08:07:32Z",
+      "title": "Intimidasi, Tekanan Ekonomi, dan Intervensi Penguasa Mengancam Independensi Media",
+      "source": "BandungBergerak.id",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQd2xsWEZ1UEdxczUzTGVKVldSdUs1a0VwNzdOR3VRQzRseWFWY2hsdEIxN0xlWVZmV21Sel9NVDFEMW0xYmQwTlgtbEFUMU5YNkFwcDBkVnBsSkZkRGVxWWpNU1ZxSzN5WHplTHEwVTVGeGdmdTNvNTlfY0RiOW54QnhWVmh2ajNKNmtqUHVpYnRjZEUxVFJqSXBkblRZYjAyd3dGbHd4TTZheEkyc0ZVSTF1RkxtM2hTUUZMVEVqY3d0R1JfLWJLSGpaZ3E?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "doxxing_intimidasi",
+      "subclusterIds": [
+        "doxxing_intimidasi"
+      ],
+      "matchedQueries": [
+        "Doxxing & Intimidasi"
+      ],
+      "collectedAt": "2026-10-10T12:37:35.662361Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "c65207b1a95164ef7ee8d7e7",
+      "publishedAt": "2026-10-10T07:21:00Z",
+      "title": "Kebebasan Berekspresi Jadi Ruang Berkarya Indonesia Sketcher Makassar",
+      "source": "RRI.co.id",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNNDZ1S0xOYkN2eXNRR3dfUklfZmxRUGxtTW85dzhnTGtHbXY5QzB2X28zZ0tLMFFNZ0I0azVvRlcyNlRfSFpZaWY0WFBrQmRxc2xNdHM0WURqNWZBSlY4dkV6MHhRLTZ0aWRlZ1U5LTRJdVpmRDBha2JSUzlJLWJzVV9ZN054SWItOHQtVmJiaEFVekJRNXFtOENuUVBXMjZhV1Y3Wk5oUGJGUzFWeHRXYjk0UQ?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-10T12:37:35.662361Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "a7f2ee45487a3e66577c0ca5",
+      "publishedAt": "2026-10-10T05:29:00Z",
+      "title": "Terima Pengaduan Jurnalis, Polda Banten Siapkan Langkah Penyelidikan",
+      "source": "Sambar.id",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1QdWFrUVlnZ240cHhwcjdWbURNMkRIbGlVRDk5djd2SWNQQ0V4cW9BTWVtM3ZCUWRjNVFuNmlfZHB0Zk14dTJjZENaeFVLaFd5Rk5kQjFXNDNOWk44WkJMN2NObDk0U3FvTnpSME1ucm42cE04TjJWTy1oNFRCZw?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_berkumpul",
+      "subclusterIds": [
+        "kebebasan_berkumpul"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berkumpul / Berserikat"
+      ],
+      "collectedAt": "2026-10-10T12:37:35.662361Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "e5dd0e3a6c9e9a417fd7d9d3",
+      "publishedAt": "2026-10-10T05:13:00Z",
+      "title": "Polda Banten Buka Ruang Pengaduan Jurnalis, Penanganan Dipastikan Transparan",
+      "source": "iNews.ID",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQVTBKUlFvT3pIZDNfTkNJX0xqMzQxMWZ1NFg5cTQwWWhGM1d3dzBrSURPYjltdEp6YjVjNjdxSGkxVzBhc3pqU0hmVFFoN1NIS281N0tRQnZmMEt5TmVHdXJoSE4teGM4Q2EtYnpMLWc4a0U2b2tuWVVodmxiTjJQWnJ5MllpdnhNU1VYaVJUblRGXzk4azh2ZWhVOGpNQ0ZZcmtzeDRhaTg1RHdtLXNV0gGvAUFVX3lxTFBVMEpSUW9PekhkM19OQ0lfTGozNDExZnU0WDlxNDBZaEYzV3d3MGtJRE9iOW10SnpiNWM2N3FIaTFXMGFzempTSGZUUWg3U0hLbzU3S1FCdmYwS3lOZUd1cmhITi14YzhDYS1iekwtZzhrRTZva25ZVWh2bGJOMlBacnkyWWl2eE1TVVhpUlRuVEZfOThrOHZlaFU4ak1DRllya3N4NGFpODVEd20tc1U?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_berkumpul",
+      "subclusterIds": [
+        "kebebasan_berkumpul"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berkumpul / Berserikat"
+      ],
+      "collectedAt": "2026-10-10T12:37:35.662361Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
       "id": "3694fc5c634deb3a84940124",
       "publishedAt": "2026-10-10T04:09:59Z",
       "title": "Komnas HAM Ungkap 7 Masalah MBG, Ikuti Update Kasusnya di TribunX",
@@ -200,6 +292,52 @@
         "Kebebasan Berekspresi & Berpendapat"
       ],
       "collectedAt": "2026-10-10T05:57:38.225592Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "3a1c45643c1d3ebcc62d70d1",
+      "publishedAt": "2026-10-10T02:37:00Z",
+      "title": "Menguji Doktrin Mens Rea dalam Kebebasan Berekspresi: Pertanggungjawaban Pidana Penyebar Informasi Tanpa Fakta",
+      "source": "HarianSIB.com",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPQzczSzVvMzFNWXMxSjNFVWRtVzVxRmlFN1ZHbF9vMlVwWnpRdUlKN2pXZDZiTVNGNnV1NVlVSEkwVW9DaVo1a2dZOUIyQ2NMZEVUUVlZRXF0bGdZb3Z5ZWlZNWpJTnBUTEptdU1maGIxdWxIdWNuckdlRGlxdDFQSlVSbkQzYXNqQjg1V3ZGUkd2bDNqN0ZnQW9ZaUR4aU1DQWJNY0JHb28zYnByX2tvRjdzcnJIMmV3ODdmeUFLUlJuYWJXaFNxWG1ZclJwY20yc2VZLWhIM2VkaElrWkp6LUhBa9IB4wFBVV95cUxPU3Y3YnpfNDlNd2xTaUdjNVU1SVlYTGdGY1FkOF9VNVVQNnU3MHZyVjhGN1lCa3dUXzJNV1FYZW05Z19lUUxLOHEtOVdnUllJSDJDaXRnd3JQVVBxaGw0b1N1Z0lDVFJRNmtZazdETTNkSkVSWTBPMnJSTjBPRHpGX3FoYkQyQXp3bFM4U082bXM0MHRKLVgtU1RieXpSY0Z2SXRvNkg1MUNhOU9jeTFCQnhfTFN0Mmkya2xncGw4MUlnQXMyMHgyZ3ROVG1naUNGWkx1VTVRRjYtMklPRzFydDFuaw?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-10T12:37:35.662361Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "15442cb71018cb583b23acf7",
+      "publishedAt": "2026-10-10T00:35:01Z",
+      "title": "Kebebasan Berpendapat Butuh Warga Negara yang Bertanggung Jawab",
+      "source": "geotimes",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQUjJpMHFyWGw5ZXpsV3VlY2JyX2Y4Qk9Zc01GZkoxclVnMWJ1cHVsMGlWb2FHZ2ZwcGFtNF9EWVQwVnQtZEpzLU10MWh4dzM0Umd4OFQ5TGxmN1o2NkJOZ1dUeHI0SExsRDVEWmJVM0tWSFd2cThMYjlfSjliOGI0cVprWm8tcXpzNG9sajhzcFdnT3Y2?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-10T12:37:35.662361Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
@@ -1240,6 +1378,29 @@
       "reviewNote": ""
     },
     {
+      "id": "c24171eb94f4f4ded1bcb47d",
+      "publishedAt": "2026-10-08T02:00:53Z",
+      "title": "Pengacara pers kolaborasi perkuat perlindungan jurnalis",
+      "source": "ANTARA News Bangka Belitung",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQLURCV3JERldvVmV1ZW9HcWZRaExTNzNidHZsbk9lLVVUZmdaNkNWNVRBT1A2OVB1UnJ1bUlpY3ltQ0p4VXVseEEtN0RJWWROZVdyTk0wZERzSWp4TWZrVEFpeURzaW5tdGNmTnlDS0lqQ1ZPQlBpWmFLSUdxMlN4Y3FYTE9RVGxubEhJZG9QaThxdnQtR3lGbS1uNDJrZUU4WUlNVtIBpAFBVV95cUxQLURCV3JERldvVmV1ZW9HcWZRaExTNzNidHZsbk9lLVVUZmdaNkNWNVRBT1A2OVB1UnJ1bUlpY3ltQ0p4VXVseEEtN0RJWWROZVdyTk0wZERzSWp4TWZrVEFpeURzaW5tdGNmTnlDS0lqQ1ZPQlBpWmFLSUdxMlN4Y3FYTE9RVGxubEhJZG9QaThxdnQtR3lGbS1uNDJrZUU4WUlNVg?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-10T12:37:35.662361Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
       "id": "3e4637f81c8af0cf978d7c42",
       "publishedAt": "2026-10-08T01:40:39Z",
       "title": "Guntur Romli Soroti Penganiayaan Terhadap Koordinator BEM UI, Diduga Operasi Terencana - GenPI.co",
@@ -1373,6 +1534,29 @@
         "Sensor Konten"
       ],
       "collectedAt": "2026-10-07T23:08:09.136724Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "234664f506b995adae79cb88",
+      "publishedAt": "2026-10-07T15:43:16Z",
+      "title": "Mahasiswa Demo di DANANTARA, Mengaku Diancam Dibunuh dan Tuntut Dirut PTPN IV Dicopot",
+      "source": "Teritorial24",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQS1dmd3locmF1bFRWTGdXTjJJc2d6UTZRUjF5VHI5ZG95SzlGVFBwVnhBZWhER29fc1FEVEZEZ3NzY01jNWxha3JjVk9rODl0aklXM2o5TDdHR2JpWlFNX1NfRkg1eVNTY05lTUYxYVJyQXU2RmhEZ3hEcGIyTkZ5N01EanZuQWhld0NLZG50S0JYeDF2XzN6cU02cHNPaFVUaFdPR1RkdmZrTmtmd1VF?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-10T12:37:35.662361Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
