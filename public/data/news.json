@@ -1,15 +1,15 @@
 {
   "meta": {
-    "generatedAt": "2026-10-10T21:48:11.217801Z",
-    "lastRunAt": "2026-10-10T21:48:11.217801Z",
+    "generatedAt": "2026-10-11T05:52:53.447708Z",
+    "lastRunAt": "2026-10-11T05:52:53.447708Z",
     "startDate": "2026-01-01",
     "refreshHours": 6,
     "mode": "incremental",
     "feedsOk": 16,
     "feedsFailed": 0,
-    "totalStored": 2125,
-    "totalPublished": 2125,
-    "newArticles": 10,
+    "totalStored": 2131,
+    "totalPublished": 2131,
+    "newArticles": 6,
     "warning": ""
   },
   "clusters": [
@@ -135,6 +135,75 @@
     }
   ],
   "articles": [
+    {
+      "id": "d3b41252a503832d3af4d6e1",
+      "publishedAt": "2026-10-11T02:51:14Z",
+      "title": "Kebebasan Berkomentar Bukan Kebebasan untuk Menghina - Bengkulu Network",
+      "source": "Bengkulu Network",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQclhkT2YzRl9HTUlDUU52Y3NDdzJGNlFUU1NDMzdYeDJVR0lHUFNUWllTZGU4eFhLNzBsTk91WFRpd2N1MTBWT05pUWMwVHgwRVBnV1VSOGc3NWNsdGZER081UFRUYUtxeEVwYzZZeE9sMDU5ZExNazJGR3pxVEV0cXo3QTBTakVXY05IWjZHcmxIZV91X3BOUkNVOTVjTlpBWnJR0gGoAUFVX3lxTE4zcmJLUmh5Qzg2QXBQZFFacDYtcFNTajV0ekhpcWg4Mmk0WjVDdG5OaVl4WE5VV1ZfZFVaeGZ3d3pIYWV3NjQxUGlSeHRhMVFmU2xUMW1IN0drdDdSaGJhakI3MEszNXo5b2dhWkczbDN6NEo2U3l4el81NWMwNDM3MFJpNTZKcFc4dkJaSU81aGdMR1ZJZ1RPd1lhdUE4QWozM2drdXctUA?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-11T05:52:53.447708Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "315fba1460e59fd4dcab0828",
+      "publishedAt": "2026-10-11T01:49:34Z",
+      "title": "Kebebasan Berpendapat di Era Digital dalam Perspektif HAM Halaman 1",
+      "source": "Kompasiana.com",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOaUhGM1l0Wm5WdWdULVEyU0FNWWpsR2tkeVIxWk8zZC1BNUJzRVNuWEVmVW0tYnZhN0VsaWowSmt2YmFVTGV6cUhMTjAzaUVfa3ZVRmlSSzAwZU5qV3h5RV9jeFkwRWtaOWV5SVdWUDJGcUJ1N2Z1MXp4enBRVWRfb0Y2ZTZsMWN6ZUx1RU1PWkFQN0ZCOEFNSnFzUndCZFVVYkR5QzZ1UDg5d3hEQmE0Q3hvTENUbWdXS2YxWGVkZlZOalZS?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-11T05:52:53.447708Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "b07212f4e5c7c9135d2e0879",
+      "publishedAt": "2026-10-10T20:29:50Z",
+      "title": "Pemerintah Tak Terima MBG Dinilai Langgar HAM, Tuding Komnas HAM Tendensius",
+      "source": "JEJAK HUKUM",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9kSXNuckQtZTNEVWtDRHRWUjJfUkNTVlo3Y0pHdTZPb3ZxQjA3eE5tbnZmUHBBNEI1TkU1SFhtZ29EU2RhVGdjaklyVVlVMTMyaUdnNFVlaWVCTjZaWjhmWS14OGM2RmVJby1vYV8tWWNmTHhvejZwb2NONmtJdw?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-11T05:52:53.447708Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
     {
       "id": "fef750b44fb3059ceb58402b",
       "publishedAt": "2026-10-10T17:10:00Z",
@@ -803,6 +872,29 @@
       "reviewNote": ""
     },
     {
+      "id": "62180f84431f3aa546744472",
+      "publishedAt": "2026-10-09T05:27:18Z",
+      "title": "Komnas HAM Temukan Pelanggaran HAM dalam Program MBG",
+      "source": "www.suaralandak.co.id",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE82VUtmOXlsY0l4UjBNVEh1a29oWFRtZTE3eDJ3UFJzSURJZWczTGhUNlhScmFqUy0zOXBEZzRnUTlNT25ONEotVUVfb2l5TTRpeE1LUmppWFRWX1UwZW9CdjU0TFVuQ2tOOGtORjQ2aXo0QQ?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-11T05:52:53.447708Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
       "id": "d4770fca273f4fc4e500597c",
       "publishedAt": "2026-10-09T05:22:31Z",
       "title": "Tak Sekadar Masalah Tata Kelola, Komnas HAM Ungkap Pelanggaran HAM di Program MBG",
@@ -913,6 +1005,29 @@
         "Kebebasan Berekspresi & Berpendapat"
       ],
       "collectedAt": "2026-10-09T06:14:27.724853Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "8e4361974f85ea3b31000251",
+      "publishedAt": "2026-10-09T02:10:00Z",
+      "title": "Metamorfosis Konstitusi Republik - Suara Merdeka Jakarta",
+      "source": "Suara Merdeka Jakarta",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNMlZvVU15TlFSSHlMSFU3bDVPUklXME5rY2dnNi1aUUVkU3R1Z1oyWXVXRHVtbnVrTDdNTTVZWWFDX2ZQYjZSVlFzZ3daclBUVmM0dzJzd09FWU9GMjJjT0tGM0hYOWJCY0VVSVZmSTg5c2hNdk1oUGJLSTRrLTR6bk45NGhid2VCN21CNmhFMWvSAZABQVVfeXFMTTJWb1VNeU5RUkh5TEhVN2w1T1JJVzBOa2NnZzYtWlFFZFN0dWdaMll1V0R1bW51a0w3TU01WVlhQ19mUGI2UlZRc2d3WnJQVFZjNHcyc3dPRVlPRjIyY09LRjNIWDliQmNFVUlWZkk4OXNoTXZNaFBiS0k0ay00em5OOTRoYndlQjdtQjZoRTFr?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-11T05:52:53.447708Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
@@ -1787,6 +1902,29 @@
         "Kebebasan Berekspresi & Berpendapat"
       ],
       "collectedAt": "2026-10-10T12:37:35.662361Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "7c5fd4d0e445d0757cdafdcc",
+      "publishedAt": "2026-10-07T14:43:16Z",
+      "title": "Saatnya Anak Muda Ambil Alih Linimasa dengan Kebaikan",
+      "source": "Kompasiana.com",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNYXgxaFFJQVVaSVFGYWZaZmpwcktVT3pSUFhJREhHUEhZR0JuQng5SkRlTW55ZXVIU1NTV21qMlVjUTdtME5KTWU4b1pwMklRdVlxZ05zOW5oYUR0c0xoMVUtZUxIQzdab3ZLNTJCb21yRG0tTW85X1ZPTnVoTkJWU2taeUZGczlGRDZNeU1DVVRMM0xLRkJacEw0am1iNEo0NG5UOG5md2FyWlFZWW9FajhlSGVKT1AwNVE?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "doxxing_intimidasi",
+      "subclusterIds": [
+        "doxxing_intimidasi"
+      ],
+      "matchedQueries": [
+        "Doxxing & Intimidasi"
+      ],
+      "collectedAt": "2026-10-11T05:52:53.447708Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
