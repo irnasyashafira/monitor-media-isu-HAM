@@ -1,15 +1,15 @@
 {
   "meta": {
-    "generatedAt": "2026-10-11T12:56:38.002095Z",
-    "lastRunAt": "2026-10-11T12:56:38.002095Z",
+    "generatedAt": "2026-10-11T22:01:49.547226Z",
+    "lastRunAt": "2026-10-11T22:01:49.547226Z",
     "startDate": "2026-01-01",
     "refreshHours": 6,
     "mode": "incremental",
     "feedsOk": 16,
     "feedsFailed": 0,
-    "totalStored": 2147,
-    "totalPublished": 2147,
-    "newArticles": 16,
+    "totalStored": 2153,
+    "totalPublished": 2153,
+    "newArticles": 6,
     "warning": ""
   },
   "clusters": [
@@ -136,6 +136,29 @@
   ],
   "articles": [
     {
+      "id": "e2dfc8048aff159a9b1bef9d",
+      "publishedAt": "2026-10-11T15:53:07Z",
+      "title": "Polres Tabanan Bubarkan Aksi Balap Liar di Jalan Arjuna",
+      "source": "Bali Portal News",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQckNTRnhfMzRuOWNZdGVkMnAtTlI1RjkzRDY5V0kwSDlMa21YU2NQVGtEdXNta3pLQXNkVGZHbFBDM0xESlFqS1NoODliS3FNcWQzbHdTMWY0SVJIU2lIZHFnVDJIMXNfSlNEelJ2UGVaZ0pCam5TUkpXQWNPMm9lYWZhSTl0c3VteG5sNXF4MVIxeWZNemc?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_berkumpul",
+      "subclusterIds": [
+        "kebebasan_berkumpul"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berkumpul / Berserikat"
+      ],
+      "collectedAt": "2026-10-11T22:01:49.547226Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
       "id": "93d68615dc5b7bd61aa73f35",
       "publishedAt": "2026-10-11T12:52:49Z",
       "title": "Tak Sekadar Ban Serep, Wamen dan Waka Badan Dinilai Punya Peran Penting",
@@ -154,6 +177,29 @@
         "Kebebasan Berekspresi & Berpendapat"
       ],
       "collectedAt": "2026-10-11T12:56:38.002095Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "02c9ef7187f45362125a3d66",
+      "publishedAt": "2026-10-11T12:36:44Z",
+      "title": "Jangan Bungkam Suara Kritis Mahasiswa Kalbar, Gerakan Mahasiswa Nasional Indonesia Desak Perlindungan Aktivis",
+      "source": "Media Kalbar News",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQeXJhak5NbkRTdXRQX2wyU1JRQl8tV3BsVWlRaUpLTG0wNmpRZVl5WFdaSVdwa18yWDNGaE05ZFI2dXMzdUQtaEVYXzdkaGFqN2t4NnlqMnFoTWNlSm5JQXZMZFNsTk9JTkdGOXlKa200WlFnb2pjNUpmRDFydWd3eE1HWjc4b09ta2lWeVJjd1BmUVNpcHJ4ZHBnZ0p1T2UxM0JDTE1FcnNmcU1ib3lpMTBVQ1VHTTBVV0FJWGE3cE15TUM1WmdUUTZqVnlkNjVjWGFJ?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-11T22:01:49.547226Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
@@ -918,6 +964,29 @@
       "reviewNote": ""
     },
     {
+      "id": "939d08c7cfb322cc8dc8b476",
+      "publishedAt": "2026-10-10T00:30:37Z",
+      "title": "Prakiraan Cuaca BMKG Sabtu 10 Oktober 2026: Hujan Ringan di Jakarta, Palembang Berpotensi Hujan Sedang - Detik 60",
+      "source": "Detik 60",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNc1JLRmNGWTRBQzZpcGlKY1lHZzVBOFl2MjdUV3JPTm5XOEM3bFo0clJwX2NGYXVTZmIyZV9fQXYxeHNqN3QwSkNreURfRWRrMEdTTXdXaC1XZVowWWpab0pJcVJVQy10UW9lUDczQzZVNmd4Y1oxT3JGZ0tHY3dJVDl6bm9GenlUNVhNdFNDRHN4ZEhEMF9lS25hTEl5bkY2M0RKQ3VUM1VMOTkweS1XbDBmNzk3Y3Z2RVdSUGx2S3FPUW9mRk5CVTVmbHVuMlFrdlMyU0hyaEPSAd4BQVVfeXFMTUNzUVduYnQwUDNqNDFQa3BicFRZc01CU2lXekVhQ2FKdG5FRlc3X3FzOGZpQTREY3h5NDJFaVlCTklyWWtXNFNCOFFQTmdGbWowV1pEX3JsOTRlTDgtVEhWcTZsYWtaVTVpZ2dBMTZvWWJWbzd4MnhvemtnZFJCOXhYb2FzWUJYUDVDOFA0bWtCUThqVVJ6TzlYZFhodkkwX3hKQlhnTEE1TDBDQ2QwTEk5TXZRUEpQTzU2VUZYZ2xQcjFyOFRLRmJmblVsVV9BRk1IdF9uS2VIdktmWHZ3?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "doxxing_intimidasi",
+      "subclusterIds": [
+        "doxxing_intimidasi"
+      ],
+      "matchedQueries": [
+        "Doxxing & Intimidasi"
+      ],
+      "collectedAt": "2026-10-11T22:01:49.547226Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
       "id": "f670c3a70ca6d3504c8f01b3",
       "publishedAt": "2026-10-10T00:02:00Z",
       "title": "Film Laut Bercerita Hadir di Bioskop 29 Oktober",
@@ -1534,6 +1603,29 @@
         "Kebebasan Berekspresi & Berpendapat"
       ],
       "collectedAt": "2026-10-08T23:23:49.716250Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "aa29e810ca8318ec032e53be",
+      "publishedAt": "2026-10-08T15:51:00Z",
+      "title": "Video: Komnas HAM Temukan 4 Pelanggaran dalam Pelaksanaan Program MBG",
+      "source": "20detik",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNbVQ4TXYxZFlnMlMxNDJfYjBkU2JvOXRjdDlPU2ZucGNEOG9QdFRTNUkyS2ExVW5PeTMxLWVpRlI0bmNvbVpKZkhaRTlydnphSWpTYkV1cjFlSF9CaWVhSHJLd3BmNVVOSG1MWC1KTFg3T2E2NFJZY3hrQW9aLW05SHhCbTlwamlCdFpkYlJrSlE5VlFnUGRXS21RTWdrTnFISUxxNEpGdjFLTUNocTZFX2VYX0RseEd2dkVLaA?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-11T22:01:49.547226Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
@@ -4202,6 +4294,29 @@
         "Kebebasan Beragama / Berkeyakinan (KBB)"
       ],
       "collectedAt": "2026-10-08T06:11:04.379517Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "e1777ddee9fca0f6b9918a53",
+      "publishedAt": "2026-10-04T18:12:48Z",
+      "title": "Polres Jember Tindaklanjuti Dugaan Penistaan Agama yang Dilakukan Kiai AA via Medsos",
+      "source": "VOI.ID",
+      "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9PVmVGeXJ2R1J3NXJyOHZLenZUbE5JdlBwNTQ0SHpxU3hqa2JLcjRYc2F0eWZZVWhFT2Fnd1ZSc1VPZ9IBQkFVX3lxTE9PVmVGeXJ2R1J3NXJyOHZLenZUbE5JdlBwNTQ0SHpxU3hqa2JLcjRYc2F0eWZZVWhFT2Fnd1ZSc1VPZw?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_beragama",
+      "subclusterIds": [
+        "kebebasan_beragama"
+      ],
+      "matchedQueries": [
+        "Kebebasan Beragama / Berkeyakinan (KBB)"
+      ],
+      "collectedAt": "2026-10-11T22:01:49.547226Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
@@ -37682,6 +37797,29 @@
         "Kebebasan Beragama / Berkeyakinan (KBB)"
       ],
       "collectedAt": "2026-09-02T11:23:57.013624Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "ed37170a6879f4a4951dea22",
+      "publishedAt": "2026-08-12T07:00:00Z",
+      "title": "Kecam Penistaan Agama di The Sound Project, MUI Minta Umat Islam Tahan Diri",
+      "source": "Kedai Pena",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQM1R2c0RPNTRVNG9xZEUwcTNsb3BjSUE0dEJzbXNPQ3NTU3hpQWJ3UGZGUGp1VG55RWxpdVVyenNjM0xrSGNfY19GaFJVUGMzOC16TkIwY1lYLWlla1daTldVYnRpZHJEZUM0ZWNhUF81YVlmOGhRTnhCWkdnNVp4R3BfUXhMYjdha3JrTkdta045WFhJb0pYMVdROU1Da3hJTGt3?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_beragama",
+      "subclusterIds": [
+        "kebebasan_beragama"
+      ],
+      "matchedQueries": [
+        "Kebebasan Beragama / Berkeyakinan (KBB)"
+      ],
+      "collectedAt": "2026-10-11T22:01:49.547226Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
