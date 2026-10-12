@@ -1,15 +1,15 @@
 {
   "meta": {
-    "generatedAt": "2026-10-11T22:01:49.547226Z",
-    "lastRunAt": "2026-10-11T22:01:49.547226Z",
+    "generatedAt": "2026-10-12T06:04:11.896124Z",
+    "lastRunAt": "2026-10-12T06:04:11.896124Z",
     "startDate": "2026-01-01",
     "refreshHours": 6,
     "mode": "incremental",
     "feedsOk": 16,
     "feedsFailed": 0,
-    "totalStored": 2153,
-    "totalPublished": 2153,
-    "newArticles": 6,
+    "totalStored": 2162,
+    "totalPublished": 2162,
+    "newArticles": 9,
     "warning": ""
   },
   "clusters": [
@@ -135,6 +135,190 @@
     }
   ],
   "articles": [
+    {
+      "id": "0f43735db5aff399ec6646b9",
+      "publishedAt": "2026-10-12T05:49:41Z",
+      "title": "Suarakan Antikorupsi & Mafia Hukum, Demo di Bulan Oktober Harus Tetap Damai",
+      "source": "Kompasiana.com",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOdTVQa3IwNEV0LUR2elNfQ1paZUxiRUFfNGRYZ0dtWlRsUjF2c3c5aDBqemd4c0tURDE4UnNZZHd0R1hQanBncnlXcjBUcS11ejM5bVVYWTFBc3RkZUNnWHBKcFhfWDBjWS0yOFM3bXV2a2c5SDg3M19iWWpqQ1BhcTg5ZjZfTTVJSEl0c0hfZnNNV2djVlJNMTZnM1Bkb09wMmZhTHV5bVQ5bWxqZE1naDhIOXVPekNudjA4d2VnNXh5bzBtQmZVc3o2UQ?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-12T06:04:11.896124Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "f6da77cd2200dc31ecbb1876",
+      "publishedAt": "2026-10-12T05:05:00Z",
+      "title": "Bersembunyi di Balik Kata \"Jokes\": Krisis Keadaban Digital",
+      "source": "Kompasiana.com",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNek1MRlR2aFZOM05FTHQyVWdtUHU1RXY4bnlVQ3c0YWtKR2FPdUhLdGxkTk5MUUVkR3c5ZC0wQ0NhWUR4aFFWVXVKajdkVGdZOEpScmxtUkZ6bnhuc2RQM2huUFFiaEx1TG9JMkRqN0p2VTRKU3ByNEw2NUFLaFZVUHNuN2d5SGg3eUhvUy1kOUlBbDc4dnJ2LUt3aW42aEcxSm56b2VpZWNFS3JpYkM0cGZ0eVBYZmI0RldzR3J1UlQ?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-12T06:04:11.896124Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "145c742cce3d2f51c1a06038",
+      "publishedAt": "2026-10-12T04:44:46Z",
+      "title": "Prinsip Kritik di Media Sosial yang Sesuai dengan Nilai Pancasila",
+      "source": "Kompasiana.com",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNZWJ2T3pHcDdDUktIdHBhYk5WY0twNVV5UllkeDBlMkRHOW5iQ0tLWWlEWjBWMVA3bm1jelpvSHpCZDBzWFRDZnJzVUgtb2pTUHp1eERNNE1aQ3VHbHhySk85NlhFRGl4bnVma0ZyenNWM1JoWDJoeXc2ZVRqUkFtZG0ybmZpMHo5TjhQU1lIRWRrSGZ4NHJicGhRaHhVVVQ4UFNFRXNLSHFQZzhRZ1I3VXVFWFhoYkZNanlKSllvWXNqMlRfeVRWa0VFeTJRYkZs?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-12T06:04:11.896124Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "c722f21dd57493aff1807c4f",
+      "publishedAt": "2026-10-12T03:01:13Z",
+      "title": "LBH Pers Gelar Konsolidasi Se-Indonesia",
+      "source": "Terasmaluku",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9malhfSGxfbUxyd3Blb3dnY0ZydmdsdUlwcTdtU1pqRXNFRVhIaDk0OTU2SVJaa2FzTFd0R0F6TTBVc1dIa19EaVpmTDF0bTdDYWRmeXNGZ1ZWdzhiUFZtVWs2SGkzbXBaRzVuN2FKY001dGtaRmVzY2JzdjR4Zw?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-12T06:04:11.896124Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "f84ecf264666f1ae27eee5d5",
+      "publishedAt": "2026-10-12T02:56:52Z",
+      "title": "Kebebasan Berpendapat di Media Sosial: Sudahkah Sesuai Pancasila? Halaman 1",
+      "source": "Kompasiana.com",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQdzh3eW1yV3VZSGFLX191V2VUY0hxN0hCSXhFOVZFei1SQmttM1BTM2VRNzNGTW4yandNN2RvSkN2NHJPVHNQUzVjaHEwbDI2UG94c3d5ZWY0OTVJMEhITTRPQTB2R2QyZVlQRW9PTGk4eEQ3QnJkSHBDbEliRXcyRXg4SnRHVWNvd2d1V3R2RjFLWjN5aWdjUXVVMXgzc3RaclBKb3JnMXlxQlhzTXVYZ25zOUNPcFB2RnE1ZjlQTG8wX1ZncDhVRkhoMERraEpP?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-12T06:04:11.896124Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "c5742518d0302ad69af2be8f",
+      "publishedAt": "2026-10-12T02:47:30Z",
+      "title": "Kehidupan Demokratis Masyarakat Indonesia: Antara Kebebasan Berpendapat dan",
+      "source": "Kompasiana.com",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPY25nVUhJcm1XbG13UXFhZWUwZl9FYXVwQjNtdXk4WnhJbHJZT1otZXhkUHI4Nmo5NVBPSDFXMllVX1pqMTk3eUMwR0lNYjVyZVpVVGp0djVRSlJFQVpkWFNIcDBfLUdhVWJpSjBSMVp4UnJJVnp5MmlNRXFCQmNXc2ptTnpIaHQwN3FPNUwyX3JzQ1FVdllTQ0MtMkVpS3F5clczWmNxVUlIRXI3OW9ULWVXaDhGV2g0QkNsN1FWOF8xcklBcWVCbkEtVVZQS3pkTE1XN3pxRWp2Sjg?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-12T06:04:11.896124Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "3ed22409a073ebd37ef0e13d",
+      "publishedAt": "2026-10-12T00:07:00Z",
+      "title": "Komdigi tangani 4,03 juta konten judi online, bidik aliran dana",
+      "source": "indotelko.com",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPRFBONkdXNmVvZElhODhaNjBEbnozcTdFVnJGY3J0bmhhUHI3c0Vqd3pRTDFETFlKUEZfc1FFNm1sc24zZktaUkMwVzhDZ1ZHRVh2cEVISlZGd2gtei1LTWZCWm1zOWdHMFo2R2o1T2RicFFOZGlJSGtwcl80MEJfTDBJVVR5Sk1hcDB3bU9rWEFURktnT1ViNE1JM0FjNXFsNDYyNEtR0gGrAUFVX3lxTFBhZG1Va1pQY1YtZU5aWGtZd1YxQ045NEdqczNtRWxtakZkdldDYmIwMlk5bGpLTzNhakNpeWN5VUNBRm9tb015NDVkaVB0XzBBdXJhZDNKc1ZDMkVaVkJiRjJrUC10VkR4NGRrTVZ2aVdFbkR2RVFXOXU2RmRnLWYzZVJxMloyel9uTmVsNUx2Z3lGZFUtMEctdFdQYUxHT2RHU2UzTzB2dUd0aw?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "sensor_konten",
+      "subclusterIds": [
+        "sensor_konten"
+      ],
+      "matchedQueries": [
+        "Sensor Konten"
+      ],
+      "collectedAt": "2026-10-12T06:04:11.896124Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "d20ff718542b09e0d43e5a5e",
+      "publishedAt": "2026-10-11T15:55:00Z",
+      "title": "​Larang Kritik Soal Kebondalem dan Tumbal Dana Kesehatan untuk Trans Banyumas: Kuasa Hukum Rakyat Cium Indikasi Maladministrasi Hingga Tindak Pidana Korupsi!",
+      "source": "Media Realita News",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQZ1AxVVlfRmNweG1fRF9OeFdZbVRFOVM4aFNwQV9oaVk0ZWlOSlh5VncxT285SC1MRzViWEJXMlVUbURKUzJ3d2l1RE52YndudjJoaGlSbC1YRTdzOWtNOFJVcGZKajh6enJqSmRySjVkZGZ2QW5MV2paWi1lZjVoaTYxTVVOQQ?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-12T06:04:11.896124Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
     {
       "id": "e2dfc8048aff159a9b1bef9d",
       "publishedAt": "2026-10-11T15:53:07Z",
@@ -798,6 +982,29 @@
         "Sensor Konten"
       ],
       "collectedAt": "2026-10-11T12:56:38.002095Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "261defe90a9fb0ea65374b93",
+      "publishedAt": "2026-10-10T07:00:00Z",
+      "title": "Dramawan Gaza Ali Abu Yasin Raih Penghargaan di Inggris – Laman 2 dari 3",
+      "source": "suaraislam.id",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNTnVyZ3dfRXZaT2FEWjBHN3RuWDgxNnFaR0xRRWZxY0NvX2lVMnZRSnJaMVVTRFVNLTEzWXlFU1ZFVk85Z1R2R2FrRl9GU0pUQ2ZsNXpTY0tRcmdGZEt5dXRDSGdKSUQ0TndySmV6ODBTdnA2UUVoQ3hvS1NmekhWYmxCZ0dyX3c?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-12T06:04:11.896124Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
