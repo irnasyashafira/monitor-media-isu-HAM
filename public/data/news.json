@@ -1,15 +1,15 @@
 {
   "meta": {
-    "generatedAt": "2026-10-13T14:17:16.378974Z",
-    "lastRunAt": "2026-10-13T14:17:16.378974Z",
+    "generatedAt": "2026-10-13T22:49:26.870100Z",
+    "lastRunAt": "2026-10-13T22:49:26.870100Z",
     "startDate": "2026-01-01",
     "refreshHours": 6,
     "mode": "incremental",
     "feedsOk": 16,
     "feedsFailed": 0,
-    "totalStored": 2209,
-    "totalPublished": 2209,
-    "newArticles": 27,
+    "totalStored": 2216,
+    "totalPublished": 2216,
+    "newArticles": 7,
     "warning": ""
   },
   "clusters": [
@@ -136,6 +136,78 @@
   ],
   "articles": [
     {
+      "id": "977f288c8f3e77027514f2d3",
+      "publishedAt": "2026-10-13T18:46:59Z",
+      "title": "Mengikis Ruh Demokrasi: Pembungkaman Berekspresi dan Pudarnya Nilai Pancasi Halaman 1",
+      "source": "Kompasiana.com",
+      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPU3FvQVZYXzBkeXlKU2NvcFUzOF90VjMtenVJaWtiNGxIdEt3ZzlxeV9rYVluNWt5blJuTVYxcUlpNVhqQUdIYUs5Vld5VlNhd3FYb0NaRG94elpSNkVUTXp3amMxdzhidTV4QUdPOEI2X2p2QTJXazJjYmNXQ1dydWxwUE0wYXpCZ3hsYzFXaUlmc0poWWR2M0g1NHotMnFJc3JDOVFaalFQYWdibk9FWXJCcnp0LVpaZ05DZGhnUlF1bUhMUnZreS1PQm9mZXRlczBFaXFPUHpDU0FUTUdRb3VZa1A3X0k?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital",
+        "sipol"
+      ],
+      "primarySubcluster": "doxxing_intimidasi",
+      "subclusterIds": [
+        "doxxing_intimidasi",
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Doxxing & Intimidasi",
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-13T22:49:26.870100Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "0773218af3356212ec958f58",
+      "publishedAt": "2026-10-13T17:14:21Z",
+      "title": "Komdigi Akui Takedown Konten Soal Demo 27 Agustus dan Video Pengeroyokan Warga di Medsos Halaman 1",
+      "source": "Kompas.com",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQNER4WXZhYVljMjRyLXpDblFCOURPaEY4WWk0OXV4YXhvM0gxUXk3NmxaNzB3c0Zic0ZrbTVNREVFa3RkUHpubmJiUlEwc3lCMHBTaEFlNFQ0NlZ3VzZ1NS03bTRBWUlYcFQ1MHRzTUdRSjZNRVBhcnBsU0dEYVpLQ3VJOE9tZUl0bmdPZVVmWEVaVGFhaEt3bmY2b3kzazcxOFJQWWMtQ3k0N2FUT3BqcExGcl82aXloUF9DSG9rMlNUeS1MZC1jMEFwd1JJbFdmZnc?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "sensor_konten",
+      "subclusterIds": [
+        "sensor_konten"
+      ],
+      "matchedQueries": [
+        "Sensor Konten"
+      ],
+      "collectedAt": "2026-10-13T22:49:26.870100Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "1d294fcce0415e85b696e663",
+      "publishedAt": "2026-10-13T15:50:14Z",
+      "title": "Kebebasan Berpendapat di Tengah Pengaruh Kekuasaan",
+      "source": "Kompasiana.com",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQMElLVVUwVVdFR0UyXzVoR2RCb21tb2JUTGpUOXJMZnM2dzNDNHdxRm1KdGxNeklrQVpHMUplS2hPR1dpQW9QRWt0d1Y1WHluVldvaFdXcWNkdkFwUTQ3NXowcll6VEpGazFkaktiOHpDeFJlZkRlbjRnUm9ybS1uZ0lzWlVlSzBPZGJWcWJRVHNmMXNETllmWExFbmVDZTFERFJHY0hMdlZyZlUzVVR1MjM5ZXlKSlRJZDNDd1d2bE4?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-13T22:49:26.870100Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
       "id": "24c3dedbb151bce36ad4bd90",
       "publishedAt": "2026-10-13T14:00:39Z",
       "title": "Cipayung Plus Palembang Kecam Kekerasan Saat Demo Karhutla di Mapolda Sumsel, Siapkan Aksi Lanjutan",
@@ -200,6 +272,29 @@
         "Kebebasan Berkumpul / Berserikat"
       ],
       "collectedAt": "2026-10-13T14:17:16.378974Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "f5b270fe556212c9d620f571",
+      "publishedAt": "2026-10-13T13:25:39Z",
+      "title": "Cek Fakta Pelaku Penistaan Agama di Bondowoso Ini Akhirnya Dibekuk",
+      "source": "Radar Jember",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxONm03Y29zcWd4VEFMOU82UUZEdUZjdW4yODBVMF8xWFljTk9tNGZNcDFMcExxM3ZheTBHUTAzaDlxam9yd2tINnVWRDdHUWFCYzA3OF9GR3phZXQycHQ1LVZtZlJudWZfMjJvbmt0d3dhT1hTcHp5RDRXN0dMdDhjLWRHSzhfSnRrQkRBMkI4N1BRNWZtekVhX293dWtuVzRSQmxfbnp1ald2SWI1alpOQy1EaEktX19GaGtr0gHAAUFVX3lxTE1QTnBTTTE5SnJGY0V3dVVOd0hwekRtanRCbWpadHZmQXVvSk01TUdTME5BZ3E5cFE2NHM0VUdvcFVkUURnVVN0M2lNdWcyZVFuMXA0RFFKTF9FdnRqZU1hT1lqVnhoaDVMa3Z5a3ZJU2NnazEzOVJlVFFLWDBES2xqOGFnenkzY29MY3RtTW5aQ1lMeXRwNko2OEhrNXpNUGEwMkplZGpHUDhmYTJGREIyWW1VZ1E5bEx5a2hpejVhNA?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_beragama",
+      "subclusterIds": [
+        "kebebasan_beragama"
+      ],
+      "matchedQueries": [
+        "Kebebasan Beragama / Berkeyakinan (KBB)"
+      ],
+      "collectedAt": "2026-10-13T22:49:26.870100Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
@@ -366,6 +461,32 @@
       "reviewNote": ""
     },
     {
+      "id": "a69206795c156c98641862fe",
+      "publishedAt": "2026-10-13T07:16:00Z",
+      "title": "Komnas HAM Pendalami Dasar Hukum Penurunan 486 Konten Media Sosial oleh Komdigi",
+      "source": "MataMata.com",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOazV3cnR0ZWN5QmFwNjJQWVN0MWpDTGxGZWNOeXB1UFI2V0pZMXFPNGlNbk1xMUpxU1g4eElaVHFzQ0YxV2Z6RGZxUDBTU3JySmZRSDF1NjQwV0YxYlN5am8wdUpDWGc2ZjBWeGZZMTRKeVd1cjNlamRhckNUdVU3aG13NFY4NHYwRTdyVUxhbjBaaDRTaDlUX3ZrNzVPek9kcGJxZFFlbXhjWXFGYjBBenBlUmwxUnBZU3p0dlVuLXZqUGNZa2c?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital",
+        "sipol"
+      ],
+      "primarySubcluster": "sensor_konten",
+      "subclusterIds": [
+        "sensor_konten",
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Sensor Konten",
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-13T22:49:26.870100Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
       "id": "168e3cdbbe8f34383f89e655",
       "publishedAt": "2026-10-13T06:51:00Z",
       "title": "Demokrasi, Kebebasan Berpendapat, dan Tanggung Jawab Kekuasaan",
@@ -481,6 +602,29 @@
       "reviewNote": ""
     },
     {
+      "id": "d9b2d9143c954aa06cff7c93",
+      "publishedAt": "2026-10-13T06:05:00Z",
+      "title": "Polres Bondowoso Amankan Tersangka Penyebar Konten Diduga Penistaan Agama",
+      "source": "Website Resmi Polri",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNX0EtbERFaXFEVTFOY2h4bXM1SlRKNmwzT2NYczUyRTVHOHhmcHgwbXR4NmdZZ3JWOWFJd0NQb213TXAwdFNoLXNObGlqTVFOQm5aMUdjS2xPZG5JN0dYQmFKYV9CWXZOX2ZqcnhUS1FyS2pFc0VwdWloRnpnQU9rSXNRcm5kc0tuZVUtbXMyakxUWlVNOEU4OUhzUjktUXFVUC1ZajdfY083YklqSGxLRldB?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_beragama",
+      "subclusterIds": [
+        "kebebasan_beragama"
+      ],
+      "matchedQueries": [
+        "Kebebasan Beragama / Berkeyakinan (KBB)"
+      ],
+      "collectedAt": "2026-10-13T22:49:26.870100Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
       "id": "8745f99af5e033ddcd8294e0",
       "publishedAt": "2026-10-13T05:37:13Z",
       "title": "MDTV dan Netflix Kembali Berkolaborasi, Serial Drama “Suara Hati”: Simak Yuk! - Detik 60",
@@ -568,6 +712,29 @@
         "Kebebasan Berekspresi & Berpendapat"
       ],
       "collectedAt": "2026-10-13T14:17:16.378974Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "722684e930e1405626e3b9e4",
+      "publishedAt": "2026-10-12T22:34:08Z",
+      "title": "Tergiur Imbalan Rp 1 Juta, Pemuda Pembuat Video Penistaan Agama Bondowoso Kini Malah Jadi Tersangka",
+      "source": "Radar Jember",
+      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNaVpUYXVpWjhNZFNEdEZPM1hnTDYwaFRVdmMxa3pfT19uT3czVUJfUEgtMlJQS2l6WXZuZDJGUUw5eUVTYll1d05WUTJtWWZwa2JwcWVfNTVScjM4dVcxaEJmWG9LV2NxRkNQVDhETVhOYXU4UGJ3SHBwZnVJYTRfX3N3Qmx5dl9XSGRhRE05ZEtpR09CTTltcmktT0tUVzdBN0MzVUduNFRFTjRBSVYwUE9CMURKQlpqaUVHb0hMd1BxWjJNb1dSQXdwR09QVHBJR1BndUxMQVJwaVp4M0hmTEg4NVZUUdIB6wFBVV95cUxPZ0xQQjVWZklkcHhaX3YyRDZlVGtBOEdfYUhSaFdjN2x6dmFka3RFYW5vQnpzTmFaLVN3bmx3aVdfUi1aek1kV0JzbFVhY0M1LVhmMndoOC1HQjQzbXRLa055TXhpeGxiOFJpOU9LVnhjZUZ2WWZURWpKWW9MQVJLc3VSVzBsY1JtbEdMX25Zb1VWOV95Rmh4c0ZQaWpIUkRaQ25yMWNnUUpmTUtKbTVTYlFpeGhVWDBfZTF6SHVtV2o5eEpYX2dRQ09sZmVnU2xMdUJqMGxycUhQblpPM3lHV2pPdkRtdUxkUlZB?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_beragama",
+      "subclusterIds": [
+        "kebebasan_beragama"
+      ],
+      "matchedQueries": [
+        "Kebebasan Beragama / Berkeyakinan (KBB)"
+      ],
+      "collectedAt": "2026-10-13T22:49:26.870100Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
