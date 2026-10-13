@@ -1,15 +1,15 @@
 {
   "meta": {
-    "generatedAt": "2026-10-12T15:34:12.119505Z",
-    "lastRunAt": "2026-10-12T15:34:12.119505Z",
+    "generatedAt": "2026-10-13T00:45:36.853923Z",
+    "lastRunAt": "2026-10-13T00:45:36.853923Z",
     "startDate": "2026-01-01",
     "refreshHours": 6,
     "mode": "incremental",
     "feedsOk": 16,
     "feedsFailed": 0,
-    "totalStored": 2180,
-    "totalPublished": 2180,
-    "newArticles": 18,
+    "totalStored": 2182,
+    "totalPublished": 2182,
+    "newArticles": 2,
     "warning": ""
   },
   "clusters": [
@@ -361,6 +361,29 @@
         "Kebebasan Berekspresi & Berpendapat"
       ],
       "collectedAt": "2026-10-12T15:34:12.119505Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "0956b76771fc6b2270a147d3",
+      "publishedAt": "2026-10-12T07:35:29Z",
+      "title": "Kesbangpol DIY Bekali Pelajar Kulon Progo Pendidikan Politik, Ajak Bijak Bermedia Sosial",
+      "source": "Radar Jogja",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPYjlZeWJLVEN6LXN0RnFGd3c2RVJwaVBQS1JrODkxcjB5NWFuVGdtQmhmMWhQSk9jWVQybFJNMHF1cDh4bHZERFhaa0o4bTk0UGNTM0kyRGNxanJWbEp0cUp6bldIV1Z6Q2cybFktVWhCX0h4R19KTkVuc2JGb2t0aGZ2NnA5cUpsNXpPUDllT21oVzhJR1dXMVBzblVnaTQxbmd4UkZ0QnlPc25ienBNMUlnOS13SVNmSktTZ2VvZWExY0U2aGVwUkNTMk1ldnJVQTJzZDVWVdIB3AFBVV95cUxQWUY1ejlfbXhiQzJ6RFZpUmdhSW8yNWY1blBZMDRRSFRFMFBLX2VJNHpsWVRzVHh2bGhKWVQxS2JmMk9yclF0S2N5eVNVYnBWVGJtZjZhXzU4czlTcGVnb1JvcFNybHB4MVhLUGdUVWV0ZDl6bVNHZHR0SVE2U1FId2pTY0JUT0NwM1BISGZxVnR2bGVHTW5Yem9wVnJ6blFtQ3lMYTNIZkxhZG9sa3I5N2o3RzlmSHJlNElXRmtlREM0OWJ4aVhGbjJpeVEwM3o3R2JweTJqN2xfejhB?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-13T00:45:36.853923Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
@@ -36325,6 +36348,29 @@
         "Kebebasan Beragama / Berkeyakinan (KBB)"
       ],
       "collectedAt": "2026-09-01T03:05:34.416592Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "ccca854496b96db342fbfbf3",
+      "publishedAt": "2026-08-13T07:00:00Z",
+      "title": "Kasus Penistaan Agama The Sound Project, MC Sebut Sosok Baju Putih Ambil Alih Acara",
+      "source": "Kedai Pena",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOWXpTMzVUb3R2UmhwUE5rWERCSUl2cG5oV1Rfc0pzdnhWWGsycnBDVUNkX1FYb05pSmdHVVI1TGs4V3B2V3BSd2lad3BzaHhzTzRWT25YQlcyVENYWVJZR3F6NUpLUi12amRZX25uSWhIMVV6YWMtVUduYS12S1hpSnUtLWxKaWJHZnY1elhtNUpFLUpfcHZPNTE2Zld6d25CNUljYmc3MjNQU082Q2c?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_beragama",
+      "subclusterIds": [
+        "kebebasan_beragama"
+      ],
+      "matchedQueries": [
+        "Kebebasan Beragama / Berkeyakinan (KBB)"
+      ],
+      "collectedAt": "2026-10-13T00:45:36.853923Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
