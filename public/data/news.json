@@ -1,15 +1,15 @@
 {
   "meta": {
-    "generatedAt": "2026-10-14T11:58:52.120701Z",
-    "lastRunAt": "2026-10-14T11:58:52.120701Z",
+    "generatedAt": "2026-10-14T17:15:59.442287Z",
+    "lastRunAt": "2026-10-14T17:15:59.442287Z",
     "startDate": "2026-01-01",
     "refreshHours": 6,
     "mode": "incremental",
     "feedsOk": 16,
     "feedsFailed": 0,
-    "totalStored": 2236,
-    "totalPublished": 2236,
-    "newArticles": 16,
+    "totalStored": 2245,
+    "totalPublished": 2245,
+    "newArticles": 9,
     "warning": ""
   },
   "clusters": [
@@ -136,6 +136,121 @@
   ],
   "articles": [
     {
+      "id": "49068be4c3a71950a487716c",
+      "publishedAt": "2026-10-14T16:06:19Z",
+      "title": "EK LMND Pematangsiantar Kecam Dugaan Kekerasan terhadap Massa Aksi Cipayung Plus, Desak Kapolri Evaluasi Kapolda Sumsel",
+      "source": "Heta News",
+      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPUVJWbWk0OWRCcFEwN0wzZ1I3VkF4LWJBVl9zNXlnWkxlUC1MU1lZN1BWQlVodTMwZGt6Q09uWmdwWnZDMEc5RWtESzBEbFhDUkw1NTF1ek5HTlRaMlk4LU5JNW5BMFhReW1hNnlPUDRhR0E1N1NXNW9meldSdG84SUx5T3ZWVVU5ODFHU1JZSjd2dzc2VzF0aFVKMnVuSXpuV2lKcGZZN2VvNGxpRXBVUWNXYTdub0swaW52RDlmYk12TkROSUNJRzUyb2pqLVpZeWdZc2hKZ3RpRV8za0Z5TmpJMm40NTg0eF8xNENXRQ?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_berkumpul",
+      "subclusterIds": [
+        "kebebasan_berkumpul"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berkumpul / Berserikat"
+      ],
+      "collectedAt": "2026-10-14T17:15:59.442287Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "4d24b38dd685cfa8b2b941de",
+      "publishedAt": "2026-10-14T14:12:49Z",
+      "title": "Ucapan Fenny Frans Dinilai Kurang Pantas, Masyarakat Ingat Tanggung Jawab di Ruang Digital",
+      "source": "Cakra Bhayangkara News",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPZXhSRHl3bnZBd2NaWUpJTlZyQ0Y4S0N3M2VsNHhpX1JaaHBWR3U4VXlGaGduemJmbXlzYVo1YmdlWGxJb2NzTUFaQm1pQXkxUXpFWXR3eFVLODdGSTc4eTdEYU01VEpXOGFjYzVXNGoxTVZpRDEyN0FzeUk1N01KRko5WHBkRi1qa2t2a2dRcU5TaHIwRjZVOUs1ZUxDY1hJMVpDVXlfOS04VVZ1bllhNThzUkNnV0RkUVJEQ1EyTGI?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-14T17:15:59.442287Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "fb6ea03db2ed1b4c39ab594d",
+      "publishedAt": "2026-10-14T13:26:28Z",
+      "title": "Antara Menerima atau Membenarkan: Menelaah Normalisasi LGBT Halaman 1",
+      "source": "Kompasiana.com",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPY0ZOUVp3MFBkR0pvOF9WWVJWcVdqYjM1QU80MFJfU1hzc3A3NHBkS3pHVkVMTG5JMlVqOW5XdzlIN2tXMDhNRFIzd0pCbnB2Y2I4eXFkbmdsVFNEWnlYa055dTdGUnRZX0xLMFQ3cUE5TnZPV3RTeU1rRkQ1dDMyRXNUNlZUcG5XeEp1dk8zT3VRWGhKVjZQVUZYUnk5cllBNG9jQVJIUHFoNjdiaFg2UHBIUHo0azBaQ0VCZHYwaVk3eW8?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-14T17:15:59.442287Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "4808435150e8bcf5f77fc282",
+      "publishedAt": "2026-10-14T12:45:00Z",
+      "title": "Hujan Caci Maki untuk Feby",
+      "source": "Tempo.co",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQczhnbnhwTWtCeWQxdFBiRnJNTk41OFZ4UGU3YjlmOWw3WGktOHRzR2VCeGlhQXRpc2E3TWN2cmJvenAyZ01HOFlwWGNYajEya2tXdEZyZDlibDJUWW9lRTVlZnN4TGg5aThLUFlPZ3ZKSHVxWkE0Rk1IR2JQMzhLMTdhUHRBUVRkOEE?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "doxxing_intimidasi",
+      "subclusterIds": [
+        "doxxing_intimidasi"
+      ],
+      "matchedQueries": [
+        "Doxxing & Intimidasi"
+      ],
+      "collectedAt": "2026-10-14T17:15:59.442287Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "8f5d0edd3361123eec984849",
+      "publishedAt": "2026-10-14T10:22:44Z",
+      "title": "Situs Judi Online Diblokir, Bisnis Tetap Jalan: Pemerintah Didesak Putus Aliran Uang!",
+      "source": "Suarajawatengah.id",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNS0xmYWhnaUtsc0RidlZKV015UUJac3ZNVmhCZ2FLaEFJVjV0WGgzY2Q4cVJQR2FzVW9zNm5YYWJITXV4elM5dk9oenVyV00zZmRWUDFFYnRWd29HSWV3ZDl5eDgwcDVfV1VXdFphbUVsVGlnMFpNdWU4Q3E1ZW1rX3lsZW5LcnBSYUlNUF85eVVnOFItakdZeGxMNVNOWWsxeFpiUW5TWWdLRllqTlRjNzZKRGp0czR6SERFZkRNWVBsNy11TEFpRXAwUkJveE3SAc8BQVVfeXFMTUtMZmFoZ2lLbHNEYnZWSldNeVFCWnN2TVZoQmdhS2hBSVY1dFhoM2NkOHFSUEdhc1VvczZuWGFiSE11eHpTOXZPaHp1cldNM2ZkVlAxRWJ0VndvR0lld2Q5eXg4MHA1X1dVV3RaYW1FbFRpZzBaTXVlOENxNWVta195bGVuS3JwUmFJTVBfOXlVZzhSLWpHWXhsTDVTTllrMXhaYlFuU1lnS0ZZak5UYzc2SkRqdHM0ekhERWZETVlQbDctdUxBaUVwMFJCb3hN?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "sensor_konten",
+      "subclusterIds": [
+        "sensor_konten"
+      ],
+      "matchedQueries": [
+        "Sensor Konten"
+      ],
+      "collectedAt": "2026-10-14T17:15:59.442287Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
       "id": "ac1e0cb23a4b3a03eb85df0a",
       "publishedAt": "2026-10-14T10:12:51Z",
       "title": "Akun Shopee Pakai Nama KTP Saya dan Foto AI, Dua Toko Saya Kena Ulasan Bintang 1",
@@ -223,6 +338,29 @@
         "Kebebasan Berekspresi & Berpendapat"
       ],
       "collectedAt": "2026-10-14T11:58:52.120701Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "91146f914f688dd3656ce28d",
+      "publishedAt": "2026-10-14T07:30:37Z",
+      "title": "Syahganda, Gibran dan Kaesang : Ketika Pejabat Publik Menyampaikan Pendapat Sebagai Wujud Peran Serta Masyarakat",
+      "source": "Keuangan News",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQSGJJdDh5RUo0ZVpVU1hsWDFJVE4wdnAtT0Z6U0RrQWVQZmdiTTNzLUtUeFNaTVB2NlIwb3FSOExLTjUzbHd5VVowZUlvM2dtRWhSRm1CWnFReWJNaHJTYnJaOFYtQnVhWGE3OGlPZzhVcDV4UDNjR3NIVkx6UXRGaUlSNDhrb3BZQkRxdkNPOXl3NFRDR3QzaFJ6RFlVTDdoa1hZbG53NEpjMHRzeWJnUXNwQXRkMUtWbk9ZMmJFQ21RMHhQMUZNeXpZMzNBZHM?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-14T17:15:59.442287Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
@@ -625,6 +763,29 @@
       "reviewNote": ""
     },
     {
+      "id": "4d56fa2a2dc3a3658f9cf10f",
+      "publishedAt": "2026-10-13T14:05:46Z",
+      "title": "Menko Polkam Dudung Abdurachman Terima Tim Ahli Karhutla Brasil, Bahas Teknologi Cairan Pemadam",
+      "source": "Media Kalbar News",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPWkJrcTc2a3FDbFptakpvS1dtNXpYMjdzcTdpbFM5NHZraVRGbW9IZXFEVF9ULU0zcF9uaEszZEI3QkVxd21GdFJtSDNVNEtTSkt4azhhLVdxeHQ0MDNxWnRab1NyaXc2Wm5ucTVscS0yb0liMHRzeTFVMUNRRVBxZDl1Q01rSWRXMDRFem1pZnFaWDRJUElmbWdkZ0V1TFZjSEYxT1lXeFNOakFNeDlPQTMwRXU1eVB5MFhPRGpTWkg?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-14T17:15:59.442287Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
       "id": "24c3dedbb151bce36ad4bd90",
       "publishedAt": "2026-10-13T14:00:39Z",
       "title": "Cipayung Plus Palembang Kecam Kekerasan Saat Demo Karhutla di Mapolda Sumsel, Siapkan Aksi Lanjutan",
@@ -781,6 +942,29 @@
         "Kebebasan Berekspresi & Berpendapat"
       ],
       "collectedAt": "2026-10-13T14:17:16.378974Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "a4e3e0f44d12362bc2f9d122",
+      "publishedAt": "2026-10-13T12:00:00Z",
+      "title": "Uji Transparansi Sensor Digital: Komnas HAM Usut Dasar Hukum Penghapusan 486 Konten Demo DPR - Berita Senator",
+      "source": "Berita Senator",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPak1PdWdzekJEdHZJcm5walk2SVNvbmhldjJfd0M0bkRUbWxvZHc3WDMzV29uT3NMbGpIUU1ld0wyOEMwbUZCVXZQNVQ4anYwbVMzSnZnZE5zNk1kSlUzSXhMTGROUzNoUXlHNzRoNW55RFRQTVYzTnF1ZG1BUUgyV3VHT0JlQTNWek5heXh4QzVadnhqaUVUcGEwYkN0WExSUXM4VVczcHlvckhDRTk0ZFhfc0RKV3Fsdjdocm9rOFRWUm5KMTdEZGFKX2RXbzlQN0I0QUNxbGQ1Z9IB3wFBVV95cUxNWXNNZkNaNUtYb0gtYVJKX2xDVy0wd1EtZmEyTXBYRzdYZGVQUFdPQ2Z1NVp4blVtdXpyMEpkZFVFVWt3VUVfZW5kOGVtR3JKTzY5YWtTanpLbnN6TENHbWpOTEhFenFxaW5SRkJYV1hIdnRleHVuMzJjWGdzWnlaeWsyZlk4a1plN1BEQnZMMlREa1VfVGZJbEFienpqQlJPOVoxNWRKZWN1Y3VaTkN5S2ZaSUVQLTczSzN0WjlSTFN3WnkzNUZzdVJFQ1NSclZPYlFaUmhSSGNXUl9Zbk9N?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-14T17:15:59.442287Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
@@ -1060,6 +1244,29 @@
         "Doxxing & Intimidasi"
       ],
       "collectedAt": "2026-10-13T14:17:16.378974Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "681262236daee0e25bfaa41f",
+      "publishedAt": "2026-10-13T04:25:34Z",
+      "title": "Siber Group Perkuat Layanan Perlindungan Reputasi Digital dan Privasi di Indonesia",
+      "source": "ciayumajakuning.id",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQUEFRemFnOEU0ZzUzQkdRMVdjSzA0U2g4Y3RQNVU5WU9aS25GS0thTHZzYkRwSnBPR2JqQUFZV2VXMFJKZTlMQTJ3aHctbUJDRkQ4SHNnVl9wZkgzclYxZXQ0NHh3YWtaV2ozZ2k1YzFaa3ZzdTZ5RF9uR2hhSGoxbTVPVXY2VnRqbUpSSjZybEtxVnByYUNIVVhDWjk4Sk8wZEVZYUJyajJNV2Y5TG5ZeWdDVUx6dHhzZ2tYXzNR?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "sensor_konten",
+      "subclusterIds": [
+        "sensor_konten"
+      ],
+      "matchedQueries": [
+        "Sensor Konten"
+      ],
+      "collectedAt": "2026-10-14T17:15:59.442287Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
