@@ -1,15 +1,15 @@
 {
   "meta": {
-    "generatedAt": "2026-10-13T22:49:26.870100Z",
-    "lastRunAt": "2026-10-13T22:49:26.870100Z",
+    "generatedAt": "2026-10-14T04:58:47.040002Z",
+    "lastRunAt": "2026-10-14T04:58:47.040002Z",
     "startDate": "2026-01-01",
     "refreshHours": 6,
     "mode": "incremental",
     "feedsOk": 16,
     "feedsFailed": 0,
-    "totalStored": 2216,
-    "totalPublished": 2216,
-    "newArticles": 7,
+    "totalStored": 2220,
+    "totalPublished": 2220,
+    "newArticles": 4,
     "warning": ""
   },
   "clusters": [
@@ -135,6 +135,98 @@
     }
   ],
   "articles": [
+    {
+      "id": "64037456a650b88809c0797c",
+      "publishedAt": "2026-10-14T04:15:00Z",
+      "title": "Solidaritas untuk EK LMND Palembang, EW LMND KALTIM: Demokrasi Adalah Napas Kebebasan",
+      "source": "Sambar.id",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9NNXVBTmw2eGJ0UDExaHFzQ1cwVzVNMnNBVk9yM2tPVmNTSlRNOGo2OHRLc0Jlam5vNkFTdUFjMDR0SG9Mc3dRYl92T1FtM0tQd3lHRmM3SHdZVktvX0F5Z0wtREFfZUMzaEVOd290MENaWUp5TEdfcmNIdC1Jdw?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_berkumpul",
+      "subclusterIds": [
+        "kebebasan_berkumpul"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berkumpul / Berserikat"
+      ],
+      "collectedAt": "2026-10-14T04:58:47.040002Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "bddb5d6a5ab0d38884bd8fa7",
+      "publishedAt": "2026-10-14T03:56:15Z",
+      "title": "Tersangka Pembubaran Ibadah Tak Ditahan",
+      "source": "Malutpost",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5hVkF1VTJVR0p2dDBPS29xUHRERC1FQXhiUVk4SFR4dWNGajNZZFJJSnVNRnNkMVdfQkdRdFp1VFM4Q0ZLNndLdEJpNEVWaWpxUUMyeERFd3EyRWIwN3lEekxUbkl2SzA2QXNHOU9QX0hfN29OTW5r?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_berkumpul",
+      "subclusterIds": [
+        "kebebasan_berkumpul"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berkumpul / Berserikat"
+      ],
+      "collectedAt": "2026-10-14T04:58:47.040002Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "b2138bbe89b052833b1588a9",
+      "publishedAt": "2026-10-14T02:06:35Z",
+      "title": "Cipayung Plus Palembang Soroti Kebebasan Berpendapat Usai Demo Ricuh",
+      "source": "IDN Times Sumsel",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNaEZiS3otbE1TWUZlUzNTaTZwTE9yd2V6b09BWXJRWnJMNmJuNzdTWEVXazFTbVdXRmlQZjdKMXB3MnNpdXI0THM2TVVLNTBxVXBEelNBQy1zcl9TaV9EU2JzZWtxVVc5MVA4WC1JUU1kY1Y5Qmg5R0Y5NWY5eUxxTFFxc2lRNHZVWjl2NTRRTllpd3huSVBqV3Mxb1B6ckZDLXBMekw5eEF2b2x4dWctTTZ1UDZiaVlfUGFUaUczUThRdHpUcG1mQkl0TEdMZ9IB0wFBVV95cUxOUEdRTWR3RVRlcUQ3SHJEOXBXbzVrbHJPUlZmcGxWdm1Rd0FLWDdfak01OEJTcGRjOUs1bHdfR01UX3UtdUo0UzN5SEpDWFpjemtoUDZpMWM5ejYxRGRwNXFWTjFSVVhaamV3eFVYWUZhVnRIV2RvYklua3oyT1RudHR0WmRIYWl3ZE5OWHg2VWRpcnB5dnA2T3pHb0huNzZsd1FxODB0ZEtnT1k3YkUzb1lTQVpDV1hON1B5MzBNU2NZZjdEYmtnekVnVlZxMUdPWGpR?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-14T04:58:47.040002Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "596872da62f70ac5520c1516",
+      "publishedAt": "2026-10-14T01:23:37Z",
+      "title": "Demokrasi butuh aksi, Bukan sekadar reaksi Halaman 1",
+      "source": "Kompasiana.com",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPaVU0UXpFX1lsZGlBOGgzN3Z6WEVLMEJUX2c2TGd6YTE0ZUxZdi00SU9sTWxGUHYtQU5jSk9hcTJFUTAxNlJZQXcyODB2MjdZQVd0OFpwdXJiWnJGVVY2dDBPTTIzVEpONUdOUnFMNzloVDlDS3NCc1NzT1FWMFRWSW9vcy1zVjh0TXFQOEpfLWxJU3lrcUwxVDVjYWtJM1kxVHc4MUJMbVo?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-14T04:58:47.040002Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
     {
       "id": "977f288c8f3e77027514f2d3",
       "publishedAt": "2026-10-13T18:46:59Z",
