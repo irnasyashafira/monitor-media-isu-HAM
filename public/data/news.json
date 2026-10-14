@@ -1,15 +1,15 @@
 {
   "meta": {
-    "generatedAt": "2026-10-14T17:15:59.442287Z",
-    "lastRunAt": "2026-10-14T17:15:59.442287Z",
+    "generatedAt": "2026-10-14T21:44:46.939242Z",
+    "lastRunAt": "2026-10-14T21:44:46.939242Z",
     "startDate": "2026-01-01",
     "refreshHours": 6,
     "mode": "incremental",
     "feedsOk": 16,
     "feedsFailed": 0,
-    "totalStored": 2245,
-    "totalPublished": 2245,
-    "newArticles": 9,
+    "totalStored": 2247,
+    "totalPublished": 2247,
+    "newArticles": 2,
     "warning": ""
   },
   "clusters": [
@@ -177,6 +177,29 @@
         "Kebebasan Berekspresi & Berpendapat"
       ],
       "collectedAt": "2026-10-14T17:15:59.442287Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "6cbc304d333e5333e45c240e",
+      "publishedAt": "2026-10-14T13:26:28Z",
+      "title": "Antara Menerima atau Membenarkan: Menelaah Normalisasi LGBT Halaman all",
+      "source": "Kompasiana.com",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNdzBKUGlyQnNWVDdfUDJmUExKR3BYVE9qdndRajQxcjZ2TlVrNXhGQjlDZXRHR3ZjTVZ0bXJtTGtVa05oUVhzcnFUbkR0VDFKdlNkNktvcXpVVzMzOEpfaHJ4SV9Yc0tTaUpOMUpEelFPYzV4a3RVdFl5QVJiTGNSSHpKclppa2dnVzRTbF9VdVBuX3pJWUl0SFNLSkRRN1R6V2d5Q0hHdGNuNFJDQ0FwcEFYSHlZUHBSNDZFQXlaaDVxSTRINTY5UkZacWJ4dEk?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-14T21:44:46.939242Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
@@ -2118,6 +2141,29 @@
         "Kebebasan Berkumpul / Berserikat"
       ],
       "collectedAt": "2026-10-11T22:01:49.547226Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "757be627e3d1f62274d1c51a",
+      "publishedAt": "2026-10-11T15:53:07Z",
+      "title": "Polres Tabanan Bubarkan Aksi Balap Liar di Jalan Arjuna",
+      "source": "baliportalnews",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQckNTRnhfMzRuOWNZdGVkMnAtTlI1RjkzRDY5V0kwSDlMa21YU2NQVGtEdXNta3pLQXNkVGZHbFBDM0xESlFqS1NoODliS3FNcWQzbHdTMWY0SVJIU2lIZHFnVDJIMXNfSlNEelJ2UGVaZ0pCam5TUkpXQWNPMm9lYWZhSTl0c3VteG5sNXF4MVIxeWZNemc?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_berkumpul",
+      "subclusterIds": [
+        "kebebasan_berkumpul"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berkumpul / Berserikat"
+      ],
+      "collectedAt": "2026-10-14T21:44:46.939242Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
