@@ -1,15 +1,15 @@
 {
   "meta": {
-    "generatedAt": "2026-10-15T04:46:29.293606Z",
-    "lastRunAt": "2026-10-15T04:46:29.293606Z",
+    "generatedAt": "2026-10-15T11:35:30.975974Z",
+    "lastRunAt": "2026-10-15T11:35:30.975974Z",
     "startDate": "2026-01-01",
     "refreshHours": 6,
     "mode": "incremental",
     "feedsOk": 16,
     "feedsFailed": 0,
-    "totalStored": 2253,
-    "totalPublished": 2253,
-    "newArticles": 6,
+    "totalStored": 2263,
+    "totalPublished": 2263,
+    "newArticles": 10,
     "warning": ""
   },
   "clusters": [
@@ -136,6 +136,167 @@
   ],
   "articles": [
     {
+      "id": "394aec380fb5008ae8be262d",
+      "publishedAt": "2026-10-15T11:27:00Z",
+      "title": "Tirai Gelap di PN Cibinong: Ketika Hakim Jadi Benteng Pembungkaman Pers",
+      "source": "Lampumerahnews",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPRmhoNTdhUDdBZS1COWp5Skdpb3pOMG9zdkFPZGJrem5ZME9aQXVNbmN0a0VLSkJ4aGxiS0VjeUNNUUJBOEZXTkRySXktMnIwYlpob01XLTlrdi1GNl9uWHdQZXNNSnB1cmFRZWpsUUhCc3h5OTBfaVBVX21wOHFxUmZ1UzRBWHNwOHc?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-15T11:35:30.975974Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "0148a4a38d9f78fd05736948",
+      "publishedAt": "2026-10-15T09:12:55Z",
+      "title": "Tirai Gelap di Ruang Sidang PN Cibinong: Ketika Majelis Hakim Menjadi Benteng Pembungkaman Pers",
+      "source": "https://warta.in/",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPRWkzdXkzMHNRZm45ZGYzdnUxVmVaajBCN2YwWVI0OHExQnlOcjNxc183Tl9ITEtGZjNvU0FhT1VZZkJnOHBzMTJMTkpYNlRhaWNWalV6R1VLcWR3ejRKVFRiMUFQS2pjV3NuMDhGWldsX3NRMXRzRllMX1dMaEdDcFhlTjJjTlZOR3dCZ3kyYVZOT3pLQWw3N3hHWkMzVmVPLWQxZ2RGVzhES0xTX1lPb2l3?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-15T11:35:30.975974Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "564d9642fd6a5ea3d150d490",
+      "publishedAt": "2026-10-15T08:36:06Z",
+      "title": "Anggota Parlemen Inggris Desak Pencabutan Larangan Palestine Action",
+      "source": "Lensa Hukum",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE11bGgxbU9xeG45aDlZOVFuLWRqd2pvSHRjYlp0Tzh4ZGU4TmdFTXhkZ2ZsZnRCQUg3ODJaakRSU2J1WGRfZVRRZVZsZ24wYUhsczMxMGo1MWs1RVJzMXV4REFWbTB1N2FxRzdhVmhKWS1CcVB2Y1E?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-15T11:35:30.975974Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "d69e7a54bb1931fae4150c08",
+      "publishedAt": "2026-10-15T06:16:31Z",
+      "title": "Meutya Hafid Tegaskan Moderasi Digital Jaga Keamanan Publik",
+      "source": "www.suaralandak.co.id",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5rZV9LVTYtWUgtcTVlYkRTYVRqZXNYUVU1LXRweXhTcGdqRkxpZld4TEswc2wxYXBOc2l3eXdwT0E3dGV3cW9nOV9NZDRwaWpVNEFnYm5IcVVDaHhvN1hHTUNQdzRWQnE2M0ZN?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-15T11:35:30.975974Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "6a598d6e529d3645128cac97",
+      "publishedAt": "2026-10-15T06:12:17Z",
+      "title": "Menkomdigi: Moderasi Teknologi Bukan Pembatasan Kebebasan Berpendapat",
+      "source": "indoposco.id",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNX1VLZ2FtUlVmOEpRelBnS3Y3eV8yZUQ3eXotanEwdEs2aUhlUTNsaERLY3AxOU5XVWRJWmE4NkVlaFEwS18zeTJYdXdDWGdmRDJWUEVSRHp2QkFkRTVobm1xWkZYZlM5X2pOVlc4MnBfT1d1VDV4cjY4eWdwc1FDcGZYdjF4VU5aNlBTWGw5ZWVTMWF1cXdZZlJ3Z3VKdkk3X0Fz?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-15T11:35:30.975974Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "2ebd72dfd1ddb28adac99e15",
+      "publishedAt": "2026-10-15T06:08:24Z",
+      "title": "Gaya Preppy Klasik ala UNIQLO FW 2026 yang Timeless, Yuk Intip!",
+      "source": "Parapuan",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPRFl6N1pIZDVDMGxYYnhXWnhhZ1Q4c0pRMzNMWWRzR0hKYmdtR0lNR01scTFoaFoycENyZ3Q4MDd3S1MwQ0ZzaElGcmpZaWNEcVVaZTVVS2QzQlJ4SWkwaG1iODhzcHMwUDc5b3N6T0xhcWNTZE9yRUZNODhxVGI0LWpfZ0kzeERjSkVhT3MyZHEzd1VFX1JUNXhCMkNjY3FfN0HSAaABQVVfeXFMUHN5bFNCdTFLSmYtR3pDSmxEdGJFbm84SGZrS0FGQVJTTE1YUjI4TDRkTjd1Z0p6SU9mWXFfYjVMY0l5alVQV2JJeVFxa0RDRzlweUpaelZFYWt2em1UUURrWGNpT2tZRkpjamZYcVhleTRqY3RJUWJUcG81ejJEWGpERDRnTnh1SmtZb0duYUVEVDNyNVcyai1QUHBReGw3ag?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-15T11:35:30.975974Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "c5b9592719930134086da2a7",
+      "publishedAt": "2026-10-15T05:07:55Z",
+      "title": "Serang Pribadi Tauhid Soleman di Medsos, Akun Wiwin Dilaporkan ke Polda Malut",
+      "source": "Indotimur",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQaG04cEdac01JUm5NR0psNUdudENxRG9NUUJScXJfN2YxVmtUUXVaMldmVl9NaDljaG80cF9JREsxWjF3UWkybEFYTVNTQzBEQUUwTC1ZcjNFc2dzbDZZZnpManp6RC1FbHlPUzN2LU15MFZkWTZaTmdwOEw3aUFTWnRLYmh0RWpZMEdKY2ZXeTUxeXJXUWtRM0hPSlFVaS02LVIybTJCd1o?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-15T11:35:30.975974Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
       "id": "85aff202d5913fbf1edd628f",
       "publishedAt": "2026-10-15T04:07:56Z",
       "title": "Kasus Dugaan Pemerkosaan di Amerika Picu Doxxing, WNI Jadi Korban",
@@ -177,6 +338,29 @@
         "Kebebasan Berekspresi & Berpendapat"
       ],
       "collectedAt": "2026-10-15T04:46:29.293606Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "c7cb5ed11d61543563015751",
+      "publishedAt": "2026-10-15T03:45:00Z",
+      "title": "Sahabat dan Milik Pembaca",
+      "source": "DKYLB",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPb21YMzhDRlFpdEx2cVlmWnQxWjVVM3JBaEpvMWlscmtBUWhVSC1iNUM1SDB3X0JXazU3Q19WVDlGeVVZTUlGZHF5QXB4dEpJWl9ybC1iRGUxb1hoclJyRkxrTUEzZkhJUUJKZ1lEbTE0TENVdGM1bEtKVTV5TXg1em56ODB4Zm9pWjlqTy1FMlhfUDZaN09Kc1VKaGl3X3c?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_berkumpul",
+      "subclusterIds": [
+        "kebebasan_berkumpul"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berkumpul / Berserikat"
+      ],
+      "collectedAt": "2026-10-15T11:35:30.975974Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
@@ -706,6 +890,29 @@
         "Kebebasan Berkumpul / Berserikat"
       ],
       "collectedAt": "2026-10-14T11:58:52.120701Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "a58c277e66795822af262c6a",
+      "publishedAt": "2026-10-14T02:39:15Z",
+      "title": "Dua Tahun Pemerintahan Prabowo-Gibran Berdampak Nyata, Ruang Dialog Akademis Terus Diperkuat",
+      "source": "beritanasionalupdate.com",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNeTVCYzByclpuWUg5OFlCNVlIRTJXdkFMUDMxY1luWWJMNlVNRWNISllfNmMtMm1ENDlYTVN1YUJRZ19keFFCQU84M0kwQmdmQmpQc21vdk54cEZBaTRUNGFxMXVxejlvanQyNjZrSS12Z2ZRdW51cl9lbUl0TThyMFZlancxOHlYRm9rd3hJX1Z6NWMyNlJ0ci1aeVBYU0g0VGk5WHNmeWRQb184RGJRRmg2NHZhTWJjb1dxWGFMdzBYMWpKZkNtN0toVW5QLTYyVld6UklCX2RaQ3c?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-15T11:35:30.975974Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
@@ -38956,6 +39163,29 @@
         "Kebebasan Beragama / Berkeyakinan (KBB)"
       ],
       "collectedAt": "2026-09-02T16:37:56.579308Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "d6011b9ce771801176ae5d63",
+      "publishedAt": "2026-08-12T07:00:00Z",
+      "title": "Tim Hukum Muslim Laporkan Penyelenggara The Sounds Project Terkait Dugaan Penistaan Agama",
+      "source": "Kantor Berita Kemanusiaan",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPelYtbVBmWF9HbW1PcDI0RXFLNDZPdjN3b0RKamRiMVZ3RG95RndaQTNoYUhQRnVjMnl3VU9qa24wMmtpS2lmd2tZdS1WZnpKanpVNV9wZGJ1YnJYTncyYWlyZUEtMVdBdUdFT09VZThkZ1ZMM285WEVQRWwyTE9wMXhMZzRxMU9pc2pHck5SbGNabFFma3hXZ0RRZnBOaHpCX0pTcVZvNzhMZF9heFpiOHVOaw?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_beragama",
+      "subclusterIds": [
+        "kebebasan_beragama"
+      ],
+      "matchedQueries": [
+        "Kebebasan Beragama / Berkeyakinan (KBB)"
+      ],
+      "collectedAt": "2026-10-15T11:35:30.975974Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
