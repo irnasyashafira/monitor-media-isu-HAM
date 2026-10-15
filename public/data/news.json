@@ -1,7 +1,7 @@
 {
   "meta": {
-    "generatedAt": "2026-10-15T17:05:16.496189Z",
-    "lastRunAt": "2026-10-15T17:05:16.496189Z",
+    "generatedAt": "2026-10-15T21:27:21.030603Z",
+    "lastRunAt": "2026-10-15T21:27:21.030603Z",
     "startDate": "2026-01-01",
     "refreshHours": 6,
     "mode": "incremental",
@@ -9,7 +9,7 @@
     "feedsFailed": 0,
     "totalStored": 2270,
     "totalPublished": 2270,
-    "newArticles": 7,
+    "newArticles": 0,
     "warning": ""
   },
   "clusters": [
