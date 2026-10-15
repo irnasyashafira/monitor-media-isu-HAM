@@ -1,15 +1,15 @@
 {
   "meta": {
-    "generatedAt": "2026-10-14T21:44:46.939242Z",
-    "lastRunAt": "2026-10-14T21:44:46.939242Z",
+    "generatedAt": "2026-10-15T04:46:29.293606Z",
+    "lastRunAt": "2026-10-15T04:46:29.293606Z",
     "startDate": "2026-01-01",
     "refreshHours": 6,
     "mode": "incremental",
     "feedsOk": 16,
     "feedsFailed": 0,
-    "totalStored": 2247,
-    "totalPublished": 2247,
-    "newArticles": 2,
+    "totalStored": 2253,
+    "totalPublished": 2253,
+    "newArticles": 6,
     "warning": ""
   },
   "clusters": [
@@ -136,6 +136,121 @@
   ],
   "articles": [
     {
+      "id": "85aff202d5913fbf1edd628f",
+      "publishedAt": "2026-10-15T04:07:56Z",
+      "title": "Kasus Dugaan Pemerkosaan di Amerika Picu Doxxing, WNI Jadi Korban",
+      "source": "BeritaSatu.com",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOc0RSOWs3NUd5MGZ4UHh3VExzVUdyWVZqeXk5Y2JoZElKbGo4cDRqbFMyN2ZUelk3SEZIa2ttWk1LV21udjJ2RmR4SXFBTmxPUzVhakN3UE9HUFl3LWN1ajc1by1LVEpheUxZUVNxMkdDSC1oTmFUdDRfT1hUN2F6S3hjOEpFTmhxMjBNUUdyZ2I5Z2xwZXppbTFYTUJLZkdEMXloaVRJcWJmQUNBVWZDZWJwQQ?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "doxxing_intimidasi",
+      "subclusterIds": [
+        "doxxing_intimidasi"
+      ],
+      "matchedQueries": [
+        "Doxxing & Intimidasi"
+      ],
+      "collectedAt": "2026-10-15T04:46:29.293606Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "ad104a6cb80b9e684ca69aaa",
+      "publishedAt": "2026-10-15T03:53:00Z",
+      "title": "Shih Hsin University dituntut lebih transparan, perluas kebebasan berpendapat",
+      "source": "Focus Taiwan",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1ublFaRmhISldrZF9UTzZLakRtRW14VUZId1hndF94bW1iUXY3UENJdkw5cXlMb0NfV2JSVkFQOWNhcDNfWXU0UUl3dDRmOUVQQXZsNi1KRzQzaU1YV1g0R0Jmcw?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-15T04:46:29.293606Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "392e281a630a1b2d9ca6411d",
+      "publishedAt": "2026-10-15T02:09:00Z",
+      "title": "Laskar Panglima Nanggroe Sesalkan Penurunan Paksa Bendera Bulan Bintang Saat Maulid di Pidie, Minta Presiden Tuntaskan MoU Helsinki",
+      "source": "NOA.co.id",
+      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOTWRmWDgxSjJadk9RbFczRW84S1VidGs4ZGhVbW9VMjhzYzNXa2hQenNGOTJRTi1jTzYwQnB6Rzl4cDFqbllrUmdOYk1sa2dya3pMXzFzQXVGNVhiNXhnZU5DSG4zdDlkeUNvNjdGOWQ4cEhzRE9OcGcxMHhnUmtWVktCMGswTDcxcjM2RjZ5aWNaV0NQTVV0dlVMOEZtNGpJVkd6dXJZcWdFVFJOSkd5YmJLT1hrQlFDTmFXX2xkcm83V2JJQ0JSOTVnY3hRaGZqaGJqcTVSdFJuU0hEMVJSanVhVTVPei05?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "sensor_konten",
+      "subclusterIds": [
+        "sensor_konten"
+      ],
+      "matchedQueries": [
+        "Sensor Konten"
+      ],
+      "collectedAt": "2026-10-15T04:46:29.293606Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "505a06d15fd900710790ff8d",
+      "publishedAt": "2026-10-15T01:09:44Z",
+      "title": "Gubernur Kalbar Dorong Perlindungan BPJS Ketenagakerjaan Bagi Relawan Karhutla",
+      "source": "Media Kalbar News",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQR0VnbFFtMHNPLURVUFFFc3NraWh5ZHJCdHF1ZkpRVF9YMUUtTk1Xc1VNVEZvVU83b0JZYVlreFBRTG1TSzgweDBGUE9ob0daZVV3bU5PbVhLSFROUkNSalpxcmJMbDRZQUZ0cVF3YVBzR0dFeXRVa2hmMnhoeHNCb1JzYzVwUjBRMVB0MmQyUnR6QzRvSTQxS2xOUk1IRmY4LVBqVFYtcExobi1WVHJGZg?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-15T04:46:29.293606Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "e02703eaa34c2db3a06efcff",
+      "publishedAt": "2026-10-14T20:15:01Z",
+      "title": "Foto Artikel : Opini:Darurat Judi Online, Membrantas Pemblokiran Situs Saja Tak Lagi Cukup",
+      "source": "Kompasiana.com",
+      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOZm1XSlhtYTRxeUs4SnJkc2NkV3g1a285ZVM1cnNFVVE5aUtxbDRIQ3FwdjhCMVd4dElUUXJ1czJMYW5kWnJQUGpfQWtoVWZSRjllWU5ZU0xKOXBzRVB1VTUxWmlaUGpocFl1aXV5SjhoY1daNlNNRVpsVW5YaW9rcDJvWElpYy1Ea3IwNGtOQmhlZXJaU2ZGU3RVcDh2Z2d4NWJuSlNSLWx2TjBNZ1NWaHpZNUJFY1FlT3hZN2dOOUhNdWVPemtwQnZMRWNid2p6QXFUZ2k2ZVpTZ2dXU1VWUnB0MGxwcEZp?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "sensor_konten",
+      "subclusterIds": [
+        "sensor_konten"
+      ],
+      "matchedQueries": [
+        "Sensor Konten"
+      ],
+      "collectedAt": "2026-10-15T04:46:29.293606Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
       "id": "49068be4c3a71950a487716c",
       "publishedAt": "2026-10-14T16:06:19Z",
       "title": "EK LMND Pematangsiantar Kecam Dugaan Kekerasan terhadap Massa Aksi Cipayung Plus, Desak Kapolri Evaluasi Kapolda Sumsel",
@@ -223,6 +338,29 @@
         "Kebebasan Berekspresi & Berpendapat"
       ],
       "collectedAt": "2026-10-14T17:15:59.442287Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "423c56d82261e37c10d36f1d",
+      "publishedAt": "2026-10-14T13:00:00Z",
+      "title": "KorbanDugaanPengroyokandiMapoldaSumselPengurusHMILubukLinggauMintaKasusDiusutTuntas - https://linggaupos.bacakoran.co/",
+      "source": "Baca Koran Linggau Pos",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQc1JZZWV1MGFfeWZwV3BhVENaRkVFNllHREs4cGIxem1iS1Nua2pMTGhJUWhIS3cwel81YTgzLTVTbi1iakRNU1o5S0dhWTRLeGZDX2NRVkh1N1NGT1o5SGFmWVBBYnVqclFySnpmX0tUNy0wek1PRWNOYlZZVXk0dVZvQlV0R3kza1MydDRtR0M5R0RJTnB1QXI2aFNGLWMxSlVYVDFEREdjam5uT0J6MXh5ZWpNTUVHWGowVVM2SS1kbVhZNW5BMTdkYS1tRjQ0Z0JXMnJB0gHUAUFVX3lxTE9TSVpNTTBTdFpabmdfUUYzallOVjdHMURHVnJEa1pZdHJGYjJjLVpKS0M1bjFyZWFqTENsNlg0S3NuMVhDZjlBZkdaVkxfMHhKTEdsZlkzT1h6NU5MZkxxN2pWeGZQWkRrLW8tWVFCSGZCREFteEV5YWtmcXN2WjNTbXVBQVNEcUJ6b0c5VkFnQVNtZW9qRUJBQjJWUEtpZ3o5Qm5OR0lNMFNzUEMybzhEVkdlQ0VmNUtTNFBPZHZJRE90d1F4YzM2Q3dQQ2JFZTRSNS1k?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-15T04:46:29.293606Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
