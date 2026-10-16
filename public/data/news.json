@@ -1,15 +1,15 @@
 {
   "meta": {
-    "generatedAt": "2026-10-16T11:30:02.591918Z",
-    "lastRunAt": "2026-10-16T11:30:02.591918Z",
+    "generatedAt": "2026-10-16T16:42:51.387590Z",
+    "lastRunAt": "2026-10-16T16:42:51.387590Z",
     "startDate": "2026-01-01",
     "refreshHours": 6,
     "mode": "incremental",
     "feedsOk": 16,
     "feedsFailed": 0,
-    "totalStored": 2291,
-    "totalPublished": 2291,
-    "newArticles": 14,
+    "totalStored": 2296,
+    "totalPublished": 2296,
+    "newArticles": 5,
     "warning": ""
   },
   "clusters": [
@@ -136,6 +136,52 @@
   ],
   "articles": [
     {
+      "id": "d11f136501afd1d3cbe7617c",
+      "publishedAt": "2026-10-16T14:03:46Z",
+      "title": "Viral Dugaan Pelarangan Ibadah Jemaat GBIS di Batanghari, Pemerintah dan Tokoh Lintas Agama Gelar Mediasi",
+      "source": "Gaperta.Id",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQNEstWXI3elB6NHdmeVZzdk5Rd1ltc0FTRWk3cXlGcU5oajVqc2pmWWpMV2Q1RW9WREZ4Q2VSS2o5cG1mdE9sUEhya0N2Y3FlSjZkWFRzY3dSSGNRdXBtcjVNeXk0a2J3cDZZbGV6OVVWeU5NeFlzcU5oV3hLb1hfb2w5VXBYVnctUU5TTFd4T0h1UFFoTE9uQTJOUnJ3R0duTl8zRlhVSEVBS3JON3VuSG0wNTUzWjFSRDkxWDlYU093Zw?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_beragama",
+      "subclusterIds": [
+        "kebebasan_beragama"
+      ],
+      "matchedQueries": [
+        "Kebebasan Beragama / Berkeyakinan (KBB)"
+      ],
+      "collectedAt": "2026-10-16T16:42:51.387590Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "0f47e5512d60f442cd2e4e80",
+      "publishedAt": "2026-10-16T13:58:08Z",
+      "title": "Demokrasi Indonesia: Rakyat Bebas Bicara, tetapi Benarkah Didengar? Halaman 1",
+      "source": "Kompasiana.com",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNdkpRVnhEb1dOMjA5RVphMV9DbjZGUDNTUUhoOVZxZU1TRlZNQzJvYjBka1RMbkgzcnJueHBKMHNjR1R4UnVCNFo2aFgyOVZQcTllakcxTHl1cThGY0N4dkp1MjE5WC1fdnpRMndNcHpWQVBvdlRBYWlLdHVuTVZ0WUljQk9vTEtUZnQ5S1NSaHRDVjR2NFo5OFAtMTBEQWpNZ01yREpHYmFkeXExS3dHZVBZY2JhSzlTQVJ6eHNwaXRWcnFlSUJ1YmNTTQ?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-16T16:42:51.387590Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
       "id": "74f3a8cb6cac1ca4195e1cf7",
       "publishedAt": "2026-10-16T10:48:34Z",
       "title": "Tirai Gelap di Ruang Sidang PN Cibinong: Ketika Majelis Hakim Menjadi Benteng Pembungkaman Pers",
@@ -200,6 +246,29 @@
         "Kebebasan Berekspresi & Berpendapat"
       ],
       "collectedAt": "2026-10-16T11:30:02.591918Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "fa9f590d042c119a8539fd60",
+      "publishedAt": "2026-10-16T07:41:00Z",
+      "title": "Bebas Berpendapat, Tetap Menghargai: Etika Menyampaikan Pandangan Politik di Media Sosial",
+      "source": "Kabar Nusantara",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQRzNvbUR4NzBxRHA5YW5KZ3J4ZndzMFFSUHhmQW01WmtMQWVDLU1xbFNOYWpfM1JQOUhsVWlCMmdULUxfOXRmc2k5d0lIdjA5TzlWUDI4Q3dsQ0h3ZzdxUEw4Y01QcHRaVWFvMUIzcWl3OTVBWVFOYVg4clRQX2ZfdE5SaGxJekE?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-16T16:42:51.387590Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
@@ -2440,6 +2509,29 @@
         "Kebebasan Berekspresi & Berpendapat"
       ],
       "collectedAt": "2026-10-13T14:17:16.378974Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "387a9f6c25b4dc48256c59b2",
+      "publishedAt": "2026-10-12T13:21:32Z",
+      "title": "Polisi Tangkap Alfan Sulleh atas Dugaan Penistaan Agama",
+      "source": "bsinews.id",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA3dVVITFdpZ2hyUlNWd05zYTJuTHhYQ3RlcWFPTEQyV1h0OEhGWHgwVzd4LXNqOE1OVC1lM0pSaXZ5NXJELUlFNGt6RWpUalBXNjQ2SlpDNnlOQnlJUkJvUUY1alVzVVkyZ0R6OHNMTEZBRHhuTTZhRE5RaWZURWs?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_beragama",
+      "subclusterIds": [
+        "kebebasan_beragama"
+      ],
+      "matchedQueries": [
+        "Kebebasan Beragama / Berkeyakinan (KBB)"
+      ],
+      "collectedAt": "2026-10-16T16:42:51.387590Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
@@ -12240,6 +12332,29 @@
         "Kebebasan Beragama / Berkeyakinan (KBB)"
       ],
       "collectedAt": "2026-09-29T05:48:10.886913Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "fddfe07497e9b1e621945012",
+      "publishedAt": "2026-09-28T06:25:00Z",
+      "title": "Kasus Penistaan Agama Injak Alquran di Lebak, Ini Vonis untuk 2 Terdakwa",
+      "source": "iNews.ID",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNTkVKWV9rWXZ4endMMHZhdEdFcGhGOVJ4RFppMUJ0bXRCbEItcDNxY3l1bTh5VGZyT3Q3Rm8ycHJrY0dqLVZ0VDdUSVhuYnkzcHNtcnBVWkZzVUdPak95VGJjUWt2MW9LNGJaTzItbVBBY0VRQWFURWlvTVVPR2M3YndXT25vam5iV0tpS09SemQ4MWQ4U1BNYlZzUTItenBDTXhsLVJSdHhLX2lU0gGsAUFVX3lxTE1ORUpZX2tZdnh6d0wwdmF0R0VwaEY5UnhEWmkxQnRtdEJsQi1wM3FjeXVtOHlUZnJPdDdGbzJwcmtjR2otVnRUN1RJWG5ieTNwc21ycFVaRnNVR09qT3lUYmNRa3Yxb0s0YlpPMi1tUEFjRVFBYVRFaW9NVU9HYzdid1dPbm9qbmJXS2lLT1J6ZDgxZDhTUE1iVnNRMi16cENNeGwtUlJ0eEtfaVQ?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_beragama",
+      "subclusterIds": [
+        "kebebasan_beragama"
+      ],
+      "matchedQueries": [
+        "Kebebasan Beragama / Berkeyakinan (KBB)"
+      ],
+      "collectedAt": "2026-10-16T16:42:51.387590Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
