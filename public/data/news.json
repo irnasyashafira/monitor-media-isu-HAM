@@ -1,15 +1,15 @@
 {
   "meta": {
-    "generatedAt": "2026-10-16T16:42:51.387590Z",
-    "lastRunAt": "2026-10-16T16:42:51.387590Z",
+    "generatedAt": "2026-10-16T21:14:56.628240Z",
+    "lastRunAt": "2026-10-16T21:14:56.628240Z",
     "startDate": "2026-01-01",
     "refreshHours": 6,
     "mode": "incremental",
     "feedsOk": 16,
     "feedsFailed": 0,
-    "totalStored": 2296,
-    "totalPublished": 2296,
-    "newArticles": 5,
+    "totalStored": 2298,
+    "totalPublished": 2298,
+    "newArticles": 2,
     "warning": ""
   },
   "clusters": [
@@ -135,6 +135,52 @@
     }
   ],
   "articles": [
+    {
+      "id": "b144deb408de28ed20fac6f8",
+      "publishedAt": "2026-10-16T19:29:45Z",
+      "title": "Berani Kritik, Siap Diulik: Dugaan Pembungkaman Di Balik Kewenangan Negara",
+      "source": "Kompasiana.com",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOcDhJQWJ3bWNWeEVibXJOSjNkZ1c3b3JJczhqVG9tU0UyTzgwN1pOU3RnVGstcmFuT0hPdDNGMFJKLVk1ZkFfZDRZTndCUTJBSm9ZZ2MyWFdHcVJXOHF3YTFxWi0zOEdkYnQ2MjB4emFacFVLbXRIWU9wZzBqSXBwREtLY1dtam5UTEZST2JEVDFBbUVZa1M2LTltdnJrakhrbXVoSVJTU3N0WHE1c0NNNDZCM05FeUNSZGFYT1JWRmJLSzl1aWEtYlNnZ19lakM5VkhBS2dqeXA?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-16T21:14:56.628240Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "2d34be387e1bc25588b823b9",
+      "publishedAt": "2026-10-16T15:42:15Z",
+      "title": "IPR Nilai Revisi UU HAM Penting pada Tahun Kedua Kepemimpinan Prabowo",
+      "source": "VOI.ID",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOU2lpdHF5SVRWamFOMzBXN2F1a2lkSUMwcG1SS0xxR1Q3bTJuUG5yYzFXTjd2MlNIejhIV1RqS1NLc3VRSkRfTm50WC1lWml2N2duU3JDQmlhX1J3dDdEa3BMbW80c0VrNGZ4VDE4aFhQODBwZzVxNWxneXNoSlE5c3M0Tl91alliWVk2WjJpM2dtS1J3bDdsWVpkY9IBmwFBVV95cUxOU2lpdHF5SVRWamFOMzBXN2F1a2lkSUMwcG1SS0xxR1Q3bTJuUG5yYzFXTjd2MlNIejhIV1RqS1NLc3VRSkRfTm50WC1lWml2N2duU3JDQmlhX1J3dDdEa3BMbW80c0VrNGZ4VDE4aFhQODBwZzVxNWxneXNoSlE5c3M0Tl91alliWVk2WjJpM2dtS1J3bDdsWVpkYw?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-16T21:14:56.628240Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
     {
       "id": "d11f136501afd1d3cbe7617c",
       "publishedAt": "2026-10-16T14:03:46Z",
