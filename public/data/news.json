@@ -1,15 +1,15 @@
 {
   "meta": {
-    "generatedAt": "2026-10-17T10:50:06.163608Z",
-    "lastRunAt": "2026-10-17T10:50:06.163608Z",
+    "generatedAt": "2026-10-17T15:39:23.197136Z",
+    "lastRunAt": "2026-10-17T15:39:23.197136Z",
     "startDate": "2026-01-01",
     "refreshHours": 6,
     "mode": "incremental",
     "feedsOk": 16,
     "feedsFailed": 0,
-    "totalStored": 2313,
-    "totalPublished": 2313,
-    "newArticles": 9,
+    "totalStored": 2319,
+    "totalPublished": 2319,
+    "newArticles": 6,
     "warning": ""
   },
   "clusters": [
@@ -136,6 +136,52 @@
   ],
   "articles": [
     {
+      "id": "02ecebe31a598cf4cc52d7a9",
+      "publishedAt": "2026-10-17T12:53:29Z",
+      "title": "ASIA PEKAN INI: Pembungkaman terhadap media, penangkapan terkait agama, dan protes warga",
+      "source": "ucanews.com",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQVmgwSU1VVE0xaXdhelNDcmdoUGZJV2ZxLXBaS253ZXp1WWExcmZLdkJvSjJxSkxUWUdwU3FJVFBtaG1pbnVCTG9kbmV2MlhZdF9YazN0bFNmZmZJZ1E5UWtHTlNyZGhocnVYazR6SklyaUlxdEo5OUc3dmdnU20xb1BKVDVpdzNyWExNeUwzT3BBenFTbmZBbUtCdGdBY2Z2OG1vRV95QTVvVjZibnN1VVBvQjZkV2Vua25ERUlnVjk4V0kzSEE?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-17T15:39:23.197136Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "de22f7f0a9c24080981ab8cb",
+      "publishedAt": "2026-10-17T09:40:54Z",
+      "title": "PBH Peradi Deli Serdang Nilai Pengembang Pesona Indah Cemara Lakukan Upaya Pembungkaman Pers, Periksa Direktur PT. GMC",
+      "source": "Aktual Online",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxObDNNamtzelNJNktVc3N1VkNOU19Qbzg1TndSbW01Ry03alhjVE9Ba0pBbTk5R29HZzB0d2x6ZlUwYVFCdElZLTdrVHJwaTY2X3cxYU1YRHBSZnpNWURfYjBIUTB3Tkx6WVNoYlFJMlJhT0hOVXZEdHpWaUp1OXpEV0Q1RlZsOVV6Zklfd05tZ3BWRFZXbXJFREVLRGVmUDFmdEpFdlZkNXdmX09qc0hmUGp0cEQxcC1wdW1PWXNFQloxQzdreWpCNUdzWHRvcGU0RUx1YXRRbzgxQnNa?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-17T15:39:23.197136Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
       "id": "0f21561ae183cfe405fc49df",
       "publishedAt": "2026-10-17T09:11:54Z",
       "title": "Fenomena di Kampus: Antara Konflik dan Anti Pembungkaman Aspirasi",
@@ -251,6 +297,29 @@
       "reviewNote": ""
     },
     {
+      "id": "fafe0465949598b1b9224d9d",
+      "publishedAt": "2026-10-17T01:58:14Z",
+      "title": "Fenomena di Kampus: Antara Konflik dan Anti Pembungkaman Aspirasi Halaman all",
+      "source": "Kompasiana.com",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOc0JpVS1ZT2tCSldoUGZlbm1CV0Fqc09HeHVKcms2S1VQTFpyMEc0ajJBOFlyaXExSnB6QTNldTJadnRDYktRYjlqQlNES1NOdVBmaThTYVYtZ1pLUjBidXd0Vk45YTRmMWdkY0FCLXNsYTVhSFN3ODdGVHdydXhCaUNXZE1hb0E5ZDBhMG8xODQya2h4WDdMRGNEQ0t0QkdWd3BHRl8wc1FXeUtEQVhaWWJWUGdfR0NHRXBlbHl2blAxNXZhQW9yZ1lCZlNDTU9tRWc?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-17T15:39:23.197136Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
       "id": "3dab6f49319cc606279b9c10",
       "publishedAt": "2026-10-17T01:58:14Z",
       "title": "Fenomena di Kampus: Antara Konflik dan Anti Pembungkaman Aspirasi Halaman 1",
@@ -320,6 +389,29 @@
       "reviewNote": ""
     },
     {
+      "id": "b248a01373ea32afa2905c7d",
+      "publishedAt": "2026-10-16T20:16:09Z",
+      "title": "Aksi Kamisan Ke-898 Soroti Pembungkaman Anak dan Krisis Lingkungan",
+      "source": "NU Online",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPZl9ZZ2I2ZTZyYk1Bb1JSX3M2WVFMTTd0Wkdfck9Db1p3RklhVFZ4SDB6bjIwWlVJZ0g0VW5rX3NEZm9mZDdqRGYzTHBqVm91QWU4VDJoNGdNcVl4Z1ZPd3BEeE5QV2hpZkdxamlUQnJVRXNYUWtjX3BVRDhpU3pHQjNoWlhqV1FIaHBDZE92eXctbHdJQ3J3a1NfbV94YjVaeDFXVdIBqgFBVV95cUxQLUNWNkxLeTNzc1FScXNGbWpsWmFyaFhKOEZnR1hON0VkelBrMmhSdldkYnlGQ0UzNTVlb1lLWWQ2MDRrT3FsYkFjNmV0X082b204UnF0RUpCT0NWZzFnekhoWXVtZVRhNEtnSURfaG5rcWNuc2s5ZWlKV1cwRWxZVE9wM3FJTjNnMy1sczMwUy1rUGl6U0NpYk9qcXM0YlRsTEtYV0ctOUtKZw?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-17T15:39:23.197136Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
       "id": "b144deb408de28ed20fac6f8",
       "publishedAt": "2026-10-16T19:29:45Z",
       "title": "Berani Kritik, Siap Diulik: Dugaan Pembungkaman Di Balik Kewenangan Negara",
@@ -338,6 +430,29 @@
         "Kebebasan Berekspresi & Berpendapat"
       ],
       "collectedAt": "2026-10-16T21:14:56.628240Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "1810c63536d4828f061d0c55",
+      "publishedAt": "2026-10-16T19:07:25Z",
+      "title": "Akademisi Soroti Gejala Pembusukan Demokrasi yang Kian Sistematis Sejak Era Jokowi ke Prabowo",
+      "source": "NU Online",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNMy05R0lsRkptSW1LRkd5S2dRTFJwSUxNTHVoUFpQdldvQVIteEt4eXJMcGRoRzVGY1lCci1CSno4X25YSXJzeWFWc0ttRmJfbDRpa0hCbUZvZkMzVldXYmY5UlRWaDFIbEt1SjMwM1FJUnJkZ3hkTDBkRDVrMG1ieW51UXNUdk1heE9VbEpya3FLN01ZNVZqM1J5ZjhjS0xIbklNTThjNDBRN2FwZ0JGakxOcGtHLVRMODJXcjVzbXhVUDhaS0hjWtIBzgFBVV95cUxNX1hXcWEyNkVCeTJWWU9BYm9oX29rWlh3M1RCTjg4TW1iXzNtV2dGbWxwUi1kNzdXQWw4UUVNRHdtTlBsOF95XzJhdE00MWFHeGJ1QnJwMWtoU3NrUDhmNjRsYVd4Q3ZXRlkxQVU1bFphR2lhbWlzemg4cktKTHFRNUJGdi01cW1uakFpSGUtUk5lR002LV9hc1ZZMFptaDk2SlZQLVJ0Z1gybHJ1ZTRqdFZsaWxDUlNSSlFCOXEtU0k5UldLS2MyZ3lua0oxdw?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-17T15:39:23.197136Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
@@ -50716,6 +50831,29 @@
         "Kebebasan Beragama / Berkeyakinan (KBB)"
       ],
       "collectedAt": "2026-09-07T12:40:02.870233Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "eec4206aed9b4c97de266a49",
+      "publishedAt": "2026-04-16T07:00:00Z",
+      "title": "JK Kembali Dilaporkan Terkait Dugaan Penistaan Agama ke Polda Sumut",
+      "source": "news.okezone.com",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPOWRTV1RKbTRGM1h4WlgyYUJSTExmREJMMGU5MHF6X0VlUlB4ZlNHdFcxWVdHZXRlaWhQUEFCeGZpY19BeGhkbHVmOVR3TVYtV3BLdzJUX0NwbGNZaDQxcF8zNlNpUDNPZUlIUDdvTDVMdXh4ZGpVd01vMzlRS1VSdG4zRGZSZkRWbkN2V19HTWVCYkYxREZwZGlIZXN2SW1KMkliTTRqcEZCcWk1SlNOcEhZMExjSndKa2pLedIBuwFBVV95cUxQdmVuVEp0YnhkOTZjR0pkRl9jaXBMNkhjMV84SHZ3YTZLc1Y5QlJ4T2RjanBnRlJmUmVxU01qdWRjbnktY2s0ckZuRUgwNGhnQ1FSa0VtckxabmZiOG5YeEtIQnNpS0lGbHZXVVFFY3c2QzN0SlByNHh0X0lwT3BGZU1zd0lycjlhSGU2Zk9zOFZlMUl3M0pyZjBCYnM1dTZseGJUR1RySV9ReHNWdFhCRWk2ZnkwaFlKY1ZB?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_beragama",
+      "subclusterIds": [
+        "kebebasan_beragama"
+      ],
+      "matchedQueries": [
+        "Kebebasan Beragama / Berkeyakinan (KBB)"
+      ],
+      "collectedAt": "2026-10-17T15:39:23.197136Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
