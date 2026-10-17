@@ -1,15 +1,15 @@
 {
   "meta": {
-    "generatedAt": "2026-10-17T15:39:23.197136Z",
-    "lastRunAt": "2026-10-17T15:39:23.197136Z",
+    "generatedAt": "2026-10-17T20:39:36.077735Z",
+    "lastRunAt": "2026-10-17T20:39:36.077735Z",
     "startDate": "2026-01-01",
     "refreshHours": 6,
     "mode": "incremental",
     "feedsOk": 16,
     "feedsFailed": 0,
-    "totalStored": 2319,
-    "totalPublished": 2319,
-    "newArticles": 6,
+    "totalStored": 2320,
+    "totalPublished": 2320,
+    "newArticles": 1,
     "warning": ""
   },
   "clusters": [
@@ -154,6 +154,29 @@
         "Kebebasan Berekspresi & Berpendapat"
       ],
       "collectedAt": "2026-10-17T15:39:23.197136Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "4d76d3cbf769bfc22bfa23a8",
+      "publishedAt": "2026-10-17T12:10:00Z",
+      "title": "Polemik Ijazah Gibran Untungkan Prabowo, Mahfud MD Sebut Kritik ke Presiden Berkurang Dua Pekan Terakhir - Poros Jakarta",
+      "source": "Poros Jakarta",
+      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOdGpLNmEySzJPaE42X282Q2N0LVhNWHNGLXRxVEhFdjM3aGQtYk1oWWxLbHFhM2tfUk5OQ3JSblNaZ0RXbmctUmZQc3FiS3lRSzZCSWQwZmliaEhiSDJvc1Z6Uk5XSmo2ZjJrV2l2TlRURG9oZU1ER0tLUllXTFpyLXhycmwtVlI5cU9pOG1TY1pPNTlmNGJXS2g5ZjZxS1BicEpDTFZvTy1mS3lzUC04SXFrLU9Wb2lLNlRycktZU1A3eS1yR2ltd0pJdjVrTExtV3hTY3Q4SDFrYzBsckdtQU9qSlpfNTd4d19kSdIB7AFBVV95cUxOdGpLNmEySzJPaE42X282Q2N0LVhNWHNGLXRxVEhFdjM3aGQtYk1oWWxLbHFhM2tfUk5OQ3JSblNaZ0RXbmctUmZQc3FiS3lRSzZCSWQwZmliaEhiSDJvc1Z6Uk5XSmo2ZjJrV2l2TlRURG9oZU1ER0tLUllXTFpyLXhycmwtVlI5cU9pOG1TY1pPNTlmNGJXS2g5ZjZxS1BicEpDTFZvTy1mS3lzUC04SXFrLU9Wb2lLNlRycktZU1A3eS1yR2ltd0pJdjVrTExtV3hTY3Q4SDFrYzBsckdtQU9qSlpfNTd4d19kSQ?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-17T20:39:36.077735Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
