@@ -1,15 +1,15 @@
 {
   "meta": {
-    "generatedAt": "2026-10-17T04:33:28.046553Z",
-    "lastRunAt": "2026-10-17T04:33:28.046553Z",
+    "generatedAt": "2026-10-17T10:50:06.163608Z",
+    "lastRunAt": "2026-10-17T10:50:06.163608Z",
     "startDate": "2026-01-01",
     "refreshHours": 6,
     "mode": "incremental",
     "feedsOk": 16,
     "feedsFailed": 0,
-    "totalStored": 2304,
-    "totalPublished": 2304,
-    "newArticles": 6,
+    "totalStored": 2313,
+    "totalPublished": 2313,
+    "newArticles": 9,
     "warning": ""
   },
   "clusters": [
@@ -136,6 +136,75 @@
   ],
   "articles": [
     {
+      "id": "0f21561ae183cfe405fc49df",
+      "publishedAt": "2026-10-17T09:11:54Z",
+      "title": "Fenomena di Kampus: Antara Konflik dan Anti Pembungkaman Aspirasi",
+      "source": "Serambinews.com",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNeFVyM2NuNVk1NjBlTUJUUy1wd0JoQTdHLVFKNlFha0dCMkxpNWhNQVJDWUkyTUFvVXVzdG9JOUpTSHBhbTBVcWN6SjBXcFc2OTRJNzNMQkROdVRLNi1ic0ROX2x2QTUzd0RFU1FfRktrVGR0cUsyeVQyZ084RlphSUtMcDZsbTRmbjYzQVhjZDYwTmRHT2xGR3FPcV9IVFo1b1RTN2tkSkQtUQ?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-17T10:50:06.163608Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "f560284b098e2355694e7f8f",
+      "publishedAt": "2026-10-17T08:22:35Z",
+      "title": "Rekomendasi Film Horor Indonesia yang Baru Tayang di Netflix, Cocok untuk Tontonan Akhir Pekan",
+      "source": "Jurnal Gaya",
+      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQZGotSnEzem9KamtFWENpb1pEWk9xdzZLeFQ3T0VyNElSNW9Ec2RYTDJRN3R4X3VPcVc3WDNnLUg4a1BaeFgwa2Z0YkUzeXpEejJpWEJYRHM2VmM3WmdKUnpiUUNuODVIVWF0Q0dFcjdmQjBNTjZtMFB4VndmUkROQUZyQXFuQ1JiX25UTGhFZlpZWW5qazBoVHVZLWtaTVZORDhTVXlaSnoxVHp3Q0JYTFZLbzVxUHl4eUJjeG9fblFwUkVaLW52UjZGQ3RjblBHMVYxOUlYUlRYSTNFaURiRkRQMi04cjdYRmRkVXNZSDPSAfYBQVVfeXFMTjd4aVREUTBVemZseXhLY3lPWmZuZzA4TlcySG1xWDlIWnpsY2p0YllwNU5NMUdQc2lKVlM2X0ZxUkhoRkEyMjctMHdxTldPVXVyNjAtVUowYk8zYzdrLUhtczdoMGtWc2dndXB3YXZjN1JUaTI5RmJmVHY1QVNpb1Bnay13STlrN1l2TlM1eGN0XzdXdURfZzNVeE5LbVNyUkpqdktQajUtSnF6WWRKWXAyWTltcHJYS216WldIb3dBRlFGRkN1dWN6Q2l3RVhJYUprOXJ3QkNIandHMlFMMWVKRFBad2x2VDJqUTJSNGtwbHVVMmZR?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "doxxing_intimidasi",
+      "subclusterIds": [
+        "doxxing_intimidasi"
+      ],
+      "matchedQueries": [
+        "Doxxing & Intimidasi"
+      ],
+      "collectedAt": "2026-10-17T10:50:06.163608Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "5297dd07e3592f7cf16353f2",
+      "publishedAt": "2026-10-17T05:36:14Z",
+      "title": "CSD Pertimbangkan Sanksi untuk Javier Tebas Usai Kritik Real Madrid",
+      "source": "SuaraGarut.ID",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE53THpfTkFpX1NMSF9lUm9xTlBIdm04RThEZVFId0thV2sxNFR3eUhBdzhXYkJMVG50cnZWNEIwS0ZZek1YMUpQUnM4Y1pQNWRkU0dPRi1VMEZPTm9yZkVpR1NEejBrb2N2?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-17T10:50:06.163608Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
       "id": "9f994b807f5cc6fd5748e0f4",
       "publishedAt": "2026-10-17T02:58:18Z",
       "title": "Etika dan Privasi di Era Digital: Antara Kebebasan Berekspresi dan Perlindu Halaman 1",
@@ -159,6 +228,29 @@
       "reviewNote": ""
     },
     {
+      "id": "b79bb3cade727e936b8c9c2c",
+      "publishedAt": "2026-10-17T02:20:49Z",
+      "title": "Gerakan Nurani Bangsa Ingatkan Pemerintah Jaga Demokrasi dengan Menjamin Kebebasan Berpendapat",
+      "source": "NU Online",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPN0Z4akY2R3YwODhSM3A2R0JRaG5BSjFvY0dBeFlKa2FlcVk1bmNqb2tLLTUwNVRCYk5CTXNyXzdSY3VhTnJyZW9RMzZHNUxIbE11N0ZlaHZnZFNHYjN0U2JkZGs5QU1RTkZqemIwTGVEankzS3NmelRRNW1UQWpjLUdMLUY1UUVtcUZYTUM5NnRIY1lOM0IwUGFjRU82ak1PVHdiazJLa1FfZ3ZmTHlpZlFQRWk2N3d6RjJDaEFhWm1jbGF5QmstWlZR0gHPAUFVX3lxTFBfT1NrdTdjMnBoWm9Na2p3YW9VcEk0TllnX3hKYUI3eElFY1d0RnpTdXlDRGpKQjZVdlExWE9sbmRUbmhHMTZtenV2c09YNmV5cDRQbkdMSkRMdmlLYVpwWDRyYmw1NkEzdU8teUZ0QkRCRlZ2TkhTT3otWjdPc1ZUZjFEckpDaEo2T092VFI0RVFEZEVXaUpZeHZFWGFCYjMtVG45TWZnWHA3S2Z2T0NGbmxScDdkM3YtaExIT0FoME5RY2hJVjlodjBocjdkWQ?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-17T10:50:06.163608Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
       "id": "3dab6f49319cc606279b9c10",
       "publishedAt": "2026-10-17T01:58:14Z",
       "title": "Fenomena di Kampus: Antara Konflik dan Anti Pembungkaman Aspirasi Halaman 1",
@@ -177,6 +269,52 @@
         "Kebebasan Berekspresi & Berpendapat"
       ],
       "collectedAt": "2026-10-17T04:33:28.046553Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "3f570e52c1bbdaea6611e8a9",
+      "publishedAt": "2026-10-16T23:24:34Z",
+      "title": "Foto Artikel : Berani Kritik, Siap Diulik: Dugaan Pembungkaman Di Balik Kewenangan Negara",
+      "source": "Kompasiana.com",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNRFNfalJuaU9EQmJBLXBuN0wxNVl3aDJac3BiNUIwby1nTi12cjU3bDlTaUdlbWl1eklZUFJaaktneEhmN1liTW1lYW41dHVBcmlyMTEyeE1nVjhadG04TzdkQ0dOaFU0OFV1TURYOGtvVXMtOVV3X1J0bVRGTmlOYlRHUDJNOEdxTjduLUpjd2xuU2EzS2lULWpjZVNLYjBiYm1UN3FLSmpfdUZzaXJPSEN1Y202MWNiRlR5RmZsSVNHTTFzRG9rTmtjcTE0WDFmTFNnVUhSdVBnX1FfM19tcw?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-17T10:50:06.163608Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "bb6f056376006ac1605cec9a",
+      "publishedAt": "2026-10-16T22:46:46Z",
+      "title": "Kebebasan Berpendapat Tergerus, Ketua PBNU Soroti Sensor Digital hingga Serangan terhadap Kritik",
+      "source": "NU Online",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQWHBZZ0NNM0R6a2NqSUNpYWRwYjVMWDBHMDVhQVFURVhyRE0tcndrbWYtVmU5NkNLbDkwdWoxSWxrZFNuREpMb2ZpUF91YkRpeXNvQzhaRW1VM1dwSExjb2FtRF9wdkpRbUM5d3RNRE56aUxaeHdmWmF1RWpVVHVXaXpKYXdBak0ycUhsT2hrMEliYzVCYWdqMHJuUy1aY1h0cjQ2eklEQnRnemhWa19PMW5BYTVHdzhveDQ0TVRIR3RrRjVBQ3R0Zk5La9IB0AFBVV95cUxNV0c0NnZSSkM1QkpQYno5cF9YSnpITkRGaGwtc1B6QVB1cThNR3ZZRkFVWVNfWXdhR1ZaNzBRTXlrcVFGTzdpTUhVV05SNWNTekxsdG4wU3JXN3UyY1l0YzVFaDF0Yl9HQTRvQWF5cXBoUXlrV18xaHd0OTRuT3JWSjQyOXlqRHIwVHZDZWhNY0sxMHpoVFd4N1JUVl90dDdmRlZYZFdacTVPajhNdWFuU1dva2ZNLTZ3WU1kV04tZGktR0lpanMzZk5EelNRa2s4?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-17T10:50:06.163608Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
@@ -407,6 +545,29 @@
         "Kebebasan Berekspresi & Berpendapat"
       ],
       "collectedAt": "2026-10-16T16:42:51.387590Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "46734fd8cd0507233159c8f6",
+      "publishedAt": "2026-10-16T06:27:05Z",
+      "title": "Tantangan Masyarakat Digital dalam Interaksi yang Abu-Abu diEra Globalisasi",
+      "source": "Kompasiana.com",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNZkFFOEZrWEpwbTVHTFE0VUx2VDl5b1RmektzVDlMUFNuRldaNWtfQkp3dDhZZ0VkeHRvMFZMcGk2cEIzOExDOEVxMDlpYnFxZy1iLUFuSGhzalVlODJjS29qUkRXWXBvQkRhMjNXQ0NnWHpsZGRINkxvS3hSaFhFSmlta29QaE11a3RLNEROc2p1endZRXdJQlM2b0xWVmEySEp0TWVCYXY3WjF6MlVCbEVWN3Zsb2tsSVcxNmRLOXhmdUJscWhKZ0JJaElVYnNZOHhJYnZUUUY?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-17T10:50:06.163608Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
@@ -1447,6 +1608,29 @@
       "reviewNote": ""
     },
     {
+      "id": "799b64b637fe3104f7bcfb55",
+      "publishedAt": "2026-10-14T08:00:00Z",
+      "title": "Maulid Nabi di Gampong Sagoe Pidie Berakhir Ricuh, Dua Warga Terluka »",
+      "source": "dialeksis.com",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOc0pwSFJ1WjB4X2duVnBOY1pXb05qdFg5Qk5WNExPeUQ4NEF1Yi1WcDZSMEE4RkNzcnZRb3VOMThMM3ZsLUI4eVl2eFl1MmFfSktqdzlfRlJlbFZ2SHZreWdqbWhHMEJsaG5XdktPd0tqZFBadjczMDZDcXFMZXhOUERlTk5tdUFybERYODNRRDFoLWxVallVcjZlTdIBoAFBVV95cUxQekptOTVIWHVINjhwZEZkdTJ5SHBUQjFER2pjVEJMRFlIc2dVYTNOQzJONU5NNWI1UG96RVlfNXdRWDdIZ3ExQmFvdG5oTk1Pa3ZOS0lxQTh3dExlWFpiRjh1MEtOTFduVHVkZE5FMVJPVEVGM0xsNkVvUkhQNFFsSlprazhGWW5uSEM3VmpJM2ZFVFl3eXhFRmlEMmdlLUpE?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "sensor_konten",
+      "subclusterIds": [
+        "sensor_konten"
+      ],
+      "matchedQueries": [
+        "Sensor Konten"
+      ],
+      "collectedAt": "2026-10-17T10:50:06.163608Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
       "id": "8fadf3249b0f4b7c470f8020",
       "publishedAt": "2026-10-14T07:45:26Z",
       "title": "Ketika Algoritma Dipercaya Melebihi Kiai",
@@ -1465,6 +1649,29 @@
         "Kebebasan Berekspresi & Berpendapat"
       ],
       "collectedAt": "2026-10-14T11:58:52.120701Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "71674a05ee6c74c8938c425f",
+      "publishedAt": "2026-10-14T07:38:43Z",
+      "title": "Ini Daftar 27 Situs Kripto yang Diblokir di Korea Selatan",
+      "source": "Dunia Fintech",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1vdjhyZWdOLV9SN2czWjFhMHZSeVlpTldXdnVKOWlvcDdrQUxIQUZ5YTN3RlN5bkp1ay1rc2tkclRSQ18zOTN4ZlgwQUdsMGdNNU5EQWdLRXMwdUczMEQ4TWV5REZNc0xQVzFNY1BfNm5qWDjSAXNBVV95cUxNb3Y4cmVnTi1fUjdnM1oxYTB2UnlZaU5XV3Z1Sjlpb3A3a0FMSEFGeWEzd0ZTeW5KdWsta3NrZHJUUkNfMzkzeGZYMEFHbDBnTTVOREFnS0VzMHVHMzBEOE1leURGTXNMUFcxTWNQXzZualg4?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "sensor_konten",
+      "subclusterIds": [
+        "sensor_konten"
+      ],
+      "matchedQueries": [
+        "Sensor Konten"
+      ],
+      "collectedAt": "2026-10-17T10:50:06.163608Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
