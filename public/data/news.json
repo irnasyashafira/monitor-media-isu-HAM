@@ -1,15 +1,15 @@
 {
   "meta": {
-    "generatedAt": "2026-10-16T21:14:56.628240Z",
-    "lastRunAt": "2026-10-16T21:14:56.628240Z",
+    "generatedAt": "2026-10-17T04:33:28.046553Z",
+    "lastRunAt": "2026-10-17T04:33:28.046553Z",
     "startDate": "2026-01-01",
     "refreshHours": 6,
     "mode": "incremental",
     "feedsOk": 16,
     "feedsFailed": 0,
-    "totalStored": 2298,
-    "totalPublished": 2298,
-    "newArticles": 2,
+    "totalStored": 2304,
+    "totalPublished": 2304,
+    "newArticles": 6,
     "warning": ""
   },
   "clusters": [
@@ -136,6 +136,52 @@
   ],
   "articles": [
     {
+      "id": "9f994b807f5cc6fd5748e0f4",
+      "publishedAt": "2026-10-17T02:58:18Z",
+      "title": "Etika dan Privasi di Era Digital: Antara Kebebasan Berekspresi dan Perlindu Halaman 1",
+      "source": "Kompasiana.com",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPRVA4MEQxOUN5TEUxUXRVaTlnbWNwS3hRZTNmOGFQeHViR0dDUjhxOE9SS1gycExnU2RBNTMwZFB3MWNYMXVPOFM1UGQyY1Z4aU8xU2FPSFBSRjN4NTJZMXFXclp6TkdLdWhoWldtQmN3Ql9pc0hGaTh1dHladHJmb19oV1JCWnFpTmwyaXZPellOMUs4SEZpMGJNdEstV0J2RVlNWkhrVUhVMnZ3VkdNQVVCd0ozNVVlazh4TkIyV2dkZjItMEp1aDJralNvbU9JcjR6a0Nn?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-17T04:33:28.046553Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "3dab6f49319cc606279b9c10",
+      "publishedAt": "2026-10-17T01:58:14Z",
+      "title": "Fenomena di Kampus: Antara Konflik dan Anti Pembungkaman Aspirasi Halaman 1",
+      "source": "Kompasiana.com",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNY2NZZFdNejBHZDU2THp6RXlDeEt2MnV5YlpvVTlaMnlCR09qS1Z5LTFpMHpFYTRPN0JzOWhCOUhlMnpYNlhpS2VsaThqWUdSX2gzSEM3TXQ5SHBPN2o2dTdzUS1zaXAzaUtkQzQtSmVkcUJDcG5JWGYwRlEwUjFLbHZZeTJEMDd6azUxTUpnSUdxQ2VQaUdMUVc3OTl6TlRTYm5rMDVoYnZmNDUtQm9nbDk2dkpTV1Zrd1BCVEFQY1BSUHpTWkE?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-17T04:33:28.046553Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
       "id": "b144deb408de28ed20fac6f8",
       "publishedAt": "2026-10-16T19:29:45Z",
       "title": "Berani Kritik, Siap Diulik: Dugaan Pembungkaman Di Balik Kewenangan Negara",
@@ -228,6 +274,29 @@
       "reviewNote": ""
     },
     {
+      "id": "a07cea064fa284ba8236a6d3",
+      "publishedAt": "2026-10-16T13:18:35Z",
+      "title": "Aktivis KontraS Andrie Yunus Disiram Air Keras Usai Hadiri Siniar",
+      "source": "NU Online",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQZUdlemVlU3BSbHZkdkUzN0YtSmRpMlZVTWVHWFk4S0luYXpQcm9xSVkzT2d3aVYyVnp3QXhReXczQjZseHd6b1ZJaXI3aEsxU0d2U3ctSDhDc19CQm5BaFhzdm1nT3hFcHZ1b0J1R0hJWHFUNjBpcUNnQWducWY3V3J5M3liak5DSXJxcmUySlZXWVNWSFlHc2loX3BFeGJIN3NB0gGoAUFVX3lxTE5makNnQ2l4TmpIVnZSbVdsWTFqOV9NdmRaQXkwcTdLOGRBX3NTYUpzenFpNEtTNjNZRFRjYmg3Y01MTWR5d2lKSXdwOUdDVVk3b3pYMFFHbDhqVXYzTzJERWFRRkxFMnpZZ0VLZDNmdnhQNVF3S2duT0pGRkF4dUxYeTJTR3A2cnVLUnlnUE05TjNXWVBkNDNINEJLemtaYV9xUDFWNmVxeg?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-17T04:33:28.046553Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
       "id": "74f3a8cb6cac1ca4195e1cf7",
       "publishedAt": "2026-10-16T10:48:34Z",
       "title": "Tirai Gelap di Ruang Sidang PN Cibinong: Ketika Majelis Hakim Menjadi Benteng Pembungkaman Pers",
@@ -246,6 +315,29 @@
         "Kebebasan Berekspresi & Berpendapat"
       ],
       "collectedAt": "2026-10-16T11:30:02.591918Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "8e284bacea63235c6b55dd36",
+      "publishedAt": "2026-10-16T09:17:03Z",
+      "title": "BEM PTNU Soroti Kriminalisasi Ekspresi Digital dan Mandeknya Penuntasan Pelanggaran HAM Berat",
+      "source": "NU Online",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNV1lIMXNTaWZCVUtIaVowUl91S0FzT0tLSGZkOWw4c0N3YUxVZnlaR2JpY0d2cFA2X3FSTS03cmFGQW1aM0oybWNlc2tPUy1UNnB0SDl3ZmJjY0JXd1Z0VzBEbG5uUjFxU3BNdlJFUjJNaFFSWjExdzhOWFNTblluZjNPTXZVRzU4ek5WV1ZpaXpNd3VrdzQwb0ZkTEhRakV5Q08xUUpoUHNtMHR6anV6MkI2anAxcHZ2RzNiNGlSYU1uc096MVpJYtIBzgFBVV95cUxQanFYaEtnVHcxSWlTX1ZBOWFtbGh5UnZaTlVTdTYyR0tTNWVjM1BTa2xOMGk1RnZmTEhJRldDVlo2ei02OU9FdnRENEtnaHgxTmNtUTRiME9vLThPc05SRzFqQXBmNmVsU3dpVmxsem1nT01MUmFDaGdPNWdpT3o5TEN2WHU5OC1FSWVLaDB3cHhyLTBNejZjYlY5cENjMmd5OFJ3M0ptaUlwUjNrRHZ2ekd5THNoaWFGSFNENkphckFrZXE4Qk52UE5IeHEzZw?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-17T04:33:28.046553Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
@@ -315,6 +407,29 @@
         "Kebebasan Berekspresi & Berpendapat"
       ],
       "collectedAt": "2026-10-16T16:42:51.387590Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "60a185637af55588f60718a4",
+      "publishedAt": "2026-10-16T05:07:44Z",
+      "title": "Hak Digital dan Kebebasan Berekspresi Jadi Fondasi Demokrasi di Era Digital",
+      "source": "NU Online",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNWXhXTjdnSmpHaDlDeWluUVNVcVYxM3p4aWVMU196N1ZwWS1MYjBjOF81bERkUGZrcVVueWZSQzVMbm5PdUppaFhCZUE0SEp0OTRQSU9aaWpCb0FJVlk4LS1oRXhOanVKb1pWQVdjWjJnRXVEVG12OGZrM29oQVI4anQ4Z29tR2J3MDdQQTVPY19DU19yam01ZmZGS3ZmeHNCbm5NWHF5SFV1S1B4QmFoStIBtgFBVV95cUxNWFEzSkpteGRQdzE0bTBDeUhYQXpiREFQRUxWZC1vWkJ6MFNxRVNmX21vWlV2QzNCSl9QajZsRndRbVV4RzdyYXdvckdqaEktUXAtRmJyeXR2dHBZdkdrNmVoeFJVS2ZzU1RPM2dvSUI3X25OM242bjEwMGFueTI2NkVmODZQVmVqX1BpQUl3dEk4dkJMRVFqeVludHlsdjNBUC02cXFZRDIzZmFUV1l3ajhtd01MQQ?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-17T04:33:28.046553Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
@@ -40129,6 +40244,29 @@
         "Kebebasan Beragama / Berkeyakinan (KBB)"
       ],
       "collectedAt": "2026-09-01T21:05:00.328305Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "58feace603c7eeb56f025d41",
+      "publishedAt": "2026-08-12T07:00:00Z",
+      "title": "Polres Metro Jakut Amankan Dua Terduga Pelaku Dugaan Penistaan Agama di Booth The Sounds Project Ancol",
+      "source": "detik suara rakyat",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPNkJtT3NPS2lJWkZYOTFEd0tIaURuZHI0eENremg5ZlA2TUk3Z2JLbERLQzZIRG9wMnJ4d1lZaEhzS1JoNTV2ekFTSFU5THpqX3BkeG5qMUtnVG5NNXgyQ29JalFlZmg5NDRsN1IwZjlaakhDRy1MM3U4bmRuWDZiSkY5ZXhKZVprMFNhekUzZU1RRkxCN1QxVFVRWXRiZWp1SDF5V2QwLXJQVV9iM3dETVFaRmVMNS1kZjVQUVRQLW5TUWFUaU16T2ZGRQ?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_beragama",
+      "subclusterIds": [
+        "kebebasan_beragama"
+      ],
+      "matchedQueries": [
+        "Kebebasan Beragama / Berkeyakinan (KBB)"
+      ],
+      "collectedAt": "2026-10-17T04:33:28.046553Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
