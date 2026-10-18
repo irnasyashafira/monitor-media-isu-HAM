@@ -1,15 +1,15 @@
 {
   "meta": {
-    "generatedAt": "2026-10-18T15:55:09.873255Z",
-    "lastRunAt": "2026-10-18T15:55:09.873255Z",
+    "generatedAt": "2026-10-18T20:48:48.683580Z",
+    "lastRunAt": "2026-10-18T20:48:48.683580Z",
     "startDate": "2026-01-01",
     "refreshHours": 6,
     "mode": "incremental",
     "feedsOk": 16,
     "feedsFailed": 0,
-    "totalStored": 2331,
-    "totalPublished": 2331,
-    "newArticles": 8,
+    "totalStored": 2332,
+    "totalPublished": 2332,
+    "newArticles": 1,
     "warning": ""
   },
   "clusters": [
@@ -177,6 +177,29 @@
         "Kebebasan Berekspresi & Berpendapat"
       ],
       "collectedAt": "2026-10-18T15:55:09.873255Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "b1714a9f2ee0bbff55067661",
+      "publishedAt": "2026-10-18T11:45:27Z",
+      "title": "Literasi Digital Membantu Pengguna Mengenali Risiko Layanan Kasino Online",
+      "source": "Limapagi",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9tZUhHV180eEVYNkVQT1ZuSEpCNG9taXNBOGUtMFBIWFNla1NKQnJVa3k2RG1OcEVISWFyeHVnMGNHQ2FPSklrUF9KM1NrSHRvRGcyNG9ZeVNYS1l2cVlYcUVwQ1VQdlI3a3NaaUpxNA?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "sensor_konten",
+      "subclusterIds": [
+        "sensor_konten"
+      ],
+      "matchedQueries": [
+        "Sensor Konten"
+      ],
+      "collectedAt": "2026-10-18T20:48:48.683580Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
