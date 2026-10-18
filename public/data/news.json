@@ -1,16 +1,16 @@
 {
   "meta": {
-    "generatedAt": "2026-10-18T04:40:57.622903Z",
-    "lastRunAt": "2026-10-18T04:40:57.622903Z",
+    "generatedAt": "2026-10-18T11:13:56.909973Z",
+    "lastRunAt": "2026-10-18T11:13:56.909973Z",
     "startDate": "2026-01-01",
     "refreshHours": 6,
     "mode": "incremental",
-    "feedsOk": 0,
-    "feedsFailed": 16,
-    "totalStored": 2320,
-    "totalPublished": 2320,
-    "newArticles": 0,
-    "warning": "16 feed gagal; feed lain tetap diproses."
+    "feedsOk": 16,
+    "feedsFailed": 0,
+    "totalStored": 2323,
+    "totalPublished": 2323,
+    "newArticles": 3,
+    "warning": ""
   },
   "clusters": [
     {
@@ -135,6 +135,75 @@
     }
   ],
   "articles": [
+    {
+      "id": "7846fb4856dda4b6822b3c0d",
+      "publishedAt": "2026-10-18T10:36:57Z",
+      "title": "Pelantikan Pengurus PMII Samarinda, Andi Harun Tekankan Pentingnya Kritik dan Idealisme",
+      "source": "Popnews.id",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQMmQzZTVueUJKVWR4NFY1cUUxM29TWVQwdTlNVWNzblZoRDNBWnNlNERhMTlvcUJkU0RucUF0UWNsb0xJYVR2ZmtuQWpneGt1ZkFmR0dJME42YjFmRUpkanNZOWc4NGtuMExmTFFvazFsS0dRM0RieEkwVFZJMTdaWnBEUTkxUF92YUxGbUNVVEUwc0hHSHd5clhrZ1VtbVJpbElHX21mSEs3Zw?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "doxxing_intimidasi",
+      "subclusterIds": [
+        "doxxing_intimidasi"
+      ],
+      "matchedQueries": [
+        "Doxxing & Intimidasi"
+      ],
+      "collectedAt": "2026-10-18T11:13:56.909973Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "710ad822584da663a4b95e05",
+      "publishedAt": "2026-10-18T06:19:16Z",
+      "title": "Stabilitas Politik dan Kebebasan Berpendapat: Mengapa Keduanya Harus Berjalan Bersama? Demokrasi Diuji Saat Kritik Muncul",
+      "source": "Gakorpan News",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOV2pZQmNDUG5CMFF5VDQ2Z3lXaVhZc0JYdzhqY3ZTbFQxWXJlOE1IckhXbXVOZ29zN0tVVENjSXQyYU93TU15N3VMaVVGMG5xNU9QSUhad19yck5SU3dZQlZ3MktQYVdIUUNBM2ROQ2JKSlpydEpoU2M4YVh2dW0tN0Y0dDJPSjk1OHd6TTY4LTlpVG5wQ2g0Tm9Ec1dVWEVhSDhwOW91RWxpSWg1VklpdXZXNDlFMG8xMEZBWURhYTR5VDZuMjRXblZBQ09jbEdmTlIzeFJnSEZzSWxZ?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-18T11:13:56.909973Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "34f8571fd934179ea438aa4f",
+      "publishedAt": "2026-10-17T19:51:20Z",
+      "title": "Foto Artikel : Suara di Balik Layar: Mengukur Prinsip Kebebasan Berekspresi dan Maraknya Cyberbullying",
+      "source": "Kompasiana.com",
+      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQNmQwdUtsUXJBRlpFSjE2VkRaZnpUUVBuRVZUek5RNDZoT0pEY1dfNHpTUTVyUGxyaVRvTF9ITlltb0tfRHdUNmtNZXhoR1NRbDlVaUpPZWpYQ1ByLVVOeGd6UkdKRWFzZW9PYmN3M0loTnhzd0VRREV1d09SdXRVZDR6NF8wUW8ya0p2WmJmODF0ZV9JZDJwTVdKa1BsbTdlNGhabE50Qml5WUhKSnROcE5KWEI2M2hhd1JCakVGU2gwZWlrWFloRE5iX0l4a0lyenRzR1BSOV83VEZ6ZU9reFFyUUdremltazZ2ZHgtQTk?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-18T11:13:56.909973Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
     {
       "id": "02ecebe31a598cf4cc52d7a9",
       "publishedAt": "2026-10-17T12:53:29Z",
