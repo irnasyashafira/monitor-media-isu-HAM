@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-10-17T20:39:36.077735Z",
-  "lastRunAt": "2026-10-17T20:39:36.077735Z",
+  "generatedAt": "2026-10-18T04:40:57.622903Z",
+  "lastRunAt": "2026-10-18T04:40:57.622903Z",
   "startDate": "2026-01-01",
   "refreshHours": 6,
   "mode": "incremental",
-  "feedsOk": 16,
-  "feedsFailed": 0,
+  "feedsOk": 0,
+  "feedsFailed": 16,
   "totalStored": 2320,
   "totalPublished": 2320,
-  "newArticles": 1,
-  "warning": ""
+  "newArticles": 0,
+  "warning": "16 feed gagal; feed lain tetap diproses."
 }
