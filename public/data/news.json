@@ -1,15 +1,15 @@
 {
   "meta": {
-    "generatedAt": "2026-10-18T11:13:56.909973Z",
-    "lastRunAt": "2026-10-18T11:13:56.909973Z",
+    "generatedAt": "2026-10-18T15:55:09.873255Z",
+    "lastRunAt": "2026-10-18T15:55:09.873255Z",
     "startDate": "2026-01-01",
     "refreshHours": 6,
     "mode": "incremental",
     "feedsOk": 16,
     "feedsFailed": 0,
-    "totalStored": 2323,
-    "totalPublished": 2323,
-    "newArticles": 3,
+    "totalStored": 2331,
+    "totalPublished": 2331,
+    "newArticles": 8,
     "warning": ""
   },
   "clusters": [
@@ -136,6 +136,75 @@
   ],
   "articles": [
     {
+      "id": "c80dfb7aff820873c81797b2",
+      "publishedAt": "2026-10-18T13:27:24Z",
+      "title": "Jurnalis Diduga Dianiaya Polisi Saat Demo",
+      "source": "Kompasiana.com",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOT3Y0WGotQmZrZHBLeXdobEFwUjRvaEVaN3hvZ2RFZ2RUNHozdEtvZXAzWEZwS1BuM2V5Z0ZSZFNtR3Y5dy05NDgtMTl1Q3JuWnl3djZ3V3ZtRGh3SjR3SnRjb0lyc1h2QUZKbDdBLTlUM0RyUjBKYjk4eG4wM25JUy04VmR0VGU5Ny0yd2ZfYV81bkE5akkyXzNKZUROTFhPQkxfMi1RQjZudklrMVBxNA?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_berkumpul",
+      "subclusterIds": [
+        "kebebasan_berkumpul"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berkumpul / Berserikat"
+      ],
+      "collectedAt": "2026-10-18T15:55:09.873255Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "37d158bae4c888f8a2f2361e",
+      "publishedAt": "2026-10-18T12:54:19Z",
+      "title": "Etika bermedia sosial mahasiswa: Kebebasan berekspresi yang tetap beradab",
+      "source": "Kompasiana.com",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNNkszMGtGMjhvLWVHWXNHOFJtQk5aaXQ3ZzJSNWdKNHZBZjl3cklEV1pTNmI0eGRZNXp5amhCRGExRXhXUnRjaW4wZjF0Y0Q4VER1XzBtOVc0WlV6Mjl4clNrb0RDYU0wRUl6SEd2cW5NZ3NwbG83ZVRlNEh2SDJMNDhSSWNfSk9VblpfQVVlQXZaMEgwclVsbUFocWRnSnoxeHotUTR0V2ZLNnMtdm5SUER0aHFDWTZvN004X0txdURybVdHNUFqMkoxbEF4TUlr?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-18T15:55:09.873255Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "686e3fe8badefa26668e1abb",
+      "publishedAt": "2026-10-18T11:36:49Z",
+      "title": "Literasi Digital Bantu Pengguna Memahami Risiko Layanan Kasino Online",
+      "source": "bsinews.id",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5INTk0RklfU3RMT2p2aThwa2dQdzBram5tVGRDNExxNVZ6VV9MMlcxUVExUUJYQk4zWjlITjhlVUpyQ1Q3aVFnOEdyYVIycW16Y0M0cEpoN1ZLRXNJbGRKU1l3WFZPalE?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "sensor_konten",
+      "subclusterIds": [
+        "sensor_konten"
+      ],
+      "matchedQueries": [
+        "Sensor Konten"
+      ],
+      "collectedAt": "2026-10-18T15:55:09.873255Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
       "id": "7846fb4856dda4b6822b3c0d",
       "publishedAt": "2026-10-18T10:36:57Z",
       "title": "Pelantikan Pengurus PMII Samarinda, Andi Harun Tekankan Pentingnya Kritik dan Idealisme",
@@ -159,6 +228,52 @@
       "reviewNote": ""
     },
     {
+      "id": "aaeb773cb20f40ccb23fecb4",
+      "publishedAt": "2026-10-18T10:06:55Z",
+      "title": "Tak Pernah Ajukan Pinjaman, Vicky Shu Malah Ditagih Pinjol dan Diancam Data Pribadi Disebar",
+      "source": "Popnews.id",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNb0U2WEk2REZyYzRCM2g4ck8zRDhrOTNhODNYdjVNY0FYSnY2bzdYZWpDUklnd3FOMEh2VzJoU3pIMUp3VFZFWDJObjJiT0JlczBSNDhPVXhkYnYwWUNHVjJRZndGRGM3TlBxT1g0UTJFQjFoX0laOW8tdHY5ejdRb25YeHpqV2lWYWNUcFhsZ3JNeTNTd25feW93T1p2RTl3ZlFMRXFXalRvWElOOGF3?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "doxxing_intimidasi",
+      "subclusterIds": [
+        "doxxing_intimidasi"
+      ],
+      "matchedQueries": [
+        "Doxxing & Intimidasi"
+      ],
+      "collectedAt": "2026-10-18T15:55:09.873255Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "1dcbeb09dee6b8f6ab2af567",
+      "publishedAt": "2026-10-18T09:40:00Z",
+      "title": "Kebebasan Berpendapat di Media Sosial: Bebas Tanpa Batas? - kumparan.com",
+      "source": "Kumparan.com",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOVTRGbFhxZ2xKcGR1UTJabnNYNjd3TG9RMFg0OHllcFhyZGtVMlo4UF9sZTNzQk9RQTUtU3p6RkROUWx1STZwQ2dGY1Q4UjMta0g1OWNNZVFOT2JDU2pxdmJ1WFRlLXBvTVdTcVdERU41X0p4MUVzZ0xobjQ3X0Q5d2JZTzZJby1wMGpQYVR0MU5fOTI0SXc4MTBPRWc0bEROY1hyVGlDakN5YzJk0gGsAUFVX3lxTE5VNEZsWHFnbEpwZHVRMlpuc1g2N3dMb1EwWDQ4eWVwWHJka1UyWjhQX2xlM3NCT1FBNS1TenpGRE5RbHVJNnBDZ0ZjVDhSMy1rSDU5Y01lUU5PYkNTanF2YnVYVGUtcG9NV1NxV0RFTjVfSngxRXNnTGhuNDdfRDl3YllPNklvLXAwalBhVHQxTl85MjRJdzgxME9FZzRsRE5jWHJUaUNqQ3ljMmQ?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-18T15:55:09.873255Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
       "id": "710ad822584da663a4b95e05",
       "publishedAt": "2026-10-18T06:19:16Z",
       "title": "Stabilitas Politik dan Kebebasan Berpendapat: Mengapa Keduanya Harus Berjalan Bersama? Demokrasi Diuji Saat Kritik Muncul",
@@ -177,6 +292,29 @@
         "Kebebasan Berekspresi & Berpendapat"
       ],
       "collectedAt": "2026-10-18T11:13:56.909973Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "4f3df7a6dcacc9e4d9a29cb1",
+      "publishedAt": "2026-10-18T05:00:00Z",
+      "title": "Bendera Aceh Sebagai Medium Komunikasi Politik Alternatif",
+      "source": "RRI.co.id",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxObU53U0w0Ti1GOUZvT0pZNllIR0JkTGNLcXhRWTlOMzBzc3hHaEtfOHRqLXRzeVBNN0dENGh4UENXLXZtUlBRMkVWMHd5SHBBZ3pzd25lSllzanJRa3dqcDFhUzh6WWF5MzgtQm9HWFlCbGhJQXQxODRDTjJmZlVvSTBSMkZOMzk3czBLQjI2QnBEdUdKWUVlNXlMWFRNRlV2azZEWnhCZUlPd1l5b3c?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "sensor_konten",
+      "subclusterIds": [
+        "sensor_konten"
+      ],
+      "matchedQueries": [
+        "Sensor Konten"
+      ],
+      "collectedAt": "2026-10-18T15:55:09.873255Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
@@ -315,6 +453,29 @@
         "Doxxing & Intimidasi"
       ],
       "collectedAt": "2026-10-17T10:50:06.163608Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "a2f841efea888e5e66a10fb0",
+      "publishedAt": "2026-10-17T06:04:00Z",
+      "title": "Heboh Konten Kebakaran Hutan di Instagram Diduga Dibatasi",
+      "source": "Tempo.co",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNVHFRbHhURl9JUUh2RkZnLWc5UFRlT2dXSDl5MFVuQmxhajYyb1FaZFhLRzh6ZTdxX3FRaUdRenNrLS1OT3B6YWpIUW1GdzJPdFlLbjhPNGowb2lIZVg4VFBTUmh6R1JWSmhTMnl1aTd3NW1jTEJpLXRaNWllRUVfcWJjajRXZFNwZURIdnlsdWZaUQ?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "sensor_konten",
+      "subclusterIds": [
+        "sensor_konten"
+      ],
+      "matchedQueries": [
+        "Sensor Konten"
+      ],
+      "collectedAt": "2026-10-18T15:55:09.873255Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
@@ -637,6 +798,29 @@
         "Kebebasan Berekspresi & Berpendapat"
       ],
       "collectedAt": "2026-10-17T04:33:28.046553Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "524ce1ce135397784382fef0",
+      "publishedAt": "2026-10-16T11:20:42Z",
+      "title": "Taiwan Blokir Coinbase dan Kalshi Gara-Gara Taruhan Pemilu",
+      "source": "Liputan6.com",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZGwtS0dqa2hTb1NLZndndkRaZzN3NlJYTnNQcldsQURzWFc3cllhYTNHeGt6UF9zRlJBamwtU3Nfc1VGU3BkdW92bjZiR3B6bVNkbHpfeGwxN3NDR3BQeHgtbkpkQWxiYXFBNmE1Yzd6VnJTeHdYZFZvYTJrVmpyZHg3NC1WbG1NTFY1YkQycEtmaEI3QXM2SGtYOElOVHd2dV9Oc2pn0gGbAUFVX3lxTFBMa1dqcGNhTjdFSUlfR05YRzdkWF9CZ296SGcwU1JUZHJUTVZHamxVWEFjTHJHOWNaV0tjZm0yVjNqQ0NJZkdmSWVRTGlVd3hMU3RnODFsc1A2S2FkbXBESzEwR1c5Z3phNTUxX0pTVFRXWGd0ZGdVZC1jQ2ZuNi1yalU2clhyazlBVjhpVW1DU1czWWxKbXN1STdv?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "sensor_konten",
+      "subclusterIds": [
+        "sensor_konten"
+      ],
+      "matchedQueries": [
+        "Sensor Konten"
+      ],
+      "collectedAt": "2026-10-18T15:55:09.873255Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
