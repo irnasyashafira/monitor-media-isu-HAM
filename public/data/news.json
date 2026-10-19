@@ -1,14 +1,14 @@
 {
   "meta": {
-    "generatedAt": "2026-10-18T20:48:48.683580Z",
-    "lastRunAt": "2026-10-18T20:48:48.683580Z",
+    "generatedAt": "2026-10-19T04:46:56.524187Z",
+    "lastRunAt": "2026-10-19T04:46:56.524187Z",
     "startDate": "2026-01-01",
     "refreshHours": 6,
     "mode": "incremental",
     "feedsOk": 16,
     "feedsFailed": 0,
-    "totalStored": 2332,
-    "totalPublished": 2332,
+    "totalStored": 2333,
+    "totalPublished": 2333,
     "newArticles": 1,
     "warning": ""
   },
@@ -292,6 +292,29 @@
         "Kebebasan Berekspresi & Berpendapat"
       ],
       "collectedAt": "2026-10-18T15:55:09.873255Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "8c56df5e206f3408ece7770f",
+      "publishedAt": "2026-10-18T09:39:17Z",
+      "title": "Foto Artikel : Ruang Aman di Kalangan Mahasiswa: Antara Kenyamanan, Kebebasan Berekspresi",
+      "source": "Kompasiana.com",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPd1Z1ckp6Vy1qYlpFOVM2UmVDdEFnbHpud0RwZGZ5S01mY1cyZHhqNHU0RVFrS19vWlFEeFh6aGNMREc0a0VPRTVRd2RqZW51NlFKQUV3WFRmQVp2Qmt3TEx0eUxCcFd1ZmRjbmJOaVBWVUtINUZOeFNtQzhsY00zeVhYRHpHSlJZQXJIcmdTUzQ4dE9ZTE9uNnoyUE5HTUd3a01HZ1JMODNlOU5UWUE0Q3B6X1V6SlRpWDF5M1dQOUJGZGd6V3UxUFFSNlp6d3gyWFI3eXpZUy1WUHhXTHZicA?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-19T04:46:56.524187Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
