@@ -1,15 +1,15 @@
 {
   "meta": {
-    "generatedAt": "2026-10-19T04:46:56.524187Z",
-    "lastRunAt": "2026-10-19T04:46:56.524187Z",
+    "generatedAt": "2026-10-19T13:25:12.315758Z",
+    "lastRunAt": "2026-10-19T13:25:12.315758Z",
     "startDate": "2026-01-01",
     "refreshHours": 6,
     "mode": "incremental",
     "feedsOk": 16,
     "feedsFailed": 0,
-    "totalStored": 2333,
-    "totalPublished": 2333,
-    "newArticles": 1,
+    "totalStored": 2361,
+    "totalPublished": 2361,
+    "newArticles": 28,
     "warning": ""
   },
   "clusters": [
@@ -136,6 +136,443 @@
   ],
   "articles": [
     {
+      "id": "42502703b4da342527f2edd0",
+      "publishedAt": "2026-10-19T13:14:49Z",
+      "title": "Demo 20 Oktober: 500 Massa Diperkirakan Serbu Tugu Tani, Apa Tuntutannya?",
+      "source": "AFU.id",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQLUt4WlVhWmQ4U0phZEZEY0JhMU9VcUNXRGFqRzhmWG1wSkJrOUNvZVRNM3Y5ZURVZHN4ZTgzOE5FRVMyUGU4V21RWm5MSmkzRFdEb1k0VE5rNHZjRUtpREMwVm0xZ0p1RnJrNUF4RDNlakJZelRKemJDcDgwMHQzb2dyMHB4VXdHWC13SjJCXzJ6M1VNcHA5R0h3?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-19T13:25:12.315758Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "fee3e437ba9557db5e792355",
+      "publishedAt": "2026-10-19T12:25:12Z",
+      "title": "Kebebasan Berpendapat atau Kebebasan Menghujat? Halaman 1",
+      "source": "Kompasiana.com",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOWm5WaHgzU1N3Nkgtb0FtQm54bi0wT3UwQzZYTEVZSnNiazNPd0ZwV3lIOFhIVEZjM3VhWXB5bDhwUENXVVVIYW4xSkV1aGpGMlRFUWZmV1hYdHJWTHFYckpLZ1l5T0h4R2RQalRWOGg4aXlJNTJOaWtFM3NfcTJQNFpwX3R6dFRtQmtOUVFVQzl0bTlBN19zaVhvekVkYXJPWFdjcVctX01JWHpJZm1nbmxR?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-19T13:25:12.315758Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "ae8194bb3607b9ddf762ee40",
+      "publishedAt": "2026-10-19T11:18:35Z",
+      "title": "Dalam 2 Tahun Pemerintahan Prabowo-Gibran, Kualitas Demokrasi Dinilai Alami Kemunduran",
+      "source": "Jawa Pos",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNQWVURlVjZm5uUUh3aXZoVHFLdThvcHRwXzFPeFoySEFiZGdJUUhLeEtEN29yNHdpa0FkWERDTWdWY2dFVTgyWnBucUo5cXZwTTk2eFlyVnpxYnpmTGw3TnBEZHJSMm1pTXg1MEdzbVpHd0lsMzc3N0U0eDJoVVM2bW9kYTVJbTEtYnJuQ3VvaDZheWhIc2pMbmx6QXhNNm1keThTRzV5bjQ5a1NQcEVfakRKUWR6N1VicGJ1M1VyMFpqdUk4Wi1JazFmY013Zw?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-19T13:25:12.315758Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "f7557eed7cb623ae9b3454c8",
+      "publishedAt": "2026-10-19T11:06:57Z",
+      "title": "Demonstrasi 20 Oktober: Mahasiswa Gelar Aksi Dua Tahun Prabowo-Gibran Besok, Bawa Lima Tuntutan",
+      "source": "AFU.id",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOQmxiN2hfNjBYenRIQ21oY1BJaV8tdE5XMjNtLTBkcDhrREZMelF2TlpKUE52LW5CeWpBTW5qUXQ5MlB4VWFzOW9sR0RJcnlqOGU3VnpnSlRRbnZXTDNsYjAzNXF4cWJNcUxHZ3NDUjVyTWlFSWdJdkFldHAtZlozLWxDcEM4UzdPaXUyOTN4X0JUZUhvMzhMV2NGMGY3YXlfMjNwVjdoQVVQU2ozdjNNdmtGMEdwVm8?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-19T13:25:12.315758Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "bade158eedd5f0504e31df7a",
+      "publishedAt": "2026-10-19T10:26:57Z",
+      "title": "Jamin Kebebasan Bersuara, Hasan Nasbi: Tiap Jam juga Ada Kritik",
+      "source": "SINDOnews Nasional",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPUG1xTFBIYVBYRDVjZXFnMjlCSlZDZ2lJcEtLVEVVTUtiSXBoeVJ1cFNwTUt0V29NanhnU0stc3NVMi1rRkQxUm5mdnZzZTN5ZTR0Q28tNTJtclkyaFBhTk9uNkF6bTJqV1p1S0pvaTlna0t0UHV4Uk9vZ0c3QnRWSEtVS2ZQYVEzMEExZUxzRGlXNWxhWGhoWjQ2ZnJfVVdCZkNHbXhGek1fU0ZMM3dZU0I1NWh2SWJSeUcw0gHAAUFVX3lxTE1qbTRtUTM2c3B6MDlKYmxIWGxoanJwU2kwemJFQXBkQ3J0UXJvNnNCZFpTUmNieDk0M1JjbVFpSnJoMnVwMWVMaG13Q0EyREJSaVlKNWRBWVB6Y1lQVDZlYnlkSlFkN19udzVaOWVhMHNoNENqdEdvSUJranIyZDM5ZWl3ejE5MFU2eUxON2pacnc0MnhOLXBkaGQ0WUdGNnhUMmVPa01ZQjlZNTVDenJQOFlVa1JUNzAyY2dNN3Y0Sw?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-19T13:25:12.315758Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "f414f1999168704b872b21e7",
+      "publishedAt": "2026-10-19T10:14:00Z",
+      "title": "Transparansi Peradilan Harga Mati: Wilson Lalengke Mengecam Keras Pembungkaman Media di PN Cibinong",
+      "source": "www.majalahceo.com",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9yYVk5ejNnU0VVTHNwM0lidFh2V3NjcTJWdC1ud2VpV2loQjRoenB0NzVKU3JULXFGa3FGdHNlaGxONXV3dEUzazVUMlA2UmxrOE5mNkhjd2U5ejYzUlFsc3hDQTB5V3JTSTNrczFnNVVKZEtIdElpMlZaaTBWQQ?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-19T13:25:12.315758Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "67eca48f962c71aaec242b9b",
+      "publishedAt": "2026-10-19T10:00:00Z",
+      "title": "Kebebasan Pers Jadi Sorotan, Kritik Seharusnya Tak Berujung Intimidasi",
+      "source": "Yoursay.id",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOb2pWblRYc0lZQzhpWERFbWJkem9iakR1Tk9SREZBVVd0Sk05Y3o3eGNDYVNnZ05xRnRqQjdKS3MtYmJuekpzX3J4U3RtWGYyOWc4bVprYjJHRHhhTFVLa2d1UV85bDQyWVhXc0tWS1h6Zk9uRnI2WnhFamIxVjVIZmVVQ05JM2lmckdjRFBDWmQ4akp4eXpHMkNKUjg1Tm1WVVlFWEMyT0hOUFpfdm4yQllNTWRxcEpRYWpSZWRUUlDSAcABQVVfeXFMTm9qVm5UWHNJWUM4aVhERW1iZHpvYmpEdU5PUkRGQVVXdEpNOWN6N3hjQ2FTZ2dOcUZ0akI3SktzLWJibnpKc19yeFN0bVhmMjlnOG1aa2IyR0R4YUxVS2tndVFfOWw0MllYV3NLVktYemZPbkZyNlp4RWpiMVY1SGZlVUNOSTNpZnJHY0RQQ1pkOGpKeHl6RzJDSlI4NU5tVlVZRVhDMk9ITlBaX3ZuMkJZTU1kcXBKUWFqUmVkVFJQ?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-19T13:25:12.315758Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "75e943199e1b98c6929206ce",
+      "publishedAt": "2026-10-19T09:13:03Z",
+      "title": "Soal takedown konten Karhutla, Komdigi diminta transparan",
+      "source": "Elshinta",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQTjc0YVJUQ09VaVpJaTVlaE9qRHJlWXBwVllhT051X3FGUGpUMmZ3bnR1QWw5T0h6eEVFa0FmUHFKdEk3OGJtMkhqTmZYbjhKbDNDbjB4aml5RlVnRFdMd01tWmhMUmU1My1oWmtidnVjRWtYOS1INjZKN3NsUjRMZVhKSEVtRXFINmJNU2pHQmQ4SkVlOElobjRUSFo1NkxoTnU1OHhmVVFiR211YXdVWEo0Y1Bodw?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "sensor_konten",
+      "subclusterIds": [
+        "sensor_konten"
+      ],
+      "matchedQueries": [
+        "Sensor Konten"
+      ],
+      "collectedAt": "2026-10-19T13:25:12.315758Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "7ed248be776fe72bbd5811d5",
+      "publishedAt": "2026-10-19T09:11:24Z",
+      "title": "MAHASISWA BERSUARA: Jangan Lupakan Tragedi Kanjuruhan",
+      "source": "BandungBergerak.id",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPazhhZ1FqUmxDMGhDVTlBN0ZuR0tWNlZ4cVlkX0hZVXlValI1N1hmcElOalZZV2dSMFBYWnNVd0ZlQWNPWUJ6QVloanVjdU1HSWdsTndKMVg4Mkhackthb0Y0M0hvendWWTU0WEZ2enBGRHJ5OHd3QS1rcTVXdy1WdXJESEJGdlNIYVhkMG5WTmUwclZjTXFsRE9MaUVqMmdkOUdYclpWZms?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-19T13:25:12.315758Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "248486d765cbe44cdd0fbde8",
+      "publishedAt": "2026-10-19T08:39:00Z",
+      "title": "Antisipasi Mobilisasi Pelajar, Disdik Jabar Minta Orang Tua dan Sekolah Bentengi Siswa dari Aksi Demo - Ayo Bandung",
+      "source": "Ayo Bandung",
+      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNM203WWU5MGVPQzJsQ2l1ZWQzV2kwNEdqT2d3MFRPWFRtaHdDYjZFanFid3laRGhCV3FoY2RfTUFBOTczWFU3VWo1YXJQZURia0cteWJkcWU2S1AwU3dOMnFJMGV3Tk9TLURtcF9NTXlWRjduSG11MHJhMUgxWXVBc1Fva3JCZFlLZGh0c0g3Yks3WVlhVS00REpJN0hyYk5veVdqbTRwdTYyS1JoQS1DeUpMNGt0Q3RMckZlaHRZdHRBZjVPNmNacVFVTG9YdUJHWjNKb1JscElIRkU0dF9FaHFocmFBMlN4S0pv0gHrAUFVX3lxTE0zbTdZZTkwZU9DMmxDaXVlZDNXaTA0R2pPZ3cwVE9YVG1od0NiNkVqcWJ3eVpEaEJXcWhjZF9NQUE5NzNYVTdVajVhclBlRGJrRy15YmRxZTZLUDBTd04ycUkwZXdOT1MtRG1wX01NeVZGN25IbXUwcmExSDFZdUFzUW9rckJkWUtkaHRzSDdiSzdZWWFVLTRESkk3SHJiTm95V2ptNHB1NjJLUmhBLUN5Skw0a3RDdExyRmVodFl0dEFmNU82Y1pxUVVMb1h1QkdaM0pvUmxwSUhGRTR0X0VocWhyYUEyU3hLSm8?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-19T13:25:12.315758Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "8ae2752fa85b78598b87520c",
+      "publishedAt": "2026-10-19T08:03:04Z",
+      "title": "Breaking News: Menko Polkam Rapat dengan Sejumlah Menteri, Bahas Karhutla hingga Kebebasan Berpendapat",
+      "source": "NusantaraTV",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNbmVPcjhBOWVYaVB5SzZEdmpyRHhMSTRTdUhwcnBUVThFYnpyMXJZdGx3SXVlOVRlcEc0cjhGeWsxTHdfd3RIYnd5MGR1NzFNWklNQk00Rzg0TXV3UHVkU0t3UDJyQ25KeFFOcmg2R0xiTWlxSEJueEsydmV0RDcxX0lETnlQdXF6UV9KLVlKaDl1RkV1X0VGWmpSMkpVaWtKazlzY3g3cmd1bktSdmRub1k5YzJJSzQ3UzJKSm5pdGx6OUVfTWljZUFtUm5DQQ?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-19T13:25:12.315758Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "09f497d8fae6813e74eee8c9",
+      "publishedAt": "2026-10-19T07:48:18Z",
+      "title": "Viral! Pemuda Diduga Ejek Polisi Usai Balap Liar Dibubarkan di Semarang, Aksi Manekin Picu Hujatan",
+      "source": "Salatiga Terkini",
+      "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPU0FOSFkwVHp1R1NSQ2hZM2pQUS16ZTVVQjZtN1huSHJ4UGtGZkxzOVBHZnh1MFdlcHg3NmhxRHhZZEtZc1VDRUNGaGwzakd6Z0ZJNWh6b2lBTTdWYzJHZm5YMlhDRlc1aTdfalFYZE1HQkJ4SjJjSG0yLXdEM3p1STgwTzhaR2k2ZURGUzUxSTFEWkRkNmtzUmhTd1IzSXRGY2xaQ2Y2UnFPLUw3UGs4M2t0aEtRRjdleFpHTDhUdU9uLTlQd09HNFZxVS1GTHMxcTdZdGFEb2NEYjZQT0NNMGRoOGgxNlQwU3lVLW1NVUNzLVVPSlZvc1JQY9IB-wFBVV95cUxPU0FOSFkwVHp1R1NSQ2hZM2pQUS16ZTVVQjZtN1huSHJ4UGtGZkxzOVBHZnh1MFdlcHg3NmhxRHhZZEtZc1VDRUNGaGwzakd6Z0ZJNWh6b2lBTTdWYzJHZm5YMlhDRlc1aTdfalFYZE1HQkJ4SjJjSG0yLXdEM3p1STgwTzhaR2k2ZURGUzUxSTFEWkRkNmtzUmhTd1IzSXRGY2xaQ2Y2UnFPLUw3UGs4M2t0aEtRRjdleFpHTDhUdU9uLTlQd09HNFZxVS1GTHMxcTdZdGFEb2NEYjZQT0NNMGRoOGgxNlQwU3lVLW1NVUNzLVVPSlZvc1JQYw?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_berkumpul",
+      "subclusterIds": [
+        "kebebasan_berkumpul"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berkumpul / Berserikat"
+      ],
+      "collectedAt": "2026-10-19T13:25:12.315758Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "2428e653ec973d223972e15c",
+      "publishedAt": "2026-10-19T07:23:11Z",
+      "title": "Bukan Sekadar Bercanda, Ini Indikator Seseorang Mengalami Bullying",
+      "source": "Koran Mandala",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPT2I4enNnUTM5RENfU0xYczJwZEo5VTFHblZiaTZzMXF5alV2U3BxbGIyTERGRmhHRzJfQlRYOUpza1ZaMDVna2NfQXliaEp1d29NTE12Smlfb0FrMWdyb01OamVzQnhUUnFham50Sk1GVlk0V2lYdGg0ZDR0b1ExNlRuVWQ0bGVQSE5Mc29zVk9ndEo3UmFaX1JUUi1QYjlUZkxjazk5OFMwankxSHc?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-19T13:25:12.315758Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "cfad2b4d4b269b96b093713f",
+      "publishedAt": "2026-10-19T07:03:10Z",
+      "title": "Dua tahun pemerintahan Prabowo Gibran: Kebebasan bersuara di ruang digital disebut terus memburuk",
+      "source": "BBC",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4yN3E3U3RzSFJsXy1FN2tmcnQ2X1Z0QzFjOTUyZExuaG8zdndzRC0yRXhNSG8xUVBkaF9WWW1XbUFLa3dQblZBX3pzdm42dXhqWlRNYlRQbkFsWXprSlhueEJKZndZX2_SAWdBVV95cUxOMjdxN1N0c0hSbF8tRTdrZnJ0Nl9WdEMxYzk1MmRMbmhvM3Z3c0QtMkV4TUhvMVFQZGhfVlltV21BS2t3UG5WQV96c3ZuNnV4alpUTWJUUG5BbFl6a0pYbnhCSmZ3WV9v?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-19T13:25:12.315758Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "cd8d69a70cc35e5d0e47a778",
+      "publishedAt": "2026-10-19T07:00:00Z",
+      "title": "4 Poin Penting Kerusuhan di Prancis, Presiden Macron Kecam Penjarahan dan Kekerasan - GenPI.co",
+      "source": "GenPI.co",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxONHNPczY3VFRFdmdOdzJDcVBYTDE0d3hldDd2TXQ1YnMzTEktVjNVV0tiQWd1ekJVUGpnZW44Q0tQOExQWUp3Slp4SjJmbjFjMkE4N2ZKZ0Y1cDV0YnRqWkZ3aGZRQzBib0dsdG14VmdWSTN6amRvaUxwX29adHBVRmh5VHNCWnFtSnZvV3FfdTBnLVRCdVZtY09DdExwelViWW9hdnB2ajNld1p4MVVIRHRhODBWTEdQSDZyNDh1OUhJZlFPRHRpNy10Y9IBxwFBVV95cUxNUVlKbWFXa0stMWFUSnB5d2lzQnI2bFRaMG85Ri1qYVJMUjg4TDhJZks4NXNVQnBXQTQyOGljNGhPdlB5TzlQdG9oUmEwUEtvcXBjN05qam82aEMzVFl1cUt6eTQyd05JT0xzVTlKTDh2dy1hU3hEZDl4cG43Q3RpbWd4VWR1SnJ6cHh6c3UzNndzWXpsSG9XVjlWTENPd0dLWVRDREJTMUJ5djVpdGxFVzRKVGJzVEhnbkt2d3JzeDlJMXZuSDhJ?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_berkumpul",
+      "subclusterIds": [
+        "kebebasan_berkumpul"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berkumpul / Berserikat"
+      ],
+      "collectedAt": "2026-10-19T13:25:12.315758Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "0108212a13145f179fe4c992",
+      "publishedAt": "2026-10-19T06:13:00Z",
+      "title": "Senjata Pamungkas Akhir Pekan, 5 Film Bioskop Terbaru Oktober 2026 - IndoGamers",
+      "source": "IndoGamers",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPTUNsQmNYWmhkZnhha25ZRmR0UHJxMndLaWlNY2dRR1RHek82MWZrN0RjLUhBVDBjX01oNnNqb2xxb1RYYWlJNnhBMUk0ck1qWGZiUjIwdlJIWXNWdC1hR1NtYjBJM2JmaEhyMWc2WG85ZGMzSERkZWhTYnVEc3NGdGNqWnZ0M0hDNkZxSUFIU3hGTGNkNy1xRnlJTkp2S29mZC0xdVdtalBMeTViS1dFUFpHa9IBuAFBVV95cUxNUDliVnFxQndJZVNSdmE3ak5yNUNMbVhzOXVvY0tqZ1pweUpBQ3YtTFFhWWQtOHFsWVJETHhpVXJVNFV2bkkxNW9tTHRkZk5ZZWhRb3JENy03VmhpTWNOSzVsajl4cDM3Q1Z3MGlkOUFQdFo2bzZOQllBUWVmTXZURzFWSktHVm5kY0VkSm1VNndodDFzdzFibmhCU3VaV3BEbms0OFBKV3pDMjAxb0NXektwU0c1RV9R?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "doxxing_intimidasi",
+      "subclusterIds": [
+        "doxxing_intimidasi"
+      ],
+      "matchedQueries": [
+        "Doxxing & Intimidasi"
+      ],
+      "collectedAt": "2026-10-19T13:25:12.315758Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "f7ab3da826cbaa03bf5533d2",
+      "publishedAt": "2026-10-19T04:53:37Z",
+      "title": "Polri sebut Satgas FPU 7 amankan capres-cawapres di Afrika Tengah",
+      "source": "ANTARA News",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPM01jQ3hiYTVGTUhPWHp6QW9fa3phRng1TzI5MndnTE0yLVhDTXBjeUVYRG9oelJSeFVsVVpNYVcwcGVCZ1RyZVpMOWlFQVpjdThBQU41bjltQVNITlBkWGZxSzVEaHp1TWh2Nk9xdnRWRVM5cjhWTzRqRXFHN2s2cm9IS3A4N3FlSVV0VHY5NVhTeFNqRzVPUGVHQkRpWC11VTBrSHNmRzdreGpIa3pnUkF30gGyAUFVX3lxTE8zTWNDeGJhNUZNSE9YenpBb19remFGeDVPMjkyd2dMTTItWENNcGN5RVhEb2h6UlJ4VWxVWk1hVzBwZUJnVHJlWkw5aUVBWmN1OEFBTjVuOW1BU0hOUGRYZnFLNURoenVNaHY2T3F2dFZFUzlyOFZPNGpFcUc3azZyb0hLcDg3cWVJVXRUdjk1WFN4U2pHNU9QZUdCRGlYLXVVMGtIc2ZHN2t4akhremdSQXc?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "doxxing_intimidasi",
+      "subclusterIds": [
+        "doxxing_intimidasi"
+      ],
+      "matchedQueries": [
+        "Doxxing & Intimidasi"
+      ],
+      "collectedAt": "2026-10-19T13:25:12.315758Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "5f1c2615afe6d886ff53b4c3",
+      "publishedAt": "2026-10-19T04:53:13Z",
+      "title": "Kebebasan Berekspresi dalam KUHP Nasional Ditinjau dari UUD 1945 dan HAM Halaman 1",
+      "source": "Kompasiana.com",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNRFlla1czTVN6c1dabW5qYTNwWVJpcFRfY2M3OGV2SFBQX01RaC1vczdUY21kTVVFNUdPT0w0SU16aU54aUtsNURQaTFkeHlhdFk1SGJqckdfNlB0MjBydVQtcHlYTno2d25GSk4zQ3lPLXlLdElZa2RFSDc4UVFDaHYxV3E3RDN5OFduTVZWUG16Z1pDd0NiT0g4VjQ2YjFIcExla1l3Si1RdzgzUEJZUW56ZFhzRW5wYThvWkJJLS13SE43My1vOHNjYlRCY0xUb3lQQlBvcEg?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-19T13:25:12.315758Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "12d1b209168c79e7b48b3825",
+      "publishedAt": "2026-10-18T13:46:32Z",
+      "title": "Foto Artikel : Etika bermedia sosial mahasiswa: Kebebasan berekspresi yang tetap beradab",
+      "source": "Kompasiana.com",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNVmctZGl4RXB6MmxVeEhKOGNGazJEQUZZWWpSdV8tR2taenhjZVRFeHNpMTV2UEE3ZUpqWHZqTmQzYXlhZ241blpZZ1BVaHdyVEtxSEdTOE1fc21vbGtveG91R01ELWJiYm8zY2Z2SVZ6MUV2NEZyVEx1d1hKUkJrWU1NcFdZaXN0VDNLVlFrUFRGaHJhTlJSb0l6RWVXN1RFcWdDYjNGOGp2RF8wTFR1ODQ3Y003dFpvUm5KY3ZHVXpPSW5xei1EYzBST2VIUnlyc2FXalI1cHk?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-19T13:25:12.315758Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
       "id": "c80dfb7aff820873c81797b2",
       "publishedAt": "2026-10-18T13:27:24Z",
       "title": "Jurnalis Diduga Dianiaya Polisi Saat Demo",
@@ -182,6 +619,29 @@
       "reviewNote": ""
     },
     {
+      "id": "cc7850b92741e20e69b7d1d1",
+      "publishedAt": "2026-10-18T12:00:05Z",
+      "title": "Viral! Kreator Konten Asal Medan Ditawari Rp80 Juta untuk Bungkam Soal Karhutla",
+      "source": "Warta Keadilan",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNWEE4WE5XVTlBcWJLeEwybDZUTFNSUzU5U1owb3pWenBSSWx4ay1KRkNaMXBGUllhZXhYd1IwM19Tak50ZlZLWlRReWNsR2Uyb25IWVQ2YUw5X3doakUwSzN5UjVfZ3R5QUFSTG41d0NXR0lzZloycjlaUFJCUmI3QUdqMUpzcExRa3k1VER4Z1RvcVFKdGtKV2RkdHd3OTVFbldEWE13VHZaUQ?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-19T13:25:12.315758Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
       "id": "b1714a9f2ee0bbff55067661",
       "publishedAt": "2026-10-18T11:45:27Z",
       "title": "Literasi Digital Membantu Pengguna Mengenali Risiko Layanan Kasino Online",
@@ -223,6 +683,29 @@
         "Sensor Konten"
       ],
       "collectedAt": "2026-10-18T15:55:09.873255Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "8b8eed85c33b4f51cf98890b",
+      "publishedAt": "2026-10-18T10:44:13Z",
+      "title": "Cyberbullying vs Pancasila: Menagih Kehadiran Nilai Bangsa di Ruang Digital Halaman 1",
+      "source": "Kompasiana.com",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPQktLOEJvTTVybDVYQkdKMkVYbGZCcmZqYVltcUo0ZmFfUjNZTHlhR0d1MDBLOVprUk5pMS1fTmlDUGhhTFNoWWFxaVNjY2V5SFBGUXh6WjNXaUxyVEFqQ21haG1xWGlpUDBaNlhXLXB6amI3T1BrQUx0aEtyU216Rk5UaW5GeXBjS2RHbU85TkE5MHFYNm9adXdQRnFEVEVqd0Q2RzFXbnoycTlvTU43REdlaEFkNEFtSnJzS2RwNUlucXJteGpNQXdmT0tSaWlXVWZqZVE5d0FBZw?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-19T13:25:12.315758Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
@@ -389,6 +872,29 @@
       "reviewNote": ""
     },
     {
+      "id": "3c5aba92167f603ed8ce2a82",
+      "publishedAt": "2026-10-17T18:40:00Z",
+      "title": "“Ia harus meminta maaf”: Kepala CSD kecam Javier Tebas soal perbandingan dengan Goebbels, sementara Real Madrid menuntut presiden La Liga mundur",
+      "source": "Goal.com",
+      "link": "https://news.google.com/rss/articles/CBMimwJBVV95cUxPTVUtd2pGYXhVczJnTXgwaHc0eno2Wlc3NlVlXzFRNTlTMUhrMEx5eFVSQ1pnV084N1lYaWxxQ3BpQkNmUkE1dWpTS0piSFkwZUIwOHVUMFhIVll3cVo2NTdVRWMzcUtlcWEycEVYdVhCRWdWbnZPV3VNMm9oVEt5cllIcGJNNkZDcVhrUXppSzVSaGdCMWFvT2lxZHI2MlBMREhLRFpxQWRhZDVqdnNTcjBjT3VTZ1pET2JyeW5Mcmp1d1RUc2VIbE16aHcyMF9qdDRvZU1hX2hDLWs0NEJrRFE4ZXlxRVNmdml5MFVfaDJrUHFPeFg5YkkwS2FKMjhOcXVkSlh6a0NtSndFUmNZWnhEQ1hweFg3YWUw?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-19T13:25:12.315758Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
       "id": "02ecebe31a598cf4cc52d7a9",
       "publishedAt": "2026-10-17T12:53:29Z",
       "title": "ASIA PEKAN INI: Pembungkaman terhadap media, penangkapan terkait agama, dan protes warga",
@@ -430,6 +936,29 @@
         "Kebebasan Berekspresi & Berpendapat"
       ],
       "collectedAt": "2026-10-17T20:39:36.077735Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "d7749183558deeacc3af17f5",
+      "publishedAt": "2026-10-17T11:22:15Z",
+      "title": "Ketika Kritik Dibalas Represi: Menjaga Hak Berpendapat di Sumatera Barat",
+      "source": "Kompasiana.com",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQS0pfaVpvdHJJMVh4R2o2WXFhbGZZd3AxUnJxdDN4VDRhM1hOU1h1a0hkcHFaZ2FIT0RZdGdyUzM1YXg5VHoxMk1HV1J3c1RwZmhBRFZEREVpS1ZDbndJYnRROXBuLTZBYlM2V3lVU0F0RGlXNzFhLUVpci1RdnNfajVVbVd3NjFRQjNoTm5Uak50YUZSOEpUaEtQRUlmRk93Z2t0QmhRTmJ1MnhVUUlvR3FwaEpjeWZ2U3NYMks2Q0pJTzZVRFNCcWFIem5JOTN3Yy03UmFLaw?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-19T13:25:12.315758Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
@@ -504,6 +1033,29 @@
       "reviewNote": ""
     },
     {
+      "id": "88a9ac1358bbeb613b5b1837",
+      "publishedAt": "2026-10-17T06:10:00Z",
+      "title": "Javier Tebas Terancam Sanksi CSD Usai Kritik Komunikasi Real Madrid",
+      "source": "gadget.qoo10.co.id",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5OWmh5UkVwM21OeE5nbVF5TUdBTkpYa25lWnZFVGJyb0IwV01nS1BwdUZTOHNFOUN3T0NySlh5WUJIR2NKamQ1dGtmOE40dXdGSlBkMnlTeXBtUmQ5OGwtLW9RaWNScHg1bE9uSmpLNXFlOWN1WHV0Q2hMZw?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-19T13:25:12.315758Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
       "id": "a2f841efea888e5e66a10fb0",
       "publishedAt": "2026-10-17T06:04:00Z",
       "title": "Heboh Konten Kebakaran Hutan di Instagram Diduga Dibatasi",
@@ -545,6 +1097,29 @@
         "Kebebasan Berekspresi & Berpendapat"
       ],
       "collectedAt": "2026-10-17T10:50:06.163608Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "2836a2c9c98b7793d319a160",
+      "publishedAt": "2026-10-17T05:35:18Z",
+      "title": "CSD Pertimbangkan Sanksi untuk Javier Tebas Usai Kritik Real Madrid",
+      "source": "Lensa Hukum",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBBRF9vZkJ5TU9HVnRkajJhTy1JOUV1NUNyTTlSNW05d2lJVFBjSzNFRkk4bWpLbm1uMVpPV21UX0hTaVVDSzNNYUhaV1BFXzUwZGJtLV9EOGZnX3BjNGJhcU1jMlJLcXBTaHRwVXRMUQ?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-19T13:25:12.315758Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
@@ -711,6 +1286,29 @@
       "reviewNote": ""
     },
     {
+      "id": "d6d1a1923101514bad66cd77",
+      "publishedAt": "2026-10-16T20:08:28Z",
+      "title": "Beredar Telepon Ancaman untuk Bungkam Suara Karhutla, Influencer Kalimantan Diminta Hapus Video Kebakaran",
+      "source": "baraNews",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNeFlGc3R0eVNEX1lYQ0lxRktQWnhjQnZBVG9nWnNkMXI5aWtOX3FudU9hU3V3eUU4cGZSSEdoc1RHdWRzR3djeXd5dXhnaDdueW9iaEk1dUo1ZTVKVS1EVHh6NWJob1JFbkF4RTZ1UHp4MUM4VmZUSmtxQlgxSlVacERZWjhTZGcwWXowaVNXR3RzUjY0NmZ4TFFZaHNrTTFLZ1FrME11a21ySE9XTEM2Z3JkZmZ3cHFEb1ZEM3JROVhmbmFSYy1GWQ?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-19T13:25:12.315758Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
       "id": "b144deb408de28ed20fac6f8",
       "publishedAt": "2026-10-16T19:29:45Z",
       "title": "Berani Kritik, Siap Diulik: Dugaan Pembungkaman Di Balik Kewenangan Negara",
@@ -752,6 +1350,29 @@
         "Kebebasan Berekspresi & Berpendapat"
       ],
       "collectedAt": "2026-10-17T15:39:23.197136Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "0ad6a4241269cd1847179f67",
+      "publishedAt": "2026-10-16T18:24:10Z",
+      "title": "ELSAM Ungkap Ancaman Pengawasan Digital terhadap Privasi dan Ekspresi Warga",
+      "source": "NU Online",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNb2lYUm5DanBtb3FXYUtXOGFWZTR4SU9mT0VQV3p4VGVfMHBrcVVJaXNKU2pRU3pSNU05Z1U5aGhxTUZrYzFJR04tUWNiMWYwaUlROEw1SXJ1ZlZUNU03N3RScjBvYk54QVBkcWxqcmxXZlpORFdTUGV6Z09salpsczdRelNzNXdmOWFrRzdHdlhWVGd3ZHlFSnppSFI2dndwaTR5ZmotUG4zVlVNSV9BbdIBtgFBVV95cUxPMUlnUVBwME1SQk5FWVZKYUFxSW1PMm5rWm42ZHlxaWlUVVJIb2Y4a3FOa1hObFJzNVRoM2hsMFNNNnRnQ0x1RXZZYmVTUTBTQzMwWUlhNzJtLXBuMWJyaE1TcUpPQ1BBZ2wyS3p4VnhuNlVWX0Z0MHZUU2dNMUdCeG1hSHRDLVFjczQ4X2UzV3RmdTFsN2E1bXpUczFmWXVlU2ZfU0hDZEVUa25KZHpMaFZSTFh1UQ?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-19T13:25:12.315758Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
@@ -982,6 +1603,29 @@
         "Kebebasan Berekspresi & Berpendapat"
       ],
       "collectedAt": "2026-10-16T16:42:51.387590Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "8c4ee1c51403e7b04d6a3683",
+      "publishedAt": "2026-10-16T07:00:00Z",
+      "title": "Ilusi Aman di Balik Nihil Teror",
+      "source": "Harakatuna.com",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1qTG45am52RTM4THBMb28xX0t0R0ZMMm4zekRNSjNxVHJBOHp4d3RUSkFRTXlNcEhwc25hS1VYUElnV0psOXpjdFYxd0RZZXdXRjNjb3lma1RSc0NlTDRoejlCRU1WVTVRZjlmMXhlcTBNMHM?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-19T13:25:12.315758Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
