@@ -1,15 +1,15 @@
 {
   "meta": {
-    "generatedAt": "2026-10-19T13:25:12.315758Z",
-    "lastRunAt": "2026-10-19T13:25:12.315758Z",
+    "generatedAt": "2026-10-19T22:23:48.995865Z",
+    "lastRunAt": "2026-10-19T22:23:48.995865Z",
     "startDate": "2026-01-01",
     "refreshHours": 6,
     "mode": "incremental",
     "feedsOk": 16,
     "feedsFailed": 0,
-    "totalStored": 2361,
-    "totalPublished": 2361,
-    "newArticles": 28,
+    "totalStored": 2380,
+    "totalPublished": 2380,
+    "newArticles": 19,
     "warning": ""
   },
   "clusters": [
@@ -136,6 +136,328 @@
   ],
   "articles": [
     {
+      "id": "df05d6bebd42979596091ed5",
+      "publishedAt": "2026-10-19T19:17:00Z",
+      "title": "5 Tuntutan Demo BEM UI di Tugu Tani Hari Ini: Penanganan Karhutla hingga Mahalnya Biaya Pendidikan-Kesehatan",
+      "source": "AFU.id",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQR3ptUEZwRGdndXVqX0hldWNjNEktc21yME1EbGNlS21xMWg4dEVwRFZMdkpVMzVzWklDeElCcmhOdzZhVlRXRm1jWHJMTkluM1lINm4ySnhRQmh0Ni1Vb2x6V1JZSF9UWGdhOW84WmoyUVVlNnd2VWhGX1JmTW9TZGdkc0JUNlpJMUxTWjBldTU4Rk1ZNDl1R0FDZk54QXBtQmNMTVE1aHp3b0duZzZ0RThYZml3Zzh4MEpDTDNmNFhkaVo0OFpGeXJB?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-19T22:23:48.995865Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "c02c860d364d69f6774b470d",
+      "publishedAt": "2026-10-19T19:00:29Z",
+      "title": "YLBHI Catat 58 Kasus Serangan terhadap Pembela HAM, Soroti Kebebasan Berekspresi dan Papua",
+      "source": "Nukilan",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOOHpTMnNZQTFaYlpXV2xWVlhSa281a3BwR256dmRSLVVMcmJLUWNYcTNGRlJXMHFzWWRVOGtOZktwMklRbEhoWUVMNTJhOFZoVVVISkdfbEtJdXh3M2tDVjg1Q3RHSGhWLXV5RUdQUEdkbExsTjRxM2R6WERaOGRObmczcllWa2RndmRhWV9WTDNvN01NSFRuOGpEUFpGUUY3OFc1SjBGV3cyZjBZdkE?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-19T22:23:48.995865Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "037e0f84c6a6184563353c6e",
+      "publishedAt": "2026-10-19T18:00:15Z",
+      "title": "Anggaran MBG dan KDMP DIkritik, Dana Pendidikan dan Desa Disebut Terdampak",
+      "source": "Nukilan",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQZUQ5Rkc2TnlfZ2hSTnlhYzVmQU1lOWFzRTVqaTIzN2o0NjBWRTFHX2pzSkQtVXM1UFNQeExMNV9PbGYySnpjZnM4WFQtMlRDTENzcjlpQUZVcnhnQ1pNYnNNZ2R3RTJvMGZnUl9EZmIyZTk3OC1QOTJjQXpFb2xNUklNUWJWRHlsN1Q1Zy1ubnhfTE12dzlWWg?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-19T22:23:48.995865Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "00086c33ca7d96682cecc228",
+      "publishedAt": "2026-10-19T17:19:33Z",
+      "title": "Ketua DPRK Sebut Tambang Ilegal Aceh Besar Diawali Pendatang",
+      "source": "Nukilan",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNY2IzLTJRc2g4aGIyT1ROV04wdWJQcldZSGV3U29GWGxPNHR2TnZydmlBbVZCQnltQ2xqemxHN1NYZ052enBqdDlYMnpibDdEa1lEUTBEUXVpNVUzUTUyTEpJR0NuRWgtVERZbnFQZEloQ2RBc01rYnJjajJOS3pkcTlaQ3NxYjA?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-19T22:23:48.995865Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "2a0bb123dc6aeaebb5bd1ba7",
+      "publishedAt": "2026-10-19T17:11:00Z",
+      "title": "Jangan Hanya Blokir Konten Negatif, Komdigi Diminta Bongkar Jaringan dan Aliran Dananya",
+      "source": "kitakininews.co.id",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQMWtyOWdoYjIwVUIxWENPNk9ZYzk5N2tJMk5UZU1XNUJGVTJvVDU2RFM3bFlTZGRkOW1ZaS1Mc2VnbmR3ME94THd0RWpMTHBuQ2JrSFlBUmtpWEt6OERXWWFncEpma1NGMzEycGF2eHhGYmo5MjVmU09vaVpwUjZMWEJ6blFoVWtYZHJ0SGZFUE5XWDB6ZVB4aWhuY2JRYVpGZHRmVnRlaUdGSzV5dUFCMDg2TDdvbUdRbi1peUhzOVN4eGp4ZDlCMNIByAFBVV95cUxQMWtyOWdoYjIwVUIxWENPNk9ZYzk5N2tJMk5UZU1XNUJGVTJvVDU2RFM3bFlTZGRkOW1ZaS1Mc2VnbmR3ME94THd0RWpMTHBuQ2JrSFlBUmtpWEt6OERXWWFncEpma1NGMzEycGF2eHhGYmo5MjVmU09vaVpwUjZMWEJ6blFoVWtYZHJ0SGZFUE5XWDB6ZVB4aWhuY2JRYVpGZHRmVnRlaUdGSzV5dUFCMDg2TDdvbUdRbi1peUhzOVN4eGp4ZDlCMA?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "sensor_konten",
+      "subclusterIds": [
+        "sensor_konten"
+      ],
+      "matchedQueries": [
+        "Sensor Konten"
+      ],
+      "collectedAt": "2026-10-19T22:23:48.995865Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "a54fe14cefb23683b77f9d24",
+      "publishedAt": "2026-10-19T17:05:49Z",
+      "title": "MaTA Kritik Pembangunan Pascabencana Tak Berbasis Mitigasi",
+      "source": "Nukilan",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPS0xVU1dCNkVlMWlNcEFwSHhRN25BOTNoa2o4Nl9WcHVTWEoxa01ObDJ4eTlPWTUzTkdBUEdPbW9pUEo5a0tZa1pHTU1PNHJQZ0o1YTQ4QkhKWFBianNRNm83SEo0aEp1Y0UySzlOQUdmRWpCZU44MjlXWHhod0EyYnloS2c?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-19T22:23:48.995865Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "96bc34045ef27451852ec287",
+      "publishedAt": "2026-10-19T16:00:18Z",
+      "title": "Transparansi Anggaran Pemulihan Bencana Sumatra Dipertanyakan",
+      "source": "Nukilan",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPTDlXVjRtR3EyRVZyNF9Wd1I2RFp6WUlTZVlpTjM4bGp5LS0yZUpFaUk3ZWEtQ09uVGItSmI2VmpleHZ5c3A3emotamdEdW92a1dpeGNrLVhXRExEOEl1TTl2LTh6bjNDUFlMM3VzaF9mbXJTWDlVdWxrbE1xZjlaZ1dRUzNUdms0?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-19T22:23:48.995865Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "0e9a2896f39898ea25eaa4c0",
+      "publishedAt": "2026-10-19T15:57:47Z",
+      "title": "Masyarakat Sipil Gelar Aksi di Tugu Proklamasi dan Tugu Tani Besok, Soroti Dua Tahun Pemerintahan Prabowo-Gibran",
+      "source": "NU Online",
+      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOekFvdGkzdjBLUGtIWkdfbnV5bnhxSVJTZm5iY2h3clV1RWNTLVhrd2doZlhqNUViYnNvRXp1ZHZqdi1kRTd4ODFfVzNBUFNmR2F4bFFlcTlRNnpDOUdFN0ZDd25UTTNGQ1BpWDVBNnZVTzJ5cFNXNi1sOVJNT3Y5SzdYQk1OUEZwZzVLZ2pKMkpnR05SV3RwdThzWlNtc3F6Y01LZkJvNGd2YkhnYVpTOGtaNDB3QS1fTWNaS1ZuZUQ0YjNtNklrNjE2T0xnLXNLcjVEQjFCcDk1Q2ZSSkJBYTNVYkxyTlBF0gHoAUFVX3lxTE56QW90aTN2MEtQa0haR19udXlueHFJUlNmbmJjaHdyVXVFY1MtWGt3Z2hmWGo1RWJic29FenVkdmp2LWRFN3g4MV9XM0FQU2ZHYXhsUWVxOVE2ekM5R0U3RkN3blRNM0ZDUGlYNUE2dlVPMnlwU1c2LWw5Uk1PdjlLN1hCTU5QRnBnNUtnakoySmdHTlJXdHB1OHNaU21zcXpjTUtmQm80Z3ZiSGdhWlM4a1o0MHdBLV9NY1pLVm5lRDRiM202SWs2MTZPTGctc0tyNURCMUJwOTVDZlJKQkFhM1ViTHJOUEU?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-19T22:23:48.995865Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "655aa5b9aa708a4ce43f43c0",
+      "publishedAt": "2026-10-19T15:48:12Z",
+      "title": "Perajah Motanoi: Kebebasan Berpendapat Bukan Kebebasan Menghina",
+      "source": "Kalamanthana",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQUXRJa3M5S2U3ZjlLd2dKcFN0dS1IMnpCU3JxOS1VVlI5bllSTmxvbXJudHhBTmgwb19IWjQwMFBIWmhuS2dQTDF1ZFRIb3R3SmhrdXIzTDlsaFcyc1lDUk9wRXpidV9zU0VFRGRCU2hHXzZURUZ4aEh5TWFmOTMwdWFobjFLYU9pYW0tV2ZsMmsxT2VrTm41cGR0ZTLSAZwBQVVfeXFMUFF0SWtzOUtlN2Y5S3dnSnBTdHUtSDJ6QlNycTktVVZSOW5ZUk5sb21ybnR4QU5oMG9fSFo0MDBQSFpobktnUEwxdWRUSG90d0poa3VyM0w5bGhXMnNZQ1JPcEV6YnVfc1NFRURkQlNoR182VEVGeGhIeU1hZjkzMHVhaG4xS2FPaWFtLVdmbDJrMU9la05uNXBkdGUy?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-19T22:23:48.995865Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "e4342cd55b6d59a3a3c41b3a",
+      "publishedAt": "2026-10-19T15:00:45Z",
+      "title": "Akademisi USK Kritik Pemulihan Pascabencana Sumatra Belum Berbasis Mitigasi",
+      "source": "Nukilan",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQNUpjYW5iSFlkRGxjOGpSVHd0MS1BM0VUbnNOWjd4bFdmZ19iVVFfUS1kQnBGOUEzVlpYRUdqby1kRk5faDhxYVVQamc1dFFBME1KUGMyUzBrN1JtTmlkQmdHcERCeHVndk5paUlnbnFaeHNQaXNqeE9MNmZDSGJoeW54cTFpM2t3Y0ZzNXZyU0ktMERhQ1YwRzlBSQ?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-19T22:23:48.995865Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "e69a62ae990d8884486b244e",
+      "publishedAt": "2026-10-19T14:55:48Z",
+      "title": "Transparansi Peradilan Harga Mati: Wilson Lalengke Mengecam Keras Pembungkaman Media di PN Cibinong",
+      "source": "Teropong Indonesia News",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQaWc5aEJFdTR3RklYcEo1X1ZFajNGOTVSQmFTczlqUzNzRDdTRGJ6b3pRS2w0dWVfWGo5U1lXc3B6bmJmZjhHeWFmVUxPeDFqSkFRV3B2SkxIVkNUd21ReVJqWExyV2VSQ0xmQXlRTkc2ZWdBNlVmX2VJLXNCMUV6NGVlY3MyMW1UNllwWTRMT0U3LVhIQmt2aUNVUDVjOG9nbER6X2l6azF4UWJ5OHhDQlZ3c2R6VkxYQWdmLVd0M1A4aTJKSU90SHBncTRpN2R1WXBxOFlqTGdES2xBaldUcUJ3?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-19T22:23:48.995865Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "2f4c69b35e926a22a810a6d2",
+      "publishedAt": "2026-10-19T14:28:51Z",
+      "title": "5 Tuntutan Mahasiswa dalam Demo 20 Oktober 2026, dari Ekonomi hingga Pendidikan",
+      "source": "Akurat.co",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPbUFxR1RyZ3Q5QmJXcXVSRnRCSG1CR1dtNFdTZDFIUV9DSjA1c0ZrbDBOSlZmby05djY4R19xY3lGeEpfTWNGeC1RUDNxcHl2QVFHR09PRDVNU3E0alZQTmk1ZVlKam1UbU9qaW1FVUdOSjlHVERvTjRoOW56QWxlSlE1dmtkbDE3SWhZY2JiQXVDUE4yeTZiT3BiZGdBQzF5dTFaVVZ3MVVhYWt4Z1A4MTRia0dFZUwwLVo4?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-19T22:23:48.995865Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "718766f2ca5c5f1e402dc083",
+      "publishedAt": "2026-10-19T14:27:39Z",
+      "title": "Ketika Senjata Berbentuk Tulisan dan Informasi",
+      "source": "Kompasiana.com",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNcXFXSk5pMk5OLXpxbjg4aW1wWHViOFdMd1l6SkhLY2xqVkpmOXU3TlhOejh6Yy13MjlhNjZJNlR4dUc4dndIZ2RYT2ZaaDR5akxsd2M2ZnlYaHRFSWhLOEdxWFNsQkFoUnlQenU2WWxTLTNya3hxRUhZT0E1SjhqcnZBR2MxM19BVFNCZnFCX2R4QWh5RlZhYVNsN0cwc0V6cWd3YkJKRjJPdnB6T2tMWDYxMVRIdw?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-19T22:23:48.995865Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "8ee21baa41de191b939f1ea4",
+      "publishedAt": "2026-10-19T13:56:00Z",
+      "title": "Komdigi Blokir Situs dan Konten Judi Online | SAPA MALAM",
+      "source": "Kompas.tv",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOTDNhTVA0Y2IxN0RKRjB1d3dtQlVYTUtqWHdnQlBHdkdNMmozblVKQ1ctejF0QVJ2eEg1X0F3ZldhajY3blM4U1JGYmxBclhhX1I1ZmpmQzVaenVrQUVxSndiN1IzbFhBdnR3QkNvMV8tcnBXVzV4NVByY09Takp4MnI0SG1qYkljd2t2dVkyUmxLYzF4eVkw0gGcAUFVX3lxTE1lOXVqcEQ3QWVjMWVEU25BVGNld2VybWpRQU9GZXJ0RUVyZk0wVW85b1NBaXRMdzk5T0NYRTFBT2hBckFDY0dNblY1dHBmM19hbGN1OFJ3cmRBbWdvNjg4Y2R6OEF2dXo1cndmNnB3MXZPTW1UbXB0NjJaM2tpNnBsMDItX0JoQjJHdnhrdlUta2hGQnlxQWM2R2hCOQ?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "sensor_konten",
+      "subclusterIds": [
+        "sensor_konten"
+      ],
+      "matchedQueries": [
+        "Sensor Konten"
+      ],
+      "collectedAt": "2026-10-19T22:23:48.995865Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
       "id": "42502703b4da342527f2edd0",
       "publishedAt": "2026-10-19T13:14:49Z",
       "title": "Demo 20 Oktober: 500 Massa Diperkirakan Serbu Tugu Tani, Apa Tuntutannya?",
@@ -154,6 +476,52 @@
         "Kebebasan Berekspresi & Berpendapat"
       ],
       "collectedAt": "2026-10-19T13:25:12.315758Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "ef9f414a6ff667d8294caf02",
+      "publishedAt": "2026-10-19T13:02:00Z",
+      "title": "Tegas! Komdigi Perangi Judi Online lewat Pemblokiran Situs dan Penelusuran Dana | SAPA MALAM",
+      "source": "Kompas.tv",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQQUxDRXJWOEd2R2k0d25qX3hxV2hNZ0VRbXdybVBGN19rS3FxUjZUbThzZFBZa2dTMmZOdmhUcUlXT1EwNVp2Z0JkOXFaUUx6T042MXl4cTN1SnVKTktiemI4NFF2TnRHTDN4YlBiSHhycG5GZ2FoMlFXaUFtQ2Z1RkZqZFFyNEhUQ3YxeE81MXJVVGZrX1dyVk5kaGtiZnV0eWJMQU56Z1pQV3hFZkE5cTVvQkxweXZxXy1JajQ0dEg2UUFILXfSAcsBQVVfeXFMTVJEanNzMmQ3aEk3eW9ERklUc2VyeEZJT1ZDWkVlZVBEdGZ5dGM5VENrcVFnUER4QlVweFJLaW5RUTlBT0tvbklCdGpoYjNZazhNZzdpc19DcmxPNVZ2c3Q1eFlQYXZ2R2Jkb1FIZFl0VzRQd29WVW1UY2M4X2hVMUhEdkVtYkxSaXlTendQWldvdTQzbFJaTE1JWnBQR0kyTDVfT3hseFUzdzBvXzdCNENfS3h6SnNqR2lTZHdDQU4xd1RxdnBqazBjbWs?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "sensor_konten",
+      "subclusterIds": [
+        "sensor_konten"
+      ],
+      "matchedQueries": [
+        "Sensor Konten"
+      ],
+      "collectedAt": "2026-10-19T22:23:48.995865Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "05bf9e408d5b9cb641add806",
+      "publishedAt": "2026-10-19T12:42:59Z",
+      "title": "LSM PERAK Kecam Manuver Busrah Abdullah Usul PAW 5 Anggota DPRD Gowa: Bentuk Pembungkaman dan Pembelaan Korupsi!",
+      "source": "FaktualNET",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOSzhWaTgyNU1lRmZoMU1ac3ZPTDdxSkV6ZXdrMmdHZVhTeFZKUjJCSlFJZDk2YlpQYjNlODJnc2ZvMHBDV1M4Q2JBTEtkMEVsa2toN2tSbmY3NmFIZUhjN3JWbHZ4WFhZeFBGa1BNMHJwZmtiQTBfTWNTYU5jYk5KQktNMm03TjIwakRSNjFxQjV1ZlJfa1hzdmpoTVhqOE5Oa0tINkk0U1VrRTNUTl9ONGJVUUhEeklPeThJcl9YcDNXRnJhT3FNOW9iTdIB0AFBVV95cUxNYnlVb3ZEaFlNMG80bmlOZ1ZiUFN2dENVRDRIOWFiTWNja2xmLWhyaGNNOVVMQ3FUMV96NWVnXzNTTVNJSkhlNENtVnVjRVpoS1BXTVRaWHh2MWp4VmNnVlZ4SnpOcE5LQ3NoU3lYYUM3dzMwTXFZMkNpWVVaVkhSRkFLUG9jZFJndTZqNGk3OEkwUkpXMkZaWGpTYUxHZUdtY05XN3dsRFBFLU9iZFdiRkRFcDJ6UXpTN19hS0VNV1VmMFh3bjBnYnBuVzd1cHZN?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-19T22:23:48.995865Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
@@ -435,6 +803,29 @@
       "reviewNote": ""
     },
     {
+      "id": "f1b0237f1f8cb542de437561",
+      "publishedAt": "2026-10-19T07:07:10Z",
+      "title": "Foto Artikel : Prinsip Kritik di Media Sosial yang Sesuai dengan Nilai Pancasila",
+      "source": "Kompasiana.com",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOeENuVFc2cDZ4dUNYN2N3WnpjM0hoc0ZZeDFZQWg2a3FwbnpkY2RxNUFNcXpLRjYzSWRMb0FzRzdLQkVkNFZEU0hFV0tyNHRrSGlVRkg0VU9JeEVjVEZpVUpfZTBSOWpEREtIR1psRE5GNFhBeFNRRVpnd01hUWo0TC1PSjRnclFTTUZEMG9VU2FFejlqSkZHQ2c5ajlfay1aMG5zN05OMTZMZVMtbWhScFp6NlBNOXZ3YS15N2pZZG8wMHRXbTgwM2NteU9YS0s0RmRSNjVYTVc?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-19T22:23:48.995865Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
       "id": "cfad2b4d4b269b96b093713f",
       "publishedAt": "2026-10-19T07:03:10Z",
       "title": "Dua tahun pemerintahan Prabowo Gibran: Kebebasan bersuara di ruang digital disebut terus memburuk",
@@ -453,6 +844,29 @@
         "Kebebasan Berekspresi & Berpendapat"
       ],
       "collectedAt": "2026-10-19T13:25:12.315758Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "c642fb93864dc1fa1423b1ea",
+      "publishedAt": "2026-10-19T07:02:51Z",
+      "title": "Dua tahun Prabowo-Gibran: Kebebasan bersuara di ruang digital disebut terus memburuk",
+      "source": "BBC",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE54S2IwSEJKT0FhUS0yMTZFUElmcUR5UVBTWmtRQ0s3VXFjYTZnOHRaVTBDbjJ3MnM4V3BwcTh4SXFCSWJ4YmVlZHh4dzd6ZC10SmVQYjR0aGVWZ0NlWWZlR0dB0gFnQVVfeXFMTjI3cTdTdHNIUmxfLUU3a2ZydDZfVnRDMWM5NTJkTG5obzN2d3NELTJFeE1IbzFRUGRoX1ZZbVdtQUtrd1BuVkFfenN2bjZ1eGpaVE1iVFBuQWxZemtKWG54Qkpmd1lfbw?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-19T22:23:48.995865Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
@@ -545,6 +959,29 @@
         "Kebebasan Berekspresi & Berpendapat"
       ],
       "collectedAt": "2026-10-19T13:25:12.315758Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "cb64ae05ad2ae49c5c95560b",
+      "publishedAt": "2026-10-19T02:42:53Z",
+      "title": "Foto Artikel : Wantimpres: Penghargaan bagi Akademisi atau Pembungkaman yang Halus?",
+      "source": "Kompasiana.com",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOd1RkR2ZhVUJkUURHNlZtNjhXdFd1bUtFMVVRWVFMenlFUG83X25kME43S1gyNC1OdmtQOEhSbTA2OHd4YnJtU0RHdU52VEdwMzJabThHdElETERwSS1SVmdXbU0xUHVQX2c1NEZSYWp1QVJ4SEZrUmlueXE1VGYtNDF0TTVlVkVhaEdYaXpuS1B4TVNEb2VMQlNKdS1kLXZnbUxSMW1UY3ZJbGRnYVRSRklJUzRYeEpjcHFKZUJiR0I2ci12YmdVRTFiVXJ2M3lOZ0JudDIxSHJnUzdQWHc?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-19T22:23:48.995865Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
