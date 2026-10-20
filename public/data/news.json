@@ -1,15 +1,15 @@
 {
   "meta": {
-    "generatedAt": "2026-10-20T17:13:41.191365Z",
-    "lastRunAt": "2026-10-20T17:13:41.191365Z",
+    "generatedAt": "2026-10-20T21:40:26.322318Z",
+    "lastRunAt": "2026-10-20T21:40:26.322318Z",
     "startDate": "2026-01-01",
     "refreshHours": 6,
     "mode": "incremental",
     "feedsOk": 16,
     "feedsFailed": 0,
-    "totalStored": 2446,
-    "totalPublished": 2446,
-    "newArticles": 22,
+    "totalStored": 2449,
+    "totalPublished": 2449,
+    "newArticles": 3,
     "warning": ""
   },
   "clusters": [
@@ -320,6 +320,29 @@
       "reviewNote": ""
     },
     {
+      "id": "3fcc6b92db50ca869af1b0f0",
+      "publishedAt": "2026-10-20T14:22:56Z",
+      "title": "APPS Gelar Diskusi Demokrasi, Bahas Kebebasan Berpendapat dan Penegakan Hukum",
+      "source": "solusinews",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxONmRfMjdTa3NoVGltdmhBbUxMSlM0WnpaZUs3WGdaNTVSTTFuZl9weGR1UXpzd2ZER0V2aUtkZFFNYXBRVVdEb2o1aGpwM19lSGFJelVPOHpjS1ZRR05mdERxZFJQX21mamU1b2hyaE40bEZvT0xwM09vN2h4elBpbEo2bFJZc3RDZGdyTXpIN21pUGg1UjhTWGJsNjJjN29Q0gGmAUFVX3lxTE1TelNtU245Y1ExY216ajJQY2RuWHBONGRGQTg4RWlJVDFVRWt3LVgzRDNleTJ1TmVRaEpkc1l6eVRoMDBSUVR2cG5USGk1SVBDVVJnNE1EV0VCX05manZuVExzZnd6QTh0dnlvRWRCSVF2a1NseHhOU1VlM3pQTXpZdEZLOEpjRUJ6UzJpaUx1X1dsNTFPeTFLd0ZxSHk5b3BXTVh1cWc?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-20T21:40:26.322318Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
       "id": "b4db264f97eb3ec482b0baa8",
       "publishedAt": "2026-10-20T14:20:44Z",
       "title": "Menko Polkam Ingatkan Kebebasan Berpendapat Harus Disertai Tanggung Jawab -",
@@ -499,6 +522,29 @@
         "Kebebasan Berekspresi & Berpendapat"
       ],
       "collectedAt": "2026-10-20T17:13:41.191365Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "565ca01d8326e8b4bca4a60a",
+      "publishedAt": "2026-10-20T12:18:14Z",
+      "title": "Ajudan Gubernur Kaltim Diduga Senggol Kader GMNI, Tim Ahli Akui Keliru",
+      "source": "Prokal",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPN0tTbnF0cmdwM2tZLUJ0VnFxU3dGLTktTlowbTNrdFJJNlZHaXVXcUM4cE96OE1NdXZEdndIWE00REVZMEJmOC1LdkV5blhwaFFLNnlrR1FlV1FSQmpHQ0liQUFxZDJNbnlIdUdBN1pBTmRBT1lYci1QdkZNMTJtNlRuazZ2Q255b1hmOHl2YzJMbDc3cjNsem0wcG5neW12OGtMelM4MnRDN2ZFWFHSAbMBQVVfeXFMTlhNUzNSLTF5dDJjdFRvaGhLVk9XcFZfcXFqck1NZ19KbmlvdEp6VjBEeEk0OW5PS1h4WTI5clgtSFZiWTNWaVZIUDdrNC0zMm1ybHVLWl95dXo1b0xvb1hzQjRoTFFUZHhyR2Z6Q3NVNXhGN051ckRHLWF5dHJhQ2I1SWdYOHE5Wi1KSmVBZ1pDV2R1NVdVYlo3M2Q4elBRa213ZnFKQ010NklkcmhxSHRjbjg?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_berkumpul",
+      "subclusterIds": [
+        "kebebasan_berkumpul"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berkumpul / Berserikat"
+      ],
+      "collectedAt": "2026-10-20T21:40:26.322318Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
@@ -729,6 +775,29 @@
         "Kebebasan Berekspresi & Berpendapat"
       ],
       "collectedAt": "2026-10-20T11:44:32.014660Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "f84d8520bac944357b8a4ce6",
+      "publishedAt": "2026-10-20T08:53:32Z",
+      "title": "Harmoni Aparat dan Masyarakat Tumbuh dari Kepercayaan dan Kepedulian",
+      "source": "Kompasiana.com",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPRU5Vdl8yXzI0TzFCN3p3UkNFYklWZFppbURhQk95RlB5RENHNDBPY0FVYjY0MGZPWFFHYWF2NDYzOXJWS2lhWHRzNkFCTlBqVkNEUHRLbDFLWGNscmlfdWZmZ1NwWjdFMlFQNkRkZE9VdWVxMUwyQVZHLWVfeUU1bEdNSHUwazl6UHlPVG9BaHdiNkR1MzlnS1JwM1ROSjl0OUdhTEdXUDBxOWZGQXhUTjlHUXN6WklaVjYzOGwtbVMzTVJGZ1ZyVnV2ZEt3VVE?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-20T21:40:26.322318Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
