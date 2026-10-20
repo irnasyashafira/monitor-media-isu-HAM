@@ -1,15 +1,15 @@
 {
   "meta": {
-    "generatedAt": "2026-10-19T22:23:48.995865Z",
-    "lastRunAt": "2026-10-19T22:23:48.995865Z",
+    "generatedAt": "2026-10-20T04:56:03.148980Z",
+    "lastRunAt": "2026-10-20T04:56:03.148980Z",
     "startDate": "2026-01-01",
     "refreshHours": 6,
     "mode": "incremental",
     "feedsOk": 16,
     "feedsFailed": 0,
-    "totalStored": 2380,
-    "totalPublished": 2380,
-    "newArticles": 19,
+    "totalStored": 2400,
+    "totalPublished": 2400,
+    "newArticles": 20,
     "warning": ""
   },
   "clusters": [
@@ -135,6 +135,420 @@
     }
   ],
   "articles": [
+    {
+      "id": "1e00172a0c510465980e0fa4",
+      "publishedAt": "2026-10-20T04:52:04Z",
+      "title": "Musibah atau Pembungkaman Bukti? Menagih Transparansi Puslabfor di Puing ATR/BPN Karawang",
+      "source": "File Satu",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPdXVqRTRTZ2cwb2drRk8teml4b0c4ZDlZdWRkelJfZVM2WjFLeGdyX05TUlVvTHY5YW1zbFQ1dVdra1o0MlVVVkN0dmlJR3ljeFpMc2k3Y3J2NmRteHNBakJ5SnVoZElHamh4dFE5M2NaNm85S0t3N09DTWdsa3A2Uk1zbUpmVUx0dWFyVW9qb1E2SkZRYTBmbERMdUU1M3ptLVdVUTRpdmtmcGYwLVdDcnNB?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-20T04:56:03.148980Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "565b0cf2b6b812aed39a2c9f",
+      "publishedAt": "2026-10-20T04:37:44Z",
+      "title": "Bakom Responsif terhadap Lima Tuntutan Mahasiswa, Pemer...",
+      "source": "EGINDO",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPTDBmU010aEtQcTE5RTJhcXk1M3c4aFFGa0R4RmVpekZxOW50TWtYdEJ1LTFuUnB2VjhSdmtPT3AwV1ZGOUdvTEM2OFZjUG43b2ZJQWJ0cGJ4R3JUcVNyU1dtV3pzYnZYUHpyeVBLX2ZlSDA0YkJkTVo5c3NkUnNfYmw2MlFBMHFaOFpjUVc0VU5XZXVlcWVFQjc1OGs1b1lxb2IzQTRlM0pLd0k?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-20T04:56:03.148980Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "015187ecc3f7647716ca4fc7",
+      "publishedAt": "2026-10-20T03:43:23Z",
+      "title": "Mahasiswa Gelar Demo di Jakarta Tuntut Lima Perubahan Kebijakan",
+      "source": "Suara Independent News",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE0zZ3RUbms5RmZxaERtVDQ3WnFwNXYyTTU4b0pka3Vrd2xRNHYyWWd5bS1FZ0lSczQzb1BTSGw1QWhRTDhSRDlkamVrRGY0cWNqd3RseTNCbEc1MUZxbTlIUUp0N1pGN213UDBrd01GYl9BQ3F6UnVLTURXcEo?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-20T04:56:03.148980Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "bdf8940b4f0a40bcf0849667",
+      "publishedAt": "2026-10-20T03:14:44Z",
+      "title": "Transparansi Peradilan Harga Mati: Wilson Lalengke Kecam Keras Pembungkaman Media di PN Cibinong",
+      "source": "Jayantara News",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE51cDk0aVBZeDdlNVM1eWdWZkNDZ0hFbFlZdTktYUtfMUZEbUUxU0h0UlZ5U0l1YzdIRjR3OVJpSFRsb0FKSk1kbGZKRQ?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-20T04:56:03.148980Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "73386ff5fc0e0ade3dad93be",
+      "publishedAt": "2026-10-20T03:02:00Z",
+      "title": "Demo 2 Tahun Prabowo-Gibran, Mahasiswa Bawa 5 Tuntutan soal Ekonomi hingga Lingkungan - malang.disway.id",
+      "source": "Disway Malang",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOQnNkaTJmb2pKNXhXbUEtVE9VdGR3LUQ1QW03TGZ0RC1Pd0FRWE15RzZUeDlEWGxBSVRHYU0zMVQ5VzNWTVdnWVlncVF4S21uWkh3dnZuZThhQ2FjWXNDSXAxTTJiMlRsbWYxREM1QTJJbmJUY29OcER2Y2c1bGp1UlBvcUh6OGpScjZ5eDFFUFltb2diMzJNTWhXaXdUcExGRmIzUEg2WnNreENKUEo2MDdsa1RGSHM3cHNZ0gG7AUFVX3lxTE5Cc2RpMmZvako1eFdtQS1UT1V0ZHctRDVBbTdMZnRELU93QVFYTXlHNlR4OURYbEFJVEdhTTMxVDlXM1ZNV2dZWWdxUXhLbW5aSHd2dm5lOGFDYWNZc0NJcDFNMmIyVGxtZjFEQzVBMkluYlRjb05wRHZjZzVsanVSUG9xSHo4alJyNnl4MUVQWW1vZ2IzMk1NaFdpd1RwTEZGYjNQSDZac2t4Q0pQSjYwN2xrVEZIczdwc1k?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-20T04:56:03.148980Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "5e38626a80aa2a6f00125492",
+      "publishedAt": "2026-10-20T02:11:00Z",
+      "title": "Dua Tahun Pemerintahan Prabowo-Gibran, Mahasiswa Bawa 5 Tuntutan: dari Karhutla hingga Biaya Pendidikan",
+      "source": "Manaberita.com",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxORkVSZXJ4c2h1cVlSWWsxV2lidWd6c0EzRkppa0Z3NlV0T2lGajJ3dzctZnNKdXlyNjlrczhzVXY4ajZRVjVKSFl6M1FTTjEyZTU4eDg1UDRaV3JTeFBwaE5vMHZDU21uaGFUSXhNdFBXNHcxem9EN0JRM1J0bHMxQXVEb2VnTGJkVk1BUzJDYjVUYWYxWURUaXF5RVA0amhvQnJ3cmd6WmtfaUdzY1hWNk16eldVSWhkMWVubDJDQlRCblA0bUdIS1p1Y1pzUQ?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-20T04:56:03.148980Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "37086d1ca55b87eef46a9cf1",
+      "publishedAt": "2026-10-20T02:01:11Z",
+      "title": "Evaluasi Dua Tahun Prabowo-Gibran, BEM UI dan Aliansi Mahasiswa Gelar Demo di Dua Lokasi Jakarta",
+      "source": "Pikiran Rakyat Jatim",
+      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNdEgxcUVXb29SbDlCaHBFWU41ZF8xQlNGZkZWSGVtTE1NTjR3MkZ3MmVObjhsZGFFaGU5cVJ3OTNVT0R0cU8tWDB2ODZvdnM3QlMzUWhVVU9aa3BmLTA0MjZ6TEg4NzZNTG5rZUF6VDNXWG42WWRwaW81MnBRMGk4Y0dFTzcwRkR0QWFoMU9uOTBydFIxcnlrYWNDdUlwWmJoOEJTNUsxNHk2QWxCQjdnUUdiR2s4Q0l6ODJsRHFWbmpEQkpGa0p0WG5XQVppM0RobHFMZEJZcFhLc0tfUG4wMG9YYVhKdEHSAewBQVVfeXFMTTUyTEZ2QW9lV0FGZ0YzX0FGNC1Zc2FRSllobUtkY21YZzRZMFY3Q2dvaU82LWtUREV1LUFfbmluVldUNUZCck5ISDVNUjlLQXhTV19HeEpuRFZMQmtDVTFhX1ZQcW9KdlAzZWdyakd4RE1oVnhucGJRcXlrRm9OSVAwd0FSRzZ0amV2V1N0NFlKcTBUcTBWVGg1ZUphdTZTXzJvRGVlOXdrSDJJam4wV2hTUVVTNHBHLU56ZFA1NVcyZmZWMnhaRm1rNzlBT2ZiaGNtZlk3aFlZYzhZd2t3N1ltejNhY01KeXJIZU0?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-20T04:56:03.148980Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "31848d90746595c3fb9070fd",
+      "publishedAt": "2026-10-20T02:00:00Z",
+      "title": "Dari Karhutla hingga Pendidikan Mahal, Mahasiswa Bongkar Rapor Dua Tahun Prabowo-Gibran",
+      "source": "Sumbarsatu",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPS2w4c1Y1NnhoTTh4Y2Vud2cycG54aG5xQUNRdWs3Qm15ZXdBdHhqbkxaWTJyYUZuQmd4NlJlVkZ3eEpMeUhxdER0ZlphMmdRcllycC1GeEpuZDRJX1lpN2Z0UE4zSFFtOV92MVhCM1kwRjZHWDlXQWxGeGFMMEl0X21IdDNRTXlxbFBtTmpzOHphYndhbUVHSDhVeFVIS2Y0S2dic053WmFOOFRSQXJHSlRqTVRSQ0d2TUFDLU93?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-20T04:56:03.148980Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "631eb01c608b1371480f4931",
+      "publishedAt": "2026-10-20T01:51:00Z",
+      "title": "Usman Hamid Soroti Kebebasan Berpendapat pada Dua Tahun Pemerintahan Prabowo-Gibran",
+      "source": "Tribunnews.com",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNSWhSTjJtRktvTDQ0VjU1NXQ4N2xzRHhfcVZ6enl5N0NNM1g1TkhfdFpQVlFWRDN6UXROMFBGYWdNMHhTeFZzNW5qam1Wckg2WE4xZE0wNlBXN2M0czBuaHpUYmlGdzF3V0NWSVVKN0p6TEtjMlNvSTRkQTBzRU9UdkM5cG9TVWt0UFhLdUJXamFkM01aVWJzcUJvMUQtMkxFZFZMMndlSVZiMzMyQWZwMGxIbVEyUC1LUDVTRXBsT2FUNDV4Q0E?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-20T04:56:03.148980Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "d68f6658c0f04188d9bb33ac",
+      "publishedAt": "2026-10-20T01:07:52Z",
+      "title": "Demo 2 Tahun Prabowo-Gibran di Jakarta 20 Oktober 2026, Ini 5 Tuntutan Mahasiswa",
+      "source": "HARIAN MISTAR",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPT3BEU0JoYm9BRGFUa3RoNFI1b0tMSXdNV3pGUURKbkVNTGFFdGR5UWUtS0MzMUdoX3EzdGVRcW9mMnVvcTc5NVNSeHlpdGJpRTdMUnZZd3RCTDFLOVNlR1ZiOHBCbmZ2UkNyU3hLVExPNG4tdGNmMGs2Z3E1dVhubnJLcy14SE5HcHlOUVQ5TEd0c0hNNnplUFBFOXlxb3dlakNlMEtFYmdZeE1nM0dF?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-20T04:56:03.148980Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "4215ec59239d81d6433646c8",
+      "publishedAt": "2026-10-20T01:03:24Z",
+      "title": "Ada Demo 2 Tahun Prabowo Gibran Hari Ini di Jakarta, Bawa 5 Tuntutan Karhutla Sampai Biaya Pendidikan",
+      "source": "Akurat Sumsel",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxONFBzSDE0QjhjS19Ba3dqa3ZvU0tMaDExNi11UWt5aThfeDdTTEI4QXh1UGZEWkRsMVVuckk2QnNraDc4Sld1NnZrdG5udXNGMFQtWWNXcmY1SmZWaF9XeGNqWk9ic2FRSDlBWm0tclFURk8zZ2pVR0dlblFoNnpobDZrcXVxNUtTMWc1Rm96TWlzU1NoRzZ0OU9MZC1LUE9QdE9qWWstbzQ5OThaSWd2N0VSU1Rvazh4bFJLbGxIMTRfdUwydDM5OHNDN0FUaS1naWRfY0NJTGU?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-20T04:56:03.148980Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "c14e75aeafdef260daa28a7b",
+      "publishedAt": "2026-10-20T00:27:48Z",
+      "title": "Satlantas Polresta Gowa Gelar Strong Point di Pos 1 Zona 2 Patung Badik, Urai Kemacetan Pagi",
+      "source": "FaktualNET",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNbnBsb28tSjhHU0w2UVlpVm8zR2MwVzlPb183Sm1Sb0k2aXNSMkJMOHFMMTJFWEFHcGpvYnVPdE1mSzlHb2VHZXFDbE94aTlwdGxDQTRnbzVGa0piZlFicndDbWktQWZCcm40M0Fyc3J3T1JneW9SQ0g4Vkt3Z3JsRXNGS0NGaEczTzhhSnZOMmp6TVRRY1lYek1xM29iaG10YjNFRmtMQ0ttamxTbDJ5Ymp3VWxjQjjSAbcBQVVfeXFMTW5wbG9vLUo4R1NMNlFZaVZvM0djMFc5T29fN0ptUm9JNmlzUjJCTDhxTDEyRVhBR3Bqb2J1T3RNZks5R29lR2VxQ2xPeGk5cHRsQ0E0Z281RmtKYmZRYnJ3Q21pLUFmQnJuNDNBcnNyd09SZ3lvUkNIOFZLd2dybEVzRktDRmhHM084YUp2TjJqek1UUWNZWHpNcTNvYmhtdGIzRUZrTENLbWpsU2wyeWJqd1VsY0I4?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-20T04:56:03.148980Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "cc45c5c6bd574720cb699928",
+      "publishedAt": "2026-10-20T00:27:38Z",
+      "title": "Survei BEM UI-Aliansi Kampus: 78,8 Persen Warga Sebut Prabowo-Gibran Gagal, 500 Mahasiswa Gelar Demo",
+      "source": "Jawa Pos",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOTWh1eTNPcXhGNkFOeTI3b29pYXZtV0xlTFgwcFF1LUdoZHpKMS1iQ1I4emo1YXFkbFBnOXIxdzNacFZQb3NMOGZZeW4tODhxQ3Q0X2RJeVU2ZEZtY01rVUhxSXMyTEhlUmVTM1dGeEVqZmI0WlJxQTBqLXY2MjhFYUpIV000Y2NEZ2x2OVRqSWJXZ0JjazBHU0tRLVk5d01ScVFndGxGOWNGdnVJZnBPcFh5Xy1odmJNXzNwcS1ld0NZWmdhN3o1dFo0UFNBM0RoTDNYczBIU3IyUDlFTnBUVnl3?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-20T04:56:03.148980Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "77945060915214f270728c8c",
+      "publishedAt": "2026-10-20T00:14:00Z",
+      "title": "Carrie dan Wajah Baru Perundungan Digital",
+      "source": "RRI.co.id",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQNk4yOHlkVU9ZVFFNX2tqUWZOWFFOZGVTVERabTN4MkV5MEhxNHZWUTJmWTVLUlZDbUhReVJoUXZ2YU5QY1k0angyU0pnXzgtd0FqWmF5dzJEZkVfalBRWk1TWUZncWJDdWxnM1pLMkZJd09sOTZXNDJMZUc1eUU4VndKVU9WbHZOdmc?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "doxxing_intimidasi",
+      "subclusterIds": [
+        "doxxing_intimidasi"
+      ],
+      "matchedQueries": [
+        "Doxxing & Intimidasi"
+      ],
+      "collectedAt": "2026-10-20T04:56:03.148980Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "f62fc651b4ceef2bf7e2cb57",
+      "publishedAt": "2026-10-19T23:40:00Z",
+      "title": "Mahasiswa Gelar Demo Hari Ini, Kritik 2 Tahun Prabowo-Gibran - Nasional",
+      "source": "Bloomberg Technoz",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNU1RaaXBaUVBlb1FOOXp1TVZCb25UVVR2OUlnVnpCeGwyTG1SaU1ueXB6UE5ILTRjdFliSUd4Mjc4Z2hEaG85eUNmS0VCVGhWSlNnNjVaV05PXy1OYkhCaWpEU3hEcjFSSVpOa3oySVVNN2xZdENRVGVDSDFSVGhGdS1tN1U3TllmV2tSNWVDUnpOeHZXZkluS21oTlQyRXZuNTA4V0sxTjlRUDItcUNPdUJfcw?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-20T04:56:03.148980Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "282afbe7df798708646a1da9",
+      "publishedAt": "2026-10-19T23:37:57Z",
+      "title": "5 Tuntutan Demo Mahasiswa pada Dua Tahun Pemerintahan Prabowo-Gibran, dari Karhutla hingga Biaya Pendidikan",
+      "source": "Rublik Depok",
+      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPNHRyaTRhUmttY2xxT0ZaaVlRZmoxSHJWb1BXc1k3S2xiWXpQNFduN2NweHNKWUpselVENmE3eUN6dl9vbWJRMXVERzNUOGF0TW81NVhfNDRqbHQ2MmJ6U1BxTXVlWnFGQkFlaldjaFdocXlOUVpOOHBIZjk1RkhFNlhJVlZ6MXFOR2daZlI4UFAxVFQyRnBHY1ZwNV8zUkhPd3k5RUJ0VzJlYk15WHI1WGJ5c0lLQzFQNW00VkNxZGVOV1Njb2wyYW1oaFhJUG1zNlVwcW5OSFRQdFBNODE2SmRNb0xaNlVsR1FMLVloQVBXVUpXUmdkMDRR?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-20T04:56:03.148980Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "8ff7049713467d64eecef60b",
+      "publishedAt": "2026-10-19T23:05:00Z",
+      "title": "Siapa Menghapus Konten Kebakaran Hutan di Media Sosial",
+      "source": "Tempo.co",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPTjhBZDhCXzFOZW0za2Fabk5OeXlwSTN2ZTZiZ1lXRzFpS3ctdTF1NVdLMnNRSFFzU2JHc3czdlo0TVVTRmpKX1IyNjRFMjNEVGxmZjZSRXNoVjEyY2JjTldPdmNDRmM1LXRIOU9aNmRDYU9fVllIZFZaeXZGWTVBUHRhVkdDY290?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-20T04:56:03.148980Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "b5f611d925e331211cbedea5",
+      "publishedAt": "2026-10-19T23:00:00Z",
+      "title": "Main Hapus Konten Kebakaran Hutan",
+      "source": "Tempo.co",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNcXFfczRSeFg5TFNLNmxoZ2hZS2lyOExlU1doMkFCTTVPZ1BkNlhkcWRUdTdWSnFldkZLMTlidGw0bm9iYm5yR2szb1QyM0lpc1FBVGlwNGZienNRSkxqQS1rc0dXMWVZTmh4UFFPQmdidHJSYVNiUzZic05OZkZFWElKWEttMFRBRmRJNHlRdw?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-20T04:56:03.148980Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
     {
       "id": "df05d6bebd42979596091ed5",
       "publishedAt": "2026-10-19T19:17:00Z",
@@ -550,6 +964,29 @@
       "reviewNote": ""
     },
     {
+      "id": "05d620befbf43ffc4ed1a5f0",
+      "publishedAt": "2026-10-19T12:13:17Z",
+      "title": "Bukan Cuma Horor, Film Hungry Ghost Festival Uji Persahabatan Raka, Tintin, dan Bobi - Detik 60",
+      "source": "Detik 60",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNVVRGdjE2eHZZWGViZDh2NWo2aVh1aXcxQXdIaXdtQVBxclk0TTB3MlkyTjAxQV8zb0VxZ2FyOHVMQ0VOT0NnOGZpUGpsSGd5c1VCenFBd2dLaHRjTHN3bkdIcFE0YkVmMjZCd2VEYi0xeTNHVVFlSEhKZkJ5VFJoX19TM2dtMVVWd3BoVzFDUFhqR1hHcEtNVkdBTHlCZkliZTk0NHh0LUViUTBvejBEdFVoS2c4U2w1bDFZOFVMME00cW1LNURrRjhDQ23SAdIBQVVfeXFMT0Z5THlOZGVSc1k3eUc4d254Wi1CWlU5S2pZcVhKa0JhYmhSMmU3LUdvUGdRTDVKT2RrT0RwdFdLZUxrZWduWFR5MjNjX1M5b2V6S3lMY25EWmN5NXZld1VBMGVtbVBHNmM2V1IxVTMwMHRUajk0TzFzSUc2S0lHa3ZDUUVjSnhsSDVXSGlhMXNoMnN6M1ZMMFFWLXA0dkdFSU5obkpJbWdVVXhqWnd6aEM5SDV0b2cwSkRlSGdQSDg4eFRLU3JMQkszTGFWWl9JZUNB?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "doxxing_intimidasi",
+      "subclusterIds": [
+        "doxxing_intimidasi"
+      ],
+      "matchedQueries": [
+        "Doxxing & Intimidasi"
+      ],
+      "collectedAt": "2026-10-20T04:56:03.148980Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
       "id": "ae8194bb3607b9ddf762ee40",
       "publishedAt": "2026-10-19T11:18:35Z",
       "title": "Dalam 2 Tahun Pemerintahan Prabowo-Gibran, Kualitas Demokrasi Dinilai Alami Kemunduran",
@@ -729,6 +1166,29 @@
         "Kebebasan Berekspresi & Berpendapat"
       ],
       "collectedAt": "2026-10-19T13:25:12.315758Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "c21713a6eb5097f3baf15ace",
+      "publishedAt": "2026-10-19T08:29:43Z",
+      "title": "Foto Artikel : Kebebasan Berekspresi dalam KUHP Nasional Ditinjau dari UUD 1945 dan HAM",
+      "source": "Kompasiana.com",
+      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNY3hGQVR1Rlk1RnFrMHhudWNSbTRJanM0X2hsbTU4THg1YnE1Vlk2alMwLXZJZkREOF8zdUxpV2owWjQtSXV4LUM2SkVfYU5uU0FlbHdfd1ZfTkVrS2k0RlExdXMyVS1uaUJTa2ZPRWE4XzZzYXNKbGR3b3h6T1NIQ2Z2MXlCTXp0RHU4NmVrQkNWLWFsTXY1UE91MjB4blBzTEdpcTlLa3lOeENVRXBBaTNWU1JaT01lR2JTS2FENmJMMFRjWGhQLTEzV3ZQakNYVjVfS3BxNHNhODRON1JRTGt5M0dFODF3b0E?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-20T04:56:03.148980Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
