@@ -1,15 +1,15 @@
 {
   "meta": {
-    "generatedAt": "2026-10-20T21:40:26.322318Z",
-    "lastRunAt": "2026-10-20T21:40:26.322318Z",
+    "generatedAt": "2026-10-21T04:55:21.313889Z",
+    "lastRunAt": "2026-10-21T04:55:21.313889Z",
     "startDate": "2026-01-01",
     "refreshHours": 6,
     "mode": "incremental",
     "feedsOk": 16,
     "feedsFailed": 0,
-    "totalStored": 2449,
-    "totalPublished": 2449,
-    "newArticles": 3,
+    "totalStored": 2455,
+    "totalPublished": 2455,
+    "newArticles": 6,
     "warning": ""
   },
   "clusters": [
@@ -135,6 +135,121 @@
     }
   ],
   "articles": [
+    {
+      "id": "3c6f82195833db739ecc349d",
+      "publishedAt": "2026-10-21T04:05:20Z",
+      "title": "Polemik Takedown Konten Kritik, Meta AI dan Klarifikasi Komdigi Jadi Sorotan",
+      "source": "Pikiran Rakyat NTT",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPWE1BVEhJbFlpaXdSdnFHRVRuZkZvZmlVSlBiRFQ5eWNtRWRhRDlDdjhWSjQ2YlpPLU9BdmdZakVmWkY0V2ktMlpaTHZlS3VfWkV4TnJfWGllSVFDd0FzMm9FOXB2RnI5YlFUVlpmYi1ZNjY5a2QtYVFnRlY3Tl9CajZIc3EzejdYeDA2ZlNLQmNJUEZ1aDdmamNVbjgyTWlZaWpXNGRydS1xZ283dDRYNTRIMnRfS2JiYnhUalhxT040WE1FZjBDZDJR0gHPAUFVX3lxTFBxZHc0RzlBd0Qzak52NU9UZ0RObG5LeFgtejFJZUV1QTctLU51bi1GT1RGZXRRVld0VjFVTHpGcl96UVhLa2hzdGRfaTVoLWlRTVNQOGcwb3RqaDNLOXpkWHBWZ2lQZkFvWkQ5VHp6NkJPMlVnd2JMbkNmczNtdG9fWmhzQ0lCMnlHWmxlTERBUWtET21aaHk0cEtBMnQ0bnFSdFYyaGI4TGlCcFVKTHhfamp2bjcya1RuVXBKcUp5VzN1eHFpRlZTQmtRYjQ1VQ?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "sensor_konten",
+      "subclusterIds": [
+        "sensor_konten"
+      ],
+      "matchedQueries": [
+        "Sensor Konten"
+      ],
+      "collectedAt": "2026-10-21T04:55:21.313889Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "b62df7dc552a9e9ce9e71b7a",
+      "publishedAt": "2026-10-21T03:47:01Z",
+      "title": "Foto Pemerintah Hormati Kebebasan Berpendapat, tapi Harus Bertanggung Jawab",
+      "source": "VIVA.co.id",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPWFVIRVZjVEppZnB6RVZLUVNmVzJRTy1JUXpzUTdOY1lKWFRXeGRFWmZVQk1tSWJDNXJuWW1RRzlzc21MWHk1bkhyUG1iNjhPUWdwYVAyUDJIRUU4RDlTN3JicmhuRGhZSXJIRUl3MW1EVm9tajZDSlUyNThudFpDaUxtdFBKdEZ0SnNwNEV6VUtDTXQxbF9uRXBKdXRmVFdyYkJFWHYtQkU?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-21T04:55:21.313889Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "c9309478b5e6c3c18704d5ec",
+      "publishedAt": "2026-10-21T03:00:00Z",
+      "title": "Saat Kritik Berubah Jadi Intimidasi, Memahami Batas Kebebasan Berekspresi di Pengadilan",
+      "source": "Dandapala Digital",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNN1RnaldJaXJyS0pEUHJpR2M5WWhSTUdrMm10TW9weDVLTVdxRzNyZDcxb1RiWXl2cWM2RVRjM1daQUZ2ZWpIVFp5YXpXanNBQk5Ca2RLZFFJd2U5TlVWZTZOODBnbEwwZEpzRGZBNU0tR2xTbklYbWwxWHRfNHRYNlZwdlY3cnVfdjNRM1luUmJqel9FZ0k0RGdBSUtTX0h4OXp0bEJBSWpMcnpwT2pMRFZ5WUhFUE5LR2hZeHh3?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-21T04:55:21.313889Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "9d06beaf9f2effaefc852f64",
+      "publishedAt": "2026-10-21T01:18:40Z",
+      "title": "Paradoks DPR: Ketika Keberanian Politik Tergilas Hukum Pembungkaman",
+      "source": "Kompasiana.com",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOa2xyRElDUlNVTnRGZjhaQW95eEZtODYxTE1SaXJoTVhOTTVqNWxyWjBLSGRnd05Vb0cybnNQanNLa2cxZGtuT0RkcWJHS0xkRFpNTjJIdFdSQ0lSZDhUdG1NeElTTTJJUDhueFRCSm15TnI2OE1Ra1VJNjlNalQzZ29YNlgwUW9HV2QzV0lmckZSUHExWk9jbVUwVXFpd05odGY2SkFSWlVTTDU3NDhXZFJuQlcyMExGNFhBSWxPN09kQUhab1NsVVlITWRHNUo3cUtkLV9SZ2RabGpy?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-21T04:55:21.313889Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "ab7f993bb198ab0e80480db0",
+      "publishedAt": "2026-10-20T23:00:00Z",
+      "title": "Spanduk Protes Greenpeace Dibentangkan, Bakom Beri Tanggapan soal Kebebasan Berpendapat - Metropolitan",
+      "source": "Metropolitan",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxONndUU2pxQ2xIaUgyQk1MMFdDczlleGIyMzhwakdRSzg1ZkNRaVJtcXoyQjJNdVg5dUZIdkpsSWJ2RnRJeTI1Qi1oSTFXRnR2Y1E0VnVUR1k5UC00aXA4MnhWaGRXQWRXX01Cd0tBcTcxUkNVQjdLdjQxT1phWlkzMVQ5bDlvRFBKNGVlQ0VaaGZFNDBaQkwxUXVUMlE1enpSdzhaUF9HeDlVSUlwaHN0bDZTMGo2RktqOENOWHVneDFUUVRDbXVLUHFZb2x3bW5LOFpzdFJCa0Vid9IB3wFBVV95cUxNY2RSUWpIQUVzTC1NMGRFV0V3aVBTU1hibzBmaXhRM2lYRko2U1hEaC0wbm1kTzMxU0NIYWNSU2JtM3AwTUVrUVhqZktFWTBhSjFhTVBUNjJwOHh2dWh5SFh3VDk4SUxabndOdl9MdkhzbUNrYjRJOV9tU3FTR0NnaGxDRm51WURwc1ZXUGpmZGhXX2xZODJVaU1fZnpoV0lFZlg3aU9HVTFVVGR2bm8zb0dDWmR4NVl5WkFGUURhNjUzZlBmUFZNdzQ5NXhwdnpXWUJMaHZuUkM2ZXhuNGF3?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-21T04:55:21.313889Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
     {
       "id": "bfe583db41b28e5c2b6e0df8",
       "publishedAt": "2026-10-20T16:38:05Z",
@@ -361,6 +476,29 @@
         "Kebebasan Berekspresi & Berpendapat"
       ],
       "collectedAt": "2026-10-20T17:13:41.191365Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "67bf846916af8a167cca5549",
+      "publishedAt": "2026-10-20T14:09:43Z",
+      "title": "Foto : Bakom Sebut Aksi Greenpeace di Bundaran HI Bagian dari Kebebasan Berpendapat Halaman 1",
+      "source": "Kompas.com",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPX3NqbjdsWl9qNzBJOXVITklDUlNiQWIzZjlnSUpVRlc2dWxrOXFQcUJMbnJmdXZ1VF92U1VJMDhfWk1qVWFjZ3NCZlNOMzUzc2cyUHdmbHI5QjlDRHc0Q0xUTUJzMXNROWdlU3ZmU1VVVVZrMDFoa2ZzaVN6Y2RwOEVIemYyVWZfTHFoQkxZMlJGTF8yOHdPVXBaTlFFUkt6OTZKRnEyR1EyS0d5elhEaWd0X0R1bWpLUjRZblBtX3lWWms1S1NNQ1QyVDJBS2E5ZDlR?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-21T04:55:21.313889Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
