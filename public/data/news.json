@@ -1,15 +1,15 @@
 {
   "meta": {
-    "generatedAt": "2026-10-21T17:16:09.185442Z",
-    "lastRunAt": "2026-10-21T17:16:09.185442Z",
+    "generatedAt": "2026-10-21T21:46:07.426084Z",
+    "lastRunAt": "2026-10-21T21:46:07.426084Z",
     "startDate": "2026-01-01",
     "refreshHours": 6,
     "mode": "incremental",
     "feedsOk": 16,
     "feedsFailed": 0,
-    "totalStored": 2489,
-    "totalPublished": 2489,
-    "newArticles": 12,
+    "totalStored": 2497,
+    "totalPublished": 2497,
+    "newArticles": 8,
     "warning": ""
   },
   "clusters": [
@@ -136,6 +136,52 @@
   ],
   "articles": [
     {
+      "id": "8556273922dc2f6324b0ad8e",
+      "publishedAt": "2026-10-21T18:02:00Z",
+      "title": "Berita Video - Menkomdigi Soroti Transparansi Platform Kelola Algoritma Konten Karhutla",
+      "source": "RRI.co.id",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNZnhIUjFGR3hWNnRLYldoWDQ5NFNwQ2thUHo1czlLN3hTWW1SUzVxN3VyYkJFNDZnMWF4QnBLbmlUbkFOcHFkY0IzMUVqZmsyZmtJRTlNbjc0TjloZktCZWZkaV9zN1hsV2hJZS1aN0lERVUwbW9BbmhUdkhmcjhLWkJiZThXcjBmbVFueVNnRjMzcXZWZVFLSGZBbEFQOG0yem5KRmp1aURZZWR3SHc?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "sensor_konten",
+      "subclusterIds": [
+        "sensor_konten"
+      ],
+      "matchedQueries": [
+        "Sensor Konten"
+      ],
+      "collectedAt": "2026-10-21T21:46:07.426084Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "37b99e59bd5e3801cc64e270",
+      "publishedAt": "2026-10-21T17:15:00Z",
+      "title": "Konten Karhutla, Menkomdigi Persilakan Masyarakat Ajukan Banding ke Platform",
+      "source": "RRI.co.id",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOVGo2RjNvamRnRzJHdG9QcmVNYklrcHczMTNxb193TjQ3NlpzMl9GUVFRNzVfLTRBVjRTVGM2Y3lYZDFkalpTbTFlaWU2RVhRd01Vd3V1Sk40NDk3N0ZtQkVIbm1XM1NydTBuNWItdUlqdmZvc3o1YzY1RFBITnJvQ1lLXy11QVNTVWdLUWNiMzluWWlKQkoyVjhiXzY1bmdhS2ZNaHNONEdfT3pENU1v?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "sensor_konten",
+      "subclusterIds": [
+        "sensor_konten"
+      ],
+      "matchedQueries": [
+        "Sensor Konten"
+      ],
+      "collectedAt": "2026-10-21T21:46:07.426084Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
       "id": "d2d27e068b4e388a8bb9392c",
       "publishedAt": "2026-10-21T17:06:00Z",
       "title": "Menkomdigi Singgung Transparansi Algoritma Platform Terkait Konten Karhutla",
@@ -154,6 +200,29 @@
         "Sensor Konten"
       ],
       "collectedAt": "2026-10-21T17:16:09.185442Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "a20d255e3ecfe0ad009298fe",
+      "publishedAt": "2026-10-21T16:58:29Z",
+      "title": "Pigai Nilai Kebebasan Berekspresi Lebih Baik dari Orde Baru",
+      "source": "ChatNews.id",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9USDlmNDVDdkdici1TYmRxRzl5dlU4RWZoQTZkZ2pWSzA0cm9PaFZrRkFvOUVucWZaa2h3dUFVaE51akVGTkFUbU9NdDZYa1c2X3ptSzZvX0FTN3VJcDFqM2xjVDIyT1Nt?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-21T21:46:07.426084Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
@@ -223,6 +292,29 @@
         "Kebebasan Berekspresi & Berpendapat"
       ],
       "collectedAt": "2026-10-21T17:16:09.185442Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "8274305aa4f7b52be4ca7e1a",
+      "publishedAt": "2026-10-21T14:48:00Z",
+      "title": "Menkomdigi Buka Suara, Bantah Lakukan Pembatasan hingga Takedown Konten Karhutla dari Medsos - Gora Juara",
+      "source": "Gora Juara",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOYjZRU1dUM1dxNEdtQ2hWZThwYmFaclBPNXRLRDB1UDhoSGN2ZEdkN0V4b0tqV0NfQ1pnRWVMSTFOVUlVODBPMXFCNW0wS1M2blBCRXg4T3EzbzExRGZ1c1BFRkJRNjFPSzV4alRUYlBpMmNHWWlKWWNLVldMN3d1dFJZOUhCRGc5ek1Wc045Q1Q4ZW5vVU9zVW5xR3h6Qk1jWUx6bmlpczJjdUdjQ0prWHcycHFoVGhXcGdGeHZpS29mWGpuMkNPMFNXaU9wYnFlTzBmRtIB1AFBVV95cUxOYjZRU1dUM1dxNEdtQ2hWZThwYmFaclBPNXRLRDB1UDhoSGN2ZEdkN0V4b0tqV0NfQ1pnRWVMSTFOVUlVODBPMXFCNW0wS1M2blBCRXg4T3EzbzExRGZ1c1BFRkJRNjFPSzV4alRUYlBpMmNHWWlKWWNLVldMN3d1dFJZOUhCRGc5ek1Wc045Q1Q4ZW5vVU9zVW5xR3h6Qk1jWUx6bmlpczJjdUdjQ0prWHcycHFoVGhXcGdGeHZpS29mWGpuMkNPMFNXaU9wYnFlTzBmRg?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "sensor_konten",
+      "subclusterIds": [
+        "sensor_konten"
+      ],
+      "matchedQueries": [
+        "Sensor Konten"
+      ],
+      "collectedAt": "2026-10-21T21:46:07.426084Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
@@ -412,6 +504,29 @@
       "reviewNote": ""
     },
     {
+      "id": "8659c1911bb325884c6088aa",
+      "publishedAt": "2026-10-21T11:03:00Z",
+      "title": "Meutya Hafid Klarifikasi Isu Pembatasan Konten Karhutla: Tak Ada Permintaan dari Kemkomdigi - Kilat",
+      "source": "Kilat",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNbm5LQmNhV2t5QzJDNGhTcTMzLVNSWDB5aXpUV3k0SVYzTVhZVERiZlRtTENYSDBTTHQ3TS1jR2Z5X1VuWWhUUEhZazRRTFZlMmRHMnBPaW1BOUFQU0xzUlhaSHhMVlNLb3d1aGxHaDNFdzRONWlsYlJFQURudS03Q29HbEFnbWZBOGZzeW9JQjZyejhxRHlDQ0Rad1lGYmgxQ2JqS0tLaGFWeVc1SFRCSHNLUjFDeUVBb210ZGlHQjBhSjR2SjR4Uk9JRE9oaFo0QjA40gHTAUFVX3lxTE1ubktCY2FXa3lDMkM0aFNxMzMtU1JYMHlpelRXeTRJVjNNWFlURGJmVG1MQ1hIMFNMdDdNLWNHZnlfVW5ZaFRQSFlrNFFMVmUyZEcycE9pbUE5QVBTTHNSWFpIeExWU0tvd3VobEdoM0V3NE41aWxiUkVBRG51LTdDb0dsQWdtZkE4ZnN5b0lCNnJ6OHFEeUNDRFp3WUZiaDFDYmpLS0toYVZ5VzVIVEJIc0tSMUN5RUFvbXRkaUdCMGFKNHZKNHhST0lET2hoWjRCMDg?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "sensor_konten",
+      "subclusterIds": [
+        "sensor_konten"
+      ],
+      "matchedQueries": [
+        "Sensor Konten"
+      ],
+      "collectedAt": "2026-10-21T21:46:07.426084Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
       "id": "e607f4948a5b9f7834fe9703",
       "publishedAt": "2026-10-21T10:30:13Z",
       "title": "Warganet Soroti Keterangan Meta AI soal \"Takedown\" Konten atas Permintaan Komdigi",
@@ -430,6 +545,29 @@
         "Sensor Konten"
       ],
       "collectedAt": "2026-10-21T11:56:19.469398Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "71232ccd98e02bfa3bcf345f",
+      "publishedAt": "2026-10-21T10:25:48Z",
+      "title": "Cabjari Flores Timur Tolak dan Nilai Pembelaan PH Terdakwa Kasus Penganiayaan Perempuan Lansia Keliru",
+      "source": "Pikiran Rakyat NTT",
+      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNeHhkS0xjcU9jNjZEWFpkem9vUXNrcTVaOTVXVEpkd1A4NUtKLWc5QmZuZ2l4ekpzeEJmRjVPVDNNY2FUMEY1cldHZzZpSk9OVUs3TVZDbEs1d3g4d19TVmZ3a0ZIcXRRQXh4TUt4dVM4ekRqTHcxbEluc0l1dGQwcWxJYW5INmxzclBIbmNMMGp2alZ3NV80VmY1dkdPQzhXOXY1NjNqQXQ0Vk5WcFZIM0ZVU3REdWZVSEc4WHNHU2J5cnA2Snl5MGxyRnRXUF9tWUtxZFB3U0tYWTFYNHc4UjVLY21LSGV2bnVkM9IB8gFBVV95cUxQRlVMS2JnNGNJNnZjT1FfSmsxcEhEUVAtV05JZFdQYVlEWE5oQ053YWdydmhRR2d5MDNtR2RrVFEzcm5YWC1tUUczM2xZZUI1RC11aWlDOFhXak5QOGMtcFJVMllWdWhrLWRjSEpuWVZkZE9pbmNHc1ljQ2dVM1lMZjJTRmFVbWNWSW1TRjVmZVBEdmhWSEFocHloWHVYOHphS29yU1AwRUNvSlZrUmlfeUZWM091czVoMzBEVmJ0ZmdGdUtYU2UtblRxUi1CNHBvSzE3T1I3VDVjYW4xMzQ0eVMwVl9sTXZSWUk3QklkYWxhUQ?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "sensor_konten",
+      "subclusterIds": [
+        "sensor_konten"
+      ],
+      "matchedQueries": [
+        "Sensor Konten"
+      ],
+      "collectedAt": "2026-10-21T21:46:07.426084Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
@@ -614,6 +752,29 @@
         "Kebebasan Beragama / Berkeyakinan (KBB)"
       ],
       "collectedAt": "2026-10-21T11:56:19.469398Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "152dec22f5d38806054f692c",
+      "publishedAt": "2026-10-21T08:20:52Z",
+      "title": "Dewan Dari Fraksi PKS ini Mengharapkan Pemerataan Transportasi dan Subsidi Transjabodetabek - Suara Karya",
+      "source": "Suara Karya",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOVkV6emRTYVRJOUJ0NXE2T0ZWUDBpUmpsMTQ2ME5QWlh6M0pqY2dXa2RGZHRRLWVoZ3I0TU9JQWRIczVaNlZ3QUt6bm9CYVZGVlJ5cUd2Vmp2YjRiN3BGLVRTNmhVNWtrQ2o3SmJOWTZfMXZOVTBxbVh4OHJacE1KLXRpTTFLNGVPdEItb0xHdFQ2Um9YbGpqOHEtaWdHN1dZbXAyQ0s1enN6b1J0ZWs1LWlnNk5oZFE5YWdaWFA1YVRvY3NqYUhOSVluRjBfSmJsblVVZtIB2gFBVV95cUxQbkh3UUJ6Vjg4VXJ5WWJPM2sxVTZlOTBuVkhyR0dSVmctY3I2dkRrbXYxM3pJTE9hZEUxQkhvMm80anBhNVE0ZDJVWXY0T09fVi1CVmowenpacGZLLXVCdVF4dVlUTWN5cjkwTHpDTUpnc1ZLc3lqZTVBVmR3ZnVidjE5RkJSZVVOa25BWWZFUW90NmlMRjdoNjBJNkR6NG1hc1Q5T25rWTlteTlBU0FmNXduQmphdmtDQ2JTd2pZNGhxYXExMHhwU0NTamNBZ1FGZGVibU9vYUw0UQ?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "sensor_konten",
+      "subclusterIds": [
+        "sensor_konten"
+      ],
+      "matchedQueries": [
+        "Sensor Konten"
+      ],
+      "collectedAt": "2026-10-21T21:46:07.426084Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
@@ -844,6 +1005,29 @@
         "Kebebasan Berekspresi & Berpendapat"
       ],
       "collectedAt": "2026-10-21T04:55:21.313889Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "cecd4d7805dde45c8dddc7c4",
+      "publishedAt": "2026-10-21T02:24:17Z",
+      "title": "Akademisi Andi Cibu: Kebebasan Berpendapat Harus Dilindungi Negara",
+      "source": "Harian.news",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxObDk5RjJDa0ZMV1duMTBDNzJNcmpNNzI3b2VyOGNYeTk0SWpQZ2NnUlZFRXQtUXNOOW9OeHE5MVdySHRJVVpDLXdhYjFZZm9WdV9OU1FYX3U0ejNBeTF6eHJVTUUta24zU0s5Ymd5WWg4akR2MVJJdnA0WEF0X25tcmdCMXRXOVAzTERMM213?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-21T21:46:07.426084Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
