@@ -1,15 +1,15 @@
 {
   "meta": {
-    "generatedAt": "2026-10-21T11:56:19.469398Z",
-    "lastRunAt": "2026-10-21T11:56:19.469398Z",
+    "generatedAt": "2026-10-21T17:16:09.185442Z",
+    "lastRunAt": "2026-10-21T17:16:09.185442Z",
     "startDate": "2026-01-01",
     "refreshHours": 6,
     "mode": "incremental",
     "feedsOk": 16,
     "feedsFailed": 0,
-    "totalStored": 2477,
-    "totalPublished": 2477,
-    "newArticles": 22,
+    "totalStored": 2489,
+    "totalPublished": 2489,
+    "newArticles": 12,
     "warning": ""
   },
   "clusters": [
@@ -135,6 +135,259 @@
     }
   ],
   "articles": [
+    {
+      "id": "d2d27e068b4e388a8bb9392c",
+      "publishedAt": "2026-10-21T17:06:00Z",
+      "title": "Menkomdigi Singgung Transparansi Algoritma Platform Terkait Konten Karhutla",
+      "source": "RRI.co.id",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOODdOMlFjVFJjNHpwU2dPUmJiX01fNVlWeEFQUGFYVW9lOVRfTG84YVlNVEVuWkl0RGlhdWR6Z2lhWGZBMk1yZFFNbk55ZlhkRE0zQWlmcGtYTlhmNjJvaHYxS3VOcGFpSmdGcWdoZi1Xc1ZmUlVkU2tieWJEemFyenQ0QjRaUXpUTDZWWE9TS1Z3eHJORUY3RUQyck1aakZPeXFBd1BmNWJGRlhmY3VB?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "sensor_konten",
+      "subclusterIds": [
+        "sensor_konten"
+      ],
+      "matchedQueries": [
+        "Sensor Konten"
+      ],
+      "collectedAt": "2026-10-21T17:16:09.185442Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "144098afa344ee410ebe8caf",
+      "publishedAt": "2026-10-21T16:19:00Z",
+      "title": "Kritik Boleh, Intimidasi Tidak: Menjaga Kebebasan Berekspresi dan Independensi Hakim",
+      "source": "Monitor Pos",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQbDhmMWE3Sk9IRjcxTkRDOWFnc1FkWXNOeWQ2RHFQWS1MTHZXSnZIOS1lb2RDT2JNT3JKOXFLTGxsQTNpWlZ2SXJUYkM1QzVZeHJpQ2dPQTR2U2E0aXBPem9JMVFCU2l5TmZPOUp6bEN2Yk1tRkhjQ0J3MGVkSWFWMXpINA?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-21T17:16:09.185442Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "f4af068b0e1e73e05d1dbcd5",
+      "publishedAt": "2026-10-21T15:40:00Z",
+      "title": "Menteri HAM Klaim Kebebasan Berekspresi Lebih Baik dari Era Soeharto",
+      "source": "RRI.co.id",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQWGI0Z0YycU9oX2hDY0ZtQ0VGSkFCMWUxc21VdkdZTVlXWGpaSWFoTF9hbl96bVN2b18xWmZDbmUwZllBeUVtRmFuX3B2QzNCWFZTVWgxSlM0QkJEUGlXUnFCRnY4QjV2Rlo5c2xCcnNlakRkeXNZajRNNTNab3hPTTFnVE14RVBhYnlYaEtFemR3RC1ZMzJMUVprSkNGSU1KcHYzTzR3?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-21T17:16:09.185442Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "e7e20671fa8e3aa34758cb11",
+      "publishedAt": "2026-10-21T15:12:06Z",
+      "title": "Diduga Menyebar Hoaks soal Pembungkaman Isu Karhutla, Konten Kreator Aleh Dipanggil Polda Sumut",
+      "source": "Tribun-medan.com",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNclNuRlREenZxUUpBQUNEQzNwYTFLYzdnSTZHVWZ4NHA4NEN0ME1PZ2hJVndVT3dDTkp4azNYTkpRTlRmUHRYMHN6aHVFTkpkNEpFLTJ3SEhxdzl5U1FiMlFEdk4zbWJrbEd6NUpxcFNrNW5uODFHT0ZhSDdiT3NnemNsTWFWQVNuWFVKY3VndENvYk9SOFc0SUNwMVNoZXc3eFpDa0hnWU5DaWJFNDliSzhUeEw4YnhwOGhtWnhTZW04bG50UUtvSElQdXZSNFVCcXc?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-21T17:16:09.185442Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "dba8b26e5049fea3d005fde8",
+      "publishedAt": "2026-10-21T14:40:00Z",
+      "title": "Menkomdigi Bantah Tudingan Permintaan Takedown Konten Karhutla ke Platform",
+      "source": "RRI.co.id",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOMWJCbmttNXM0UmRJQ0xEYXpiNW9md2ZySHY4RzFQdUxwMC1Ma1lnM09xOW8yY1hYYUNiaGswN3g4NWlCZDdxOTZYYUhPR0Vna2stcGtMc19ZSzVNaDBmSjhISHdrMGNLMXpCUU9Mc2gtYlpITkV0V2ZtWDJBbVQ4dWU2U2s5czdyeEwxaGh0QnExNXNKYnFPNDVtZEsxMkpxWURqdXhsdGZmQzA3YVE?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "sensor_konten",
+      "subclusterIds": [
+        "sensor_konten"
+      ],
+      "matchedQueries": [
+        "Sensor Konten"
+      ],
+      "collectedAt": "2026-10-21T17:16:09.185442Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "4e2975ed1bd71f1cd486825f",
+      "publishedAt": "2026-10-21T13:17:07Z",
+      "title": "Menteri HAM Pigai Klaim Tak Ada Pembungkaman Kritik di Era Prabowo",
+      "source": "IDN Times",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOdmdIckkwMTBYcVNYS1AzMGYyQzExZm5UTnk2M2Y0RVdTUVlvRmhlaFU3VmN3bGdCUkhnWEZSek1kSW5xeXd2UGpmbGlQWVQwenRoQXpIdEF4YUxJRzVJNnBYV0M2aGZ6d0ZIYmI3Nk5IM2ZjQmJyZmJlbFpLQWZvRGd5d1JFWUtFU1I4M0p4dEpkT3ZpVElvY25ZQTc1SjYtS3ZGaXVTbl9qemFXdjlwVHhzYlF6RlNkN1E5YTYtUdIBxAFBVV95cUxPSDZ6bWc0LVFEVThjd2U5cTNleWpIdTZ0eG9iZ2V2YWRRand5SXUtTzhEbXhibmFIX3BQOGM3QkFIeWJVM1gtXzhVQTFZMXVkUGEzdHRmTjR4UFZfU0pQc0JBVEtWQk1obDhUbE5oNkhuTE95N05LNFBvS205ZGUxWmRZVzdnRkRSS3RiTmhMbnBmcmctVExSb0dISjY3YnRZRzNWb1lhd3ExUnZCVDRZNnh4RHl1eTVob043OXBseHQ4WkZQ?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-21T17:16:09.185442Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "b54980e80e3653a7502c3bdd",
+      "publishedAt": "2026-10-21T12:58:08Z",
+      "title": "Dua Tahun Pembungkaman Digital Pemerintahan Prabowo – Gibran",
+      "source": "Southeast Asia Freedom of Expression Network (SAFEnet)",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxObXVwek5xUGRNeGt0WDBQRzh0YjNxQlR0d1NGcjJiVEtiVVU3eEpVNlMzVDNfX051RDNuZ0lUeEdKRkNXS1B1ZE5wOUZ3cmFMdVpkNnpzLXdVaE4wNFY4VUZJNmdyQU1FUHlWa2RRcWowMmNQREs1d1R0R3M0Qng5QmpfRldNTmty?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-21T17:16:09.185442Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "ec2c222be3f427ce72c9c774",
+      "publishedAt": "2026-10-21T12:49:32Z",
+      "title": "VIDEO BREAKING NEWS - Polisi Bubarkan Paksa Massa Aksi Demo di Kantor Gubernur Aceh",
+      "source": "Serambinews.com",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNcGExM2doMFg1N2tHLUF3WXNtZDdzUEFtb1NEb1I4ODlZelZEcFU5ZEJKNUxiNTBTeWpLUzJSR3lacFgzWWgwODltazlveGg5QjUydEFOSTlxQU84alZhSGc4MGo2TV9LR2prSnZBQ3NMUDhUbWV2ckVUSE5RTDYyWDhnZ0NScEtfRkR4Y0ZtNGQtMzhVN3Jsd1Y0ZzZjMGV6SWE0c1hiSmN5QnFjQzRNaXlIdTgwcjN1bHE4d3UtRGM?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_berkumpul",
+      "subclusterIds": [
+        "kebebasan_berkumpul"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berkumpul / Berserikat"
+      ],
+      "collectedAt": "2026-10-21T17:16:09.185442Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "a81fbb2f3b9b8def40760dec",
+      "publishedAt": "2026-10-21T12:35:47Z",
+      "title": "Komdigi Bantah Minta Platform Takedown Konten Karhutla",
+      "source": "Koma.id",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBvazJWVEY1emlteVNhaUo4MVIwY3FVUklPdDJGLThIQ3cwVGcwcXRyaV9EWEltYmNMUDdhVElPTmRJYkFfdktkSTBzbG4yY01IZ3RwbFI2LU4tLVY3RHhLekROampSQ2g1d29LX1RsWWx3TlF0VG8tY2tOaw?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "sensor_konten",
+      "subclusterIds": [
+        "sensor_konten"
+      ],
+      "matchedQueries": [
+        "Sensor Konten"
+      ],
+      "collectedAt": "2026-10-21T17:16:09.185442Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "e78cf943eaa6e05e1ad660ce",
+      "publishedAt": "2026-10-21T11:47:00Z",
+      "title": "Sekolah Partai PDI Perjuangan Kini Buka untuk Mahasiswa, Hasto Ingat Pembungkaman Kaderisasi Era Orde Baru",
+      "source": "gesuri.id",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOYmlWcG4yQzZMVFIwaUYtQWhDelZnTXFNRUl2ZE1GVkpEV09xeUJ5bExnbWNYWmMxQkhPWldfamFpWjB2b3pJa0JQYzhBS0s1eUlGNEpyVlQyY0UzdnlyQXFkMS1iRktuaUQyWkJDTjJHa3Z3NnBteGd4RjNGbmo2ZEhkUmJpbVlPX1NiX2dnd3V0OW5Rc2J2c2RQNm9iNmNvbm5XQmFQcHVHYWJnTV9yWGtsbVVxTy12UUhjNHYyQml1Vnp2VHJDVUE3THlWa1hlSWh0UXlVQm9QcmdHWEkzVdIB5gFBVV95cUxNX1Rsc3ZjMEpwTEpDVU1neGFhc3ZSWk5jWDVWV3hOT09vYk1OWlB6QzdKaTU0V2dpV0RHMmdaYjZKM0tCREhfdEdBTzVlMnE0cmlOb2RCbU9hVE5reW1KSVR4MUIzdW9saEMtYUY3QnlsNmprLUtrdk5McnJ1YS1sRWZ4RFU0cUoxcmtjNThGcnQwa2hIZWhQSGFLRk9mOURDNWluM01icldYNXlPZlJMakdFWk5pZHVWTFVIU0JIRUxuZUdaVUM0MjFWei16d1h4cjZKMjZYYTBqTlZVVzZIMEFOeExpZw?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-21T17:16:09.185442Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "7a57739f9b84adad263caf92",
+      "publishedAt": "2026-10-21T11:12:58Z",
+      "title": "Foto : Pigai Sebut Era Prabowo Lebih Egaliter soal Kebebasan Berpendapat Dibanding Soeharto",
+      "source": "Kompas.com",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPQzRJYVg4U3EwejMtQzlhOFhjdmhpa2JJU0owMjhnVW5hczBILXEwQzhHdk5GeEtNSXhKdWpsZUlheXB5bTBGQUxWMUxRVmt2WDRQMEUwemlIV0pKbmpaRmdPMGg1UGlRZ1RQdmJscU9wUjV4Z2Nmbk40bXBMd0QwVFF5RnA2YzhwSFZTRnpsS1dkNlFTTUFvSW56WXdHcVVhYzJ2VnFiZ2hHTklQLTMtendJYUZnNzVJRDZST3YxNkpaeWwyYTdzdA?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-21T17:16:09.185442Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
     {
       "id": "0b89a6f5d294a050f22ea6cb",
       "publishedAt": "2026-10-21T11:04:49Z",
@@ -936,6 +1189,29 @@
         "Kebebasan Berekspresi & Berpendapat"
       ],
       "collectedAt": "2026-10-20T17:13:41.191365Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "c755c4c146c45b1ab9e1c690",
+      "publishedAt": "2026-10-20T14:14:00Z",
+      "title": "Pemerintah Tanggapi Aksi Greenpeace di Bundaran HI, Bagian Kebebasan Berpendapat",
+      "source": "Narasi TV",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQOGJaU1REcUpvWlZGenRyZ1JDeUdod2w5TEt4c2xTZm5kTllpLUdfbzhmSV85cjVieWNpXzctVUUtT3hYT1FxOEYxdTZhaWFkbWlJQ3EtVmJQVXp2ZUF5b1dkc3NUOU96b1pGNFNLQ3FpM2hGTHZ3ME1OdjM3SVJfdy1uQ2ZwNlQyOHdfT3g4WjFwVWpsSnk1WmJHUmdaZFQtTGlic19qT3FyN2hRZGJYVk1XRWstdw?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-21T17:16:09.185442Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
