@@ -1,15 +1,15 @@
 {
   "meta": {
-    "generatedAt": "2026-10-22T11:58:42.265343Z",
-    "lastRunAt": "2026-10-22T11:58:42.265343Z",
+    "generatedAt": "2026-10-22T17:14:36.435711Z",
+    "lastRunAt": "2026-10-22T17:14:36.435711Z",
     "startDate": "2026-01-01",
     "refreshHours": 6,
     "mode": "incremental",
     "feedsOk": 16,
     "feedsFailed": 0,
-    "totalStored": 2525,
-    "totalPublished": 2525,
-    "newArticles": 15,
+    "totalStored": 2531,
+    "totalPublished": 2531,
+    "newArticles": 6,
     "warning": ""
   },
   "clusters": [
@@ -136,6 +136,75 @@
   ],
   "articles": [
     {
+      "id": "f14b7c62c034b738adf5eb18",
+      "publishedAt": "2026-10-22T14:09:20Z",
+      "title": "Ketika kritikan dibalas pembungkaman",
+      "source": "Kompasiana.com",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQenJKUTNYQ0tmMXV4RTdHLTFTc2JtMkZISTQ5d0l5LWEtZjRYQzdtdlM0MXBYdGhRQldIYzBuNkhYSlk0VXh5bFN6QTVEZ2ZpMURjOEVRZEdaSUxkREp2Q3UtV19CZ0R4dGNJOVE1Q1hIaFBuYy1kMEtxMEFjUGVIdElJV2g1OENraEVFVVVUU3o0d2x0YlpWVWhHdkJvaGd5bDNmcw?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-22T17:14:36.435711Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "f0ae19b2daebb5502089d033",
+      "publishedAt": "2026-10-22T13:55:04Z",
+      "title": "11 Orang Ditangkap Polisi Sebelum Demo Surabaya Dimulai",
+      "source": "IDN Times Jatim",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPWmtHa25jM1ZTRzh4Y1hSeHA4Sk84SUxDazJ5RnZ4c1laV2RHSHNzYTF0amtRSFpPajRJMHhrb1MxdVl1TEdLMEdXWjRSUGpzdWxlX2MzN3RsbEVIUzZJcXpQcjA4ay1CU1oxclIwQXVaN0NwWkJQdnExbDlNT2RyUnFORVllSngyUFVQTHotaDZfNkc5RFY4bndWUUxqOXpySE50NG5RcWdEQjBQRU5Qa2EyQkTSAboBQVVfeXFMTjNWQVBPbC1ZczcwTkFKZDcwbEkxR09TSF9WeUY2ckJqWHV5QXlWQkx1emRWTFRMeFdmcDYxVDBCTHVXVXZYXzdZc0VtMWRaWGdxS3dnVFhSVi1QTUprZ2tzR1NVV3VJck1vdGpORVJvdUFEbHRIZ2d0cDRPUE9fejhkTzNkd29IVzFHZElmTVhuV1ZuY2dBNHNTcm1SdzhsVmpXRFVBX3JVbkhQOGo4UVBPWFBadW54ZnJn?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_berkumpul",
+      "subclusterIds": [
+        "kebebasan_berkumpul"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berkumpul / Berserikat"
+      ],
+      "collectedAt": "2026-10-22T17:14:36.435711Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "6bbf65c6c430185c5060f9e7",
+      "publishedAt": "2026-10-22T12:52:49Z",
+      "title": "Prancis dalam kewaspadaan maksimum jelang demo nasional 24 Oktober",
+      "source": "ANTARA News Bangka Belitung",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxORDAxV0Y4ZlV3S3V3UTVlei11M3JpRVRvSEtfRkRCNEVQX2xIUEpnVGtXa2Z4dF96N294S2NYamt4ZFd1WlEzOFFIVXN3YUFyWVA0RGpMRWlEd3NDblBXVWNmRWRPc0hwdjNGVVdaU19tQ2RGM2Z1M1RIZzRZcWlCOUlTOTRSYTR4UUo1TnlvYkxiaVNDcFMtWG85MGx2d1ByTG9DY3lUR0hGM18xWV9CUWh0VdIBswFBVV95cUxORDAxV0Y4ZlV3S3V3UTVlei11M3JpRVRvSEtfRkRCNEVQX2xIUEpnVGtXa2Z4dF96N294S2NYamt4ZFd1WlEzOFFIVXN3YUFyWVA0RGpMRWlEd3NDblBXVWNmRWRPc0hwdjNGVVdaU19tQ2RGM2Z1M1RIZzRZcWlCOUlTOTRSYTR4UUo1TnlvYkxiaVNDcFMtWG85MGx2d1ByTG9DY3lUR0hGM18xWV9CUWh0VQ?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_berkumpul",
+      "subclusterIds": [
+        "kebebasan_berkumpul"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berkumpul / Berserikat"
+      ],
+      "collectedAt": "2026-10-22T17:14:36.435711Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
       "id": "3417430a292e1b7eab30722e",
       "publishedAt": "2026-10-22T11:12:53Z",
       "title": "Prancis dalam kewaspadaan maksimum menjelang demo nasional 24 Oktober",
@@ -154,6 +223,52 @@
         "Kebebasan Berkumpul / Berserikat"
       ],
       "collectedAt": "2026-10-22T11:58:42.265343Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "089a0aa8dfd0f27bd4504896",
+      "publishedAt": "2026-10-22T11:08:55Z",
+      "title": "Prancis dalam kewaspadaan maksimum jelang demo nasional 24 Oktober",
+      "source": "ANTARA News",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxObmVIa0Vvak1MMlhUVDdhajBoX2NsajZLV2JvYlV2blBIOE91SzZHR2d1eFBpa0t5V3Nmdm9wSGdoenBzdDBQQzlGTmI2SnpiZ2hLUGRwcXhXVl9SbTNvMFEwRlhZV2tPT2dNUUVENUotejVZZ1p4T0NBN2ttZFhlZXlTdW1IaTB2QmJVa3FDTGIyZWJLQm1GcmNXU2VwSU5EOVNCZG9ObzFLMGtVOXBF0gGvAUFVX3lxTE5uZUhrRW9qTUwyWFRUN2FqMGhfY2xqNktXYm9iVXZuUEg4T3VLNkdHZ3V4UGlrS3lXc2Z2b3BIZ2h6cHN0MFBDOUZOYjZKemJnaEtQZHBxeFdWX1JtM28wUTBGWFlXa09PZ01RRUQ1Si16NVlnWnhPQ0E3a21kWGVleVN1bUhpMHZCYlVrcUNMYjJlYktCbUZyY1dTZXBJTkQ5U0Jkb05vMUswa1U5cEU?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_berkumpul",
+      "subclusterIds": [
+        "kebebasan_berkumpul"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berkumpul / Berserikat"
+      ],
+      "collectedAt": "2026-10-22T17:14:36.435711Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "bad90c88e92fd76419db1eec",
+      "publishedAt": "2026-10-22T09:41:12Z",
+      "title": "Soroti Sikap Tegas Lembaga Korupsi dan Kebebasan Berekspresi, FWK Gelar Diskusi Kebangsaan",
+      "source": "Bukamata.id",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNaG85X3lsTGdzSUpmWkF5OThJNm5PZ1FYTVFTN1VrWS1Pd1EzRjZqSGNqOWgxZDcwaExJMWI5dHdRU3NuZmhodWM0cHN4MzRnbU1qZ1E4SWt5Mms2dXFsV3U0SUpkMGxVVGhOXzJPbEV0WEdkbTVMWFFLRnozTGJWODJrclp4c0ZJVWtweWE5N1NwV1VqdXJrMTctWnN4RUVuZmRRNWl0NWYtblRDeUpj?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-22T17:14:36.435711Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
@@ -7313,6 +7428,29 @@
         "Kebebasan Berekspresi & Berpendapat"
       ],
       "collectedAt": "2026-10-16T11:30:02.591918Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "5fb1d288132dc43d6f7d1ce3",
+      "publishedAt": "2026-10-13T07:56:07Z",
+      "title": "Polres Bondowoso Amankan Tersangka Penyebar Konten Diduga Penistaan Agama",
+      "source": "LintasJatimNews.com",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQSEt0MjBKMUhBd1A4WDVRRGNUQmlXNkp6OVJ5VkZXTEZfMmNtVW9sQXVjcWlfOTlfVEI5UGI1SFJQRTVMemxPcjhaRzdtRTdIYzdTTmhoSktySjA1cENiM3JlWkZmd3VmaGgwdkR0QW03VXZUdUZqX3BodjJUeWpsQ2paTWtOSjh6WXNyamdJNW5PM2lJR0k1MkNCVmNIeFZGd0ZmNzc0QlBnU2NpRzJnX3F6dw?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_beragama",
+      "subclusterIds": [
+        "kebebasan_beragama"
+      ],
+      "matchedQueries": [
+        "Kebebasan Beragama / Berkeyakinan (KBB)"
+      ],
+      "collectedAt": "2026-10-22T17:14:36.435711Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
