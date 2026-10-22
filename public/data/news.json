@@ -1,15 +1,15 @@
 {
   "meta": {
-    "generatedAt": "2026-10-21T21:46:07.426084Z",
-    "lastRunAt": "2026-10-21T21:46:07.426084Z",
+    "generatedAt": "2026-10-22T04:55:21.394781Z",
+    "lastRunAt": "2026-10-22T04:55:21.394781Z",
     "startDate": "2026-01-01",
     "refreshHours": 6,
     "mode": "incremental",
     "feedsOk": 16,
     "feedsFailed": 0,
-    "totalStored": 2497,
-    "totalPublished": 2497,
-    "newArticles": 8,
+    "totalStored": 2510,
+    "totalPublished": 2510,
+    "newArticles": 13,
     "warning": ""
   },
   "clusters": [
@@ -135,6 +135,259 @@
     }
   ],
   "articles": [
+    {
+      "id": "9d25fecb52ae4e9b16830226",
+      "publishedAt": "2026-10-22T04:42:35Z",
+      "title": "Dukung Pemulangan Aktivis Greenpeace, DPR Tekankan Kebebasan Berpendapat",
+      "source": "Merdeka",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQOFZuWmpRWDdrZFNQQ0l5OXJ4NVE2bDRXcExVTUtYQVNLUTVfQWVGR19YWElBdFRuY0NkcUVabS1yUEExU3RyVFAyY1NWYk9nUWJWZVR1Q2R4V3ZvZWFvNVctaTVMRWtIRl9zQk9NYnkyOTFxcUFocm1XNENzeG5NaWxmX2UyTTlyZHZKTXhuZWNnV2VUTVdBNUFpUzhMN2tTSjNBYUpRMHQyazlSTmlVUGljY3BfU2c?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-22T04:55:21.394781Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "3066033214a5b094738273f8",
+      "publishedAt": "2026-10-22T04:25:03Z",
+      "title": "Aksi Protes Krisis Iklim Greenpeace di Bundaran HI Direspons Pemerintah: Kebebasan Berpendapat Dihormati",
+      "source": "news.schoolmedia.id",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQMks3OEpYbXdOMEN4Q1ZFalpmVzllTk1EczI5b3JnWGJhSTctYks5bmxURTNQektRay01WklZTDRBcmp1d3FKY1dzdGlYRDcwX3ljbjdLcWd4ZldtdndqMFhQdkhjSnFMdUQ3ZlY0RDhiS1VOYnUtdHRtUVlYTS0wQ216VlNJSzBXSnRjcUM3bDBGYlFteGVRWmNtUVVsOXZLRlVOYk1obTZ3RDIwTll1TFpwSjh4R2xDMzc1bkVDVno2LTNoZWtkWDFPbTNhZ2gxSHZjeFVNSEpfUmM?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-22T04:55:21.394781Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "1f7d879e591c8e041f3f7882",
+      "publishedAt": "2026-10-22T04:19:00Z",
+      "title": "Pemerintah Maksimalkan Penanganan Karhutla, Kolaborasi dan Penegakan Hukum",
+      "source": "RRI.co.id",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPVnYxYzE0OF9UMFlSbjdXc3kyTGR5ZzYzZVFLMktDb1NtZkFtVUZBUTFDSnV4U1pISFc3QVFtLUNsZDN2aEhBYkQzMUVTQjRSNGxCQzJwTXlhODZ0WWxrU2hUOUIzSVNNTWM2UzhCRlVPOGpnWjBONFgwTFpmZlB2b1JmY25rTGhJRGQyd3ZMMUJzNDdCV2k5T2VnY0hpUlR4Rkc4NHhlbk0yNFRh?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "sensor_konten",
+      "subclusterIds": [
+        "sensor_konten"
+      ],
+      "matchedQueries": [
+        "Sensor Konten"
+      ],
+      "collectedAt": "2026-10-22T04:55:21.394781Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "dfe0601a34080eba906df3ba",
+      "publishedAt": "2026-10-22T04:09:33Z",
+      "title": "DPR Singgung Kebebasan Berpendapat Usai Pemulangan Aktivis Greenpeace",
+      "source": "Liputan6.com",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNamFqbU01dWtNZXp2bjM1UENfSnNib3ZBZ2tvZ3kwYUhWT3Q2bnV5MTNXRzMtOUhpNlZiYm9tOFRTd1VtRFI3VzdEXzVwZjdZSDM0SXl1cXNVTXliVGdRWko0dzdndkpWMGl0dlRmRHc4OWpIRjBHVWlEdmQtZW9QWEVvclllaWNsT2NqSlpva1dEQlVxTUpGUUd6TWtGYnFNZ2pSb2RsdlVtZFl5OW5mQVUzd1NVYjRkNmfSAa4BQVVfeXFMTXA5WlFCVExUbFBUSENVMktOZkNXSnE5X2lDb0VZeVZxaENLVFltNkNYeXhHOGVLeEcxejFqenFOTU5Lc2d3eGpONV9TbVZ0a0J6a3FiMXNPeC1EZHpQNnlkMkZxX2Y1TGo2aFN0YkRGczVlaHA3ejFvd3Z5UzAwT2ZrVWNkcHpuaEZic0tKWGI3Q0NEdUoxZkw3QVRWYkwzYm5jc3FMY05OOGhmNW1B?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-22T04:55:21.394781Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "766d6ec4eebd39aba8dd3b59",
+      "publishedAt": "2026-10-22T03:24:14Z",
+      "title": "Politik-Hukum: Polemik Kerugian Negara Dihapus dari Pidana Korupsi",
+      "source": "BeritaSatu.com",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNVng5UnpNajVZU1AyN29acTVMRm9MV2Q2aVFyaGNMUkctOEloUFkwNlJMOER2bFR2SnJXNVc4dllMQzY3WDE1emJXOUdvd2g4bVJXOENRRlNSaDZNc3ZKZWY5Rkx1LWMyRldmNmVwZUxHTVByakxKaVExOVNiSFVkM0dKdVVLRkpaa1A3dFFCNno2c3VyeEVtNEJtWEhDTnZiX1loT1dBd2p3RlV4U2c?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "sensor_konten",
+      "subclusterIds": [
+        "sensor_konten"
+      ],
+      "matchedQueries": [
+        "Sensor Konten"
+      ],
+      "collectedAt": "2026-10-22T04:55:21.394781Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "b4569d59adc4a1237a7ce098",
+      "publishedAt": "2026-10-22T02:51:49Z",
+      "title": "Uji Ketangguhan Tim Kuat! Jadwal Super League Hari Ini: Madura United vs Persib hingga PSM Kontra Persebaya",
+      "source": "Pikiran-Rakyat.com",
+      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOWnBZRmZYUXZlUFM5MDRBSExFbFN5d1VzR1hhUGNuaVFoQXFYVlBreVN2MFpBWnM4QklCODY3dWtVd2R4ZGRkd3FWN1NVMVhLbGRXanQ4VVJkem9ycmwzc0kyVEd4eHNKRHVnVUF0eEJNWHBLMC12YWJFSG1ab19CT3NsdUozTGN3S0pVUXNDcy0wV2xxNVJ0bjlQanBoa0xCc3NIdGNzRE9KNnJ4VEphWTViREJTc2lCTzZfNG8wNGtFODA2aTdIMVdTc1NzLTYzcWVKMUotUWFrN3FqWUlUMWRyVmJVMFRuOGN4T0tmelFoQUVJOWRv0gH8AUFVX3lxTFBZY3lndUhNRkZqVzhHRXlYTDJMN1NRUVBLdFloemJoYWk3V09WRGJGOVhDTEdvaG5LN2R4NGNpZlZSdXhwTElqYkFzQ0lZRkZWNWNfV3Zobll0ZkxoQTh2SlJFX0c4bmZwdEI4WHVNd2cxSWZtRkZTdjM5eWNDWTdlVUw3N2Y3eng4ODlyS0FDWnZKUTktT3FKWEh1SU1YQVl4MVY3NG15QlBHLTNDcm0ydUhLNlc5REM1R3BEX1duTXVNSlJvMFIyY1RGQ1RCY294ZjJtendDb3JTQXlrUDhJRFVyYnFQUmRrcjNoUW9aSlpHM2lDemlwSU1TVA?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "sensor_konten",
+      "subclusterIds": [
+        "sensor_konten"
+      ],
+      "matchedQueries": [
+        "Sensor Konten"
+      ],
+      "collectedAt": "2026-10-22T04:55:21.394781Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "1c89f62b8b88a9b770e00e75",
+      "publishedAt": "2026-10-22T02:20:23Z",
+      "title": "FWK Menilai KPK Penakut, Pemerintah Tidak Boleh Antikritik, Jamin Kebebasan Berekspresi",
+      "source": "infobanua.co.id",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNR24yeU8xSVV1OFhuMDVJS0sxaEJGT05fTWQtT0ctVG1iU1pteElVRVlCNHl6Rl84SjVyVV9BYlJXZFZiU3BkTmNjMUxldlFyTUZpRk5XQnBDbHl3dnJwU1VzY1VBVGhnNkJlQkNIZ0d6SjB2eVFZcVpKNmR2cDNxTmVJVEhvM3Rkb1hpMFdYTGhyOXd5T2pEQnE1bWxzTmJGNHlvRU13NWlITkNIM3otamk4eTdrbzI2NE1KNGJn?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-22T04:55:21.394781Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "5b5cac1bc597375bc3fd9d8f",
+      "publishedAt": "2026-10-22T01:48:15Z",
+      "title": "Scaloni In! Argentina Perpanjang Kontrak Sang Arsitek Hingga Piala Dunia 2030",
+      "source": "Pikiran-Rakyat.com",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPREpoVUhMemtxNW5IM1o5cjNrQzFNUkdPNEIyNU5DaGVZdC04d0xvUkx3WVlDc1Qzd0Zndk5uY0kxUVF0STlLLTZGbU1KMTJnU0lGc1Q2VDJOM2J5MjhVN29mSDI1RENrbWJvT2xhSmlFb1dUdWFnTlZMb2hDaHVPd3VPb1RvdVdfQzN4RkROemFMWUtxNWpIUXVLY1llMUczUUF3c3R2Q2JfWVlERy1DczlKblU2WkJuRmFWOUYxR3YxYlctZkM3ZjZ6MEU3bnBn0gHWAUFVX3lxTFBrTWxzQUttZ1ExeUZwZ3RiQThSTW5qMnRoSGIydFc4UzJzM1Z4RjFuZEhCZWljVzhKVkdTUlBvU2hRdFpMQzhaS1c2d1d3SUJSYWtkY3E5SEpJZHBYV216NmJ4dFVtSXpJSi1VajloRnVPUzM2dUJVYkZ4X1gwSHBRNXhQOG52STctbTl6Q1hKenlrU01HWE9TUmZEaUlIWm92NjdsLTJ6VEZzNEhITjRUNEx2RmMwaE90NVNMVXd6QXYyakNFMHYxSV9XMmg3X2VxT3UyQ0E?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "sensor_konten",
+      "subclusterIds": [
+        "sensor_konten"
+      ],
+      "matchedQueries": [
+        "Sensor Konten"
+      ],
+      "collectedAt": "2026-10-22T04:55:21.394781Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "9d26ed7785dba5c745ee41df",
+      "publishedAt": "2026-10-22T00:03:00Z",
+      "title": "Nana Mirdad hingga Sarah Sechan Ikut Bersuara soal Aksi Greenpeace, Singgung Kebebasan Berpendapat - Adatah",
+      "source": "Adatah",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPejdzclNKWkQtUldUTXBTVW82NmY5NnVqdjQ2RnNJVlYyY3ZVWXFPeVNLamUyQWhCaENuYkh6Xy1ManQycUU0Ri1pZ3FEQUVZaF96R3dBcXVZZXhhc1JGeWI0UGl0Rzh3bTdtR28wUXNNN2VCVS1RNzRzUm05NU0zUk1LTWtZU1NCT0pUNzhROURva1NmTFh1OUI3dDMwdVFXRldibzFYMlotMlZEU3FzWEJJV3VZM0pSN0FoTm1oVmlYdHUzS0x2aHluNkhDVWh6Rlh4T2pGZTB0UdIB3wFBVV95cUxQbEdXcHN5aDZ1dTRPZERRdWdCR2M3Q0dHZmRHRFp4emNfeERjV0J2UTl2SUNFU1AtUW5XNjZnUHhidDhFd2VQX3h5T1AzVC1RZkIwYm9jR1NXaDlidC1POHpwZGVEQnF1Nm9jT1RxQ1ZCYzAzYWVZSGczWUxRVTF0dExtRG1ISUx6WFdYMHBKcEtWRVFvZmRtRXBfSkpnRzkzeVNZTzZPWFhsanYyTmRFaVFCOVM3OGJKLXVHSjZCVlJCT2ZaMnc0VE10allQVTJJU19hQTljdjR6ZzhWblRF?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-22T04:55:21.394781Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "e4097285dc847d9f96b49395",
+      "publishedAt": "2026-10-21T23:51:13Z",
+      "title": "Beredar Isu Takedown Konten Karhutla di Medsos, Menkomdigi Tegaskan Pemerintah Tak Pernah Minta Pembatasan",
+      "source": "Pikiran-Rakyat.com",
+      "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOVE1QZWNuR3B1c1FsWVJab3V2S29WcU9uY2NqcnFLRVU1ZS1vd0tBZEpvLXl0cHJBTzV2VmZfWmlzbngzNUVaWnBWM3ZVd2taRjNaYi1mVGRCdU4zUm02d0Z5NDYycUZJc3Bjd2NDWmJQWkQ0YTVOQ1BSOTMxbzBlNU1xZHZ3RVk4RVRNaEVhUi1xSTJLbFNYQ0FISmZ3MWRpQi0zQjZ0VXhfRHVPRVlTS2dfcklBdkJjVlFUakJXeDZwTFB2d3VLUndIYWJFeHBaZjBQWjBWNDh6VjV4T001N2FYVTI4ZmhMWlVLdXpaVnVqbUpVdFRXZ1NSTdIBgAJBVV95cUxOZjRyeVRXWWRRTC1mTjNXR3drWG5MYzhuWWk2dFFLbS1HYnpUTG9tUU9tdmNfeGZTRk9lUDVsaTFMY2RlSG11NlM1QUVBU2VSTHV3N21tUmt0VGwzRG9kR0VTMFZxZF9jM3B4cFJTV1E4V3M5QVNBRFVEaWVrbWNJRjR1czNjcmVpSnpqSmRZTHlFWWhKbGs2QVFNRDFYTzRxRHZzb1lQdzliaUU5eXp3Rk9NaFNFTXdKeUc3YnhpWW1OMndyX1RobzVfdmpscEJTcU1iM3ZzSXJ5M0NhcGZybW4tZjFsV040NUdLQkRyanl4d0xfLWRldWNCcVY5VVhR?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "sensor_konten",
+      "subclusterIds": [
+        "sensor_konten"
+      ],
+      "matchedQueries": [
+        "Sensor Konten"
+      ],
+      "collectedAt": "2026-10-22T04:55:21.394781Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "8e2b62fea6012d079a17882c",
+      "publishedAt": "2026-10-21T23:15:14Z",
+      "title": "Menkomdigi Bantah Perintahkan Takedown Konten Karhutla di Medsos",
+      "source": "BeritaSatu.com",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQcDhzYUVOd1ozUEkzVmdGdVVHNWpPM2hnWEhzZ29neHduYUg1NnJQU2k0QjVBWW9MUExKOTh0WnpWeGZzUGJiaXA0VjlTRk5EcE1qUWJIeVduR0xHNEJRTzhnWTlSNmZzdjRBdV82WGRHZTFKLUdxYTl1Z1k5LTRUVC1NdDItd0JLMzVqa3VGbnJ6TDMtTFBpMGt6ek92VlRNWGV5b2ZRSkdFUGdk?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "sensor_konten",
+      "subclusterIds": [
+        "sensor_konten"
+      ],
+      "matchedQueries": [
+        "Sensor Konten"
+      ],
+      "collectedAt": "2026-10-22T04:55:21.394781Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
     {
       "id": "8556273922dc2f6324b0ad8e",
       "publishedAt": "2026-10-21T18:02:00Z",
@@ -844,6 +1097,29 @@
         "Kebebasan Berekspresi & Berpendapat"
       ],
       "collectedAt": "2026-10-21T11:56:19.469398Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "5433c561e51dfc1770ae3aa1",
+      "publishedAt": "2026-10-21T05:40:34Z",
+      "title": "Meta Ai Keceplosan, Sebut Komdigi Blokir Konten yang Kritik Presiden, Demo, hingga Kebakaran Hutan",
+      "source": "Pikiran-Rakyat.com",
+      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOZjJXSGRKN2JqQ1B4WndMQ2JiZXUxSk9fYVo3a3JWNGtlTkk0WnlQdkpqOG40elVvVTNZRDVVa253M2JpN0tlRFBsUGNlS0szcDBVMEZCSHY0V0hTNjE3bHpEUjhyRGZsbE9kdmRjWFU2VThGU3RJNWY1SkhFWWNPWUZ5SVJmWEJPRklsRHJXWGVPc0RhaFhCcXRJRDlYWDFmUVNBYVV4QjdXdW5YNlpBaDhad09UbXZJTGtMZllUdXVIdmFfSGVwdS1NdEJuOWs2eEl1WjhzVy1yNlliMXl5MWEycTdyNjd3R0HSAeMBQVVfeXFMT0JWV0k3U2RNTUgwLVRwTUtPbi1VdGRsN0FJQkJucFNEaWVTQ1pSMktYVVo0bmRkRkRpMTV3aV9jcFlVcXdWNWE5VVFuMmFaR2xjSWxuU1dFMGVENDVUVWFIcUhnc1FMTk02SU8zSXlVaHhfWS00Z3VNZUJWNnFZVy1nUkZsUW9zMTY5bXFLbTRCMldmMG41bkhZX3VobGNVQm1STlgtQlBJenRlT0ozeUZSYUt0S2M3S0lRLTRlakdQbzBHN3E3d2lwcnQ0VXpoWVZxcGphLTlHRG5abmJvZERqejA?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "sensor_konten",
+      "subclusterIds": [
+        "sensor_konten"
+      ],
+      "matchedQueries": [
+        "Sensor Konten"
+      ],
+      "collectedAt": "2026-10-22T04:55:21.394781Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
@@ -1948,6 +2224,29 @@
         "Kebebasan Berekspresi & Berpendapat"
       ],
       "collectedAt": "2026-10-20T11:44:32.014660Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "21f02c56abca16207b207a67",
+      "publishedAt": "2026-10-20T08:34:22Z",
+      "title": "“Apa Kerja Pemerintah?” Greenpeace Pasang Banner Raksasa di Bundaran HI",
+      "source": "Media Alkhairaat",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQbDhhVjdWN1VlNWM0eW1UZXprckNyemZSQUMtTmFNNVRKVy1rdzFVQzItTEZ0T2pybVVYN2czY0Y2U0xjc1hCOTRlUFNxNncxbnBRcUdRdTd4VWVGRUV5QnIwUDhMSFhmYkRQVkxHUzFwS2JOZEp2QmI3UWhFcWZYbmYtcVJiYUJ1c3Rma1YtTk5WZDFlMk0yNTdxa2wydw?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "sensor_konten",
+      "subclusterIds": [
+        "sensor_konten"
+      ],
+      "matchedQueries": [
+        "Sensor Konten"
+      ],
+      "collectedAt": "2026-10-22T04:55:21.394781Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
