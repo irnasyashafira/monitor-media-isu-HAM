@@ -1,15 +1,15 @@
 {
   "meta": {
-    "generatedAt": "2026-10-23T11:44:28.832993Z",
-    "lastRunAt": "2026-10-23T11:44:28.832993Z",
+    "generatedAt": "2026-10-23T17:12:45.098632Z",
+    "lastRunAt": "2026-10-23T17:12:45.098632Z",
     "startDate": "2026-01-01",
     "refreshHours": 6,
     "mode": "incremental",
     "feedsOk": 16,
     "feedsFailed": 0,
-    "totalStored": 2549,
-    "totalPublished": 2549,
-    "newArticles": 12,
+    "totalStored": 2554,
+    "totalPublished": 2554,
+    "newArticles": 5,
     "warning": ""
   },
   "clusters": [
@@ -135,6 +135,75 @@
     }
   ],
   "articles": [
+    {
+      "id": "de5ce02c194a722d8c219588",
+      "publishedAt": "2026-10-23T13:50:00Z",
+      "title": "Pemerintah Rumuskan 8 Isu Prioritas HAM, Hak Hidup Layak hingga Kebebasan Berpendapat",
+      "source": "iNews.ID",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOOWJIT2hNNU1RcXV1Ym0xb0J3Wko1VWpsLVZESkZWSWZpeTN6QkxjZnNjVXo1blBjV0N4RWdjOGI4R1BPbkJwYW9SUDdub0pKWmhrRmJiTVNJWDI2Wlh0WU40SzB1SUJOelJjbnVQOEkxRkgzVDRnY1puODlHb2h6QUVrSUkyaXNud2hrcXBKRHlmU2pla0MzR0QxOXNna0t0eExkQzBjVk9GZ05GMzc0VVJCc1g1Qm4tSGNidXo2dGnSAcABQVVfeXFMTjliSE9oTTVNUXF1dWJtMW9Cd1pKNVVqbC1WREpGVklmaXkzekJMY2ZzY1V6NW5QY1dDeEVnYzhiOEdQT25CcGFvUlA3bm9KSlpoa0ZiYk1TSVgyNlpYdFlONEswdUlCTnpSY251UDhJMUZIM1Q0Z2Nabjg5R29oekFFa0lJMmlzbndoa3FwSkR5ZlNqZWtDM0dEMTlzZ2tLdHhMZEMwY1ZPRmdORjM3NFVSQnNYNUJuLUhjYnV6NnRp?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-23T17:12:45.098632Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "da4248069d848b706aa6970d",
+      "publishedAt": "2026-10-23T13:00:00Z",
+      "title": "Warga Protes Karhutla, Amnesty Soroti Kekerasan Aparat hingga Dugaan Pembungkaman Digital",
+      "source": "OWRITE",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNelhwSWh4T0RPRWllaks0MGRaNEoyeUtuZUQwZkhYc2M0dnZIUDNPMllwQzlrcTFfYzBaMzhWVXg1Q3hXcFNmVnBEZW5kNDFYNTBKdkduZmZ4d2xJQzN3ZjgwM1A0VExURGZkRmNGbUFaYWdJZTlHVkRYNVUwMko1Zng2NklucWpDV01KVU01TjlKV0tLZUsyQUVnYkdxd3hNYmVsNXBWcUhjWWQ3SDNzcmtMQ290OFlmRkJhNy1rWnNINVE3ZTJKQVRwNA?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-23T17:12:45.098632Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "55c9967ef87e949a80829253",
+      "publishedAt": "2026-10-23T12:15:27Z",
+      "title": "Cara Kotor Pembungkaman Ala Penguasa Zalim: Dibeli, Dibully, atau Dihabisi?",
+      "source": "Kompasiana.com",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOeWlwWkx3V3F5QVluekZ0Z2RBZGxsX2JFTEZDNDk5bUFwR0g5aE51emc5Vml6OXgweF9ubTVzNkNRUEdGb2Y2cmNpaEhpWEdvWlZtS3hsWVRUdXNlWU55NlZjLWNXVmpIcUNVbWtTWUU3Wkt5bkkyQzdaT29KejAwaHZCZ0ZMVjd3VGVNQV9lRDUxaFJHRWVneG4tbFo1VVNUOF9XYVRxbGdHd2NjRXlWS3N1bXBodTVpS1Z5bVdCQkotX3NlZXFjX3B5WVI?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-23T17:12:45.098632Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
     {
       "id": "addfbb06d92196702f7d054c",
       "publishedAt": "2026-10-23T11:38:00Z",
@@ -343,6 +412,29 @@
       "reviewNote": ""
     },
     {
+      "id": "26988699153d5699db6ad800",
+      "publishedAt": "2026-10-23T07:53:19Z",
+      "title": "Musrenbang HAM 2026 tetapkan delapan isu prioritas, termasuk kebebasan berpendapat",
+      "source": "Elshinta",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNcHgtcmt0ZWZ2RVZQSXFGLUlNZzVMVS1hcTVmeXRyeFBMY0FiVGhCRmxOV0hWYnp1cS1Fa2tMS3d2dzdrNU5ZWlZXTlgyc1dGRW5CU2lwM1J3TGRYTWdnM0RhZjhHWnlBV1pzQ21rMHkya3JqcENmMzVjZTJKLVozUHYwMnhjLVRqVUc0UDZia0RVRjNtbXpyWWw2MndMUkk?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-23T17:12:45.098632Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
       "id": "49c369a6d6fcdd1646f26899",
       "publishedAt": "2026-10-23T07:52:00Z",
       "title": "Kebebasan Berpendapat di Media Sosial dan Hukum - kumparan.com",
@@ -384,6 +476,29 @@
         "Kebebasan Berekspresi & Berpendapat"
       ],
       "collectedAt": "2026-10-23T11:44:28.832993Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "6e8ea5776f6ffb72aa5b4bf2",
+      "publishedAt": "2026-10-23T06:02:18Z",
+      "title": "Iklan UGC: Ketika Promosi Brand Menjelma Jadi Ulasan Biasa",
+      "source": "OWRITE",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOQkp1YXlwS1h4alk5dzZxQjRxb1NOV1ZOWjdOUGx5Qm82WExPQUc5ZDdqUlFQaWlWYTI4UTFBY21zVHVETG9PdXdSUWNLN2VVanBKWUNTc0RVLWVIQkxEdWxORk5hbXFBUjM2S0FodFhuV3ozcWdJbjgxWERPTGNSQVRSVzVNYVNkb2p4aTVWRktNM1dIVmMyQWY5MnJEclFvemQ0?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "sensor_konten",
+      "subclusterIds": [
+        "sensor_konten"
+      ],
+      "matchedQueries": [
+        "Sensor Konten"
+      ],
+      "collectedAt": "2026-10-23T17:12:45.098632Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
