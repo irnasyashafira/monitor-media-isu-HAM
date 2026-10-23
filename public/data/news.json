@@ -1,14 +1,14 @@
 {
   "meta": {
-    "generatedAt": "2026-10-22T21:40:16.586194Z",
-    "lastRunAt": "2026-10-22T21:40:16.586194Z",
+    "generatedAt": "2026-10-23T04:57:21.782004Z",
+    "lastRunAt": "2026-10-23T04:57:21.782004Z",
     "startDate": "2026-01-01",
     "refreshHours": 6,
     "mode": "incremental",
     "feedsOk": 16,
     "feedsFailed": 0,
-    "totalStored": 2534,
-    "totalPublished": 2534,
+    "totalStored": 2537,
+    "totalPublished": 2537,
     "newArticles": 3,
     "warning": ""
   },
@@ -135,6 +135,75 @@
     }
   ],
   "articles": [
+    {
+      "id": "86d0baba13cefcd923d9d880",
+      "publishedAt": "2026-10-23T04:00:27Z",
+      "title": "KontraS Surabaya: Hentikan Intimidasi dan Pembungkaman Kebebasan Sipil",
+      "source": "Prohealth.id",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQZGtKclZCS3A2WmdjNnQwY0E1cnFabGhwRUdxQUU3ZkdHNVU5bDFMOElXbkVHT2pwS080ZDBHTk9hLVA1TlF6aDhqN0x6ZFdkb3lwQ3cyX2N3LWwxVk13SFQ5MlRiRFN1NDc0OVgwLU9XclM0T2Zjd0J5S3E0OWNid0JPX3AyOExrMzFVbXdXYTE0ekJoQ3c?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-23T04:57:21.782004Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "778f5ce3a4323fc078257eca",
+      "publishedAt": "2026-10-23T02:05:15Z",
+      "title": "Fakultas Hukum UWM dan Fakultas Hukum UPN “Veteran” Jawa Timur Bahas Kebebasan Berpendapat dan Konstitusionalitas Pasal Penghinaan Pejabat Negara",
+      "source": "LLDIKTI Wilayah V",
+      "link": "https://news.google.com/rss/articles/CBMipAJBVV95cUxNVDl6VWsyNm5FT1ZYVjJYVUpSVnA0MUc4ckxqdUhzRzB0aEQyVE95RU41bE4xcU5KcjEzYTF0aUtzMFJacVo1WEZ6NUcwRU9vbm5LeWVuVTFidkpFMlJmRk5SYU9lRWo3U3AxbjNHdVBJZ3RBRXhDV1R4b0JfYVprUUpPM0U3YXA2SXZoWDAyZ3hfeEp1cmJ1SE5sZXNLdE16cHR4UmFfdU9xbXR1RHd2VF9jS0Z6WjZlQ3FhNU5QVmxydTNyRm0yeUV0cjF5UHVUYzFBbzVBVjZQeXNwczBLSllPWlRYYmZFNFVFUGJudHY5aHY1RTQxeEJIWS02OU9SczVReFJXdnRhY1lGV3hNdnI3aG15c244bW1ocE1EQWVTUndj?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-23T04:57:21.782004Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "4b7da5bac8d4741a271e6fa9",
+      "publishedAt": "2026-10-23T00:04:57Z",
+      "title": "DPC PKB Bondowoso Tegaskan Penegakan Hukum Kasus Dugaan Penistaan Agama, Akses Keadilan Jadi Sorotan",
+      "source": "FAKTUAL",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQYkVWMWlxb29LZlEtQUpKLWlXV3ZmSXlxVTF0aWNTWFQ4aC01ZTFPTFNmT05pclBhX1dCb291ZnZta1MycUVaNVNic1FLNHNGUXpPRU56T2dZU2hMN3RBeXhoR2tnbXJ3QmFrdWVPcndCTGRGMTMyOUh5aGxXWE90OTBwYTE3UlJaMGx0Ym9qRUwwZkF2YjNESWFGMDhUSS1mUUhSeGt3amthTjhvTE5INEpONHdnbkhPT1ZXeXNkUQ?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_beragama",
+      "subclusterIds": [
+        "kebebasan_beragama"
+      ],
+      "matchedQueries": [
+        "Kebebasan Beragama / Berkeyakinan (KBB)"
+      ],
+      "collectedAt": "2026-10-23T04:57:21.782004Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
     {
       "id": "f0332f39b5706e10af03621d",
       "publishedAt": "2026-10-22T17:25:32Z",
