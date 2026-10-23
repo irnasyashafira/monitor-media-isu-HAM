@@ -1,15 +1,15 @@
 {
   "meta": {
-    "generatedAt": "2026-10-23T04:57:21.782004Z",
-    "lastRunAt": "2026-10-23T04:57:21.782004Z",
+    "generatedAt": "2026-10-23T11:44:28.832993Z",
+    "lastRunAt": "2026-10-23T11:44:28.832993Z",
     "startDate": "2026-01-01",
     "refreshHours": 6,
     "mode": "incremental",
     "feedsOk": 16,
     "feedsFailed": 0,
-    "totalStored": 2537,
-    "totalPublished": 2537,
-    "newArticles": 3,
+    "totalStored": 2549,
+    "totalPublished": 2549,
+    "newArticles": 12,
     "warning": ""
   },
   "clusters": [
@@ -135,6 +135,259 @@
     }
   ],
   "articles": [
+    {
+      "id": "addfbb06d92196702f7d054c",
+      "publishedAt": "2026-10-23T11:38:00Z",
+      "title": "Habiburokhman Klaim Kebebasan Berekspresi Makin Terbuka di Era Prabowo",
+      "source": "jurnas.com",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOOXFVdzNsSWRNUGRNZ3JFS01oYnE2WkdnbWFySHNzSWwxb3k1enF3SkhGNGc4RkhNaGIyaURpRFJuQlJEOUZUTHlWS2c3MGdHbVBSZ1NBb01UWkFRcWVaOEpPbVZnSkY1d2NvTVg4MV9QbmpYNlBicFBWc0V1LWhfZ1BzQ0FuaTJZeXFVT3FWN01uTllEWlBwR29ZSEVOcHYtUUdIdFc1M3JDZERiQVdj?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-23T11:44:28.832993Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "916a05e9c82198fc6ee9bd6f",
+      "publishedAt": "2026-10-23T11:34:00Z",
+      "title": "Menjaga Marwah Peradilan di Era KUHP Baru, Harmonisasi Contempt of Court dan Kebebasan Berekspresi Jadi Sorotan",
+      "source": "Monitor Pos",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOcUc3UEs3TjZZSjNselN3Uk9TRVQ3QWpSMEZ1ekRINnQ5bFZzNjEzS0tHaFFKd2tnaENtLU1lSW5yYlNKc1JtUExDZlVwTzFvcXNxYy1SN3ZvejhsMkp0UUluM1FkODhSV0hyYmRZZUI2TUZPdnVTSGh4ejZNZkJKdVhn?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-23T11:44:28.832993Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "04643145864fca18204c554a",
+      "publishedAt": "2026-10-23T10:25:00Z",
+      "title": "Organisasi Prancis Gugat Macron soal Demonstrasi Jelang Aksi 24 Oktober",
+      "source": "jurnas.com",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOb2l5UkhISnlnNUFxdG1xRHQ0X21DWFd2dENOZlVUOUVvV0lObkVMbUpSWUVRTU1Dc05vSjBhbFNYZUpWdW15Qm52eEZYLUpSNXpSR3ZlanF1ejNHOWJScDkxZXdVREhEZUJSQzdvQTFUVUx4UTJHbEtlMzBtR2dUTWpJVzlNYW5HWkRqT2RreGxCQXkxN3NYTDBLUnpBd012Uk5rZzZhd01ZQ2NCdy1ZWQ?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_berkumpul",
+      "subclusterIds": [
+        "kebebasan_berkumpul"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berkumpul / Berserikat"
+      ],
+      "collectedAt": "2026-10-23T11:44:28.832993Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "dbe2655acb4d604c55b7f0b7",
+      "publishedAt": "2026-10-23T10:13:54Z",
+      "title": "LBH-KontraS Surabaya Respons soal Penangkapan Massa Aksi oleh Polisi",
+      "source": "CNN Indonesia",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPUm05MThLMl82VHQxQU1kcTFaeWNrU1dGd0dvOE9iLWxaSVVDNnd1WklQSDhnLTVjMHlIcHRLQU41eWxkRE51VEQxX3djUFk5V3ZPSmZTNm5uN0o4Q3JsTzZBSkdrSjJqd3NKdGZEc3FVQjc0cWdIb3RrNTdIbzNtal9wSHBTWHd1a3hmbk96c1UyS3I5SzI3X2NtTlEtUUF6SzQ5eXRTSVRZZHM3Q215VFhWRV9GQWtYazVDVTdxSFFwRXBWNDlXdHNVTVHSAdIBQVVfeXFMTURGLVYweFhiOWlSakUyamJ5VGhIQmJTUEUySGhUNVl0OGc5YzdsX3M1TmxEbTEyZ3ZnQlpBUC1LUTZPUXotWVpMbHJNYzQ2MlJfZzVmSjdtQXBpam9RVXltX2NaVHZUaS1nMDNnemVkV1JZVXVhS2VHYVRqOHBxUnVNU3pueFBGVzJsVTIza05TVmMyN29RRlcwenBvSjVna0Q1cXpia1VWV3VSZGhUdUt5RDQtUVRUSWZCZnMtbGIzdC16OVM5VncyTFpOSDhqbW5n?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_berkumpul",
+      "subclusterIds": [
+        "kebebasan_berkumpul"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berkumpul / Berserikat"
+      ],
+      "collectedAt": "2026-10-23T11:44:28.832993Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "e6caa670dbd4d6fa4e728cc4",
+      "publishedAt": "2026-10-23T10:09:00Z",
+      "title": "Hentikan pembungkaman protes Karhutla, tetapkan status bencana nasional",
+      "source": "Amnesty International Indonesia",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQRXBrRlZ6LWJwMUpLRjdiQzNTd2NOTGtJdV9pNndLMFR6SWhTak1OY2ZBbl9CT3BCTUkxOTZNdGlja2lNbHhuUU9MbTJtYWlVNGd1bGFYUlVIRXRtOWxaOEdsWjQtclRQaXVPU1lGRk0xTVktNVp3eTRDRV93cGNfWWd1a2NRaGNBSDVNU0VZTjVyb3FvdVMyeG95ZUhvUTZUc2RqN0JBb19wT3RtTThoYVROd09WWlN0YkxLWEozYnZZQ1VYYmw4?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-23T11:44:28.832993Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "f9438d5fc3bfee994c665320",
+      "publishedAt": "2026-10-23T10:03:08Z",
+      "title": "Bantah Takedown Konten Karhutla, Meutya Malah Soroti Transparansi Algoritma Medsos",
+      "source": "OWRITE",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQWXFVWWdDV0YzYXhHMEY3WGRHeThlYXYySHJsSlh5NU1rQVF4NjZESV9CWWRlREJFRVVEaWpXTDhlTWJ1X0F3YlF6M3hqQ0lTNW01VnlnYm1SYjh3ajNreVBVeEFHdkh4RkZQYzExbW1zbldHa2VscW9nMmJmUjM1dmt5MGFkb2hIaXRDLXBTVjRjMUxCQmNaMTFpbzMtb20tYzRHc0dsc0lYb21fc0lMUzNGOGwyUTU3MlBnWlJNOGZqUQ?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "sensor_konten",
+      "subclusterIds": [
+        "sensor_konten"
+      ],
+      "matchedQueries": [
+        "Sensor Konten"
+      ],
+      "collectedAt": "2026-10-23T11:44:28.832993Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "1decaa031b1453f2d4fb3512",
+      "publishedAt": "2026-10-23T09:30:19Z",
+      "title": "Antara Kebebasan Berekspresi dan Hilangnya Sopan Santun Generasi Muda Halaman 1",
+      "source": "Kompasiana.com",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOcjVQcUE3NGtoYmx0T3Z1T2lSSmtZUXk1X1JqNEQtWnp6R2U1dHBPejNfcy13ZVFDbWVwZlZYWC1yX1NQRXctYTktQnR4QzZGMFFBdHZzc0h2bTBra29nVWhzY3lWU0JXVWx5NDVoTWpXcnM4Rm5ReUN5TXV0WFZuckE1ck9lUDIyRldranJBa0NJdlVTbUs2TFdORFNzWGEwQl8zR3RjOE5mOUVmdEktMGdSMDV0elVYelMzb0VtLUtzU3E5WFFDcFNiQTExNEE2QnB6dA?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-23T11:44:28.832993Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "168bff6794d53761ba608448",
+      "publishedAt": "2026-10-23T08:42:22Z",
+      "title": "Usai Kerusuhan dan Penjarahan, Macron Larang Demonstrasi Non-Serikat di Prancis",
+      "source": "Minanews.net",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOREpjOVBKV3VaN2xGUHc5aTZ0TW1hY1A2alVhOHJMbDR4R2xXUlNORmMyR2pGS19tdGhqSlFzQWpUV3hwSXRTcTgteTM5U05KTkxBWjRBWUF6S0JzcXl0akZLZ0ptNDdpZ0lCTTUxM2lwYW1UaFREYnJxSGQ0dUp5VUk2cGk0U0g2TGxZYTVZQmFydnFfVVhUUjA4QmlqME1LQ3c?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_berkumpul",
+      "subclusterIds": [
+        "kebebasan_berkumpul"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berkumpul / Berserikat"
+      ],
+      "collectedAt": "2026-10-23T11:44:28.832993Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "92328643394cf05af36829ca",
+      "publishedAt": "2026-10-23T08:37:19Z",
+      "title": "Celah PHP2Shell Ancam Server dan Data Pengguna",
+      "source": "SuaraGarut.ID",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9sMVdPTzBOWkViR3IzZEZsc2YxVDZsSUVZUXFjVExHaWgyQ3Fzb0tCbVBnaEgweTQxcEItWnJDR09UQS1LN0lsQlFuSnFhUkhaM0w1VFRpRThPblJxNG4wMHNCbFhmdw?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "sensor_konten",
+      "subclusterIds": [
+        "sensor_konten"
+      ],
+      "matchedQueries": [
+        "Sensor Konten"
+      ],
+      "collectedAt": "2026-10-23T11:44:28.832993Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "49c369a6d6fcdd1646f26899",
+      "publishedAt": "2026-10-23T07:52:00Z",
+      "title": "Kebebasan Berpendapat di Media Sosial dan Hukum - kumparan.com",
+      "source": "Kumparan.com",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPd0JmUFNVSUdiVTRKMGQ1ZGNVSWl2Z2FNNDk5dTZ3ZmFqMnZ2ZGtjb2hKOVRHOXpjYlgtbktkRnNiS2NxR1pIQ3d6NDBlNG1VVWFmOUxkNTJWb01CTnV1ajhoaVRwRERIYzJILWh5ODA2WTlJcEs3a2hzLTl1NHM0SEpLaWd5Nndud2p3bkh4bUFoc3NmMGd5c3ZUR2VRSEFlenfSAaIBQVVfeXFMT3dCZlBTVUlHYlU0SjBkNWRjVUlpdmdhTTQ5OXU2d2ZhajJ2dmRrY29oSjlURzl6Y2JYLW5LZEZzYktjcUdaSEN3ejQwZTRtVVVhZjlMZDUyVm9NQk51dWo4aGlUcERESGMySC1oeTgwNlk5SXBLN2tocy05dTRzNEhKS2lneTZ3bndqd25IeG1BaHNzZjBneXN2VEdlUUhBZXp3?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-23T11:44:28.832993Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "c9c4b9526aa6a292d4a04ad2",
+      "publishedAt": "2026-10-23T07:18:46Z",
+      "title": "Pakar PBB Desak Meta Lindungi Kebebasan Berekspresi di Pemilu Brasil",
+      "source": "IDN Times",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQWWVGUVRUTE9pcUQtMW9VYU05Q3NLT0s1eFBGVHh1M0plOFVrT2YtSXhUZHhVemhLVk8tdUN6TmNka0hNb3VBbjVpZ29SQjg2S25mNmphU1ExQ2w1c1pQNXBQWDctejhIWVVpcUx6Y2c2NDM3bnJBa3duN3NKSkNDMUpfc3lsNjFmOE9ldXZ5WW0wdC1yalBicjMtTzI1UTdoeGMwNjl4bTZrdUNCY0k3NE56Y0xWQ2p3TGFIUUNqaG5ZS3PSAcgBQVVfeXFMUFVJZnpDWlJqSjRSR0ppY0ZodnhDQlYyQVBJTkxlcFlqY0lIbnlLMndLSWtSOVJqMlVhUDJkc1cxa2FxRUdDVnBFUm5nczFoQlEteVo3eHF2dlBjN0N1WVd3eTRnSTZwbjAzOWNsbWxKVVpxVHZDQ2d6YUxtd0diLXNNam9xb0J3YndDWTdhTF9qQWFNd0VwcFozc0JNZ1pZRlFGZHVIVmlYNElxWU5pQ0daYnRmRjhYcDNfMzItbWI5LWRYN0VOVlI?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-23T11:44:28.832993Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
     {
       "id": "86d0baba13cefcd923d9d880",
       "publishedAt": "2026-10-23T04:00:27Z",
@@ -3006,6 +3259,29 @@
         "Doxxing & Intimidasi"
       ],
       "collectedAt": "2026-10-20T11:44:32.014660Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "f76a0c214087a7986139061a",
+      "publishedAt": "2026-10-20T08:00:43Z",
+      "title": "Komdigi Gencarkan Pemberantasan Judi Online, Mantan Pemain Rasakan Dampak Pemblokiran Situs",
+      "source": "Keuangan News",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPMWlndlpaTXR0NzlTVVgtUFhNVklKUUREWmFCc0U0c0pzTTVraG1PZFVoTUl5U0RLNF9TcGU0VFBpbXJUUERsTnotYnNBV1ctakhjdHZFbVZEOVFrZGN2ekloWXVoaG0wTkxqbzltTjJzSWRBVThvaGY2dFBKVjFZSkdKY1ZWcGg4R2VrdE1NdlFhN052NnAxVlBLVDYxMzJDWThfSUlBQzBJbmdXNVdtV1hPay1QZw?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "sensor_konten",
+      "subclusterIds": [
+        "sensor_konten"
+      ],
+      "matchedQueries": [
+        "Sensor Konten"
+      ],
+      "collectedAt": "2026-10-23T11:44:28.832993Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
