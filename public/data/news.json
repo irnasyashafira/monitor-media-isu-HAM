@@ -1,15 +1,15 @@
 {
   "meta": {
-    "generatedAt": "2026-10-24T11:08:01.955480Z",
-    "lastRunAt": "2026-10-24T11:08:01.955480Z",
+    "generatedAt": "2026-10-24T16:00:42.772392Z",
+    "lastRunAt": "2026-10-24T16:00:42.772392Z",
     "startDate": "2026-01-01",
     "refreshHours": 6,
     "mode": "incremental",
     "feedsOk": 16,
     "feedsFailed": 0,
-    "totalStored": 2574,
-    "totalPublished": 2574,
-    "newArticles": 13,
+    "totalStored": 2577,
+    "totalPublished": 2577,
+    "newArticles": 3,
     "warning": ""
   },
   "clusters": [
@@ -135,6 +135,52 @@
     }
   ],
   "articles": [
+    {
+      "id": "4978bb79001eea913787a7f2",
+      "publishedAt": "2026-10-24T11:44:05Z",
+      "title": "Dandhy Laksono Dipanggil Polisi soal Film Pesta Babi, Amnesty Ingatkan Kebebasan Berekspresi",
+      "source": "Inforiau",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNVkFLTWtkWnJpLXB5N3hfN2tJUFFBTV9pX0ZjSG53UnZsQWY2LWttU2pKM3NIYnV2VENVYjI2bWZlenFUdHFGcEd5MnFNRnNPVldpeGY4bl8zX1NaZnhnclB4bkltR0FhSTdTOEoydkthaHU0UVpOZmhVZjMxZ1pDZmNaTW1jX0QxTnlMSUJQdTdwT0ZUa0wzd0xwaXpwVV9GY25va3BDZ19uMmowdVdWSVBOeHU1ZkRIZGRndg?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-24T16:00:42.772392Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "7d8851a8935ea66061370dbc",
+      "publishedAt": "2026-10-24T11:23:43Z",
+      "title": "Polemik Amien Rais - Mohammed bin Salman: Antara Kebebasan Berpendapat dan Etika Diplomasi Islam",
+      "source": "Askara.co",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNazdZelA3RTZCRDd1eEV0bVZsTjRSeWVXeVBvaXhKc01laGliRDlxckV6OUtLVG9SUC1udDJCZnZVbTVNelJENzhQV2pWRXpsZms2QVMtOFRMcllDbnNIWExSclQ2Vi1lMURERm1EcUJGWU9DMFhQRUhoNXNCY2xfc2JFNlh4aVpVRzBFYkpkWHJ3d1RHbU5iVFhCeWdrX0s3alNCZUM5Ykc5c3dNaV9hY1A2dVYtM3V1Y1k5aVdIYnA1N1BfQzVLYkd5TVBPU0FBVjU2SkJjMA?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-24T16:00:42.772392Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
     {
       "id": "c4bfe4c57a5ee42e9ed2debb",
       "publishedAt": "2026-10-24T10:04:34Z",
@@ -361,6 +407,29 @@
         "Kebebasan Berekspresi & Berpendapat"
       ],
       "collectedAt": "2026-10-23T17:12:45.098632Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "2e53c631621977875cab2db7",
+      "publishedAt": "2026-10-23T12:15:27Z",
+      "title": "Cara Kotor Pembungkaman Ala Penguasa Zalim: Dibeli, Dibully, atau Dihabisi? Halaman all",
+      "source": "Kompasiana.com",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPTXJFeF9KbmtZSUFqYTdRbTlIT2JBNkVSQTQtWG5lNGR6WjZMUC14TmdmT0JQVG5OQnAtS3duZVFaMG1UVWJGaUxDcm5xemxXZ0hXdnRlSXZJcWYwZTZiZTI3czdLTWhCSm8wWlU3S1gzcTRfT0MxVy1hcUlqTE5SX2JNNjhFbkZIcnNFaEhkVmhWXzFIYmdNQmNKTk9Yc291RVBCTExLdUZKT0VBZ21PU1lzTy1ucExGWUlMOVZ3UjdIM3RkclRQX0lBSUxOMHlkdGNJVEpZZWo?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-24T16:00:42.772392Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
