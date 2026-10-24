@@ -1,15 +1,15 @@
 {
   "meta": {
-    "generatedAt": "2026-10-23T21:27:26.626439Z",
-    "lastRunAt": "2026-10-23T21:27:26.626439Z",
+    "generatedAt": "2026-10-24T04:42:24.055344Z",
+    "lastRunAt": "2026-10-24T04:42:24.055344Z",
     "startDate": "2026-01-01",
     "refreshHours": 6,
     "mode": "incremental",
     "feedsOk": 16,
     "feedsFailed": 0,
-    "totalStored": 2559,
-    "totalPublished": 2559,
-    "newArticles": 5,
+    "totalStored": 2561,
+    "totalPublished": 2561,
+    "newArticles": 2,
     "warning": ""
   },
   "clusters": [
@@ -135,6 +135,52 @@
     }
   ],
   "articles": [
+    {
+      "id": "a90e6dd74cbcdf7842e537ec",
+      "publishedAt": "2026-10-24T02:33:32Z",
+      "title": "Hentikan Pembungkaman Protes Karhutla Dan Tetapkan Status Bencana Nasional",
+      "source": "Jubi Papua",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOVVBCYnFKTWY1UWFZRzU4cUd5Qk9XcXZpNk52REZBc2hmMkc5QWlTaWxYYktZeDZxWHcxRmk5b0Nvd1RwLWFnRGVmODZsT3dYMHdOWXIyZElXeVQybGt4MkhERzZTOG1GUEU2MGZqMzh2SlNRWFVBcGJyZHRVRkdHd0stcm1ENllJWGJfay1MejZzQjZEYnh1Vl9OMVdwUmJBUFVTTXBJYXYyYW8?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-24T04:42:24.055344Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "7edaafaaaecc2757652ec1ee",
+      "publishedAt": "2026-10-24T00:50:00Z",
+      "title": "Akademisi Desak Meta Luruskan Informasi AI terkait Pembatasan Konten Karhutla",
+      "source": "RRI.co.id",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPaHQzZk1wdDhrN0FIVzdOYWFiaE1WUWotc3c5MzNiOERhUWhkd3FPWjZad2tsSWdVdXEwSlJMQ3RGN1lxTEFnTmh3Qy1GekRXeWU3YVM0THRmUGtxdExyY3h0U2dmWktiNWlQUWptNE54Tzl5YWxSbHpfVWhfb2txMnVBeWNlWUxJZHBieEc1NnZ4ekxYRzBIUk5SWDRtTndyVnpJbks0M2NJOVZrZTZjOVNB?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "sensor_konten",
+      "subclusterIds": [
+        "sensor_konten"
+      ],
+      "matchedQueries": [
+        "Sensor Konten"
+      ],
+      "collectedAt": "2026-10-24T04:42:24.055344Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
     {
       "id": "c2686641e40fe59ed637951c",
       "publishedAt": "2026-10-23T21:14:44Z",
