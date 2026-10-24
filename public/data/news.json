@@ -1,15 +1,15 @@
 {
   "meta": {
-    "generatedAt": "2026-10-24T16:00:42.772392Z",
-    "lastRunAt": "2026-10-24T16:00:42.772392Z",
+    "generatedAt": "2026-10-24T20:53:45.236438Z",
+    "lastRunAt": "2026-10-24T20:53:45.236438Z",
     "startDate": "2026-01-01",
     "refreshHours": 6,
     "mode": "incremental",
     "feedsOk": 16,
     "feedsFailed": 0,
-    "totalStored": 2577,
-    "totalPublished": 2577,
-    "newArticles": 3,
+    "totalStored": 2579,
+    "totalPublished": 2579,
+    "newArticles": 2,
     "warning": ""
   },
   "clusters": [
@@ -205,6 +205,29 @@
       "reviewNote": ""
     },
     {
+      "id": "9c70c8cbd079e393851ec08c",
+      "publishedAt": "2026-10-24T10:04:33Z",
+      "title": "Kemkomdigi Dituding Batasi Kritik di Media Sosial",
+      "source": "Koridor.co.id",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9UcGdoUEFNVDBDeFVYbk41bnFZX3VSR0IxYUZJWk9ITmRGM2ZoN3pkWEgtSFgyejZpTzdaNGplSHUwaF9QTHlqVW1MZTQ1SFh0Ul94eVFnUTloYktsbDZud2RSM0E0Zw?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-24T20:53:45.236438Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
       "id": "57ebfe6c789ebd1053d17091",
       "publishedAt": "2026-10-24T10:03:24Z",
       "title": "Kemkomdigi Dituding Batasi Kebebasan Berekspresi di Medsos",
@@ -292,6 +315,29 @@
         "Kebebasan Berekspresi & Berpendapat"
       ],
       "collectedAt": "2026-10-24T11:08:01.955480Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "79e1aef688e09c04c6f0fa78",
+      "publishedAt": "2026-10-24T03:07:49Z",
+      "title": "Habiburokhman Klaim Demokrasi Menguat, KUHP dan KUHAP Baru Jadi Sorotan",
+      "source": "Deteksi.co",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBPWU1iRHc3THAtSFlWUEc0ank2RUo5eG16S3RfMzlQVTdKTl9NVW4yR0dUaXhWWWk5RnFObWJTZVBVVWl4bG02X1VOOFZGZmFtd1E2TFZUdGpjYk1paVBGZUJOVHlSSlhObU9jUERwUFhDdS1Qc2ZkZUhR?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-24T20:53:45.236438Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
