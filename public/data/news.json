@@ -1,15 +1,15 @@
 {
   "meta": {
-    "generatedAt": "2026-10-25T11:37:54.834574Z",
-    "lastRunAt": "2026-10-25T11:37:54.834574Z",
+    "generatedAt": "2026-10-25T16:28:09.620952Z",
+    "lastRunAt": "2026-10-25T16:28:09.620952Z",
     "startDate": "2026-01-01",
     "refreshHours": 6,
     "mode": "incremental",
     "feedsOk": 16,
     "feedsFailed": 0,
-    "totalStored": 2600,
-    "totalPublished": 2600,
-    "newArticles": 17,
+    "totalStored": 2605,
+    "totalPublished": 2605,
+    "newArticles": 5,
     "warning": ""
   },
   "clusters": [
@@ -135,6 +135,98 @@
     }
   ],
   "articles": [
+    {
+      "id": "019ef52fa06e2dd8b35d3f68",
+      "publishedAt": "2026-10-25T15:21:04Z",
+      "title": "Isu Pembungkaman Driver Maxim Jogja di RDPU Berakhir Buntu",
+      "source": "Balairungpress",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNU1ZvVld4TjIzNXR2Z25fd25NemRERjRPSnppbmduMk9pVVIxcE1Ba1pwWTd2cEh2YzduY1kzR2NoX3Eyd0hodGQ3NzF6QTVWZ085UUUyQUJNSjVHVV9tV01UOGFHcFpEV3BVZHhPMnlLUTFrQlJYXzFidkxZMklZSWNHcHZMSzJQQ2lsOHJKdEZNaVduSWd3YnBR?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-25T16:28:09.620952Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "a097a217d7050ba8121bcd4a",
+      "publishedAt": "2026-10-25T14:32:00Z",
+      "title": "Kedubes Singapura Bantah Kunjungan Dino Patti Djalal-Saiful Mujani",
+      "source": "Inilah.com",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPRVZ6Yms2S0NQcmozYm0tU0JLbFlHYXpWckh6MTMyTHpJcVIxbUFVZlRDU0VlOFNjOEEzUE9VbTZqZU5ka1VEYmJzYTZzc3ZCWHBTVmp5Zm5JZ1ZmN0VWbk9TVWZvbWd6R212SFdVdlBMV1A0TE1jVXpGOTNqTE9IOFE4aUgtWTMyMTJ6YW5Va1poT1E?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "doxxing_intimidasi",
+      "subclusterIds": [
+        "doxxing_intimidasi"
+      ],
+      "matchedQueries": [
+        "Doxxing & Intimidasi"
+      ],
+      "collectedAt": "2026-10-25T16:28:09.620952Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "9d7236d47ca904efff3303ec",
+      "publishedAt": "2026-10-25T13:34:17Z",
+      "title": "Kedubes Singapura dan Dino Patti Djalal Kompak Bantah Isu Kunjungan Fiktif 18 Oktober",
+      "source": "Media Indonesia",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOUFhmZ1FpcjhhZ0xCNXlzMzluNEROUlVRZVF6amU5ZkFUUGRmb0l0TFFlYkRNWkxrWG1QVzc0aGdocV9sdVJRby1WMEFaSDhpaVBpXzBNeTRrNmdqTnZzSjE4eUY2QTNRSHl2Uk5IemZ5ZlNJamtrTU1tZGRrdkxHeUFKaUJhTmRrMDdVRXI5dmJfSVZkcUhEbjNac21OUGlUVU1TMXZ4SnNKcTY1ck92WWZjcEctV3JraTRCQ191UnMzbWhPZ3o2LWJ4dmE0U19sajVJ?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "doxxing_intimidasi",
+      "subclusterIds": [
+        "doxxing_intimidasi"
+      ],
+      "matchedQueries": [
+        "Doxxing & Intimidasi"
+      ],
+      "collectedAt": "2026-10-25T16:28:09.620952Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "efe95713987c9eb71526e645",
+      "publishedAt": "2026-10-25T10:59:13Z",
+      "title": "Pelari di Ajang JRF yang Terobos Barikade, Terkena Doxxing di Medsos Halaman all",
+      "source": "Kompasiana.com",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQRHBaQ1M3TkJueG91dDFlM1lRdkFIdXhUV3VXenJQUXh0TWM1S2tocGV5MGZINVA0ZHZiZDY1SFZ6OWlhQ1RiYXBjOHZPaWFzUkJNaHpRbmRwYW9KTlRZb25sZHFVY09vMjRXUzFsbDlObWxqUzlPcERuWHRQWXJiWDhoMkhXVFhseG55VDk2aXNYQUtSaS1NMDA3c3VKMjRaZ1J6QkdkLVZxeGlZZndsSGsxVFQtZzRTcTRiZm14VHg4aDMyME5BRmFEUldUd3hlXzFPYUxR?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "doxxing_intimidasi",
+      "subclusterIds": [
+        "doxxing_intimidasi"
+      ],
+      "matchedQueries": [
+        "Doxxing & Intimidasi"
+      ],
+      "collectedAt": "2026-10-25T16:28:09.620952Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
     {
       "id": "e9f74fad8bad4d11e2809d47",
       "publishedAt": "2026-10-25T10:59:13Z",
@@ -1836,6 +1928,29 @@
         "Sensor Konten"
       ],
       "collectedAt": "2026-10-22T11:58:42.265343Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "7bea80bad955c741a3c5eb89",
+      "publishedAt": "2026-10-22T07:00:00Z",
+      "title": "YLBHI Kecam Praktik Kekerasan dan Kesewenang-wenangan terhadap Massa Aksi 20-22 Oktober 2026: Negara Bertanggung Jawab Menjamin Kemerdekaan Berpendapat Warga dan Mengusut Tuntas Dugaan Pelanggaran Aparat – YLBHI",
+      "source": "YLBHI",
+      "link": "https://news.google.com/rss/articles/CBMingJBVV95cUxPSEZRUFlUUkUwRWhMRGNLb3lwZFdfNFE5anJpU2daekhlUUpEYmtkSU85a3hEN3dISmdVdVFTNFd3anl5YlFsM1RHLW80UktIWEpiV1RCdHhISzVqSDgyU21LYVNCRDkycEZnRlZnSEpIaU9KUk96U3VKY29tUlVBZGl2anpQaW92c01rVVV2ekRvZlk0Z01yTUt1UXFaOENBRWU5V0tfYlFPYkNaNjlGbVE0UXR6c2xocmxIYnNfUTF3dkVlVVNOVGhRVm5vLWh1TThNaUZJcG9IdENrLUhCOEJTNXp3UHRpcERmY3ZQN3AwV0hTWWtidFo4UlIxR1pERHdwMTI0MmkyT2NNN0lrWFRVUlZFU2pzZGlGT21B?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-25T16:28:09.620952Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
