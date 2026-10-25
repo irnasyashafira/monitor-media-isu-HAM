@@ -1,15 +1,15 @@
 {
   "meta": {
-    "generatedAt": "2026-10-24T20:53:45.236438Z",
-    "lastRunAt": "2026-10-24T20:53:45.236438Z",
+    "generatedAt": "2026-10-25T04:48:09.927797Z",
+    "lastRunAt": "2026-10-25T04:48:09.927797Z",
     "startDate": "2026-01-01",
     "refreshHours": 6,
     "mode": "incremental",
     "feedsOk": 16,
     "feedsFailed": 0,
-    "totalStored": 2579,
-    "totalPublished": 2579,
-    "newArticles": 2,
+    "totalStored": 2583,
+    "totalPublished": 2583,
+    "newArticles": 4,
     "warning": ""
   },
   "clusters": [
@@ -135,6 +135,98 @@
     }
   ],
   "articles": [
+    {
+      "id": "803f729f1a0329e57c09a921",
+      "publishedAt": "2026-10-25T01:03:35Z",
+      "title": "PLAVE Raih Kemenangan Pertama di 'Music Core' Lewat 'Star Trace'",
+      "source": "WowKeren",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1qS0tIRGl4c2x3VUtfbW5Bd0hfRktsMWVSdGZXV0JsVE9ISmtPS3pvT0stQ3hlV1BFTC1qS2xwRDJ2elpUV192aVZPVmVMeUsySDRqLXJ0LUNabHRwcHd4RWpB?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "doxxing_intimidasi",
+      "subclusterIds": [
+        "doxxing_intimidasi"
+      ],
+      "matchedQueries": [
+        "Doxxing & Intimidasi"
+      ],
+      "collectedAt": "2026-10-25T04:48:09.927797Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "daf6ac5816b5f8c7ad6a91c7",
+      "publishedAt": "2026-10-25T00:11:52Z",
+      "title": "Kebebasan Berpendapat di Media Sosial Tetap Ada Batasnya Halaman 1",
+      "source": "Kompasiana.com",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPS2lCcVJqTnV4aFlGWE9jeHZBTEk0LTlQMUYtQjNjckFiX2ZwOW02ZGt5Vkllamt5SnV6U2dlZ3VpbGFMN1hRMVNMbjdiT3E3STlIVjN3djFBWUozNHd4eFU0ODdxUllaRGJOcjRHaVVUM0loaG56WUhFS3hhWnFVXy1ZMVN2Qlg0U2JBZXNXWXVhVU5oM2huelVIQlpBOFgyZllKVkhHM0JUNGthX2tGUEVDejVDSXBjMnRCcjBfcW0?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-25T04:48:09.927797Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "f97fc4c7555b7482dad3a731",
+      "publishedAt": "2026-10-24T23:00:00Z",
+      "title": "Habiburokhman: Kebebasan Berekspresi Meningkat di Era Prabowo-Gibran",
+      "source": "Akurat.co",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQQ0lzci1IOXpSSmE4d2F0VjhVLVprQmZuZkhOdmtublMyS202anBkMHEwQ1J1MkpRTU9LcWxmZnpuU3J1QVloZmVXbDV5c0lPOTlLM2llRUZHMV9ScHF6SUVkaFBPODVqR0h1TS1GM0ZhUnQ5cnBpX3EyRGJSQW1kdjVrSFhibUVaSDA1SGVLcE44UmZ5WWcxX2NEWF9lX2c?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-25T04:48:09.927797Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "bc288b358e101dbe4cb582e9",
+      "publishedAt": "2026-10-24T13:04:00Z",
+      "title": "Kritik Pemerintah di Media Sosial: Kebebasan Berekspresi dan Batas Penghinaan - kumparan.com",
+      "source": "Kumparan.com",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxObkJhME1KZG4wakQ4Tkx2a09PRnlFblJGY3BqYXhWUEFqMDFVVWREelgtdXo1Zmc4UTU5VDNUbmFiaDhSRVJzX2VacWk0UGgtWG5fNEl5VjB3ZHhmS0E5bXFBLVVPVl9pMnNYMG83QWd1Nk81TGx2SU44MDBGcXdWbjBkd3RyY3I3RlpOX1FSMjVLcWRKMElfOFVZZGFNX2xBYnR2VG5mV1EwOW5rcExCSEdzNG4tZENJajdGRFBrUDhxN1dKQ3Bxbl9mM3BueHpGZXJIOUYySkxBZ9IB4gFBVV95cUxOcFNIX25RaG1OZ01ZN3NzLXFPLUxkZ1lhbGVqQi16dW54enVvNG9YRXRJVlhRSmgta3M5VTREZXNRbnFsNWxnQXZPQml2QjVFMWE4aFJ6Qk9QZ1RCMy1oZjVWN2NiUHBPLU5QNEN6SzRLalVZTkE4SGQ4MVBVVU5PVmNqNWh4ZDBYcnFvbWJ1TjRteEdVOXR2NlFQTGVoVGgyempBbEdhUVFxZ0hLeUI1REF1TG41NFlZNUpmZ0xhSTdlVGhETVc4Q1Fqb191Sm1SaFd2Z3N6YWtLVXlzYXRTbG1n?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-25T04:48:09.927797Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
     {
       "id": "4978bb79001eea913787a7f2",
       "publishedAt": "2026-10-24T11:44:05Z",
