@@ -1,15 +1,15 @@
 {
   "meta": {
-    "generatedAt": "2026-10-25T16:28:09.620952Z",
-    "lastRunAt": "2026-10-25T16:28:09.620952Z",
+    "generatedAt": "2026-10-25T20:54:39.787976Z",
+    "lastRunAt": "2026-10-25T20:54:39.787976Z",
     "startDate": "2026-01-01",
     "refreshHours": 6,
     "mode": "incremental",
     "feedsOk": 16,
     "feedsFailed": 0,
-    "totalStored": 2605,
-    "totalPublished": 2605,
-    "newArticles": 5,
+    "totalStored": 2608,
+    "totalPublished": 2608,
+    "newArticles": 3,
     "warning": ""
   },
   "clusters": [
@@ -136,6 +136,52 @@
   ],
   "articles": [
     {
+      "id": "f72cf014cbc6e96c522aa143",
+      "publishedAt": "2026-10-25T19:58:09Z",
+      "title": "\"Darurat Asap 2026: Sorotan Satelit NASA hingga Pembungkaman Kritik Publik\" Halaman 1",
+      "source": "Kompasiana.com",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNQm1SLXUxQmpLX244a2lqVlJxd3VhZVI1MHdaVWhOSVU2S1BDYzE2RDJrS3hJUkRna0ZMWmRSMTlkb05VQmNJWWtELTdIZHV0a28zX3M4NXlFcjdoMm54bExZMHk4SEVva0ZOajRhS1Nqbm5EX203M1QyV0otWXBha2pOTVpNZEN2blBkRDU5WUR1c2dyLXY1d19ObFdVSFY1WmdzVFJ1NklyQ2d1X3U2U0l2X1RpNGk3MUJIV0NWQ2Mwc2VSWUxnOXgybnNUenBJeDhMRg?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-25T20:54:39.787976Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "794602b32862793b02e95430",
+      "publishedAt": "2026-10-25T17:02:49Z",
+      "title": "Kerusuhan Barcelona: 128 Orang Ditangkap, BARCIA Desak Keadilan Hukum.",
+      "source": "Kompasiana.com",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNX2J0V2RKempsbTlGa0J3SEtTbHM5NTFUaTVhN2RocHMxdW1xOWxQTG5UeEcyZUFMTnh4RWFuQTlvSldYUGx1b2VmTm5qdEFRRW5XaUVPVHhPLXV6Umt1cW9qcnFjZ1otOS1RaXU2QWlqVGtuSkcydldOamk1ZFE2UFJhd0FjR3duY3BMSnBWcS1MUkx4MlNQaXpIMTRRNGxiaVNQSzhCczZzeDFKYlFsakkzX3gxUzBoLWZQLWVWUHkxanpGa0pNQlFnQ3M?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-25T20:54:39.787976Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
       "id": "019ef52fa06e2dd8b35d3f68",
       "publishedAt": "2026-10-25T15:21:04Z",
       "title": "Isu Pembungkaman Driver Maxim Jogja di RDPU Berakhir Buntu",
@@ -246,6 +292,29 @@
         "Doxxing & Intimidasi"
       ],
       "collectedAt": "2026-10-25T11:37:54.834574Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "715ba648fc3db034359a04f1",
+      "publishedAt": "2026-10-25T10:57:18Z",
+      "title": "Kritik Bukan Kejahatan: Putusan MK dan Perlindungan Kebebasan Berpendapat Halaman all",
+      "source": "Kompasiana.com",
+      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQcjBtOTBXWWQ0UHNwRmJLVVU4Mkw0TGYyekUweWZ0T1VRMG9VcnVMaEFyN2dOSDhQdk5tdENmbFdMd0ZpN1hyQU9waW1DLXpBbTBqRVp1RFNzUkNpTWZ1eFMybm9tMldQbHdRMVRHSVFaM0lGRmFkSXVXQ2VRT0ZHNGhJb1o4MmxmZEVxMlhjS1ZHZDRuWnVrQ284NmVncXBKcDBIN2llTDgzbGJoa1pBb2c4dVdOanlMNHhWcFpfUHNVT0dMT0JvZFlXVkFTYVkwYVM0RWVGaXpNUDJCQ2o2amtRdVJXdw?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-25T20:54:39.787976Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
