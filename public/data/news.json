@@ -1,15 +1,15 @@
 {
   "meta": {
-    "generatedAt": "2026-10-26T13:10:28.531939Z",
-    "lastRunAt": "2026-10-26T13:10:28.531939Z",
+    "generatedAt": "2026-10-26T22:43:03.926130Z",
+    "lastRunAt": "2026-10-26T22:43:03.926130Z",
     "startDate": "2026-01-01",
     "refreshHours": 6,
     "mode": "incremental",
     "feedsOk": 16,
     "feedsFailed": 0,
-    "totalStored": 2637,
-    "totalPublished": 2637,
-    "newArticles": 26,
+    "totalStored": 2643,
+    "totalPublished": 2643,
+    "newArticles": 6,
     "warning": ""
   },
   "clusters": [
@@ -135,6 +135,75 @@
     }
   ],
   "articles": [
+    {
+      "id": "1f89619e3d54aeb23e937d4e",
+      "publishedAt": "2026-10-26T15:25:08Z",
+      "title": "Konsolidasi Nasional DEMA PTKIN III Ditutup, Mahasiswa Soroti Krisis Ekologi hingga Kebebasan Berpendapat",
+      "source": "Kabarbaru.co",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNM3JmWVZTS19mQWRCaWNFS1J3UmNMMnZxMlBTdDBBUWlFdno0VE9VWmVmVndtOHJOOFpMNTVaYkNTTE96NXNUa1djdl9oZ294SlUyN3RlQ0tUXy1QUmFFQmVVb2VGay1mOVR6aXJYRDBxOG9ZOUJEamRaY2pkUldOT1JZY09sbUJiZWthVHpISV9KeTd4QVo5T2tFUzduTmdQRjNfdGJTR1Q1ZUJLdDFDRkhMb2pRX01odGUzcXVIZHF1Zjhm?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-26T22:43:03.926130Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "55e045316e271f6e69b3aaeb",
+      "publishedAt": "2026-10-26T14:05:00Z",
+      "title": "BEM UNAIR Tekankan Independensi dan Kebebasan Berpendapat Mahasiswa",
+      "source": "Jatimnet.com",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNY0NwWnNQUGhhX0VZU3FwS1F0Z182OE9jazdkR1Nra1lJM3p6V0Y3QlZHVDBvb3puOUo4WFpZX3k1T3lRbjh2eUpJQjRvVFVDeThPd3ptZ0xoMFpQaTd1VF9UcUFDcXoxSkNYQWxCNXZnZEZhUlZfR204UVo2cENHMGF0dGkyZ1JBTmI4NnlpMVdpUQ?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-26T22:43:03.926130Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "a6aab7c109fa7bbcadba8b37",
+      "publishedAt": "2026-10-26T13:12:14Z",
+      "title": "Pacu Ekonomi Kreatif, Pemerintah Bebaskan Tarif Pencatatan Hak Cipta",
+      "source": "Kompas.id",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNTHg0b2paU1ZQUmQ2N0R1QVZ3Q3pSR0x4VURBRUp3RGtaTERSd2VjVURsaExETEE5Q2lHenAzSDBvcENvblltS1E2bUF4QVp0aHluLU5jLWwwTlFEeklDSlhKV1RiZFlSX3lwbWNFNVZsU3JvcWYzNEVBT2FjUGVMOWpKS2dzZHpHZjFlM1Z5TkZ0eHVKdTZOS1FFcVFZX0R2VUhrS2FLdndCdFJvWk03aEhQckMtMDdSU0hmNDVuT1pCRGl2dWw0?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "sensor_konten",
+      "subclusterIds": [
+        "sensor_konten"
+      ],
+      "matchedQueries": [
+        "Sensor Konten"
+      ],
+      "collectedAt": "2026-10-26T22:43:03.926130Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
     {
       "id": "b49b5c16db24f157ddea1e22",
       "publishedAt": "2026-10-26T13:01:54Z",
@@ -568,6 +637,29 @@
         "Sensor Konten"
       ],
       "collectedAt": "2026-10-26T13:10:28.531939Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "b2f477c861b6340cfdff29a9",
+      "publishedAt": "2026-10-26T04:41:50Z",
+      "title": "Foto Artikel : Ketika Kritik Berujung Teror: Menguji Kebebasan Berpendapat",
+      "source": "Kompasiana.com",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPN0I2ZmZMb1hxV1NFQ3poNWl2Y1p6alQ5QnJITHJuSVFTTXp1ZkhMQ1IxcU5UT0lQRzRwODE2SlpGNVhEX0xqbmY4am1zQUxYUzY4OTI4dG1SQXJManJfSmJhTXcyelo1Y0J1UDA5SGdwUzBQOXVHbWg5aFhfY3BJWGRBMERmeHdkNFl4elNBdlBDaUdWbjBILUcxMm5XeUlRUHNrdmkzZmJZdEt4UFBfQXJMU0d4aTFuY0tEV0dvQ20tUk5yS0I3V3dibmJIWkla?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-26T22:43:03.926130Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
@@ -1307,6 +1399,29 @@
         "Kebebasan Berkumpul / Berserikat"
       ],
       "collectedAt": "2026-10-24T11:08:01.955480Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "a19a83f19ff04dfa6cf7841c",
+      "publishedAt": "2026-10-24T06:36:00Z",
+      "title": "Bikin Warga Resah, Aksi Balap Liar di Blitar Dibubarkan Polisi",
+      "source": "RRI.co.id",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOaEhGVVFVemE4MzU3Z3BhQ2REbEkxN2g2Z0M0LTN0UTVBY1lTQ1kzaElOcXFFMDh3YzFYLTNZd2MwVkdsdWk0VkRrVVgzalRSbzQ5NkZWN3Bnb3lOeFVQaGlTblRzcDNTY0ppR3hHQU0taG1kUFpMTkNfek9VX28xaTBzYWZMbVBOX3hTOGRrdjZMbmZwanhsendIMEw1MDdPYTl2TGJB?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_berkumpul",
+      "subclusterIds": [
+        "kebebasan_berkumpul"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berkumpul / Berserikat"
+      ],
+      "collectedAt": "2026-10-26T22:43:03.926130Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
@@ -46437,6 +46552,29 @@
         "Kebebasan Beragama / Berkeyakinan (KBB)"
       ],
       "collectedAt": "2026-08-31T23:07:12.746081Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "ec4b68d67bac1454f05361e1",
+      "publishedAt": "2026-08-13T07:00:00Z",
+      "title": "MUI sampaikan tiga pernyataan terkait dugaan penistaan agama saat festival musik",
+      "source": "ANTARA News Bengkulu",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPQjkyZXN1ZXV1c0RwVjZXT3RXR0FJQ2FNaVJuVUxaRVJEbXVuYmYzZktNOXJyZy1jNnBRTFJveEdwZU85cFJfbjZLbmpteU5UR1UzSGMzZUVhUHpYb282TmIwZXR2cjl6LXlNOV9LckVNYTVsb3F0cV9UUld0bTk1RDBLNnBNaUotMTh6cXY0RkhHRkFMRzVLY3Nha0NJTXhSNHVkQ0d6YmFfSXpDZl9ZVnF6cW5pemloby1SUlY1SEt5YzdG0gHKAUFVX3lxTE5tblVFWjE2MWZjZG1KMlZoeE85QUJvU0hwSzdqVlBJRWstckZ4SjZUODQ3Z0hDYWg4Uk90R2RPQUpwQjJndWZob3VscmcxWVZYQWxlSnhseXdCWVpyc0Q1YUx4bkh0SUdIWTdRU2dfeHJ3bl9aU05JZ0gzWHFzQ3dXYm5palplbzFLUzlQSW9UVXl0U0ZnOW9JOExTTlVCaE5oalBoT3N5bnlYbDlqMS1tZW1vQldtbHR3ZTFZaEh0TGlCa2o0SlBJcnc?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_beragama",
+      "subclusterIds": [
+        "kebebasan_beragama"
+      ],
+      "matchedQueries": [
+        "Kebebasan Beragama / Berkeyakinan (KBB)"
+      ],
+      "collectedAt": "2026-10-26T22:43:03.926130Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
