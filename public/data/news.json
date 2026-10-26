@@ -1,14 +1,14 @@
 {
   "meta": {
-    "generatedAt": "2026-10-25T20:54:39.787976Z",
-    "lastRunAt": "2026-10-25T20:54:39.787976Z",
+    "generatedAt": "2026-10-26T04:53:28.257166Z",
+    "lastRunAt": "2026-10-26T04:53:28.257166Z",
     "startDate": "2026-01-01",
     "refreshHours": 6,
     "mode": "incremental",
     "feedsOk": 16,
     "feedsFailed": 0,
-    "totalStored": 2608,
-    "totalPublished": 2608,
+    "totalStored": 2611,
+    "totalPublished": 2611,
     "newArticles": 3,
     "warning": ""
   },
@@ -135,6 +135,78 @@
     }
   ],
   "articles": [
+    {
+      "id": "e1a98e32e8599229df6e2bf2",
+      "publishedAt": "2026-10-26T04:37:00Z",
+      "title": "Menakar Babak Baru Kebebasan Berekspresi Pasca-Tumbangnya Pasal Penghinaan Halaman 1",
+      "source": "Kompasiana.com",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPcklQamNFRlAtTmVpX3ZDQWcxY1A4dTlQZERmdzJ4b3pxWVZIU0N6UHpiR3ljOGtqbU9VOE9LN3FuMmM5Qmd5X0NlYmJEaWRrWkxhaTZxUnhyZEVoWElpcUhlcnJvSjhmdEVjY21ob3pMbXZCR24zekRGMWNVTUFPQW9JQkRUQV9zM01Ka1NmSTdRZkxZMzFDbnR5Yl9pdTVTUWhBYXlRMVpVZ3ZmVXBjdE1oOHY5dHZPaVlNYTZJUUxudkxYNHotLUhCYTFsWVROb0xtRjdB?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-26T04:53:28.257166Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "a28d3d03bed9bfebf30da80e",
+      "publishedAt": "2026-10-26T03:18:18Z",
+      "title": "Ketika Kritik Berujung Teror: Menguji Kebebasan Berpendapat",
+      "source": "Kompasiana.com",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOcnY1NGdaRFk2ZmplYjRySkNDeXB5MmtxVWZER3ZhZVJpa3dwQl9PNG14U2h6STI3Ty00am16N0dGaXZCcHpXcWhncGs3ZFZIVlJzVFVVVF9vRzdRY1ZndVJ5bDZSUzIzdEt4VHBQVmU2Q2RRd29WdmVEcUJ3ODRCdlN4ZGozQUs5VnNmdnBDSTdTUlNhTFNaSWRXcDJ2NDVESjc3SVNxQVBYMktVUVE1VjJkc3VhS3VLWGUwSGs2RFltY3lIdmtMcw?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital",
+        "sipol"
+      ],
+      "primarySubcluster": "doxxing_intimidasi",
+      "subclusterIds": [
+        "doxxing_intimidasi",
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Doxxing & Intimidasi",
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-26T04:53:28.257166Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "afc1a8fd1bc3a47d9e803b20",
+      "publishedAt": "2026-10-26T00:57:00Z",
+      "title": "Hak Kebebasan Berpendapat dalam Perspektif Hukum dan Pancasila - kumparan.com",
+      "source": "Kumparan.com",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPVVhkYm1SNlp2Tnpjc0lwYjFGTUhlb2xxbHQtS2Z1NU1DVVFaX3JFNF9MZC05dk5zUGY1dHV0MTNHa0Y5N0VMcjNqUlpMUXdJandaLUlBSVk3eVlXZm54VV9OMVRRZzJaRVF5YmFBeDFkTmRSa0tzQ0ZiSnNGSlE1Uk1EWF9qNlAycjlwemk4enFMelpfTjFPWExsM08xbW1taGlXVXptN1RHbzlJc3lvQXRmUHrSAbwBQVVfeXFMTzUxTEtZUDQxbDBvNi1sWTZ1bjV6bWt1ZlBBVzNIcEVtWnVab1FvUkpOOU13NmhoQ1JZNDg0cjh5MW5wWmc3R2Z6M2FaRU5xb2pLOWVLWVFtUzN1QjZRRExNakJ6am5KX3J1NEFvREg5QkVCa1J4a1M5UnZaX2NXdGNLc3ViQUVQOUQ4ZFhHM3djUUFHRHBrZTFqZ0tRMXdXLUwwTWdrVnQ2aUl0enlPTjdkTG5YbjdsTU04YnA?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-26T04:53:28.257166Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
     {
       "id": "f72cf014cbc6e96c522aa143",
       "publishedAt": "2026-10-25T19:58:09Z",
