@@ -1,15 +1,15 @@
 {
   "meta": {
-    "generatedAt": "2026-10-27T05:11:33.320442Z",
-    "lastRunAt": "2026-10-27T05:11:33.320442Z",
+    "generatedAt": "2026-10-27T12:18:33.055779Z",
+    "lastRunAt": "2026-10-27T12:18:33.055779Z",
     "startDate": "2026-01-01",
     "refreshHours": 6,
     "mode": "incremental",
     "feedsOk": 16,
     "feedsFailed": 0,
-    "totalStored": 2651,
-    "totalPublished": 2651,
-    "newArticles": 8,
+    "totalStored": 2658,
+    "totalPublished": 2658,
+    "newArticles": 7,
     "warning": ""
   },
   "clusters": [
@@ -136,6 +136,121 @@
   ],
   "articles": [
     {
+      "id": "52e10dbe6ad0a50e47516fb6",
+      "publishedAt": "2026-10-27T12:07:29Z",
+      "title": "BEM UI Bawa 5 Tuntutan dalam Demo 28 Oktober Besok, Soroti MBG hingga Kebebasan Berpendapat",
+      "source": "Tribunnewsbogor.com",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPVDlvT0hfeDBzQ2xldXRfeTB0WTFDRHdLeVRxY2cxY2o5dFA0MUp4Q3phdlppQnBsejFLbmxqUU9qU1BneFNCOWtqUXI3VGFNV2N2MWZwY3hzbTNhT0tpRlZCdTNvNVZIUmNoX0RrVjJHYlc5SVpCMEMta0ZkeU5faE5Ka0oyN1pabHIxR1FlakNzVXotRmVKcmFNYU82SmUwWnpadnRpejFpLTVzZDJHTzJpUkxuWU1fVWtmVHJacXROQkt5eVRWVXFoVQ?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-27T12:18:33.055779Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "b95176eeea7ae5f53cbe9bea",
+      "publishedAt": "2026-10-27T11:56:02Z",
+      "title": "Ketum Pemuda Batak Bersatu Apresiasi Respons Cepat Polda Sumut Tangani Dugaan Penistaan Agama Di Media Sosial",
+      "source": "Pewarta.co",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOMXJ3bFExcUlNVGdpX05GQWkwenZwUXZkNmRsN2FhdWdmcm1WWVFsTUhYbFk1aUpieC0xenpnbkVmWm9qaGVGWlBiS290QXNXS2VmdFktR3lJSzhnVkxtMHp4RmFmQUhpWWNJZ3ZnWGcyaTczbGFPWk5pcEdjQUZ0WDhaMEprUzQtUGNacDVNZkZKRFk5MjlSOUUta3dfTUFPd0J4OUNsTmdveU82Yzd0c0tkbkx0VGMxTTZCYmc3R2NDTERuSG5DNFRhSlJQVGJXVGpQM193?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_beragama",
+      "subclusterIds": [
+        "kebebasan_beragama"
+      ],
+      "matchedQueries": [
+        "Kebebasan Beragama / Berkeyakinan (KBB)"
+      ],
+      "collectedAt": "2026-10-27T12:18:33.055779Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "2e341a05006267557fc35a39",
+      "publishedAt": "2026-10-27T11:10:20Z",
+      "title": "Polri Jamin Kebebasan Berpendapat dengan Pendekatan Humanis",
+      "source": "CentralBatam",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBfVzBkaG1rUFd4N3pnaXNGaTM3WS1JbFk2R2Z0YThzZlhHRXVTbUFSNFJLN1BpRHJSWW54UEh6OGtCYUdjTjlMMXZsZll4cmI1b3YzUnpPc19sTUw2aVk3Ul9aXzVvTWcyand3UA?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-27T12:18:33.055779Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "17891b7816939142064a7cf0",
+      "publishedAt": "2026-10-27T11:05:49Z",
+      "title": "Polri Jamin Kebebasan Berpendapat, Masyarakat Diimbau Tertib",
+      "source": "Liputan6.com",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQZmJpWWEtY2JFdTJISDNHRGhXVGpsNXBwR0FudDdPdWhSS3FtSXMtX1RFMFltRVlHNWRUa0x6M0xmMkY1MHJ1UjB0WUV2anFheVFaT19XZWplWlBvRXhZMVBWLXNhUnZienFhRzZPTXFWRWNvSm0tM1daODF2cjN6WnV5WkZ4c1RuVzBNUnlfRGxiaWpsSndKbXZpa2owOGU1OHI1SdIBnAFBVV95cUxNdzRyNU94c21xMlNKNk5USEk5T0p4Y1F4ajF1TkFHTXlQb2wyYUdEQUVyZl9xNHFLTEpISWFCNjEzLXA3bm9YdGlPT0g3ejg0ZTZ4cmFBUUpLZTV2THpzcnVrQWlIRmVpcjI3RlR6ZDNVcHlCWU03NlBPS0Rybl9NT0VSMGxmRG5UTkVFNXpzVmVrZ2RVVzFGam5ETGs?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-27T12:18:33.055779Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "32ea54702fcbb1f41501ae11",
+      "publishedAt": "2026-10-27T08:00:00Z",
+      "title": "Dave Laksono Ingatkan Takedown Konten Jangan Sampai Melanggar Hak Konstitusional",
+      "source": "JPNN.com",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOQk9NZVJIczdDRlFFYnhGNGJiMHdRMi1VQ0ltMzBucFJYYmlkN1VpV3AyRHREMldrTXIxQ2JwZmt1U2JZWXdlV0lidnJvQW9EM002TFdpS3JHNTAtLTdlNXZhR0pianRZOHB0UUREMFJQRTdqQWJtMV95SHQzVmtRYW53RlJ4WHNkbl9mQlZlQ0tYTFpkUlAyYzdPLVh2Q0N0ek9ZTVAyRE5aUdIBrAFBVV95cUxPeEMwSENLYTZmTWN5RHFtRVI1M3Bhd0ZSN2cxUW1ORXFJeC1Tck1VV3FuajJTbXYwazVQSjNES3E3RUFoMk5CU2wxOENFd3ZzUjUyb2tNMVh3Zll2RHBkSWwzdV9EMUFTaFU2bUhFeWhXQ1BUZVM2NzJOeFdpWGZNYlBRa253cV84YVo2TDJkTzRHenRYdW1zaE9jT21ZTGNzTXZBMm5MbGNHdHN3?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "sensor_konten",
+      "subclusterIds": [
+        "sensor_konten"
+      ],
+      "matchedQueries": [
+        "Sensor Konten"
+      ],
+      "collectedAt": "2026-10-27T12:18:33.055779Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
       "id": "c8353dfcac0fc13f8cf4427f",
       "publishedAt": "2026-10-27T04:42:45Z",
       "title": "Dugaan Penistaan Agama oleh Ritman Marbun, Ini Tanggapan Polda Sumut",
@@ -223,6 +338,29 @@
         "Kebebasan Berekspresi & Berpendapat"
       ],
       "collectedAt": "2026-10-27T05:11:33.320442Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "403e64ab642283c3bab09c9b",
+      "publishedAt": "2026-10-26T16:47:31Z",
+      "title": "Pancasila, Intoleransi Beragama, dan Tantangan Penegakan Hak Konstitusional",
+      "source": "Kompasiana.com",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNOF9xTzIteHVVODV5ZlNzMXVvcGVKY3VWbl95S1dvOEN2NW90em1YVWNRZ1Q4U3ZLSjNRUXJwZXVNYjFqR3l5VW5WTVhsT3U1aFFGQTFRY3I5b3VrSllfekhSZzZqUHJOczJ4bDF4ZzktRWRucnNvNmNFZFRtZ0pSU194eExtRUpQa01ubXhUVlpOVWotMlF6YV9rcUF6QTlsVExHWXVGNW05RW1WTzdveFVISmUzR0lyUXZ3WTZtWVMwcEFwZ1VkS3hVVEFUMnY1M3FMci0tcWVKdTA?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_berkumpul",
+      "subclusterIds": [
+        "kebebasan_berkumpul"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berkumpul / Berserikat"
+      ],
+      "collectedAt": "2026-10-27T12:18:33.055779Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
@@ -614,6 +752,29 @@
         "Sensor Konten"
       ],
       "collectedAt": "2026-10-26T13:10:28.531939Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "55fda1ed1cab02bfe58388bb",
+      "publishedAt": "2026-10-26T09:00:06Z",
+      "title": "Kabar Baik, Kemenkum Gratiskan Biaya Pemblokiran Situs Bajakan",
+      "source": "RCTI+",
+      "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxPSDE5MmZCVVhrMzNDUzN6NWFOY2ozckU1NS1QWm5zeHNldG56R3duaEZqcHMwVEJGRmE1MHY2TTA3Qks3VDBWVU1EWWEzeHlvY2lkRTlXZkRtN1NHblMyM0pvckNsbEp5c1poR25nRVBNRV85TmdneTBqTDBiUE9ZZmV1UEZMSXJOdkVtR3otUGd6eEtaUmtvME43a3YxNHpDT1RFLXVfSEdidFBGUzBWcVhZRXVObGlLZkhZejJUQS0tcktqR2RPRmR4VktfLVphSWNqVGI3d3o5TDQzc0ZTMDZXNXZrbERWdW42RFdQSGJpTzhRM1lWRF9uaVNqM0lhaDJuYkk2cjYtdG5xRGZ2amp0Z0s?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "sensor_konten",
+      "subclusterIds": [
+        "sensor_konten"
+      ],
+      "matchedQueries": [
+        "Sensor Konten"
+      ],
+      "collectedAt": "2026-10-27T12:18:33.055779Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
