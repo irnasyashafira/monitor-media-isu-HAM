@@ -1,15 +1,15 @@
 {
   "meta": {
-    "generatedAt": "2026-10-26T22:43:03.926130Z",
-    "lastRunAt": "2026-10-26T22:43:03.926130Z",
+    "generatedAt": "2026-10-27T05:11:33.320442Z",
+    "lastRunAt": "2026-10-27T05:11:33.320442Z",
     "startDate": "2026-01-01",
     "refreshHours": 6,
     "mode": "incremental",
     "feedsOk": 16,
     "feedsFailed": 0,
-    "totalStored": 2643,
-    "totalPublished": 2643,
-    "newArticles": 6,
+    "totalStored": 2651,
+    "totalPublished": 2651,
+    "newArticles": 8,
     "warning": ""
   },
   "clusters": [
@@ -136,6 +136,98 @@
   ],
   "articles": [
     {
+      "id": "c8353dfcac0fc13f8cf4427f",
+      "publishedAt": "2026-10-27T04:42:45Z",
+      "title": "Dugaan Penistaan Agama oleh Ritman Marbun, Ini Tanggapan Polda Sumut",
+      "source": "tribrata tv",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNdng4ZENDZV93QVVJTEZacXRLaVRwQ2pLU2lMcU4zTi1wc2drdzFDVXhEaEZEbkE5UFI4anc4UmFDZWJtWE5BS0RQSzNBbGsxSW84NmR1YlJULVdxbE1VSXA3OXBhWmE3LTZUTmhLMnJ2RjhkT2xXTVhvb0ZrN3JKdkJDb0FZQjlwakVmaWo3ZzVyaldMWElySDIwcEdvQ0hlQ3lfWld2VlJWZU1wVk84?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_beragama",
+      "subclusterIds": [
+        "kebebasan_beragama"
+      ],
+      "matchedQueries": [
+        "Kebebasan Beragama / Berkeyakinan (KBB)"
+      ],
+      "collectedAt": "2026-10-27T05:11:33.320442Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "6c2b04a9601af70a195b4083",
+      "publishedAt": "2026-10-27T04:19:52Z",
+      "title": "Heboh Komdigi Takedown Konten, DPR Ingatkan Hak Rakyat Tak Boleh Dibatasi Sembarangan",
+      "source": "OWRITE",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNNVNCeDlFOHZJNDZsZmNaUmZZMEJaUmdxVF9Vano0TVU0d192dkU1VlkzLUdqRFdKNXgyQ052cGl0ZmdHTmRNSkFMbjlrbjJCb0xVSkJjQUtiTlhGR0Jxb29lM0xNbUNpWmRyam4zUVROOTFGUUo2aUFMOFI1MjBaS0FHZzE4NXE5bkdDNXZHVERCbVJFemgxR1lzOFZ3QThLdXd3cHJEVXQ5elJTSXJPd0J3dDNGYWE4UjBYRldSTG45X2d4?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "sensor_konten",
+      "subclusterIds": [
+        "sensor_konten"
+      ],
+      "matchedQueries": [
+        "Sensor Konten"
+      ],
+      "collectedAt": "2026-10-27T05:11:33.320442Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "3a45f3704d539146e07b0c02",
+      "publishedAt": "2026-10-27T03:16:00Z",
+      "title": "Soal Komdigi Takedown Konten, Komisi I DPR: Untuk Jaga Keseimbangan",
+      "source": "Rmol.id",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOTHlOSFd3c3hjcUYzaVVSMGhNc0M4X0hnT3oxRlgtcmtZQXdfVFFaVmYxUDdTczJyYkdZVjdRQ3Bzc0Zvdm1KbVkzMzN1RW1EWHVzR25lN1JLcmFQOFBzdlI0WnpCbE14eEMzOGZQZ3N1dHF2UVVydkFFamNyRGlSMHBMUV9DOVk5UVEtcTdOMFZrZjNrRmpXdk1oSUdXeFpmdDNqbGxDRQ?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "sensor_konten",
+      "subclusterIds": [
+        "sensor_konten"
+      ],
+      "matchedQueries": [
+        "Sensor Konten"
+      ],
+      "collectedAt": "2026-10-27T05:11:33.320442Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "fec9c18ec330057d02106c4e",
+      "publishedAt": "2026-10-27T01:09:00Z",
+      "title": "Film Laut Bercerita, Kisah Perjuangan Mahasiswa Melawan Pembungkaman Kebebasan",
+      "source": "RRI.co.id",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQTms2UWtudFBzZVJPWXVwZGJMT3FFcjJsRDVnQURZMVlzTFhWaXJRYmJDdTRxLUdzU2lzbkRwRm1qYXhLcTlSRE1FOF84bTA2VXppOV92emZxYzVwcDcxR1RNR2Z0WGZiTXBqSklQSmpaa0dJWFZuZWZROW9teGc5VXB5R1hZREJMaXFyNTROdFVUa0ZieTdSZkhsci15R0RFNl91LWw0T3VKZXYwOWZnSGJkb0RoQXhCMzdB?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-27T05:11:33.320442Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
       "id": "1f89619e3d54aeb23e937d4e",
       "publishedAt": "2026-10-26T15:25:08Z",
       "title": "Konsolidasi Nasional DEMA PTKIN III Ditutup, Mahasiswa Soroti Krisis Ekologi hingga Kebebasan Berpendapat",
@@ -177,6 +269,29 @@
         "Kebebasan Berekspresi & Berpendapat"
       ],
       "collectedAt": "2026-10-26T22:43:03.926130Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "edd05491fa08691058f1c17d",
+      "publishedAt": "2026-10-26T13:14:08Z",
+      "title": "Harga Sebuah Kritik",
+      "source": "Omong-Omong Media",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1Yb3Z1X1A3Tjh6SWFqNkt0XzRCdm9wV1hxbl9RUlROaWk0YlpjUTAtRFUwS1gtbDRwaUUzcnJvOEdBS25Mb0xhWlZyV2tEY0ZyMHlSM3NaNA?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-27T05:11:33.320442Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
@@ -527,6 +642,29 @@
       "reviewNote": ""
     },
     {
+      "id": "14afcd0633a75183602bab1a",
+      "publishedAt": "2026-10-26T08:39:00Z",
+      "title": "Kabar Baik, Kemenkum Gratiskan Biaya Pemblokiran Situs Karya Bajakan",
+      "source": "iNews.ID",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNQ0dRb0pSVDBsQ3B3Nm5ERjRiV3M0Z05PYkxkQ1dQcDctV1VpZWxKUjRJLWNtUzJEZFNjelhRMy1odGpMNEloMEJjdXdSRzBHRXFBSlBaUzd1U1J3T3JsbWVIM25WU1cySHp5UnJ6SGVoMGJoMVBQa1NTblduRURUUjRzeF8wUlNQUHg1SDdCd3JSdnFFM1dfd3FQb1JJY2h1MXVxWNIBqgFBVV95cUxPdy1ZMUVIZVZXMGZ6VHhwSGhKWk9hR0o1TWxBaEZMeUlKQ2xlZU81eV9WT3U5MUNjUHBhRVZhNUVoLWJmbHRLVnZTdkhnN1oxdHQteENlYWhGeGZjdXBYTnFLSkk5NkVSTVZzTjJZZ3d3ZW9WUGZlR09xSWlydEY2dGkyS05UOW5qWE50Z0tRNXZDZWhldHU4T043TlN5Q3o3bEdMU09qNEUxdw?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "sensor_konten",
+      "subclusterIds": [
+        "sensor_konten"
+      ],
+      "matchedQueries": [
+        "Sensor Konten"
+      ],
+      "collectedAt": "2026-10-27T05:11:33.320442Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
       "id": "e1a56b5e931e1357acd0bde4",
       "publishedAt": "2026-10-26T08:31:27Z",
       "title": "8 Cara Melindungi Data Pribadi dari Doxing, Foto dan Lokasi Jangan Asal Dibagikan",
@@ -650,14 +788,17 @@
       "description": "",
       "primaryCluster": "sipol",
       "clusterIds": [
-        "sipol"
+        "sipol",
+        "digital"
       ],
       "primarySubcluster": "kebebasan_ekspresi",
       "subclusterIds": [
-        "kebebasan_ekspresi"
+        "kebebasan_ekspresi",
+        "doxxing_intimidasi"
       ],
       "matchedQueries": [
-        "Kebebasan Berekspresi & Berpendapat"
+        "Kebebasan Berekspresi & Berpendapat",
+        "Doxxing & Intimidasi"
       ],
       "collectedAt": "2026-10-26T22:43:03.926130Z",
       "reviewStatus": "Belum ditinjau",
@@ -1445,6 +1586,29 @@
         "Kebebasan Berekspresi & Berpendapat"
       ],
       "collectedAt": "2026-10-24T11:08:01.955480Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "2050e521e6f54459396c233f",
+      "publishedAt": "2026-10-24T04:12:14Z",
+      "title": "Kasus Dugaan Penistaan Agama di Ancol Disidangkan",
+      "source": "GOnews.id",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBYdG9jNzBLZEctY3hTSU5aS0NlbVBIQXBQeU1YZWtiV1JjazNSNVZSTHRJT1BGcTNSYTUwbHA1YVRhSmFGdmZDbV83QzJrUTNkOFl1YVR0QzlFSllpcWE5RHBGazRjU1R6eFEwaEdzeUx1dHBnQzlWcWlwTDU?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_beragama",
+      "subclusterIds": [
+        "kebebasan_beragama"
+      ],
+      "matchedQueries": [
+        "Kebebasan Beragama / Berkeyakinan (KBB)"
+      ],
+      "collectedAt": "2026-10-27T05:11:33.320442Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
@@ -30562,6 +30726,29 @@
         "Kebebasan Berekspresi & Berpendapat"
       ],
       "collectedAt": "2026-09-14T12:54:41.881758Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "b91c2d5894a403a3f97fdce1",
+      "publishedAt": "2026-09-14T07:00:00Z",
+      "title": "MUI Soroti Dugaan Penistaan Agama Karnaval Pekalongan",
+      "source": "bsinews.id",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9rRUNLR1NZRUNHdi1LcWFldS1tZ1V0MmVsRVdkcDk4cnZueTR3MEJPaDV5YklfZjQwMlFhRWFoVjBtbjM2WWdTYXZ4TUprdGhpLXllT0dUSTNDdE9xQ0RZMkVtQ2JzWmZSRFFpQ3JiTnlMSkhnUVFhSFU1ZWo?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_beragama",
+      "subclusterIds": [
+        "kebebasan_beragama"
+      ],
+      "matchedQueries": [
+        "Kebebasan Beragama / Berkeyakinan (KBB)"
+      ],
+      "collectedAt": "2026-10-27T05:11:33.320442Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
