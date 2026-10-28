@@ -1,15 +1,15 @@
 {
   "meta": {
-    "generatedAt": "2026-10-28T13:01:25.158644Z",
-    "lastRunAt": "2026-10-28T13:01:25.158644Z",
+    "generatedAt": "2026-10-28T22:38:29.297421Z",
+    "lastRunAt": "2026-10-28T22:38:29.297421Z",
     "startDate": "2026-01-01",
     "refreshHours": 6,
     "mode": "incremental",
     "feedsOk": 16,
     "feedsFailed": 0,
-    "totalStored": 2706,
-    "totalPublished": 2706,
-    "newArticles": 14,
+    "totalStored": 2732,
+    "totalPublished": 2732,
+    "newArticles": 26,
     "warning": ""
   },
   "clusters": [
@@ -136,6 +136,328 @@
   ],
   "articles": [
     {
+      "id": "5ddb38f548244436d796c250",
+      "publishedAt": "2026-10-28T22:24:25Z",
+      "title": "Ritman Resmi Ditahan Polda Sumut, Viral Nantang Minta Dilaporkan Dugaan Penistaan Agama",
+      "source": "Tribun-medan.com",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQRXNhX1lGRmwwenFHaVdmV2E4WEFpVS1HVFd5RUNoSjFSN210NzA0QWZHQTRUYWJ5b05yaWo0ZGwwOERZVVpYcWVPS3NRQXlUalBvcnNBbEVlb0RxVUNyOTJPb1FFWXFYaFUyeno5YTZqRXV4MjhsazdxT0JwbEx1STlkZUIzdUR0SzYxQzNNN3RFMTNnZmo2amlqOEt5cUVtU0ZqQkZtQWxMLWNtR1p2Mmt1UTB4MGltVGVpNXQyOHp2SklUY1BB?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_beragama",
+      "subclusterIds": [
+        "kebebasan_beragama"
+      ],
+      "matchedQueries": [
+        "Kebebasan Beragama / Berkeyakinan (KBB)"
+      ],
+      "collectedAt": "2026-10-28T22:38:29.297421Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "12a5e15f319edc7ec8c6eda0",
+      "publishedAt": "2026-10-28T22:22:32Z",
+      "title": "Dikritik soal Takedown Ujaran Kebencian Maksimal 4 Jam, Komdigi Sebut Bukan Langkah Pembungkaman",
+      "source": "Jawa Pos",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPWHN0dk1jOVp6U2otUFJiT256UnZodjFHZ21rejc2RkZkMjFOQlFJQ0R4b0NpdThobjY2aktNMk5PSmV1N3ZsV2hSWDR4aVZKVDV2eWx2TVFQR2EtWndXeUpzV2s3cEIySDMzSjFlRV84Y1JkaEV1T3ByMHplUDRuSjFyaFBYVmNGN055RE1GMnpVcDZnblpUbHVsMDVQb3MyT0NvZDM1Smx2Wk9WV0NSREVxSWloNm1RMExxTFBsX25LRlpMcVBMd01ybEp3RTlqMEx4V2R3?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-28T22:38:29.297421Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "06c286da36a2d70ad2a106c1",
+      "publishedAt": "2026-10-28T17:20:00Z",
+      "title": "Bentrokan Jakarta Pecah: Gerbang Bundaran HI Dikepung, Polisi Hujani Jalan Imam Bonjol dengan Gas Air Mata!",
+      "source": "mili.id",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQMG9td0JDN2pGaHVYV0owZ19kREYyeGswMTI2NTJHaDZDakZ1a3FSZEV1d0J6cUo5M1RFUlp6eF9vTWFVM1hBb3dHT2NqcG9WVXZrOWM4dGEtQVp0bXVIc3Iwdm9qNnhCakpwRnhjZ195eG5QUk5NLWtsY1E4LWlZNExGaHNUOGdUeW1wNXdtODF1a1FIaGlpOHM3cW01ckRwSzkyWDdjTUdOblduVlI5MW9LT1NDV2hGaVNvNndta2o3ejJSNDRlOUNhdw?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_berkumpul",
+      "subclusterIds": [
+        "kebebasan_berkumpul"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berkumpul / Berserikat"
+      ],
+      "collectedAt": "2026-10-28T22:38:29.297421Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "c71c0bed1196076e80ff6726",
+      "publishedAt": "2026-10-28T16:14:42Z",
+      "title": "Polda Sumut Tetapkan RDLG sebagai Tersangka Dugaan Penistaan Agama Lewat TikTok",
+      "source": "Website Resmi Polri",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxORmd3dHd0dXpuSWNTaGJzMjM5VnJCN0N2S2pzdWhESDJJV01CUlJoX0JodTlNUm03ZU5FMTNUa0M2MzdjWHhfSjEzOE5RMFBFdm1KY3c3NldTMVRUcHdGelppM29ORXNuaGMwOUFjSzl5cGt6RW1oSGUxaVdpQXA3dHNsQnNLX09aU2lpU3hKSTVIU3ZUM2FDRTRleW1sS1NIc3hRRVdVaHZpbEkzbTdtbmV1YjVMX2oxcEFB?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_beragama",
+      "subclusterIds": [
+        "kebebasan_beragama"
+      ],
+      "matchedQueries": [
+        "Kebebasan Beragama / Berkeyakinan (KBB)"
+      ],
+      "collectedAt": "2026-10-28T22:38:29.297421Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "a235295e72c717fee232ac22",
+      "publishedAt": "2026-10-28T15:41:00Z",
+      "title": "Konten Kreator di Medan yang Hina Yesus Ditetapkan Jadi Tersangka Penistaan Agama",
+      "source": "Kompas.com",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOaHRFZUN4WlRXcFFhNmxYMzZUQVBraU9RTXVZTWFSa3ZSWDkyUU1JYnNkRGJrWFZ4aTlxRUYtcU1seTBCLTdOYkl2ZjVhSmFpYkt4bThjN25nRHpuQnV3WllPLS1ZOUp4ck90MnpZa1B4TTBCSVUzcXpVQ0ZWYlU4aVZLc1dDOVpnVmVzOWFYRW5Lb1VPelYyd1h5bWZJUmhJMjlVaW5nWjZ1VEpNcEFpUDRoREJBTHlPc1BhT2pfYVV1ckNx?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_beragama",
+      "subclusterIds": [
+        "kebebasan_beragama"
+      ],
+      "matchedQueries": [
+        "Kebebasan Beragama / Berkeyakinan (KBB)"
+      ],
+      "collectedAt": "2026-10-28T22:38:29.297421Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "bf903e9c5d31885d1513aaf7",
+      "publishedAt": "2026-10-28T15:22:19Z",
+      "title": "Polda Sumut Tetapkan Kreator TikTok RDLG Tersangka Dugaan Penistaan Agama",
+      "source": "Nusantaraterkini.co",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOc3ZTaHA4VDM0MlBqNHplejZfZHpqRDR2VGh3TFQ5SHpjcnpuMzVsQ0RlRGFIZVp3UXVFMHBncGNtTHpPOWhDS0RfaURqM282MWIxNV9JRDlZdWtqdHcxQUM1ZWJxejRqTFlvRnRmWUFSS0dGODh4dkVaNUYxVUJLVmZraEhncDRrdWdSQkhhNEJPZHlCaWp2bHVqckdfVzNKbUtJ?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_beragama",
+      "subclusterIds": [
+        "kebebasan_beragama"
+      ],
+      "matchedQueries": [
+        "Kebebasan Beragama / Berkeyakinan (KBB)"
+      ],
+      "collectedAt": "2026-10-28T22:38:29.297421Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "28ff4bd81cf402b72460960d",
+      "publishedAt": "2026-10-28T14:50:21Z",
+      "title": "Diduga Hina Agama Kristen saat Live TikTok, Polda Sumut Tetapkan RDLG Tersangka",
+      "source": "Sumut Pos",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOZVYtNjEwNEhJb2xYVl9TZTRLTm82ajQxTHlaNXVGSkcxYm9OSHpVQVVHdkN0VVpobTBMTnQ1eFN2b1RpOTdfdUFaTFFwTjlaNmhkRkxfM20wUk1GdEdsWTBoWmtPM0RtYXI0aTMxWWNBNVhKRWVESlVDWmZ2RzhOTXI1T3E3WXAxV2RrTDV2ZUJhclpKLU5Gbi1nZmExY3RVSFdJc2sxMGpZVXFqcDByYTh5dmY3TU84WHpEb2xtd2Z0R25DUmhZbkdYc1Brd9IB0wFBVV95cUxPb3JUTDk4aElwZEZOM2l6NEFRRkdsOVFUendBMC1ScDF6WXlJNElvWHM4aXNVeHphamVCZlAwclp3aG1icXpUNXF2WTk1NEk2Z2hLU0tGeDctOE9NUmdlV2stTDAzMzdEWXZyWnVUMzZLVWZLckltZFVySU5uT1pNNmhjMm94MHlNT2FKaDJ1b291Vm8wRzVrRGE5a3B3LVpuWlkwYnZFeUxRNGNPWXRhWjQyRzJ4NUN6b0Fid2JIeUlERzJZNkl6YlB2MWM1RzVRc05J?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_beragama",
+      "subclusterIds": [
+        "kebebasan_beragama"
+      ],
+      "matchedQueries": [
+        "Kebebasan Beragama / Berkeyakinan (KBB)"
+      ],
+      "collectedAt": "2026-10-28T22:38:29.297421Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "49a6da88be97b28a13259372",
+      "publishedAt": "2026-10-28T14:19:17Z",
+      "title": "Diduga Menistakan Agama, Konten Kreator Medan Jadi Tersangka",
+      "source": "IDN Times Sumut",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNdTlndTViMEg4TDd6WW5GbWJUMGltRjBNQ1RYQmZlek5zTXFQNGpzb2ozejFMV3poZ3diUWlGN2REXzZNdzRoWUhFZFluVE5TcGtMbjFOUEVZUURFalR2VWk2Z29hSmMzcFNMR3FpUWM1a1FJRzY0TVJMdGZyV2R6Z1AzMFlFZGloZ2o4MkNuRURFQjNQWWRIQ0pKWUpySHVZb0dzUHF3VmFkM1doLU9hQzlTQjhCdm50cDMxYnJR0gHDAUFVX3lxTE10VUcwTzdtQ1RHeGpRcHpPVDVYU1dzbWZ2QnI2N3hCZzktZWRlT1VLT2kySUlQVm5SNlBCd1haTG9WNFM5RVNEUndBR1hvLU1iV2NFMFRpOWtNM3hiWUJtV2ZCRFFlSGVqWVg2M0lJeDFmQ2QtQnJqSVZ3czdxeTh1MU5fVkVwbGhoanQwZ2hLOHNRV3BWQm5OanZSUFgyMTNoWFhjbS1ua09DYk9CdmRRLWhKTF9xX1N0LTRlSFBvMzVxVQ?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_beragama",
+      "subclusterIds": [
+        "kebebasan_beragama"
+      ],
+      "matchedQueries": [
+        "Kebebasan Beragama / Berkeyakinan (KBB)"
+      ],
+      "collectedAt": "2026-10-28T22:38:29.297421Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "8242c613aaeef26fea155152",
+      "publishedAt": "2026-10-28T13:57:15Z",
+      "title": "Catatan Pemantauan Penanganan Aksi “Indonesia Sadar”: Hentikan Penggeledahan, Kekerasan, dan Pembatasan Kebebasan Berpendapat dan Berekspresi",
+      "source": "LBH Jakarta",
+      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQVHp5Z3RsNjM1RlQzYllscmppR09xT05QbVVySTlRZEdET2U3Mm1Xcnl3eTBZR0dMelRxVEc5eVpmTlBseFFoQ3VIMEUySGFpZDJNaUEzZnM5SjhsbTZkckVfdklZbDJlZTh6amdfdlBVZ1VDek05NXY0dDRMR2VBMXVYdEdtdjc4Q0pFMDA1amNTVy1McHllYVppWUFZQUY3Rk1wY0Q3UW4yQ3F2RjNldWNwLWdxMDUtMmpZSjN2Z0c5alY5Ukd0S21PejFhM2cxRE4zTUxGWU5LcElIZTlxSHQzZjQzS2xUNGREaEJ4eTdGZUloU3Rr?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-28T22:38:29.297421Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "2b234515d55709d7e41885e2",
+      "publishedAt": "2026-10-28T13:46:14Z",
+      "title": "KADIV HUMAS POLRI: Kebebasan Berpendapat Dijamin Undang-Undang, Mari Jaga Keamanan Bersama",
+      "source": "FaktualNET",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNZ0xHR3RxOFA5eExSUDIwNXBjbVFpaWhGeVZZR0dWZ253bDJybDkyU0RFNDFkMjRCbFJueTVYWjJvWjdnVTRFNmhMVHBFM1NVMExfcHpKR3NyYTVoNi1SUnpRam5KYkF2elJ4N0Jrck1aVGo5aGZmUFk1US0zOW9JeWkwUzBRbkM5eGxVOW9oYUEwbzhlblRxUWotU0NKaGZLc3NMY3J2dnNfVlNES2duMjdyMNIBswFBVV95cUxNZ0xHR3RxOFA5eExSUDIwNXBjbVFpaWhGeVZZR0dWZ253bDJybDkyU0RFNDFkMjRCbFJueTVYWjJvWjdnVTRFNmhMVHBFM1NVMExfcHpKR3NyYTVoNi1SUnpRam5KYkF2elJ4N0Jrck1aVGo5aGZmUFk1US0zOW9JeWkwUzBRbkM5eGxVOW9oYUEwbzhlblRxUWotU0NKaGZLc3NMY3J2dnNfVlNES2duMjdyMA?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-28T22:38:29.297421Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "036abc7d82263c011e6ceedd",
+      "publishedAt": "2026-10-28T12:49:00Z",
+      "title": "Permintaan Maaf Tidak Hambat Proses Hukum, Terduga Penistaan Agama Ritman Marbun Ditahan Terancam Hukuman 6 Tahun Penjara",
+      "source": "Medan Pos",
+      "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQTkVGekRTRW54U2tqVFJQR1Q5amE2TDNOcHhPSy1jcVpyWkhQTWtkbGZZSy1rbV8wMkhIRFdrWUp1TjRrOUJvZG1TbW9lTUZjTWdoc1Y1OFhBVTAtSFQ4R0FqZTc4MllGOG83bFp6b2F1LTZ1ZldSTlFlbkk0Yjg3UE9VR3BwTWtESW55WGRUdmZNRFRwM3I2UTlkd1BrNUVRVS1VYVl6dHh6dUJpcE16SXFUdnpTME83dmE0bUNVR2xvQ0kwSTdJS2o3LTlPb0pTQUFSMnRQYlhTbktLOHZWZ1k0aUV6NnZGZHlwZFM2SE8xN0RWX2VscDRTMl8?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_beragama",
+      "subclusterIds": [
+        "kebebasan_beragama"
+      ],
+      "matchedQueries": [
+        "Kebebasan Beragama / Berkeyakinan (KBB)"
+      ],
+      "collectedAt": "2026-10-28T22:38:29.297421Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "77f6cef6e5195d3b7babba94",
+      "publishedAt": "2026-10-28T11:57:04Z",
+      "title": "Polda Sumut Tetapkan Seleb Tiktok Tersangka Penistaan Agama",
+      "source": "Liputan6.com",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPeERvbzQ5WVhjNm5VTW13NHBWVTRrMEpFZ0VhdUU5S3NxSmNCaVRtUE90YTF3dlNRUFhHNkVvTkM0UGhySVRkelBZTDJMOG04WTA4N0wwTF9tR0hVSG42LXptM3dNWXpsOVVybTQxTkhXYzgtWUlfX0NkX20tMC1mYUNZMnlZNGVwVkI4d01NbUlGTWRsMVZERzJnVTBSTkhsak5OSXUtSnEyUdIBnAFBVV95cUxPTHludFRwZnNjR2ZqSmgzV2pWY3ZRN2YzdFdqRFZpZFZ0bkg4M0htRGtWR1RNS0lyUjdYNHVJVXEtbWZaYm5uZXhQUVVoemtRTUJDVzNkWG83WFRqOWwyZzdRODNDTmdaQV9idl9oTVJVTGhMenY4UTJZYkliaTQ1Q3dDclFPdVNRNzdJelNGTFRzSUN4V21KaklYRDk?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_beragama",
+      "subclusterIds": [
+        "kebebasan_beragama"
+      ],
+      "matchedQueries": [
+        "Kebebasan Beragama / Berkeyakinan (KBB)"
+      ],
+      "collectedAt": "2026-10-28T22:38:29.297421Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "0a3b3988d8d751bace034a3a",
+      "publishedAt": "2026-10-28T11:24:14Z",
+      "title": "TAK Lagi Garang, Inilah Tampang Ritman Saat Diperiksa Polisi, Kini Dipenjara karena Penistaan Agama",
+      "source": "Tribun-medan.com",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOcDhCZzQxSkR3SExnZEJvTldlN3pXR1Y4dEdnajJaNUVRaVJsQm9CMmxzTlVDQ3hfS0tRMTdJWlNWVzZSMnp0em5kRG5McjdRRlVJQjNNLVo5Q3dVdTgweGlMekZpMTVPY1k4LWFNN3JSdHNGUGRiUFdmTlEwTlhwLTBsaUl3VDU5MDJNTzRIWUJjMllGWk5MU1NMQ3A4SkNjRVNLNjlFVWJoNFNZOUoyWkU4Q2FWNmNhSnJ3aDI0VXJyaFpKd1pjYzNCN2tUcUJhU3h4RFlJdUFqaXVLRlE1Xy1n?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_beragama",
+      "subclusterIds": [
+        "kebebasan_beragama"
+      ],
+      "matchedQueries": [
+        "Kebebasan Beragama / Berkeyakinan (KBB)"
+      ],
+      "collectedAt": "2026-10-28T22:38:29.297421Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "3bb0fcf82d8f80166213df30",
+      "publishedAt": "2026-10-28T11:07:29Z",
+      "title": "Polda Sumut Tangkap Konten Kreator Penistaan Agama",
+      "source": "Metro24",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5ybHJPMXZNaWRNQXhHTWp1WV9KdnVJVVZRUDZVVzMxSmhITFNWeFk2R2JQRHVGWEYycWY4N0Raa1phaWl5SkxhMUN1UXlkS3NpWnR0RkY2Q21hQjByRkxKbDEtUWdrcFVwZTZ1OE5lYXNCdUhXUmhIMVJwbzA2TVk?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_beragama",
+      "subclusterIds": [
+        "kebebasan_beragama"
+      ],
+      "matchedQueries": [
+        "Kebebasan Beragama / Berkeyakinan (KBB)"
+      ],
+      "collectedAt": "2026-10-28T22:38:29.297421Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
       "id": "f1a71794688c222405b18399",
       "publishedAt": "2026-10-28T11:02:00Z",
       "title": "Polda Sumut Tetapkan RDLG Tersangka Dugaan Penistaan Agama",
@@ -177,6 +499,98 @@
         "Sensor Konten"
       ],
       "collectedAt": "2026-10-28T13:01:25.158644Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "2267ae22112a923e66464c7e",
+      "publishedAt": "2026-10-28T10:56:45Z",
+      "title": "Polda Sumut Akhirnya Tahan Kreator Konten TikTok Ritman Marbun Terkait Dugaan Penistaan Agama",
+      "source": "Tribun-medan.com",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNZ1VDcW9BcXpDTFlPSlRWMGhqX01sVHd3LWhvRjRXNFdnVmNlNW1UV0pCelFvRDhkLUZpYWZYMVdIYWdvN1lzSjJXVEc4bmNSUzZUMU5xMTNTVWcwZzRBVXgwVmhYUmxUcm81c2NuS05MTWJwTHg5S1Z6NnNmNXM3QzNoQWNiWDBJNVRJelFqRGlQZkpYTWJsdmpZWW5kdURad0I1R1BGYldRYmxfVXY2V0ZpVzc5ZGI2dUFPb3dCelpzMUpkN2h6VGJhdlJERmdr?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_beragama",
+      "subclusterIds": [
+        "kebebasan_beragama"
+      ],
+      "matchedQueries": [
+        "Kebebasan Beragama / Berkeyakinan (KBB)"
+      ],
+      "collectedAt": "2026-10-28T22:38:29.297421Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "9971e3367d24b935532302f9",
+      "publishedAt": "2026-10-28T10:53:50Z",
+      "title": "Ritman Marbun Ditetapkan Tersangka dan Dipenjara Imbas Penistaan Agama di TikTok",
+      "source": "Tribun-medan.com",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPal9GS1RoZ2JmSkRWSWtKNC1VMmROQUVQUjlhTDhTbnJ2WWNPQ1poZ1NxaktLeE51NW9YRUN1d0FPYy1xNUpTbGRveU1OdExobXd0SVFnSUk4a2o2Q2REOG5VNmpwRkxNRlZqSnVlV0JjYUJaTUFPRG5lQURfTklkM0wtZnNoZEZ3THIzR0o2dXg4X3k1eUY1T0FfUTktNTlkSmNvQklGQlBOTEZQeXVPRGJqZDRFTlBTZjIydEtWVQ?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_beragama",
+      "subclusterIds": [
+        "kebebasan_beragama"
+      ],
+      "matchedQueries": [
+        "Kebebasan Beragama / Berkeyakinan (KBB)"
+      ],
+      "collectedAt": "2026-10-28T22:38:29.297421Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "7719fea743da64a2001487f9",
+      "publishedAt": "2026-10-28T10:47:26Z",
+      "title": "Pemilik Akun TikTok Ritman Marbun Jadi Tersangka Dugaan Penistaan Agama",
+      "source": "HARIAN MISTAR",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQdnBaZ0VYM29Ld1ZZRHc5VURqLWVSSzJaTU52TElDa2J2VVBqRHpTbFNWZ2ZldlJwSnJkM1ZDRzF1SEJZZEg3ckdualJFRWVfMEZ5cXB4V2lJNVpHZkxUSXNCc2ZVcjJGQ1kxRGp1RDdFRFpkUEpoUW1uckt6M0xwOXlSRlU0V1VzTFh5d1hNZ0pMcVoxbDdhUy1pa3NVcWVxQXJKMkF4V29TQ2VWc0Iw?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_beragama",
+      "subclusterIds": [
+        "kebebasan_beragama"
+      ],
+      "matchedQueries": [
+        "Kebebasan Beragama / Berkeyakinan (KBB)"
+      ],
+      "collectedAt": "2026-10-28T22:38:29.297421Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "9f8b4c36ac2af45860f6b8d4",
+      "publishedAt": "2026-10-28T10:42:13Z",
+      "title": "Ditetapkan Tersangka, Ritman Darwin Lumban Gaol Resmi Dipenjarakan imbas Penistaan Agama",
+      "source": "Tribun-medan.com",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxON0ZpWlJtZXBZMDZrZk9uX3NzZW13R0ROMTh1ZjBuS25TYmxJRWpJcE1lbmduMDBmeXpqOVlNRlB0LW42OUhYVmpUM21kNVJGaFI4d3FSX0xwQXpfczZYdHg0OEdDMmhqNG5ieVk4T2Y2NndSQTlGVnYwVUEtTkYyU3pfZHBvSlRPWFhWQUNxcGhSWUpRVnNZTm1xQzRGTGFzUWpzaGVXUmtzRFNqQXQ5R1JCSVlWMl9JSzN6X1NRNDgtZlctUE5hRkxWWDhrLTVsTkQwbQ?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_beragama",
+      "subclusterIds": [
+        "kebebasan_beragama"
+      ],
+      "matchedQueries": [
+        "Kebebasan Beragama / Berkeyakinan (KBB)"
+      ],
+      "collectedAt": "2026-10-28T22:38:29.297421Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
@@ -297,6 +711,29 @@
       "reviewNote": ""
     },
     {
+      "id": "de7ebd7c73321299b402ce18",
+      "publishedAt": "2026-10-28T08:29:43Z",
+      "title": "Kadivhumas Polri: Kebebasan Berpendapat Dijamin Undang-Undang, Mari Jaga Keamanan Bersama",
+      "source": "Website Resmi Polri",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNT2dJbmswOXBHMHVqN2k2X1BNUXJRX2gyYl9PTEZ5UXZ4VjdRNl9Jdy05bTNlbTRDT3lOaFkzdkhBUzhfYWVRcDJHQ2ZqbGdlX3Q3cjBEYVNXMkM1aHRCRVNVVTNuMVVzdTUxODZOcE1ROWh4ZTdpdWlFeGhDZEhxTnU2WElLYWtjQUlZcmNDXzhVLXN0Uy1YbDlWZndRbnhyX2lNT3NydEtDcVJsZEVMR05NNGhyajZIaE9nQW81a1dJaDYwcThBbTQ0azdURWZiZXhxVA?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-28T22:38:29.297421Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
       "id": "2d8ff9d464064247102318cc",
       "publishedAt": "2026-10-28T08:11:41Z",
       "title": "MAHASISWA BERSUARA: Di Balik Seruan ‘FOMO Politik’ dalam Ruang Kebebasan Berekspresi",
@@ -412,6 +849,29 @@
       "reviewNote": ""
     },
     {
+      "id": "6e8ed97d52e7b0d9d04f2814",
+      "publishedAt": "2026-10-28T06:40:21Z",
+      "title": "Polda Sumut Amankan Ritman Marbun atas Dugaan Penistaan Agama",
+      "source": "Lensa Hukum",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1RRHFLSldWT08xd3N1UU83ZFJ2R0dRck5XeVlVbTlGeHY1UUEtbHZkb2E5WkJOSFBCMEVMdFU4bFFCNlQ1VlJ0SGpsSTVobF9oSm1ucVUwZldOLUoyZXNpaDdQR2JZWkpoVHc?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_beragama",
+      "subclusterIds": [
+        "kebebasan_beragama"
+      ],
+      "matchedQueries": [
+        "Kebebasan Beragama / Berkeyakinan (KBB)"
+      ],
+      "collectedAt": "2026-10-28T22:38:29.297421Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
       "id": "7d44f7420e4a491cabc22566",
       "publishedAt": "2026-10-28T04:36:00Z",
       "title": "Demo 28 Oktober dan Simbol Tiga Warna: Kebebasan Berpendapat, Solidaritas, serta Tuntutan Perubahan",
@@ -453,6 +913,29 @@
         "Kebebasan Berekspresi & Berpendapat"
       ],
       "collectedAt": "2026-10-28T05:48:01.018669Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "0b49c527d65530ff2d165224",
+      "publishedAt": "2026-10-28T04:13:47Z",
+      "title": "Ketua HBB Apresiasi Polda Sumut Tangkap Ritman Marbun Terkait Dugaan Penistaan Agama",
+      "source": "HARIAN MISTAR",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPYzdtRk5MVEZ0V1gzckpKbDd5VEhLRS1GdG01dWd6MkFsYXh4WUVkMGtMUUNrN0NtVWNnNmZpSmtwX2tSSjFDaVEtVUZvUEhwOUVqRHIxQjc0NGNJVDk5MTJKMmFFRDQ4Y3ktNTl0UXhtOHNkeXczYzBIR0YyT0d4OGtTWThZY216V1FacE5XUFNRa0N1c2VmWkhtLUFjdmlCbEt0ZXJJdXA4LU9OZzlTRWdaclVFa0dmVUhLNF9Ub2g?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_beragama",
+      "subclusterIds": [
+        "kebebasan_beragama"
+      ],
+      "matchedQueries": [
+        "Kebebasan Beragama / Berkeyakinan (KBB)"
+      ],
+      "collectedAt": "2026-10-28T22:38:29.297421Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
@@ -642,6 +1125,29 @@
       "reviewNote": ""
     },
     {
+      "id": "47aa3b59c6f9e179298f4fdd",
+      "publishedAt": "2026-10-28T00:42:46Z",
+      "title": "Duduk Perkara Ritman Marbun Ditangkap Dugaan Penistaan Agama di TikTok, Penjelasan Polda Sumut",
+      "source": "Tribun-medan.com",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQOVBYV3Z1Z2J4QjhMLS1pWTd3dXhxZ3hpdUJKU29fZzZzVHl3ZmtTX0ZFUkJsc2xGMVM5bzNjRFh0dkNFRUZlOHpuaUhiZkFfb0JZTnBfSmJrQVBqUTgyREJ2ZThHNWRsSGlPb2VXankxYWQ4T01aNG43V3lHdXNVeGMwLVZ1MzJwQ2Jva3U0QUdQeTR2SEtmUEVoVGdCZ1hxSEo5QXU4UHdvb3Z0TjROcFpqby1zb0xxY2c2aUQyQzhjcE5zMmFVSENBZXFoRGpo?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_beragama",
+      "subclusterIds": [
+        "kebebasan_beragama"
+      ],
+      "matchedQueries": [
+        "Kebebasan Beragama / Berkeyakinan (KBB)"
+      ],
+      "collectedAt": "2026-10-28T22:38:29.297421Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
       "id": "af70a2bb0de6157597edebe4",
       "publishedAt": "2026-10-28T00:31:00Z",
       "title": "Aksi 28 Oktober di Bundaran HI: BEM UI Soroti Isu Karhutla hingga Kebebasan Berpendapat",
@@ -660,6 +1166,52 @@
         "Kebebasan Berekspresi & Berpendapat"
       ],
       "collectedAt": "2026-10-28T05:48:01.018669Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "673017620f2f27e0654a1b92",
+      "publishedAt": "2026-10-27T23:34:24Z",
+      "title": "Polda Sumut Tetapkan Konten Kreator sebagai Tersangka Dugaan Penistaan Agama, Kabid Humas Imbau Bijak Bermedsos",
+      "source": "batak pos tv",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNeWNRckljenQ0azI4Zmh4dFhXRHBVZUNmbFp1aGNwdUJiaUVEMERnZXNWdlYyQkdDbFZTQkMyY2hxbFV2VEwtWFVoUnF6Y1JxanMyQ2JudzFXLUg2RmNDcElZejlMcDdHWTBaNVhIR0lFNENEMlhqSVlmei1MV0VFcW8xNjZfenI0WDJHZDM0TVhVLVNlOXh2dXplcldhNHhsc2FUZVRFN0xud2xFRENpekN6Nkp4Qm92Q2ZkM3hEMlJmQmZ3VXZOc3hxa083bDg3NmNxelVKdk9LUQ?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_beragama",
+      "subclusterIds": [
+        "kebebasan_beragama"
+      ],
+      "matchedQueries": [
+        "Kebebasan Beragama / Berkeyakinan (KBB)"
+      ],
+      "collectedAt": "2026-10-28T22:38:29.297421Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "5ab3b151cc17641513655a1b",
+      "publishedAt": "2026-10-27T18:29:00Z",
+      "title": "Terduga Penistaan Agama Kristen Ritman Marbun Ditangkap, Ketum Pemuda Batak Bersatu Apresiasi Respons Cepat Polda Sumut",
+      "source": "Medan Pos",
+      "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPLUlrVi1VMXV3QVZ6R2t0OXF4TlpnQTRKblowZzdTczI4UjJwRVU3UF9td3dZV0pMWklfLUloZ0Y4cFRIVm9rc3NzbFJCSGRHUEdTOVdiLXpPOEtCdFNycVVvZDZCR3h5eXF0dXJxaHhLbTBDdG4zbVZsU0dvd0R3RGpkOHpEcng5T2JaNHk0ZnFPM09tLU5NcV9EZk9oTGVnaWhKd3RKYllzZXhMNjZXcm1XNHJDZThLODZlMGxieWt3Q1RzdTdOcFdSck5fUXhCNWluLWtHY3FaX3J2QXgzMWU2bng0Y1RZbWlxdXBoR19fbVBKT3FwbUpwbnB5TVhC?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_beragama",
+      "subclusterIds": [
+        "kebebasan_beragama"
+      ],
+      "matchedQueries": [
+        "Kebebasan Beragama / Berkeyakinan (KBB)"
+      ],
+      "collectedAt": "2026-10-28T22:38:29.297421Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
@@ -1051,6 +1603,52 @@
         "Kebebasan Berekspresi & Berpendapat"
       ],
       "collectedAt": "2026-10-27T22:18:24.954074Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "b5c91fb8a4f7fc8068a3d2a1",
+      "publishedAt": "2026-10-27T09:03:15Z",
+      "title": "TikToker Ritman Marbun Ditangkap Siber Polda Sumut Buntut Dugaan Nistakan Agama Saat Live",
+      "source": "Tribun-medan.com",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPMU43ZGRtVlMtTzFfXy00RlpEb1hObm5vUjNReFZfbUFyLUQ3b0I4VG1Tb3NXcVhCeHZLM2p5RzFLbG9qa1ZVYVdoME1QSURQT2wwV1V3RG4tM1J5VFhySVUySzQtRk9ySUJaaF9YOEpYLTZROFBpbWRfR3l1SjkySlRjM2p3blg5UkY2YnBlS1ZHM0g2MWhLc09ZTmRSUzZMdjBSSDNSVmhjbVlCVlo1c041UWo0by14U1o3dlg2RWdGRHdXTUNyTEVKZw?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_beragama",
+      "subclusterIds": [
+        "kebebasan_beragama"
+      ],
+      "matchedQueries": [
+        "Kebebasan Beragama / Berkeyakinan (KBB)"
+      ],
+      "collectedAt": "2026-10-28T22:38:29.297421Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "8a42e06b3fa9aa72a4aa8812",
+      "publishedAt": "2026-10-27T08:47:18Z",
+      "title": "Diduga Nistakan Agama, Ritman Marbun Ditangkap Siber Polda Sumut",
+      "source": "Tribun-medan.com",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQeGpsdjZqcm9jWExuMGpaLUJpb0w0eGdOcFRIa09nSXlNRlN4cXBkVDJKN1V0UDJaY0JKUVhUWnc4b2JFS0VGZEdXbFRXTlpSbGlEV3hBYTlPMEx5WjIzb0lkalJMTlBEZUZkdWlHYnlZS3JzSmxyY0FwNE9IelQtZldSLVlGcEgtYjV6cDg2WmNEbnczZk1SeEY2Um9tenNqeVJFVUZQbzhjU21JZVlmWmxUeks?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_beragama",
+      "subclusterIds": [
+        "kebebasan_beragama"
+      ],
+      "matchedQueries": [
+        "Kebebasan Beragama / Berkeyakinan (KBB)"
+      ],
+      "collectedAt": "2026-10-28T22:38:29.297421Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
