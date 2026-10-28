@@ -1,15 +1,15 @@
 {
   "meta": {
-    "generatedAt": "2026-10-28T05:48:01.018669Z",
-    "lastRunAt": "2026-10-28T05:48:01.018669Z",
+    "generatedAt": "2026-10-28T13:01:25.158644Z",
+    "lastRunAt": "2026-10-28T13:01:25.158644Z",
     "startDate": "2026-01-01",
     "refreshHours": 6,
     "mode": "incremental",
     "feedsOk": 16,
     "feedsFailed": 0,
-    "totalStored": 2692,
-    "totalPublished": 2692,
-    "newArticles": 11,
+    "totalStored": 2706,
+    "totalPublished": 2706,
+    "newArticles": 14,
     "warning": ""
   },
   "clusters": [
@@ -136,6 +136,305 @@
   ],
   "articles": [
     {
+      "id": "f1a71794688c222405b18399",
+      "publishedAt": "2026-10-28T11:02:00Z",
+      "title": "Polda Sumut Tetapkan RDLG Tersangka Dugaan Penistaan Agama",
+      "source": "RRI.co.id",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOY1hYcWZoajFiRW1OcWpHYW96M3ZYMjNXRjlPbWF1T0pnY3hobHZIVDFIcW5kdXBsUUlzU201bmNQZUY4QlAyaFhzZE1ndE1EX21yaC12cmhnRnJIYUd3ZHNBN3FvTUUxRWtWR1NoWXpWZy12RlZNVThHenhyckhsOXJFSXN6RTNOWW5UZ2c4MC02VzF3MG5lLUxMNlpqZl8zOE9yV29HNmRGQlh1RXc?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_beragama",
+      "subclusterIds": [
+        "kebebasan_beragama"
+      ],
+      "matchedQueries": [
+        "Kebebasan Beragama / Berkeyakinan (KBB)"
+      ],
+      "collectedAt": "2026-10-28T13:01:25.158644Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "5b17319d2a133656e20a3dc9",
+      "publishedAt": "2026-10-28T10:57:35Z",
+      "title": "Bot Meta AI Sebut Komdigi Takedown Konten, Komdigi Minta Klarifikasi",
+      "source": "Uzone.id",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNZnF3QkhQT0IzYnhUWUR1NENKMEVMLWVMOFJyS2FfU2dsWlN1MGN1NURGWG00eWpsYVFmai12Z3A2R3J3bENkLWhrcm5SUnZneEVjUjNsa3djOTZGaWt1RWdHallOekFZWnBSaEVrX0dIQlFxb0VRdXlzLUxuZzVMRTR0WnVHS0hNcVRmUg?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "sensor_konten",
+      "subclusterIds": [
+        "sensor_konten"
+      ],
+      "matchedQueries": [
+        "Sensor Konten"
+      ],
+      "collectedAt": "2026-10-28T13:01:25.158644Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "09a9559e8a4ef053cf1a3e4a",
+      "publishedAt": "2026-10-28T10:18:00Z",
+      "title": "Kronologi Penangkapan Seleb TikTok di Medan, Usai Unggah Konten Diduga Penistaan Agama",
+      "source": "VIVA Medan",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQdUlpOG9oVk4zVGxmeDZLX05RTVpvZ1UyRF91Mk9RYWkwYUcwbW0tcXAtVmo4OTdXRHlXWWt0VGpKVVk5X2dxOFY1aUpJUnR1VnhKdXptZ3h2VFdZWnJCbEJCR2k1LW1JRjRFUkhHbU5BSkpjS0NTanNYTUpOb251Wi1zenAzc0U1dVVRdlpWeThJSzIyeXJUZDAzX0duWGdqOTE0cHMwbkxJS3VRVHRPYTBCUlZubkJydndYVDFTY9IBxAFBVV95cUxQcWhqSVdTTjFVUkhOakVzU0JJREwyV3NkbjNzZmtINk82WGVtbG5mMnFLZGRlaHhLY0VER3dObWRCQUx5VzlmWlhwZ190Z05kRzlzSjMxaTVybGpmY1d5ckV6X0xmYkc2UGhIMWd3ZHZMcHVOZnhTTmpwZm4tbEwwdF8tZGZnaVdpc3YxQzB6anA1cUEwS2N6VzRrUU1vLVNTbHJMUDhvVjRYLTk3LU9QVDl1bVVsTDdmU1dVM3htY3dpcmh3?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_beragama",
+      "subclusterIds": [
+        "kebebasan_beragama"
+      ],
+      "matchedQueries": [
+        "Kebebasan Beragama / Berkeyakinan (KBB)"
+      ],
+      "collectedAt": "2026-10-28T13:01:25.158644Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "ba5d4af2b83da5a823b3b62b",
+      "publishedAt": "2026-10-28T10:10:00Z",
+      "title": "Syahganda Nainggolan Imbau Mahasiswa Jaga Aksi 28 Oktober Tetap Damai, Pemerintah Hormati Kebebasan Berpendapat",
+      "source": "pantau.com",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNdi1PRmM4a1Y0Y1A0eDBEVkJXZlJPdDNiT2NfNWx2bjg5Ty1xS0ZVc0tPWjN2S09tZ0kxU193WkZFd3JfVDl6b3Zrc1RVRmYwdHQ1NGt5TVZsSGtlVGZCTDMwUWhpdkRCNDBVbTc3Z1JuQXF6QnJIZUc3dFp2ZW9CS19yM0lJSzRHRHE5d0NObDN0UGtOWlBkeUxraXdkdkdhY1BPLW9qc3Z6bHgtZmRLdXVaTkZmNnZrVVQzSi0xMUw5TWNOMjNUaXZ0YXJaekk5eGpMWF84dWtSQUhBYlFqSmJMUQ?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-28T13:01:25.158644Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "9692783de788c55562fdc8c9",
+      "publishedAt": "2026-10-28T09:49:50Z",
+      "title": "Enam Calon Rektor Unila Ditanya soal Tekanan Politik dan Kebebasan Berpendapat",
+      "source": "WartaLampung.id",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNdndoN2hRMmhhSnF0WEpMVUpaTENvMWR4UmRRRjJINi12eXJGdnBtOXRwQWpzWl9XUGdrdVVlZnk3WE1ySDl0aHZtSGFJN0ZFNVZibU9nWHd3R2tTNlVON3hyUEg4eDVtZ3h2TmdqNEE5U0JwTGplOXl5TlJrWl9ld2hCdW4tcy1MYUE2dEdJal80RElqT0pFYy04TUpfZV9YTHhtMm91TmcybXZxSFI4TA?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-28T13:01:25.158644Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "28f2ea535f707a3db9068b47",
+      "publishedAt": "2026-10-28T08:58:36Z",
+      "title": "Polri Jamin Kebebasan Berpendapat dan Pelayanan Humanis",
+      "source": "Lensa Hukum",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9uY0JfTkItdW9lYV9Ma3FHTGtlRndTVzNmVWZ4YjExUWNnSEtxN3ZMNC0yUjNCSEJjUG5mWFEwc3loT2VLYThWckgyYnN6SUlva2hvVnl3aWVmMzlUb2l0SExCb2YzWGRzb1E?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-28T13:01:25.158644Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "066e9d8c2be48becf07d6a87",
+      "publishedAt": "2026-10-28T08:52:35Z",
+      "title": "Polri Tegaskan Kebebasan Berpendapat Dijamin Undang-Undang",
+      "source": "Headline.co.id",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNUHhJSFJkRjRRTDBwLVZUbXh2MU9PR21fZ04yN2h0bHdGWlBES0Nhc1lTOXlHam5xbG8yWktadVViTk5qNnNmRjc3SERVV256RWhKUlpLOGhaaE11VnZ0eTMySUNyTGtSVEMyTGNpTFExUlZSakVqSTczQ3NzV3plc2Y5ZGl6OVhnZVJrcFVkRWEtRWduSXctbA?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-28T13:01:25.158644Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "2d8ff9d464064247102318cc",
+      "publishedAt": "2026-10-28T08:11:41Z",
+      "title": "MAHASISWA BERSUARA: Di Balik Seruan ‘FOMO Politik’ dalam Ruang Kebebasan Berekspresi",
+      "source": "BandungBergerak.id",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNb3NxOW1jVGUzZ0duZ2VKMkFqYlhXQVRrVVVKbzRqMGZiWUNjYTl5aDhiam5KQm05RnMwejZESEotd1FFbXhZSkx5TnUwWGVKY1V3TmlkaFBWU09Icm9KbkdnSC1NdWt3RGlIdFRWbENELTEtZGtLT0xfbVNJZy1KbF9rNVRUaFhGb1BsdTNrb08tU1ZEdTRIUTZtQkl3c2dMYmNvZTZ4TnlBdVRfRWVHY0VGTlBIb3V1MzM1ODRjUFRicDBRd1ZKUTlpcllpUlE?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-28T13:01:25.158644Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "bafea4f1cda9fb7a2baeda95",
+      "publishedAt": "2026-10-28T07:31:39Z",
+      "title": "Foto : KSP Sebut Kebebasan Berpendapat Dijamin UU, Ingatkan Aksi Harus Tetap Tertib Halaman 1",
+      "source": "Kompas.com",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOcXJYejRfNjRMVGpWeEdlelZUa3lFR1N0QWwtNjlXb2M5SXhwRjNoaHFjT044ajlhQmxyNXAwWEwyeEFzZ0l2V2dMalRUa2NKSVJTVEZPNGdmc2VnX2RRTEpsdDM4VTFNMkxhZGJyLXAyMU40Z2dIekI0eU9tZS1XSVpsSzhZd2hvQmlHZzVIeWZtNUk2OHgwbDk3QnNmUWlMWTRBZEIxV3NnUXlxR1dDZXNubjhXYUFVUENIYjVBNjNnWDZvZEhTZHMzTkZ0RTZRTXc?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-28T13:01:25.158644Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "5d5fce37851ede9cdc8e84ea",
+      "publishedAt": "2026-10-28T07:21:00Z",
+      "title": "KSP Sebut Kebebasan Berpendapat Dijamin UU, Ingatkan Aksi Harus Tetap Tertib",
+      "source": "Kompas.com",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQMXlXTHp3Q0tKVzI3cmw3OUJOXzFzQmx2NXNBdjJVX0ZBOGJQWHBQVUgwRzNFZG5UZFJCODFGTE9oRlpvd0RkWjYwcEZyUGlXUElfNUh5M0NHVEowZWN3c2dUOVVCV1Mxdl9RRVJVWmp1RThvclkzMEpVUjN1Smh4ZE5jN2dsRUJaWlJqZFlqMjNKVVc3TXFQQXZQT0NyVGNadGN2Q0xPOXB2X3RDMkpVd0R0bTdXTVFXRzdHZlRkV1Q3ZHRvNjhR?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-28T13:01:25.158644Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "b2ddf8e32cfc66f2f982dfb1",
+      "publishedAt": "2026-10-28T06:58:52Z",
+      "title": "Menjaga Waras Ruang Siber: Keseimbangan Kebebasan Berpendapat dan Persatuan",
+      "source": "Kompasiana.com",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNRTFQSkZoNjljQnBBTWhZNldMS1pFZTFoSVE4U1RUVFF2bm12S3NDaVYzaS1sbGRBOFEyX09SNFl5dWQyTURDbVduVVYxRFFkTW12NzRzWWE2WjIxU2oycF9sZ18xaml1U1NFdThLd21jSkRnbXZ5RUE4QXhtRS01OEFNeTFMSm1oVm0xUG5ZanF6UW04bGJwSFV6YXRQUm50aWJRZXlsdjdESTdyQWxkSDM5d3NaaFFWNU9sMmQxTGpHOWx3TWl0OXJPRUhCVlk3a0ROSVl4NkJVRGJo?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-28T13:01:25.158644Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "0624c17b8de38acfe8dfb29f",
+      "publishedAt": "2026-10-28T06:54:59Z",
+      "title": "Kadivhumas Polri: Kebebasan Berpendapat Dijamin Undang-Undang, Mari Jaga Keamanan Bersama",
+      "source": "Media Hub | POLRI",
+      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPaURtTklGdWh0QXFJR3lEREN3bWNQMThkN1dMS0xTUHo0SWhnNXJkTHRidU9aS2VCc3QxSnBvejFPRklXa2RRVzlEQzE2emIxdHNMTWw3aG9ucVV3azNfRmRhcWlTcUZVYnpvanVGcUJyUXhKQUdsR2tPTWZnOVViNFJESUx5d2ZFVE5MWUhTci1CckR4cVNPTDdRVFFmQWR5YWlEQmJJVnYtMFZfUUlSX256ZG42ZFZ4NVZnM3hVQUt4TEhVeWF3N2Q2bDBBZ3NGWmdySkV1YkswMFI4MmpsdlE4UVZCdng1RnN2UU5NWk8?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-28T13:01:25.158644Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "7d44f7420e4a491cabc22566",
+      "publishedAt": "2026-10-28T04:36:00Z",
+      "title": "Demo 28 Oktober dan Simbol Tiga Warna: Kebebasan Berpendapat, Solidaritas, serta Tuntutan Perubahan",
+      "source": "BatasMedia99",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxObWNPRFBPd3hGY05VY3pDT21FbXdvSHRkbzhwc1lUQ0dWV2VZc0NIZ3ROaFlXczl2Wkp6UVgxZjZMSDRmengwWXkycGotbVUzcDZ6QXpaUU9iR2hibjRxdUxTeGh3QzRTVnJURXMyOHQxSE84c3ljY0xvQ2hXakM3aVRlTS1XRl84anVwTTZrQWNYNDRjelQwNFhkQU1zdi0xTkJHUEkzWlZKU0ctZWVlc3kyNWxRR1B5NE9uUnczeGs0SEt0NHlaeGdiMlRqZF9HQWtGSk5kVmtlZTVkOTBF?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-28T13:01:25.158644Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
       "id": "233b9590654436aa642981ac",
       "publishedAt": "2026-10-28T04:24:00Z",
       "title": "BEM PM Unud Soroti Kebebasan Berpendapat dan Dampak Kebijakan terhadap Mahasiswa",
@@ -177,6 +476,29 @@
         "Kebebasan Berekspresi & Berpendapat"
       ],
       "collectedAt": "2026-10-28T05:48:01.018669Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "d2d6c8bb06321ab9359ae454",
+      "publishedAt": "2026-10-28T03:47:57Z",
+      "title": "Pakar PBB Desak Meta Jaga Kebebasan Berekspresi saat Pemilu Brasil",
+      "source": "Harianjogja.com",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPVUNISWZfRjl3R0Q0aVl1b0hZaGhONFFRNW5HdmxpN1lOYVFJR0VKTnQwaGlDOC0yQXBmYkVkb0F0Y0dRLThHREpiZmFBRVZVX3BfRXdBU0dMaE1TUk5LSVZPRV91RWdhdzFkdHpOWU5lcXVwZkFYaWFCMjBCME9PVUNtZlhYVlhGblhSQmFTWExremtWUHdHbDJ3NTB1NEpjOGF4V0JtaWJ0RVIwSlE?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-28T13:01:25.158644Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
