@@ -1,15 +1,15 @@
 {
   "meta": {
-    "generatedAt": "2026-10-27T22:18:24.954074Z",
-    "lastRunAt": "2026-10-27T22:18:24.954074Z",
+    "generatedAt": "2026-10-28T05:48:01.018669Z",
+    "lastRunAt": "2026-10-28T05:48:01.018669Z",
     "startDate": "2026-01-01",
     "refreshHours": 6,
     "mode": "incremental",
     "feedsOk": 16,
     "feedsFailed": 0,
-    "totalStored": 2681,
-    "totalPublished": 2681,
-    "newArticles": 23,
+    "totalStored": 2692,
+    "totalPublished": 2692,
+    "newArticles": 11,
     "warning": ""
   },
   "clusters": [
@@ -135,6 +135,213 @@
     }
   ],
   "articles": [
+    {
+      "id": "233b9590654436aa642981ac",
+      "publishedAt": "2026-10-28T04:24:00Z",
+      "title": "BEM PM Unud Soroti Kebebasan Berpendapat dan Dampak Kebijakan terhadap Mahasiswa",
+      "source": "RRI.co.id",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNUllyOUhKbVhpNXlKNWdWT2Fyb2FyUFBncnMzellhMzE1X0I2LWV3UFljZkV6b0daaHhSZEZQcHRMd0pBM0FkeW9DTXNqX2pvc2FrTFoyV0hKb1FZdnR3TWJoRHJSSk9vVFdvRHBFSzdWejRjQmFpRU1pTDJGcG9Udi15S1BZNTVkRFM3WEJnMC1hS1U1dlNCNzR5aWtGbUthUERrMENSSXVZbUpDYndnV1g2SzdUeUgyZ1pTWmlyZXFKdw?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-28T05:48:01.018669Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "7d3f2f03bed023a3bd14a66a",
+      "publishedAt": "2026-10-28T04:07:00Z",
+      "title": "Kadivhumas Polri: Kebebasan Berpendapat Dijamin Undang-Undang, Mari Jaga Keamanan Bersama",
+      "source": "Tribrata News",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxONGVYR0NhcExCd2R2RTNNU0lCeEp0eWVkeTRGcTJTdVRIWVotR041M2VjLWozekhIVzRSbnlEZkZKWFZxSXIxS2hHSG1uTnpUQ1pZS3J2MXNOaFU1dDVVRjA3ek90OG5Ndk5uMUNEQ1Q2MmVfMVhKc2tuMDRyQ0hBWUljY1l0ZmppRnIySFhKNXc0VVdQaV80aE5qUXQ3clZ1bFBJQUJqR181dncyeGoxVjdZdGlQVVNNSnN5ZjBuU3RtdnVrUUhiRDJxd0dhQ2RYVlo0V2hERUJSb3c3UHIzQjRn?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-28T05:48:01.018669Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "02c153addc6cf2d3e78b21b1",
+      "publishedAt": "2026-10-28T03:45:00Z",
+      "title": "ICSF Tekankan Pentingnya Tanggung Jawab dalam Kebebasan Berekspresi",
+      "source": "RRI.co.id",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNam1VMmdGRHNZZmFUUENOZmRZWXNVTXpEN21Ec0ZQUkZxc0syUDhsRF9ZVDNUakNBald4NldFWldXMWw2WV84T3ZicFJUMWRKZDZPSDIxT1hSUWRfZXZYelNUVVNMS1IzVlphTThOM0RkeGhnZXhGVm54WWZJcTREaTRibmlra1ZxSzgwcklQSHZQVFFVSlFvdnVUa2xPdlJub3ZFeA?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-28T05:48:01.018669Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "427f3d338aea67b51e69edd2",
+      "publishedAt": "2026-10-28T03:09:20Z",
+      "title": "PBB Kritik Meta atas Pembatasan Kebebasan Berekspresi di Pemilu Brasil",
+      "source": "Sumbawanews",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNNTZvekRadkk0ZWZVVms2Rk9XWkV5SFdjeTJHS2hoQ1p2Vk5IWjlpcXpxVURkUDZtdDhMTUIyOVAzaVFTQlFMbG1mbWRHS2tDbTI5TUZST2xzRXFPc00tZ29wZ2JWZWlRV0JIMGlncmFHRUFFNXdwMnpuaGdNUzVPVXVVQnB0UXI1M2s3bmdWUEh0U1RzU2lob2pkTzUyYU1qdjJrb3RTMW93ZjItZ2JWbFdra2lWVEk?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-28T05:48:01.018669Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "b78506b5ec48563badd72f90",
+      "publishedAt": "2026-10-28T02:42:27Z",
+      "title": "PBB Ingatkan Meta soal Kebebasan Berekspresi dan Integritas Pemilu di Brasil",
+      "source": "republika.co.id",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNZU4wbTN0UENlcEZUTDBfbWNiNW9PNE1KVXMzMUJlU215S1ZueDFQT0F1NVZ4SWlPa1hvdHU5ZHNzOE50VHNUNjl3TjdSMHY3dXdUUEtZaUFZcE9MU1M2ZnFra1M4dEVUUE1JRHpxOWppNEpZczZ5U1dOYkRsQUhKRGV1d29BUUtiam1jZ2ZyYzFyWVlTYWw5b0EtdTRJWC1CaURJaFQ1VDR4MVg4Y3k3UUxJbGJqTnBENWx3dW1MUQ?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-28T05:48:01.018669Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "1ce4956d1feefda3b2f4fd34",
+      "publishedAt": "2026-10-28T02:00:00Z",
+      "title": "CATATAN YLKI: Desakan Sanksi Pidana dan Upaya Pembungkaman di Balik Keracunan Massal Program Makan Gratis Sanksi Administratif Dinilai Tak Bikin Jera - Berita Senator",
+      "source": "Berita Senator",
+      "link": "https://news.google.com/rss/articles/CBMirgJBVV95cUxPUDlGdld1WFRTMHdrajRVdnJMM3lUYlFjMFAwT0p1QVliWjBfTWR0SElUbkYxVGd1RVJDODFoNkdUNXJsUF9zLS1KTFA2SjBTWDlRY3NqMmlSTHFnSHJ4TmVxRzNwU0RrV2ZUUThWcXpNUjN2UEJvcTdMekFkU0RzaXhwRlZNNXFJcFF2dmtqcXR4N0xrcUdFVDVhMjNLUmNLaXhVR3QzN2xWMldVRGtuZWJlaWczLWhoQXBfaVJIdGRWLWxmaklqVTRvU0haRkhPNWJnQjBrVHhhNVd0SnpuMG96Rmt2NE0tT2NTSWJqaEVyeDhiNEVqTVV3MzR1SlZqOVhkeFVOYkhQQlByQmtYUzNDUzhidm56Wng1MWVoMlVJOUhTUHEtT3BZUGd3UdIBswJBVV95cUxOZGN2QVVNT1Y0NkZqSTNhcjE3TTFSSjVPM3VpWVhrTVRUNFdoT0huRjFzZTFYZjlVWjJMTU5mVTJOS0E0NHNPYjI2cURyRmlzWG1DTUhsX3FuNGJBUVBMeURfY055My0xZmstOVkwa3YwY1FxRGdZNmpwSFFWOHNNYWZzOEtZQmMxdFV2T2FEZzBabFdVUlY2WEo0LThjenBvSENPajhjR1RvQVpfQW5abG5WM1JJNnd2YlhuaHJoSFVFVm82RERqYWJKLWJqWEE4UEtNQU1BWUg4QUJpQVNCRl82VzdPSTU4eHJCODlqdk1mRnN3TmlFc01MVGxwMHdMUWhNalJCd0RlTmV4X09XLWRBbE1PNFlwcms2b2lObTM0UHptSEhYUEUzWWVGUUlCS2tV?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-28T05:48:01.018669Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "0fc239c23801969e4629e4e4",
+      "publishedAt": "2026-10-28T01:53:45Z",
+      "title": "Pakar PBB desak Meta jamin kebebasan berekspresi dalam pemilu Brasil",
+      "source": "ANTARA News",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOVnBnQmxhZVM1ZDJPakptZmpMRm9xLXg0WnhFMGxqLVluRGVqaEdYZ0ItNFctcVFTRmxwWHk1RjZ0VFV5UVgyREpodFA3eWFuLW54T3E3SWlyRmJSTWpWWm5TQnFfTGNvWV9kWEsxLVJLY2FFaTNqc29xcUVpNF95RW9iQWl3dmk1TzZSY2lUbC1hWHRjd192X3lldGtiTzQzOTJpTzJCWmttbEtWOVZJ0gGyAUFVX3lxTE9DVEYyNzQtdllManlXOS1qaTNyWjdSWnhyX1RnV04zbFRlbkxfYUFhMHY4bERsWWQ3NW5MYnkwR0NmSzBDRFd2Q0xQNG41MEVHcjdqdk1BZWducEFDUU1hTXNFUWpwZHowSVd2RTZLUEhySE9KLVo1MXNKM1hJZUdFQnVpdW5KT2xvLVY0MkRDZ0tGOWdKYnhrajVZZ0gxTzZ3VlBVUWZZeWhyX2hTQnVhSUE?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-28T05:48:01.018669Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "3367cd2fecdec629f8a5e172",
+      "publishedAt": "2026-10-28T00:46:33Z",
+      "title": "Demokrasi dan Kebebasan Berpendapat Jadi Sorotan Aksi Komite Sadar di Hari Sumpah Pemuda",
+      "source": "Eranasional.com",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNTE9JZmlPRGJ1bEkwODBBckpmcFFOWUhXbmFBaktIa1Z4X0R6SXVPYXRTLTJaMmxJY0tQZVRMcC1IMUNxZDUzWHZLN1pnQm1aX095ZjMxcWcyRXBvMzhaOHpaNmo3bmRUTWllcV9qMFU2akdiUjBraUtIZndDS1FXVXNEQjdESjdKdzdNYUIwR1ZSRkZubjBMWDN0OTNkQWlEb09ndTBjLXAxcVRCeGtGdGFfeW1HUlZRUVZr?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-28T05:48:01.018669Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "af70a2bb0de6157597edebe4",
+      "publishedAt": "2026-10-28T00:31:00Z",
+      "title": "Aksi 28 Oktober di Bundaran HI: BEM UI Soroti Isu Karhutla hingga Kebebasan Berpendapat",
+      "source": "Eranasional.com",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOeE1iWXRyeE5xZ0k1WlJjSTBQZzlQbVNXRmsxOHFucVJtSVZNWU5sRHN6djFUV1ZxQmhMaDNCVTE3V2U0QzgxUW43cXg0ZHRSR0cxWEdiZmFoakNaTDd5V1BrSlBUeFdTYjJqR2hJZGJzYnVrSnpFUEtXeERSVXdhU2ZrVGhrNGt5SzFVaDlDUWdlZVp3SlNIbHlIYUtocjNTMjdudkNkTG1nd1ZJY1FiVkw1TEl3WndW?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-28T05:48:01.018669Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
     {
       "id": "fc7717a50693b66f464cbd08",
       "publishedAt": "2026-10-27T18:02:46Z",
@@ -20969,6 +21176,29 @@
         "Kebebasan Berekspresi & Berpendapat"
       ],
       "collectedAt": "2026-09-29T12:58:36.163613Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "a6f2dfc36edfaec0135a249c",
+      "publishedAt": "2026-09-28T07:00:00Z",
+      "title": "Hakim PN Rangkasbitung Vonis Dua Wanita Kasus Penistaan Agama",
+      "source": "bsinews.id",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5xSEhqVDlrNDBpZkgzLVdNRUN2TGhmWmZja1MxUVVuSDJuOXFPQndnNlJFOHM0MS1LR2lQUk5maFhzc2ZKNTJ0SmxSUDd4dkVDTEpJMVFoNG5TQzVkNmY5S1AxRHpjR1kycDQ4?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_beragama",
+      "subclusterIds": [
+        "kebebasan_beragama"
+      ],
+      "matchedQueries": [
+        "Kebebasan Beragama / Berkeyakinan (KBB)"
+      ],
+      "collectedAt": "2026-10-28T05:48:01.018669Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
@@ -47708,6 +47938,29 @@
         "Kebebasan Beragama / Berkeyakinan (KBB)"
       ],
       "collectedAt": "2026-09-05T15:17:27.933540Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "4de98cce5186135c0191eb66",
+      "publishedAt": "2026-08-13T07:00:00Z",
+      "title": "Kasus Penistaan Agama di Ancol, Wali Kota Jakut Minta Warga Jaga Keamanan",
+      "source": "Koran Jakarta ®",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQTUplaHNVbW5Md2lhRHhRclktOVFPaDlhZGRiQkRCNDVjSTM2V2tDMmNIQ1dPal9pRVpQUjllRFZPdWdTYWJNdXl2SGNzYk5SeDZ6eENkMXR1UF9EWmRFaEltUnp5cldKTkFsdEFUUDhrVHM5Qm44UXF6UDBxZjlQZDEtRF9GZ2JkSjNyOXE5eHJUdkJmOFpWcW5qQnRCTklKUHdLSHBXRi1QRUlPX3fSAbMBQVVfeXFMTlFCd25uYzJOUXdsT3pCV2xyV1JwVEEyMng5N2RNd1RYX2RjSlVVRktZMGFvZXk1SnI5Z3ZrYWpsdnpsVjVWbXMzY2VOd0ZxZmVUdWt5SldvLXBUdWFuQ2VLYVFia1BhMk1pa2NkMHphNWVuUUxqcVFpVndvbzhKUXlhZmFCVnBxWU1MR1pNdThhQWpwUUtjU1NUS0tyVmhJN2hYcXBaY0VOR2pVZ0RCdTg2VWs?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_beragama",
+      "subclusterIds": [
+        "kebebasan_beragama"
+      ],
+      "matchedQueries": [
+        "Kebebasan Beragama / Berkeyakinan (KBB)"
+      ],
+      "collectedAt": "2026-10-28T05:48:01.018669Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
