@@ -1,15 +1,15 @@
 {
   "meta": {
-    "generatedAt": "2026-10-29T13:08:52.159486Z",
-    "lastRunAt": "2026-10-29T13:08:52.159486Z",
+    "generatedAt": "2026-10-29T22:48:11.376050Z",
+    "lastRunAt": "2026-10-29T22:48:11.376050Z",
     "startDate": "2026-01-01",
     "refreshHours": 6,
     "mode": "incremental",
     "feedsOk": 16,
     "feedsFailed": 0,
-    "totalStored": 2758,
-    "totalPublished": 2758,
-    "newArticles": 10,
+    "totalStored": 2765,
+    "totalPublished": 2765,
+    "newArticles": 7,
     "warning": ""
   },
   "clusters": [
@@ -135,6 +135,121 @@
     }
   ],
   "articles": [
+    {
+      "id": "071d6170d0950ff72604a8af",
+      "publishedAt": "2026-10-29T15:20:00Z",
+      "title": "Kemenkum Siap Gratiskan Layanan Rekomendasi Pemblokiran Situs Ilegal KI",
+      "source": "RRI.co.id",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPNkV6dVRQc3BpdHhQTVVRWlBTYkhWUWlOVllfbzRpekZ3OUF6MktsWnBXTnl3bUVBdDZZMnY1cThyWHMweWlMYmFuVjBDaVQ1NjA1R3VpTnhRU3FPemc3VnN2eUhhNjM0UGtaOEtzU0c5YnFTQ0tzYkpEWkpJcm05LW5lVXV6TmdUdy1qbV9QZ3A1UmJKZjVoN09LaURNQmh2Y2J2cjEzZDAzdzZkSlpoNFI0RVlIZGI0?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "sensor_konten",
+      "subclusterIds": [
+        "sensor_konten"
+      ],
+      "matchedQueries": [
+        "Sensor Konten"
+      ],
+      "collectedAt": "2026-10-29T22:48:11.376050Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "286924238d4938796fc34e45",
+      "publishedAt": "2026-10-29T14:32:38Z",
+      "title": "Polda Malut Tegaskan Pengamanan Aksi Secara Humanis, Kebebasan Berpendapat Dilindungi",
+      "source": "Klikfakta.id",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOeGJLMEdqMWtlMk1GQ3RXeFFOMG84VW9tbEo3UXppWTl5SGk2cjg0a0RuQ0dZLURBU25zaEVsMUlFeVdmS1ZOWjlnODZma3UxbDF1Z0dSTTN1Mkc1VDFnSkxoMU9FSjJoYVV2U1JwUmN3U1dLaERaN2tJWVJlX25KRTVzSHh2MU4wRVNYTHlGclZicnUtdVZZcXB5OHpfUGYyQ2YweGNxanVRZw?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-29T22:48:11.376050Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "398b525dc3513b5ce629d232",
+      "publishedAt": "2026-10-29T14:00:00Z",
+      "title": "Bantah Kriminalisasi Aktivis, Polres Tarakan Pastikan Profesional Tangani Kasus",
+      "source": "RRI.co.id",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNOVJmZjhCckpNT1JHWi1UVmhPWHJ2b3dwWldvOE5mcnVSNlR3TlRlbTVtRXFpR25WSndyM3JrRWd6R0JQdEtPWGJDSGlLeUhCN0JOMXJNNG0yM1VCbVNJY0dZVXpkT21qbXFHdjVhVzlQX1FodWNRT1AySHZIa2s0SmM1bUtGTEs0UmtPYXZiSUdwYXN1bU9zZVV3X0RzZ1VJSWpmaTBRaG96dFJaVWpQVGdsRTVlVW5DUnp3ZmxzSHhZZw?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-29T22:48:11.376050Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "8725f4b3cc0bf644f068ce68",
+      "publishedAt": "2026-10-29T13:33:28Z",
+      "title": "Kontroversi di Server Discord \"Fyth Community\": Dugaan Doxxing Picu Protes",
+      "source": "Kompasiana.com",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPTnVOazNGMjlLZGdrTTlwWFNvT1JydVZLSG1KRzZTUUZyV25HeXVVN2FrRTM1NktSWGVTQWJabzJnanRsMEZsQjJ3Q3NDM3FRQXhuQkxUTTdjVGJjLVlQNHA0VFUtSW1lamM0WWFrZmNKdDJHeUdfNG9QSU5iRjR4ZG53X3ZBcEJUd3o5Y2VoMmluZHdqQ1BMdzZ2ODJfY29ibTVMbjZMc29sWWp6d281YkpsUUF2MWQydEQ2Y2xOdjNjYmh4ME82R0pfQVF6cHR1NGc?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "doxxing_intimidasi",
+      "subclusterIds": [
+        "doxxing_intimidasi"
+      ],
+      "matchedQueries": [
+        "Doxxing & Intimidasi"
+      ],
+      "collectedAt": "2026-10-29T22:48:11.376050Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "50e5317c2592aebe404e28a5",
+      "publishedAt": "2026-10-29T12:30:55Z",
+      "title": "LBH Jakarta Soroti Dugaan Penangkapan Massa Aksi Indonesia Sadar",
+      "source": "NU Online",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQS1FTYWphZnBWNzg0LWVndWtVN1JtSnBpczVVMi1uVHBtZlp2MlpRbXJoVWJXWE9vV2xtZFBjNUtYb3lWR1V1ZWxqNHVrbU45WmEzTk8xS0pZRHM4Vy12R0h6dEtpeEE4RWV2WDRhLWZvZmg4TWtjUUlMZFFLVlZpZnlrNDhwZE9pUHZaZ2trUXI2YXhyOWhTRjJITQ?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_berkumpul",
+      "subclusterIds": [
+        "kebebasan_berkumpul"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berkumpul / Berserikat"
+      ],
+      "collectedAt": "2026-10-29T22:48:11.376050Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
     {
       "id": "d1cbc2a152199e124567a295",
       "publishedAt": "2026-10-29T11:26:00Z",
@@ -274,6 +389,29 @@
       "reviewNote": ""
     },
     {
+      "id": "65dd42a42a0b59fd1512d442",
+      "publishedAt": "2026-10-29T07:49:13Z",
+      "title": "Tegaskan Tak Ada Kriminalisasi Aktivis, Laporan Penghinaan Pancasila dan Doxing Masih Diselidiki Profesional",
+      "source": "Tarakan TV",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQZS1ZLU1FWmo4Y1FCektCeFFEdlFpTUZkR2M5Mm5lY2FqdGFRbWdyN19icVJzWG83cDhzNFN3eXR5UGFoaE9pdzJDdURGd1EzMWR3cUFqdlhQb1VWQV9UVGdScUJMYVhPcUVldFBYUElWRWcyblNxM1NWTE1CZWctb2NaSHdnWk1tXzFieURYa0lrYmRyZkJPT3VCb1ZUbDdkVHhkSFh4V0daVUN3dERUSHBqTm9JQVdJam9wMUJZaHNzMHpZM2ozTzFHSm5fLVdzWUE?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-29T22:48:11.376050Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
       "id": "e755fb66118b231b088a1631",
       "publishedAt": "2026-10-29T06:21:00Z",
       "title": "Hak Cipta Dilindungi Seumur Hidup hingga 70 Tahun Setelah Pencipta Meninggal, Ini Cara Mencatatkan Karya - Melintas",
@@ -315,6 +453,29 @@
         "Kebebasan Beragama / Berkeyakinan (KBB)"
       ],
       "collectedAt": "2026-10-29T05:53:07.376659Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "e7c8d88ef3bfafae7c146b5f",
+      "publishedAt": "2026-10-29T04:07:37Z",
+      "title": "Komdigi Perkuat Pengawasan Konten Digital, Kebebasan Berpendapat Tetap Dilindungi",
+      "source": "beritanasionalupdate.com",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNRGhWTGtRTVNKQk1jS3pfb2oxejVPUTd5dTZ2Rko4NF9ZNVppN3lHektaeWN2QmxzYjhubmRQcU42amZYMVNOcTRneVktd2lyenFpMGIxSUZfVXZ4Nm14Zk4xbWlJT0d4Qzl1djZOd3NfdTQyWHI1WnU3UzNUVUhrd2RCdXlNTWJ0TmlzQndxWkxPWlVrN242LUNhZkdXb3hrY2dlNzlncDhIbTE5SnA4M1ZpZjJvblRhYk5MbXNaYTdnajlfZFB3bVVzcEg?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-29T22:48:11.376050Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
