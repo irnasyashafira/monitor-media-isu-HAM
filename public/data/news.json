@@ -1,15 +1,15 @@
 {
   "meta": {
-    "generatedAt": "2026-10-28T22:38:29.297421Z",
-    "lastRunAt": "2026-10-28T22:38:29.297421Z",
+    "generatedAt": "2026-10-29T05:53:07.376659Z",
+    "lastRunAt": "2026-10-29T05:53:07.376659Z",
     "startDate": "2026-01-01",
     "refreshHours": 6,
     "mode": "incremental",
     "feedsOk": 16,
     "feedsFailed": 0,
-    "totalStored": 2732,
-    "totalPublished": 2732,
-    "newArticles": 26,
+    "totalStored": 2748,
+    "totalPublished": 2748,
+    "newArticles": 16,
     "warning": ""
   },
   "clusters": [
@@ -136,6 +136,285 @@
   ],
   "articles": [
     {
+      "id": "fc2efcf01cce3ee6a0c19116",
+      "publishedAt": "2026-10-29T05:36:30Z",
+      "title": "Foto Kronologi Penangkapan Seleb TikTok di Medan, Usai Unggah Konten Diduga Penistaan Agama",
+      "source": "VIVA Medan",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQRUF2bWRWTEJGcndXRTdPYmZwaTRpbi1CYmhodmEwMXJBQ1dpQ3FyQ0hYS3hXTzV3amhJU0FTV09tUUVCQ1J6c0o5ZWplTWloUmRVN1JHcmduOEFGektjZnoxeV9Rd0otVjh6QXJJeF9NbFROLXp1dVRrMkJQM3M0U1Fma2FVYmFXVVVEYnpDSUszaE1vaFUzMkE3anU4dWp5dkpkV1ZvaHNsMzJqMzVaQXpWUWdGenNvWE1TWmpn?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_beragama",
+      "subclusterIds": [
+        "kebebasan_beragama"
+      ],
+      "matchedQueries": [
+        "Kebebasan Beragama / Berkeyakinan (KBB)"
+      ],
+      "collectedAt": "2026-10-29T05:53:07.376659Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "1233aa68f148107c98a68b5f",
+      "publishedAt": "2026-10-29T04:07:37Z",
+      "title": "Generasi Muda Hebat: Mahasiswa Jadi Garda Terdepan Penjaga Persatuan dan Inovasi Nasional",
+      "source": "beritanasionalupdate.com",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNRGhWTGtRTVNKQk1jS3pfb2oxejVPUTd5dTZ2Rko4NF9ZNVppN3lHektaeWN2QmxzYjhubmRQcU42amZYMVNOcTRneVktd2lyenFpMGIxSUZfVXZ4Nm14Zk4xbWlJT0d4Qzl1djZOd3NfdTQyWHI1WnU3UzNUVUhrd2RCdXlNTWJ0TmlzQndxWkxPWlVrN242LUNhZkdXb3hrY2dlNzlncDhIbTE5SnA4M1ZpZjJvblRhYk5MbXNaYTdnajlfZFB3bVVzcEg?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-29T05:53:07.376659Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "cd1c94d5120df72faff97ff0",
+      "publishedAt": "2026-10-29T03:55:32Z",
+      "title": "Dituding Anti-Kritik Buntut Regulasi Takedown Konten Ujaran Kebencian dalam 4 Jam, Ini Kata Komdigi!",
+      "source": "Jawa Pos",
+      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNRGpocTdwZGFuWWRjU28zd2hMY1c3RnpDcWk3VTJYT2diWlcwVWh3V09jMUFfZENnWjZ5UG43cFVMRE1TWkpzdjdZcG14YnJQSlFYMlRUMDNQTUNWS2N0cDYxbUxid1JKNE1HQ2VuZm9HX2ljYUh6SmZnSFYtVVY4UXRyWkFGbVBUWlZnR283aUNTZ19fckU3QXR6Zl9ieS04WnVhaUpxNkVRdlNrUDJMSlhhNk1rOXA1UlBGRVJNREFwbjVCZ2V2VlVHbUpoV2tLVHZGOV9HWkgzNUVlR2I5RGRfQ1RtZG4zLV8xS2ZORdIB7wFBVV95cUxNRGpocTdwZGFuWWRjU28zd2hMY1c3RnpDcWk3VTJYT2diWlcwVWh3V09jMUFfZENnWjZ5UG43cFVMRE1TWkpzdjdZcG14YnJQSlFYMlRUMDNQTUNWS2N0cDYxbUxid1JKNE1HQ2VuZm9HX2ljYUh6SmZnSFYtVVY4UXRyWkFGbVBUWlZnR283aUNTZ19fckU3QXR6Zl9ieS04WnVhaUpxNkVRdlNrUDJMSlhhNk1rOXA1UlBGRVJNREFwbjVCZ2V2VlVHbUpoV2tLVHZGOV9HWkgzNUVlR2I5RGRfQ1RtZG4zLV8xS2ZORQ?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "sensor_konten",
+      "subclusterIds": [
+        "sensor_konten"
+      ],
+      "matchedQueries": [
+        "Sensor Konten"
+      ],
+      "collectedAt": "2026-10-29T05:53:07.376659Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "7e7401b45b59e60f974476c7",
+      "publishedAt": "2026-10-29T03:30:54Z",
+      "title": "Pembungkaman Konten Aktivis yang Menyuarakan Kondisi Karhutla",
+      "source": "Mediasulsel.com",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNQlN1VEhRc1praFQ0M0VJX0U0eG1JN0tGMVhHVjh2MHUtNGVTMjFRTUxOV1JlRTVNb0NQVXlUdE1rQVBudTljaXppd1NRM05yMXdyOUxFdTliOU9UYnhXOHltbUpfNWNwMTQ1eUZvRGFQSWE1bU5OMTIxbFR2eHZJVUJKSXlqc2hvQ0ltVGtPanJVRHBB?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-29T05:53:07.376659Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "44eae1a5dd88aa25265f5252",
+      "publishedAt": "2026-10-29T03:28:00Z",
+      "title": "Aksi Demo Sumpah Pemuda di Malioboro Berujung Ricuh, Sultan HB X: Kebebasan Berpendapat Jangan Jadi Dalih Merusak",
+      "source": "news.indozone.id",
+      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNMWJVdTgtRnRqMnp2UFE0b0haMGpGekxPVWZZbUJDSXlSdzFhTl9wOVNfcmV2cnFzdlNfVDVUZXFjYWZtNVN2QlRVYWR6V3pCelY1WTJLRV9CbXJwNHNsZ2VvRHIyZGRSeml4RXpZNTVpSllhT3BDSlZoa2xXdlVBUzJJMzhHYVlKRVc1Y2xKV1l0NG9WZUtqVWZLOXBDY1pUUFpUZzNuUDlqVl9NUThiaUZtRGZFVWx4MVU0X0UwRnNJWXd2OGZmTERiV1RHUjhGSExrYTVhVlB3TTRXdktYOGxKYU9pUWxBNk0zbXV0LUdITGxxM2c?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-29T05:53:07.376659Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "1673b288b169d018b71479bc",
+      "publishedAt": "2026-10-29T03:06:00Z",
+      "title": "Pemerintah Gratiskan Pendaftaran 19 Jenis Hak Cipta",
+      "source": "RRI.co.id",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxONldDYXNSbjJEOWM3SWZ0dm9ETjdLd011cWJQRU5aNEhjTW56U3pZYVp5T1ZrV2pqYjFuRDlnUlM2aWM2UFNiV011TV9JNmVaZmNxc2xPempicWJxR3dwZ18wbThPYkhVWVgtNy1rRXFTQWRVaEVzZUZlWmswMzBQSFBhdFo0OXQzby1Wckpn?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "sensor_konten",
+      "subclusterIds": [
+        "sensor_konten"
+      ],
+      "matchedQueries": [
+        "Sensor Konten"
+      ],
+      "collectedAt": "2026-10-29T05:53:07.376659Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "0dd37dda2f7d2c8151662d79",
+      "publishedAt": "2026-10-29T03:05:06Z",
+      "title": "Polri: Kebebasan Berpendapat Harus Sejalan dengan Ketertiban",
+      "source": "BeritaSatu.com",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPendPOGFIbUlfaWdVekg5MmR6RUt5eEsySDlrX1hWUHJjMWJaUjV0NzkySmRYWnZvLWZuaGdDa3dKQ0FPYlBsLXlvWDlRUUNCaFhlS3ZJZzl1TXpGbmhlemlRaFJscG9QX0Z2eE8yRUZwNmU2U1hXMXV0QXZIVWJDa2VPMUxzVnFFLXFvLTF2QUNkZVkxOTdJeFdkdFJzWkt1Y05ZWmZ3?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-29T05:53:07.376659Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "6cf1a056ae6e32bfe0592e7d",
+      "publishedAt": "2026-10-29T02:56:19Z",
+      "title": "Komdigi Tanggapi Kritik soal Batas Waktu Takedown Konten Ujaran Kebencian",
+      "source": "faktakalbar",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQOWdCc1Jxa3VQWHRZZDFtRjVGSzZPa2thdlNiNThKZ29iNkQ2ZHozV0p3WHlOT05yejlDMGtNa3F1aWYxT3RSSFlEdlMwYzhsdDEyeFpxb09mNDJSLVJMeERZUm5JMGZlUlNZalJQeUZRRVNHOS01TmdiZGhEM3BDcWVnZ0dja3M3dDRPVHJNdGY5S3hTS3JfejVTRTRUZTItdTlucDBB?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital",
+        "sipol"
+      ],
+      "primarySubcluster": "sensor_konten",
+      "subclusterIds": [
+        "sensor_konten",
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Sensor Konten",
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-29T05:53:07.376659Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "5dc3da5a04bcba1d15acafa5",
+      "publishedAt": "2026-10-29T02:55:54Z",
+      "title": "Massa Aksi Bubar Usai Tembakan Gas Air Mata di Jalan Imam Bonjol, Kapolda Metro Turun ke Lokasi",
+      "source": "KoranIndopos.com",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOMjhRX3lrUjNrUDJtZU43ZkdaMTE1UktzUGkxN05kQUxxcDVSaWV1Znd5NGlta1U5aDkyeFJQRVZpd3pwTy1sTG5BQUFJWmV6NXVGclhxR0piYUNfNjNPM2xLQ0dHbzJCVzRPY1RPajdKSk5hOElMYTRzNTd1ZFo5RGZtNVEwVkphcUFJa20wdXBqZEtLUlBxajJ5Ujh2ZjJsdGQzVkxqYVFKa3JrakpCOGNpenJWWUVpR3ZVcw?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_berkumpul",
+      "subclusterIds": [
+        "kebebasan_berkumpul"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berkumpul / Berserikat"
+      ],
+      "collectedAt": "2026-10-29T05:53:07.376659Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "82f364a9e70833676fefb942",
+      "publishedAt": "2026-10-29T01:51:04Z",
+      "title": "Kebebasan Berpendapat Dijamin Undang-Undang, Mari Jaga Keamanan Bersama - Tribratanews Polda Metro Jaya",
+      "source": "DIVISI HUMAS POLRI",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPY1J4My00Z091T2kwTEpWclV0bEo4TUFfZGpvd2xBd25adnRkdzhKY0xGMUdzblRuS09Jc1Q3cWxBaW51VjBqNG5HY0ZPM2hxRUJIdWUtQ1FJUjNReUU5S21IcF9FQlQ2ZzlKNVlvX1BLVDIxdVJLQmZmVUIxLVR1b2NEczNVa2lESjVNX0x2blFTOFJMek10LWhtdHE5MVppdDJSOWxuN3k3MGFfM3V4VWNhN2RETmxEY3BJZ1BZS3JCcE9PWXc?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-29T05:53:07.376659Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "4af5d945fd8a38f5590198b3",
+      "publishedAt": "2026-10-29T01:35:02Z",
+      "title": "Dudung Tegaskan Kebebasan Berpendapat Tetap Harus Patuhi Hukum",
+      "source": "https://www.metapos.id/",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOOHZ4NEwxdjVQYlkzcmhCUHNWVkVWVDlXbkhGaHJpV01OcWxBc3pBU1N3N1R4dzA5c0tMUEN5QVdhMi12ZkVBZHB5VTNIcVpCRHI3NjNRc0p4RU0wR3V4M21qdG9EX252SDcwckw3aDRRZWV5VFVlbmZzWnRwMHhUZTJxcHBZQldqSEZFWENRVQ?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-29T05:53:07.376659Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "b74ab13c4bc8ad33f1b81ec3",
+      "publishedAt": "2026-10-29T01:00:00Z",
+      "title": "Mengenal The Rabat Plan of Action, Melawan Kebencian Tanpa Pembungkaman",
+      "source": "Dandapala Digital",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdEI2TFZHbW5YdFU4bDY1TjA2NlczSFFXVGtEdWZvdVRnNkluOFc0UVhKQ3RoMGJBNUY1ZUx6QnphcW5pbWNULWo1OEJ2c3EwUHRwc1VXcGpsU3VubEhrUDZOVW5tQTlPMU1qUXdreWs3cTVaTnZSSU1IVjFpS3J1blpMbnoyVW1pQ1J2YnVoLW5CSWgyU1NGZUxyTzdxa21tczBHVVhITDY?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-29T05:53:07.376659Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
       "id": "5ddb38f548244436d796c250",
       "publishedAt": "2026-10-28T22:24:25Z",
       "title": "Ritman Resmi Ditahan Polda Sumut, Viral Nantang Minta Dilaporkan Dugaan Penistaan Agama",
@@ -177,6 +456,29 @@
         "Kebebasan Berekspresi & Berpendapat"
       ],
       "collectedAt": "2026-10-28T22:38:29.297421Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "a53a9414bff558bfd4969320",
+      "publishedAt": "2026-10-28T19:07:23Z",
+      "title": "7 Langkah Hakim Bagaimana Menguji Legitimasi Pembatasan Kebebasan Berekspresi",
+      "source": "Dandapala Digital",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPMzVxYnN1ODF2UEpRYjhPVC12Y0VaeTNNMmNXQThjV2lFWm5pR1o4cDNJM1JSVVd1VVNGYWhUaVNNQVBCSzRDUHNBU09GOWhtX2dLMHF5WG9JUngtdlAtby1FWm56OHpyVWlIR0hwRmhIZ1VYTVFZRGZsZy0zNW4zejltTUtvU2Q2ZzAzUEN1TjdISkJfU3FWYy14VGFHU2FXOC1zcnhOQktPQkowMFNPeGV2X0Q?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-29T05:53:07.376659Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
@@ -343,6 +645,29 @@
       "reviewNote": ""
     },
     {
+      "id": "26f9267306cdc3491469aa75",
+      "publishedAt": "2026-10-28T13:49:00Z",
+      "title": "Polda Sumut Panggil Sejumlah Pimpinan dan Tokoh untuk Saksi Terkait Dugaan Penistaan Agama",
+      "source": "harianSIB.com",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOSXphUlRFLWRjNGhMQllpVVlWU2ZoODZQbUJ1eGZsY3ZYZkszdmRCeDN0YURtcTBEZWI1ZGMwV25XTV9TTlB4dERnQ1piYzJBOHJrNGFWV1Bac3lCUkl4MGw3aWtiMjhiZmZaaXBRcmxmVUZ1cjd6UHJLalY0dzlYcEk4WVNsNmJpM3lMamZTdlJGdnVUX2hTanNDNVI0V3o3M1ppak52dndvWVVXWUJzTXN0NUU2b2dRR3pRc3NpNlE2alpDZmlZVE1YYmpUNVdrd3RBNTc2TTHSAdgBQVVfeXFMUFpmOTM1VXQxb0x2NjNaNmhSWTVrdDNMZzRIZGRWQ2IzMk12ZjR0STYzTjhoUFJXc3FTcmIxUEpCT2lHVHY4N2hYRW5uN3E0c045Qkppc0RTSDZPNnRSRHdzS3NPc0M0WW5nNWlkbXNORUhWZmt0aWdmZ2JqR2l3UzRCLVRiNjZ5SnF2dlk3c3RJNV8tdGp6V2ZjREUtQ3JuMmlkdFZnVXRLZldUZkJrZVNNanlzYnVMMGtIZ3EwRExnODdXaVFBNTZGdURvc19iZFAzTVlUaF9I?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_beragama",
+      "subclusterIds": [
+        "kebebasan_beragama"
+      ],
+      "matchedQueries": [
+        "Kebebasan Beragama / Berkeyakinan (KBB)"
+      ],
+      "collectedAt": "2026-10-29T05:53:07.376659Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
       "id": "2b234515d55709d7e41885e2",
       "publishedAt": "2026-10-28T13:46:14Z",
       "title": "KADIV HUMAS POLRI: Kebebasan Berpendapat Dijamin Undang-Undang, Mari Jaga Keamanan Bersama",
@@ -384,6 +709,29 @@
         "Kebebasan Beragama / Berkeyakinan (KBB)"
       ],
       "collectedAt": "2026-10-28T22:38:29.297421Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "476390a2017118e5839715d6",
+      "publishedAt": "2026-10-28T12:06:00Z",
+      "title": "Polda Sumut Tetapkan Seleb Tiktok Tersangka Penistaan Agama",
+      "source": "Head Topics",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQam83YmVrYlQxbVFxSGVhZHdlWlltbnN3UTdDS29tcnZhcHdOX1U5WVcwMzlLcnF2V2x2MDBURXpJYW1sR1dDSG0yUzN0WGlJMkJ3ZWRKU2NPT2FKd2JYVW9RYVBkOWZEdVNFc0YxMlpsVEZGRU9FTGVKTkJTekYydFg5enJ6TktaQTVnR3VXZkZYRTNSdThtRGVHeDdyMDFJ?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_beragama",
+      "subclusterIds": [
+        "kebebasan_beragama"
+      ],
+      "matchedQueries": [
+        "Kebebasan Beragama / Berkeyakinan (KBB)"
+      ],
+      "collectedAt": "2026-10-29T05:53:07.376659Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
@@ -2250,6 +2598,29 @@
         "Sensor Konten"
       ],
       "collectedAt": "2026-10-26T13:10:28.531939Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "4539bacd324c8908f14e3729",
+      "publishedAt": "2026-10-26T09:36:57Z",
+      "title": "Cancel Culture di Media Sosial : Menguji Kesadaran Kemanusiaan Beradab",
+      "source": "Kompasiana.com",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOczJoMjYzaEFFOGFlQ21tb0FKX09QMmVoMnBsN2NpVGdIdDhHZC1kQWpnaUUzU2gtaVkxMVZXcVNERGJjcTQtNDBpMTQ0YVBRczU2QVdwTm14X3VCY3BPSlh3WkZrQlp6MXlwb1kzLVl5UE5OOUpaa0NnTGlSZTNhb1kwazgyS0pQZFhPeFlYOFdaYlc2WDdwVXBraGd0aDVlYS1qWjJpakoyTjVzZ2dPcjFRMWVMSGRDenhWNEZra1kzTlYtUHgxX25iWQ?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "doxxing_intimidasi",
+      "subclusterIds": [
+        "doxxing_intimidasi"
+      ],
+      "matchedQueries": [
+        "Doxxing & Intimidasi"
+      ],
+      "collectedAt": "2026-10-29T05:53:07.376659Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
