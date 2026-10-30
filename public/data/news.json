@@ -1,15 +1,15 @@
 {
   "meta": {
-    "generatedAt": "2026-10-30T13:01:37.516914Z",
-    "lastRunAt": "2026-10-30T13:01:37.516914Z",
+    "generatedAt": "2026-10-30T22:24:58.458579Z",
+    "lastRunAt": "2026-10-30T22:24:58.458579Z",
     "startDate": "2026-01-01",
     "refreshHours": 6,
     "mode": "incremental",
     "feedsOk": 16,
     "feedsFailed": 0,
-    "totalStored": 2794,
-    "totalPublished": 2794,
-    "newArticles": 13,
+    "totalStored": 2795,
+    "totalPublished": 2795,
+    "newArticles": 1,
     "warning": ""
   },
   "clusters": [
@@ -135,6 +135,29 @@
     }
   ],
   "articles": [
+    {
+      "id": "903e14b37f3aea1c6e862edb",
+      "publishedAt": "2026-10-30T14:50:00Z",
+      "title": "Wajib Tahu! 4 Kriteria Takedown Konten oleh Komdigi, Apa Saja?",
+      "source": "Herald.ID",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPd0JzNXNuS2VpalQ2OXp0TUhIeWUxdk9vc0x5U2s2ZnFoREVSTXRQenBLS29SelJNV0hHSWxDLTBMU3d2bVNZZ3NLQUl2RFpMTk9tM2hpM2QyWkNuS3RWY1U0TmlndDVkdnF5TWdMdGdGWXJFN3JPWGhWMXVXcnhyV25JQVczazh6V2ZJQUFBUWo3LUk?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "sensor_konten",
+      "subclusterIds": [
+        "sensor_konten"
+      ],
+      "matchedQueries": [
+        "Sensor Konten"
+      ],
+      "collectedAt": "2026-10-30T22:24:58.458579Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
     {
       "id": "2d709a898df86b86fceec0e1",
       "publishedAt": "2026-10-30T10:38:20Z",
