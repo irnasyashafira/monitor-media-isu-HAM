@@ -1,15 +1,15 @@
 {
   "meta": {
-    "generatedAt": "2026-10-30T05:54:48.624913Z",
-    "lastRunAt": "2026-10-30T05:54:48.624913Z",
+    "generatedAt": "2026-10-30T13:01:37.516914Z",
+    "lastRunAt": "2026-10-30T13:01:37.516914Z",
     "startDate": "2026-01-01",
     "refreshHours": 6,
     "mode": "incremental",
     "feedsOk": 16,
     "feedsFailed": 0,
-    "totalStored": 2781,
-    "totalPublished": 2781,
-    "newArticles": 16,
+    "totalStored": 2794,
+    "totalPublished": 2794,
+    "newArticles": 13,
     "warning": ""
   },
   "clusters": [
@@ -135,6 +135,190 @@
     }
   ],
   "articles": [
+    {
+      "id": "2d709a898df86b86fceec0e1",
+      "publishedAt": "2026-10-30T10:38:20Z",
+      "title": "Komdigi Jelaskan Aturan Takedown Konten dalam 4 Jam",
+      "source": "ChatNews.id",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9MWS1STEx5U3VFb1lVUFR3SXZKRmtBX21fR2Fsd2NPMWhQUGk0NDRCYWZJalV2MVRpVy1GRk83ZEZHVDRZdjlIYVlkejFtWkwyYThqekdmVXNqdUZRN1lN?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "sensor_konten",
+      "subclusterIds": [
+        "sensor_konten"
+      ],
+      "matchedQueries": [
+        "Sensor Konten"
+      ],
+      "collectedAt": "2026-10-30T13:01:37.516914Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "bb8d391769b52cae3d0fb77f",
+      "publishedAt": "2026-10-30T09:57:25Z",
+      "title": "Pembungkaman Konten Aktivis yang Menyuarakan Kondisi Karhutla Suara Kritis Dibungkam, Siapa yang Takut pada Fakta?",
+      "source": "Herald Sulsel",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQeTBic3BoVndseDJhU3hXLU51bmZGRWo3QVc0b2lzUDQxaENnMkx2bTZJcG1LRkwwWDFWRVFYNDZOcFVMMnJpdHRHcVNMRHB6SW9aZkQxaDBJbGN6elNwTlBOZWQ4ZGJ1bUV6T3VyajVnS2k1OGpDQVVwMElBdGZPMUdZRkY5aGhMYmRRT0ktemtFUHk2ejE2RFR1TEc2ZzVURGp0ajJ5bll2cHc5NTM3TG8zMW9XZ05LTXlvOTJuSllZTDlfVTBMcGFxcVJfYVU4c3dLSkROQUU3MlNfNVd1UUFhWQ?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-30T13:01:37.516914Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "b770a4c1808897a6f957abfd",
+      "publishedAt": "2026-10-30T09:48:00Z",
+      "title": "Komdigi Respons Isu Shadowban Terhadap Konten Kritik Pemerintah di Media Sosial",
+      "source": "JPNN.com",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQUW54ME1JQkFvR1pVQmhXa0pvbFJwQ2p2RHRlLU5LUnpQSmFwdWdPWExwQzRsQm5mZjFyamZyakFkQ251QTlkcEp6ejkteDFmS2diLU9FQlpJM2hvUzg0WUJoSHpuUGtPVnYzNWhBRC1VY0FHWC1mQUdUeE1sNURVUXNfRldpYV9oeXo5VDJxSGoxaWt2SkZjUm53ZzdkeDdNNjNORDcxUGrSAasBQVVfeXFMTnBZbHFHMjg2eWM3bHEydEcxM05JMzI1OGhZdWpfQm9UWklrMWNfMENoUlgxaHZST0IzVURpNXJ3RGpubkU4VUloZUppb3ZzbG9CZUp0X3VYUUp5MlZkWUF3dEhfZVphT3RIdi1qMmxNM2d4NnBwY0thMWp1UFhKeW9KYVJReC1iR2dKcG00UFdRVlFwNll5MWNqa01fME4xMmU4dlV2TlRRbFdz?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "sensor_konten",
+      "subclusterIds": [
+        "sensor_konten"
+      ],
+      "matchedQueries": [
+        "Sensor Konten"
+      ],
+      "collectedAt": "2026-10-30T13:01:37.516914Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "d0e83c474886206e8df6c8cb",
+      "publishedAt": "2026-10-30T07:21:19Z",
+      "title": "Ketika Kebebasan Berekspresi di Media Sosial Kehilangan Etika Halaman 1",
+      "source": "Kompasiana.com",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQVWdXaFVUSXhHWDJ1OGZFNEtPOG1QaVpJTU9ZZVphSHlMZllBd18xQzl2WmpkYk9pQlZsc3VCLWxfVHZqS19NR0N5d0xxMG42cmI4Vld2NW1ocDkwM1F3LXBwb1F5TUxudTFaQVktSUx0V0VCa1JqR0hmVkdDODExTVVoT25fY2t0amF3cnpDTF9JeXNwNTJMZ3VWMlJCdkl1LVFQbGZPNVBEMU5vR2VtTFdQd2hEU0RfRGFPenBlbF9BN2JqMTE0OWdSWWllcUdE?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-30T13:01:37.516914Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "a8809b9cf366cd4984f69137",
+      "publishedAt": "2026-10-30T06:43:48Z",
+      "title": "Komdigi Buka Suara soal Aturan Takedown 4 Jam, Tegaskan Bukan untuk Membungkam Kritik",
+      "source": "Radar Tuban",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOV3FhOElOV3l0a2NRUmQ5dDV3ZkNKbTNQMjEzZEJJd2gzUE1OaVBLWU5PbmRjWUhqQ2NONXZqSGJmOXFJci1tMWxFQUE1N2xPVThUTXdfNmlHcF9BbkpQRHYyallLV2l3TXNaSjlnWEVUS3VkSUk2X3dVNk80Q0tqdGdaeVZ2X2w3bTlmdENBU1BkS2pmZUZVQ29ZdnNxTFJNWFo3bGhPQl9aWTNObklHV3lZaUVfZmNGRE9GcFQzcndCS0NrX3VabTdndU1RNVpV0gHWAUFVX3lxTE5pb3JUZWR3cnQwYTZJSllUQzlJSGNtZ0p2OUoyeWthWmhYY3N4QXFacURDaXVCMWoxX3p5aENWSE1PYlNsQ0RCZlR0SjAtNlF3eHhOUUJnNzBhbkVickxHUjBCWVdwNVNobVptdHZTRkpoVUdvNENBdU1rbG5kalUzMEdudG91dkU1LW4ybEs1MURlUFdKRGVHZkNMUDVZVnNRUHhfZ2thZGtHekJCU3dzTUdTSkJ2bzFGV3pFMlFQTjdMNHJLc0sxeDFxdjQwM3RiU2VaLXc?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "sensor_konten",
+      "subclusterIds": [
+        "sensor_konten"
+      ],
+      "matchedQueries": [
+        "Sensor Konten"
+      ],
+      "collectedAt": "2026-10-30T13:01:37.516914Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "199c5d0db1e4b81d298094d2",
+      "publishedAt": "2026-10-30T06:29:00Z",
+      "title": "Aturan Takedown Konten Komdigi dalam 4 Jam: Kriteria, Mekanisme, dan Dampaknya bagi Kebebasan Pers",
+      "source": "TIMES Indonesia",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNbG44UGJ4VmM1NU1RZ1BaQjlqVmZ4cTcxS01mVXNSVGE3WWxwVG9Tb01Ndy1RdEdWbGExOEl2X1JURVJqTmFKV1dmS3dDaC1qWkp0ZFdxM2FtdEJXdkhrVWlRVHJUMTNUT0dVc2NSMy1tTDlOc18zUXA2c1pEckRRd0wzRHNSU244bXNibWVCODl2c1hQSi1KZ2NXTmp2czZsdFJLcXdMRjhQNGl5M0RwU0hsdDE1UHlFQzhKUVZZWjQ5OHg5cS1XYjFER2VZemY3LXhab1ZGNHI?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "sensor_konten",
+      "subclusterIds": [
+        "sensor_konten"
+      ],
+      "matchedQueries": [
+        "Sensor Konten"
+      ],
+      "collectedAt": "2026-10-30T13:01:37.516914Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "5eafcf1ccc79c9cdd32ae083",
+      "publishedAt": "2026-10-30T06:21:00Z",
+      "title": "10 Media Raih AMSI Awards 2026, Bukti Inovasi Media Siber Tidak Kehabisan Ide - Sukabumi Update",
+      "source": "Sukabumi Update",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPZEpZN0pyOWF0OGFnZHRsMGIzQnFLQlVQZFZoQldYR0NFdUdOXzl2S0V1ZU52WWtyMlI1WEttTkVreWlPQjFOOWlyOHlVRjg5OWNwQTF6TnhBclJSd2lnNE1EN3pSby01Q2RUQlNHTV9xYURHUE5BMGhGcVc4d250SF9peVo3Q0E5Ull1TFNDX2cxTTh2RmtQSEJIU0FjSW0zS2tsNXlsUFJYZTRXcWpwOGtNc3RzaXNKRjJrcjhkWW7SAcABQVVfeXFMTVY4ejhBbjZGMi1YdlhoU0tHdFN0N3phUkotMVJwSzdjellQQ3ctTFREUC00YWpDaW16TWJ0UkExcjlXeVZodXJ2T2dDMGhzRnRqR0pTWnFUeDg1RWt6bzI5WVZmUmZPbTRmTTgxVUdlMkdUTDJ2UlBiend3V0dhNTZxOUlXYXJaaEdMd1l5MjRPaWFfcFdMeFVPTjhJRlJJN0xrSWFkbzU2RkkyZ1dVTXhVUGxMZ3pvbUh2aVpSUzNK?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "sensor_konten",
+      "subclusterIds": [
+        "sensor_konten"
+      ],
+      "matchedQueries": [
+        "Sensor Konten"
+      ],
+      "collectedAt": "2026-10-30T13:01:37.516914Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "b38a72516c8bff9a93493fbc",
+      "publishedAt": "2026-10-30T05:39:00Z",
+      "title": "KDM Pilih e-voting, Melihat Persiapan Pilkades 240 Desa di Kabupaten Sukabumi - Sukabumi Update",
+      "source": "Sukabumi Update",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQdWd2Z1hVaVZhVWkxck9RdURFb2VzdEJWVDN3Q000c0lTMXpMVlAxakYwZ2k0OHBxNVJTckNWYXZCNW1xWGJpTW9QRDFwVHUxS1lJV2VyS1VHT3dnMHFMbE4zQ29OOG1sWGl4ZTltV1BGb1ZfQTlLb0xORTRsb2hOYTBqa1V6NUxlZXNaeUlwTFdDaV9TSkxQXzdSeFpsTVh2VU5HczVzazFES29PZHZobHo0VXpUdy10ZXNJWEcxektoQkHSAcMBQVVfeXFMUHVndmdYVWlWYVVpMXJPUXVERW9lc3RCVlQzd0NNNHNJUzF6TFZQMWpGMGdpNDhwcTVSU3JDVmF2QjVtcVhiaU1vUEQxcFR1MUtZSVdlcktVR093ZzBxTGxOM0NvTjhtbFhpeGU5bVdQRm9WX0E5S29MTkU0bG9oTmEwamtVejVMZWVzWnlJcExXQ2lfU0pMUF83UnhabE1YdlVOR3M1c2sxREtvT2R2aGx6NFV6VHctdGVzSVhHMXpLaEJB?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "sensor_konten",
+      "subclusterIds": [
+        "sensor_konten"
+      ],
+      "matchedQueries": [
+        "Sensor Konten"
+      ],
+      "collectedAt": "2026-10-30T13:01:37.516914Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
     {
       "id": "50c095eb8cbe3e92ebddcf71",
       "publishedAt": "2026-10-30T04:01:00Z",
@@ -292,6 +476,29 @@
         "Kebebasan Berekspresi & Berpendapat"
       ],
       "collectedAt": "2026-10-30T05:54:48.624913Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "ce75e087439f692e454cff96",
+      "publishedAt": "2026-10-29T18:02:46Z",
+      "title": "Samsung Solve for Tomorrow 2026: AeroSpora dan NovaSight Buktikan AI Bisa Menjawab Masalah Nyata",
+      "source": "GadgetSquad.ID",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOajJ6UkZtdlRtRm9xeUstVTl4azNSM3FIdXVyR3BJeTgtOElpSDU2c0RXYzNiczk1TVgyYklBRUt5aGtkc0JBMUhHRHJXSnVKSW5zUVBaYWVNdGJoSDF2VW5YSGJEVUJtUHFVaEdWQ3lNazBKRDZFNEh2NzdQaFJRZ1F4MjZIVmU1Y2wyMTdTejhhVFlUMUFfTC1zaWVRTUN3YmNNUFJ1UDQyeFhhc2JYdWFYeF92ZTVpdUd0WkFZNjdBdw?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "sensor_konten",
+      "subclusterIds": [
+        "sensor_konten"
+      ],
+      "matchedQueries": [
+        "Sensor Konten"
+      ],
+      "collectedAt": "2026-10-30T13:01:37.516914Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
@@ -458,6 +665,29 @@
       "reviewNote": ""
     },
     {
+      "id": "eefb90504449b57ff7398632",
+      "publishedAt": "2026-10-29T12:18:57Z",
+      "title": "TEGAS! Polri Tetapkan 20 Korporasi Tersangka Dugaan Karhutla, 4 di Antaranya Investor Asing - Gora Juara",
+      "source": "Gora Juara",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQc3UwWGxkTmIzdEdSaWM5MV80ODFFdWlUaDMyT2Jma05Zc0ZhMDBwVy1mN1IwN2lBS3lGc2ZJZ2p5cUQ5ZGZEMXJiclcyVTZvOE1VVDZDNEdNa1BDdmUwbVpDVTd3TmdZMEZYbmlyYm5hdjlkVnlpRGprN1NuZlM5dWJxbExFd2lQN2RGRFkyOWdSRk9KUUJ0VkE3X1FMZHdfZ054NTd2eW1fRkJicFIxOGpRUUhDdDdLQTdjTkRoU3ZOdldqSS1lajczUmZOWDA1V0V1YmZn0gHbAUFVX3lxTE1sdXFNdDEyOGNnMjlOQVpmR2JRSlJWcEtVZ3dMWmZvdk5Oc0owZU0wSFJ4UHBhUjB4NmhMRWhCYURqRDNjeHdydXhmWHZOMy1QdEJPWURMUVdVQVUtMmpmVFhoU1JQWHQ4N1NwSnVoUUFqaF9abXBGeDlWZEFDckxCUGZGUTVVX0kzNlNlNURrSkJOSnd4ZEw1NXdIaEJGY1Z6V3JMMWh0bkJkS3pqRFpxV0t1MWxkRnpWMGtlSEFwbTNlQjF4TTZ2dGFTd3BCOTRud2hpVnVfTnpWOA?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "sensor_konten",
+      "subclusterIds": [
+        "sensor_konten"
+      ],
+      "matchedQueries": [
+        "Sensor Konten"
+      ],
+      "collectedAt": "2026-10-30T13:01:37.516914Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
       "id": "d1cbc2a152199e124567a295",
       "publishedAt": "2026-10-29T11:26:00Z",
       "title": "Konten Ujaran Kebencian Wajib Dihapus 4 Jam, Pakar Ingatkan Risiko Langgar Kebebasan Berekspresi",
@@ -476,6 +706,29 @@
         "Kebebasan Berekspresi & Berpendapat"
       ],
       "collectedAt": "2026-10-29T13:08:52.159486Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "472fb37e5c1559c21d8afa91",
+      "publishedAt": "2026-10-29T11:18:00Z",
+      "title": "Selebgram Dea Ayu Bagikan Pembalut Gratis di Aksi Bundaran HI, Soroti Pajak Kebutuhan Perempuan",
+      "source": "Jawa Pos",
+      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQcE9ETGJ0b0pDQ0NwZ1FiM3RhaEI2ejJaSGhQUmNYVEd6VUdnUzBxT1hEbm5mUFljTHlZUmZnWUxjaU9FSHhyUm42WDBaQXRDU1BQWnpTOWV0c1l4TE12aW5CdTItVmFiZXdPWVhOamZEYXJoY0hfU2ZpamJzbkcyd25qSkVicW01c3M4bF9FVjlkcWNzV2dDR2N5UENoRmNwSmtnS29SQTFiTWFJU09pVU52eEc1dUljYk5GMnRmZnRJODNtNEFqNFNTRHlYQnh5WUd2MDY2YkpOcjJzbVlobmpTekRyUdIB6wFBVV95cUxOd21kNGU1X2pxU2dyVWo4VkJjQ2dDR1pCTGotZVBLNVJoWmhTeHpUM01HSUFEQWxpYmhuVzZYRURxYWkwYjN2NFRKS2JDLXhjLXNRSHl0Z0NGUE9JZE1UT0RCcVRSVTVHWk5qemFCcTJvTklUVkVzNzB2VFlKMGRpbFlIOVhQS0VjYktQNXdRMW11dzlqd212T0U3QnJpWWdhQzFIVGtxZWM0TG1RTk1sSnk0ZU8zVzZpdGlRSG95VV91LWFvWXczQzVlQUdsbnZkLUxoc2xfeHpoaFdIYW9SN2JkOU9fd0EtX19R?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "sensor_konten",
+      "subclusterIds": [
+        "sensor_konten"
+      ],
+      "matchedQueries": [
+        "Sensor Konten"
+      ],
+      "collectedAt": "2026-10-30T13:01:37.516914Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
@@ -604,14 +857,17 @@
       "description": "",
       "primaryCluster": "sipol",
       "clusterIds": [
-        "sipol"
+        "sipol",
+        "digital"
       ],
       "primarySubcluster": "kebebasan_ekspresi",
       "subclusterIds": [
-        "kebebasan_ekspresi"
+        "kebebasan_ekspresi",
+        "sensor_konten"
       ],
       "matchedQueries": [
-        "Kebebasan Berekspresi & Berpendapat"
+        "Kebebasan Berekspresi & Berpendapat",
+        "Sensor Konten"
       ],
       "collectedAt": "2026-10-29T13:08:52.159486Z",
       "reviewStatus": "Belum ditinjau",
@@ -729,6 +985,29 @@
         "Kebebasan Beragama / Berkeyakinan (KBB)"
       ],
       "collectedAt": "2026-10-29T05:53:07.376659Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "9c1352c1878b3f947cc0d78b",
+      "publishedAt": "2026-10-29T04:30:00Z",
+      "title": "Aturan Takedown Konten 4 Jam Disorot, Komdigi Tegaskan Bukan untuk Bungkam Kritik",
+      "source": "ifakta.co",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQTVZjbnIxR1JJczlrWGpWd2F2Q2dHbGgzcDVYMGFxSHJaRS1YME91SUs0SW1rZ1dCVEhxVnh5RnpYek81UWRNWWdyQ1ZMU2QxckhscVVQUTlITmUwU0R3OHdZdFV3RHlPNFZOVElXWEROVTQzUUdVM1l5MHBRb2E5M0F5OE9tbXhBQzJleHhQT2M?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "sensor_konten",
+      "subclusterIds": [
+        "sensor_konten"
+      ],
+      "matchedQueries": [
+        "Sensor Konten"
+      ],
+      "collectedAt": "2026-10-30T13:01:37.516914Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
@@ -2664,6 +2943,29 @@
         "Kebebasan Berekspresi & Berpendapat"
       ],
       "collectedAt": "2026-10-27T22:18:24.954074Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "f3fc58d546a04c6d85b2d9f6",
+      "publishedAt": "2026-10-27T09:30:00Z",
+      "title": "Pemerintah Tetapkan Tarif Rp0 untuk Pendaftaran Hak Cipta",
+      "source": "Enamplus",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNQThSSHdhb0VBODV6YlV2enFpRjZEdUlWRlh5MkQ3blY2bnZRVjFHWWphQnFPVG54cEZ6NndkN2d1d1RMeWFlVnFtdjZZU0F3M1duTDFid3VoSDUxTkZLYTcwblk0NlhSdTFFUWp6YldOZEN6NnM0RVRNWFl6YUlSZUtUemJXdE1kYTRoMDZtZmtlY052ZkdnWXpjcnVhNVRUdGQ0TWpR?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "sensor_konten",
+      "subclusterIds": [
+        "sensor_konten"
+      ],
+      "matchedQueries": [
+        "Sensor Konten"
+      ],
+      "collectedAt": "2026-10-30T13:01:37.516914Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
