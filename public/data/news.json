@@ -1,15 +1,15 @@
 {
   "meta": {
-    "generatedAt": "2026-10-29T22:48:11.376050Z",
-    "lastRunAt": "2026-10-29T22:48:11.376050Z",
+    "generatedAt": "2026-10-30T05:54:48.624913Z",
+    "lastRunAt": "2026-10-30T05:54:48.624913Z",
     "startDate": "2026-01-01",
     "refreshHours": 6,
     "mode": "incremental",
     "feedsOk": 16,
     "feedsFailed": 0,
-    "totalStored": 2765,
-    "totalPublished": 2765,
-    "newArticles": 7,
+    "totalStored": 2781,
+    "totalPublished": 2781,
+    "newArticles": 16,
     "warning": ""
   },
   "clusters": [
@@ -136,6 +136,190 @@
   ],
   "articles": [
     {
+      "id": "50c095eb8cbe3e92ebddcf71",
+      "publishedAt": "2026-10-30T04:01:00Z",
+      "title": "Komdigi Tegaskan Komitmen Wujudkan Ruang Digital Sehat dengan Menjaga Keseimbangan Kebebasan Berekspresi dan Perlindungan Publik",
+      "source": "Sonora.co.id",
+      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOVU5CRVhpQWhsN2dLMkRlcVYzc1FTTy1rMGFzUHhVQW0yTWJIcG1HUWN5Y1VNakxaU21xSnFWSWFpQkZGMkFyYUZDSXV1ZUZkcFlxUTlsYmZPYlI3THJTU1c2Ykx4RG9mdTFxVVhIdEdiVDJYamVEWXdEc1BYVl9jSWtOY0NFTkVTVnlfSVhxb3JoREJ0ak56cnJwRnNfdUh4X09EeEdWVElQZFRlU2hUajd1dnZ1OFJ3d3ZPWmlINzN6RTdCRGQ3SHNXMTFBWTNUTUlQMEo3VVkyX3lTS3JaeWR0MWNhS19PY1I3RGprRm9tVFJHaVBN?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-30T05:54:48.624913Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "a2cdfe44ce76c6f7c6bc36d6",
+      "publishedAt": "2026-10-30T03:58:00Z",
+      "title": "Bantah Isu BLT-DD dan PTSL, Kades Mekarsakti Sukabumi Ditawari Takedown Konten Medsos Bayar Rp3 Juta - Sukabumi Update",
+      "source": "Sukabumi Update",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOZ281MVJBMXQ3V3FUVzljY0hxNE9Xd2pvMHYwRjQ4N2FpcHdZMU4td0VIdTk1Tm9ueFQwZ0V1WjNZSjhaRXRHSHJySE5VVDVLS0pPbllGd3ZMTnJ1X1BGXzRGQzFyQnpFRU5xb0g0WHIwN0NwbGVzbUZYSGxFeEdOaXU5VHIwbl9xaDktXzg3VHpXbUlVZDVESjBHYTBRd2FMVEdPTVFlZFo5ZThfcEJYclRVTW5DRnV4b3RXLXBiZUtjMEdhWkRhdTIwM1NpTzVBQXFaVjFnRlY4U09xZE040gHfAUFVX3lxTFBfWmhQUUg4ZEJ3bkhjS2tfQ21MMXFPZ05yNTZlbVFvSExER0ZhemRZdThobDdUMFlMVndMVjRqZTNsaERXMzI1ek9HS044WThob1REcmJtVm5GeDJmTlRNaVRzbkdONDVxNDA4MzlHZEtiQ3hadGp2NEdqR29Ta0hLdk5acmgyWmtCNlV4dVNkTlRiR1JjQlVvWWZYNDdZVGNfTU8tN1NQWTl5OUp3cEJYSFlPdlRIZnRScC1ZOWRCSXZZX2VmOXV2VlcweG1QUHRDaWtHeVNCem5HclduMXc?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "sensor_konten",
+      "subclusterIds": [
+        "sensor_konten"
+      ],
+      "matchedQueries": [
+        "Sensor Konten"
+      ],
+      "collectedAt": "2026-10-30T05:54:48.624913Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "1941ccc73fdc6e117b8b14e5",
+      "publishedAt": "2026-10-30T03:23:31Z",
+      "title": "Polda Metro Jaya bebaskan 19 pendemo Bundaran HI",
+      "source": "Elshinta",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOUUppN3J5QjlIQUxidTRPdUxaUWJkTF9RY1RyWExaSm1hNVE2VzV1SkNOeDF0Z2dNTm53LTlfdXRCSEtVNk9xYUROUml6VmFLMnJDMEpjMnJRd2dXbDQwMkJtV2prMDJ1U1VuNnVWOTZUZHFqalFPaS1uZ3pMbUVRNDh6UHJOVzhtcjRIQlJaTHNEV2luRUJFdGt4Yk1tOWoxNElzQ0VVTEc4dnVJN3I5T3d1XzlYVWdRVWRBOTR3?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_berkumpul",
+      "subclusterIds": [
+        "kebebasan_berkumpul"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berkumpul / Berserikat"
+      ],
+      "collectedAt": "2026-10-30T05:54:48.624913Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "6f7fb63aa293b4da758a0955",
+      "publishedAt": "2026-10-30T02:53:00Z",
+      "title": "Viral Video Penistaan Agama Saat Live TikTok, Pensiunan Guru di Pamekasan Dilaporkan ke Polisi",
+      "source": "Kompas.com",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQNWJBYXQxQ0VGUExia3VNcHRNSHVXQ2xnckQyQzFNUV9kNE5GQl8tUmRFMmRFV2NVZTAtQ3pkNXUxVEpSb0kyWi01TnVraFRDMG5SVzJJamE1SzdpUTRqUFJkZUN6MVhoV29zS0dhZVA3Vl9nOGY4RmJCbl91SG1TZlF3ME9PQXc2V1dFMG9DMG1OUDdjWVQ0akYzYjRLTzJ6a1NseElnWmxzUXNPdG5tYkZjWUdveUF2N2ttZnNpN0g1eC1s?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_beragama",
+      "subclusterIds": [
+        "kebebasan_beragama"
+      ],
+      "matchedQueries": [
+        "Kebebasan Beragama / Berkeyakinan (KBB)"
+      ],
+      "collectedAt": "2026-10-30T05:54:48.624913Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "35ffb3f98c054aba5b40f394",
+      "publishedAt": "2026-10-30T01:49:43Z",
+      "title": "Bisa Lho Menjerat Penyebab Kebakaran Hutan dengan Pasal Penistaan Agama",
+      "source": "Mojok.co",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNN2dpdXloNFNzRXVpRjVqaUFfdl9IWWRDOU9xM2NXTllBeXljZHNsbV9kTDI3VGZBbU11NG43ZjdJYjBBdDg5YUZnenhyMVFsdlJDR3FKWGpfNV91Q21YQUtsMTU1WXBxZUdvSTBkbU9qenFIbkVxQ3VBaWhFeUFwRzBlTjFXRy1wSFlKb2hzRHlpQ0ltNDcxd2tFWFM2WjczSkk3UQ?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_beragama",
+      "subclusterIds": [
+        "kebebasan_beragama"
+      ],
+      "matchedQueries": [
+        "Kebebasan Beragama / Berkeyakinan (KBB)"
+      ],
+      "collectedAt": "2026-10-30T05:54:48.624913Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "9152bb74bcdabf9c1882c9eb",
+      "publishedAt": "2026-10-30T01:47:00Z",
+      "title": "Polda Sumut Tahan Ritman Marbun dalam Kasus Dugaan Penistaan Agama",
+      "source": "RRI.co.id",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNWXgzb2ZSQlU1djhjSnJaU09ZZjc2VDJROElXMVVQdFBiQ2d5NnpRVUJhVUQ5OE5lbGYyd0M4TVM2WjJxSFhpbGxvNGFXdEF3VlQ3SE5saklGTWlkNm5IV3o3WlVzOHRYel90djRpSTE4Q1paYzVUUUh2Zkg1R3hwMDVfMDFuV1JReGhkMmF0aWtDSTVsajBUMUdDelV2MEMtSWlDTEVuU1lSRmRqR09Vc1JvcGlHZFVN?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_beragama",
+      "subclusterIds": [
+        "kebebasan_beragama"
+      ],
+      "matchedQueries": [
+        "Kebebasan Beragama / Berkeyakinan (KBB)"
+      ],
+      "collectedAt": "2026-10-30T05:54:48.624913Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "1042098869d28cfb805d3ca5",
+      "publishedAt": "2026-10-30T00:30:02Z",
+      "title": "Demo di Medan Merdeka Selatan, Mahasiswa Trisakti Soroti Dugaan Pembungkaman Aspirasi di Media Sosial",
+      "source": "Jurnal Ngawi",
+      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPN0taSVRtemJBUTNMWk8yYnVCNEJFMnExYkk5NWlUaWtlVEdxMEZjaFM1bC1jMjN0Zm5JRHlCOFhlME95cWFiTFFqSXU2S1Q2T2J5RWpTa1I1NEpnNWtIdElXLWk5a2h0eDFkbjl5d005dWVHT2JKSF9Mcl9MRjdGenVQZ2pKZW9HMU01LS1nNDlDS0FFcFBad3FsSGZic0huWlBRTUFMeGQ1ZV9VT1o5YjBNaFViWlk4MDZONldEcHFnZlA0V3dscFhpdHBpYTIyS002TGt5UzFycDZ0OFVsYUlLMkhsYkpPXzZHdGx30gHzAUFVX3lxTFBoNG9rMTBFNFpyN2Rya1ZwX01PUjdCMTBIN2dWNC1DZzhoS2tZUFlEQzQ3RWJGakZUOGJxTzladHZvYTFja1JQYWc0eHRNR0NwTnpNcEtOa1ZKbzFMalVlWUNoYWU5MXAtOXBLdF9VNF9GamFQbXBoNVg1NDFCMmNrODNFY3hXZEI1WkN3ajI2eWNGUlV6MTgwYUFiamxxN2I1RFp0VkRiVHlaWjlLM2Y2WHAzWjViVkh1N28wNEZEOXZ0NFNuWlpPVXFOMGNxbndlbkRhQi11TklhZHRtbVRjcTdZM3ByUnRONnRIZC1Zd2RKTQ?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-30T05:54:48.624913Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "e43863820d95ff9eb7a5dcf9",
+      "publishedAt": "2026-10-29T16:36:44Z",
+      "title": "Kadivhumas Polri: Kebebasan Berpendapat Dijamin Undang-Undang, Mari Jaga Keamanan Bersama",
+      "source": "Tribratanews Polda Metro Jaya",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPd0ZEX05yOS1HdnFocmx1OTE3cGk2WXd6RzhXV1hESGJSNlQxVk52a0pjN2FxZE02WkNqRTc1bjZZdVRQSFhVU3NEVmRyV21lYWhxQWFCTzFtb29WbjZIVWZrdi1wREJnM3pKdV9uY1BlNGZTQWhFV2tXYlJ3SVBOSVlFMGt5cndiUmN1bTZqOTR1aEh6bGtDRWN2eFY2eFlmNHN3bFNKaFZVVEh2RlNqVTlKeG43YURXWGNlT1J1cFNHcmI3R1JKdw?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-30T05:54:48.624913Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
       "id": "071d6170d0950ff72604a8af",
       "publishedAt": "2026-10-29T15:20:00Z",
       "title": "Kemenkum Siap Gratiskan Layanan Rekomendasi Pemblokiran Situs Ilegal KI",
@@ -228,6 +412,29 @@
       "reviewNote": ""
     },
     {
+      "id": "1545dc80c3f35c18ed97d6bc",
+      "publishedAt": "2026-10-29T12:59:08Z",
+      "title": "VIDEO Viral Konten Kreator Medan Ditetapkan Jadi Tersangka Penistaan Agama saat Live Tiktok",
+      "source": "Serambinews.com",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQemtmSEl0YmdkOHlQM0NtRGdnV0UxaFFPLXdTWHZGSFkxakNwWHhxMXpkMDNiT1pBRDVDX19kOVZLaEctVzhmQ2ZFOXlZMms0SjAtaTNTR1kxc0tGY3Q2RjZ6VldLOHhycUpzQm9kVWhUVTV2NnF2Y2UwUUxvZUVfOXdhTjU1ZUJvdmNDSlhvWnRnS0xkcjFVZVB2Y3RRNzR1WmJjOEJZeS1BM0VNYXljenhNa04yZ0FIOHBRbEMzLVRadTAzamVPVkNiX1U3QQ?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_beragama",
+      "subclusterIds": [
+        "kebebasan_beragama"
+      ],
+      "matchedQueries": [
+        "Kebebasan Beragama / Berkeyakinan (KBB)"
+      ],
+      "collectedAt": "2026-10-30T05:54:48.624913Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
       "id": "50e5317c2592aebe404e28a5",
       "publishedAt": "2026-10-29T12:30:55Z",
       "title": "LBH Jakarta Soroti Dugaan Penangkapan Massa Aksi Indonesia Sadar",
@@ -292,6 +499,29 @@
         "Kebebasan Berekspresi & Berpendapat"
       ],
       "collectedAt": "2026-10-29T13:08:52.159486Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "ab1bdf3a0fd06a916774af02",
+      "publishedAt": "2026-10-29T10:32:00Z",
+      "title": "TikToker di Medan Ditetapkan Tersangka Kasus Penistaan Agama, Dijerat Pasal Berlapis",
+      "source": "iNews.ID",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPODN6OVNnSWxNSHlUaWU2RmhZZTZzTlNNbExyMlROekpza2NaMW5Wd1VobWhQaGlVMzBnLVJiemQwR3owZGNyTnFETEFyV1hPaEhlTjFMaHBDRnlKRmYyUVpPeEpNbjdhOHEzTmZkcUtXMWxLRFo3WXhPRU9QLS1wa3F0LUpHM0NDdUtnMGNPM2xRNlZnSGY0MHNCZnZRQjlKNnU4UDdZTzIxWGo2aTJRT3pqWG1FaDBQV0s40gHAAUFVX3lxTE84bkFxTEtEcU1SMHgwbDQyNlVqcTg1N0ZJYzBDR0picEg3U0RDeUxlT3F6Y19YdWx3TU9XUkpwcDFsTmY3MWZFVTlVZUUwOXJ4VW9CMTl3SEZXeFRnRDJDc2VvZXFONGF4MEEzb2p5ZzUxQzZReHVMTVhNVTJXTXN6RjltM0ZvSXEta0ZyVW1rNWVEV2hmb3MxUWYzc1JDWjlpSzZQRzh0Qzh0OUtQS0pCQ2dzS3RHWVBjaW5Pbkxteg?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_beragama",
+      "subclusterIds": [
+        "kebebasan_beragama"
+      ],
+      "matchedQueries": [
+        "Kebebasan Beragama / Berkeyakinan (KBB)"
+      ],
+      "collectedAt": "2026-10-30T05:54:48.624913Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
@@ -389,6 +619,29 @@
       "reviewNote": ""
     },
     {
+      "id": "13dc3fd2a8d3dfbea4e9101a",
+      "publishedAt": "2026-10-29T08:03:00Z",
+      "title": "TikToker Ritman Marbun Jadi Tersangka Dugaan Penistaan Agama, Hina Yesus saat Live",
+      "source": "REQnews.com",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPSG9PakVLZXg0djZENmYxNTN3dFF1RWgzZHhMOHV5XzZ3TERDTUFrRnJpeVFiNC1heUctSUxmbXJMN1EwV0hiM3hlaEQ0X3o5M205c1d2WkpuSl82Ums5eC13bFROMXl0ZWxYUVZmbWIyUWY1QVhKSnJyRURnTHZXOVBscklOcTMyR2RLb3lQMDZMSVhaMFhxZnJFU21FYkQzOERPdDBwOVNhYUJJdVkta09MY1pFRXppZHExamFzZw?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_beragama",
+      "subclusterIds": [
+        "kebebasan_beragama"
+      ],
+      "matchedQueries": [
+        "Kebebasan Beragama / Berkeyakinan (KBB)"
+      ],
+      "collectedAt": "2026-10-30T05:54:48.624913Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
       "id": "65dd42a42a0b59fd1512d442",
       "publishedAt": "2026-10-29T07:49:13Z",
       "title": "Tegaskan Tak Ada Kriminalisasi Aktivis, Laporan Penghinaan Pancasila dan Doxing Masih Diselidiki Profesional",
@@ -407,6 +660,29 @@
         "Kebebasan Berekspresi & Berpendapat"
       ],
       "collectedAt": "2026-10-29T22:48:11.376050Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "4fdd084841bbba6547861e18",
+      "publishedAt": "2026-10-29T06:45:10Z",
+      "title": "Nasib Konten Kreator Medan usai Hina Yesus saat Live, Ditetapkan Jadi Tersangka Penistaan Agama",
+      "source": "Tribun Video",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQRGFRRHJZbElRTW9Wb1lVVHVHaHZZQ1A1akFOZ3BZclJmQkpKaXBKdXg1Sm1ySjZWRHNMQXFQMTRXdUgxazN6ckJwdGNoeEcxMWtRYUJ2d1ZWcWpQUC1OeWVXWUUxdnBxN3Zkem1oUjBINHF0MXUzeUZwVXpfRlhFRzh3VUlpZDRFeV9wZUJOR2tjdlRaNjY5U0c0MTNpV0YyUFVKZ3BfUktkaWN2N1Y1Vnl5dWpOeDB1N2NqdnRMc1hKbWRKd3JTaThnNFphWGlw?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_beragama",
+      "subclusterIds": [
+        "kebebasan_beragama"
+      ],
+      "matchedQueries": [
+        "Kebebasan Beragama / Berkeyakinan (KBB)"
+      ],
+      "collectedAt": "2026-10-30T05:54:48.624913Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
@@ -568,6 +844,29 @@
         "Kebebasan Berekspresi & Berpendapat"
       ],
       "collectedAt": "2026-10-29T05:53:07.376659Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "c277572fc28841eccce37dbb",
+      "publishedAt": "2026-10-29T03:10:02Z",
+      "title": "Polda Sumut Tetapkan Seleb TikTok RDLG sebagai Tersangka Dugaan Penistaan Agama",
+      "source": "BeritaTKP.Com",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOYzktcEk0STdyU3FOWEptRm9pX2piMWVYSGRQc05GaWtxQ2l4NC00U2Jyb3J5RElCNklYQ2phMEs3dE02aWhuVnU1cVpzc3A4bmQxUkJSNkNXc2FvakJxQkpaTzRkVnk2V19vUnNpWEZIZHBIQ2N3VmdDZ0Z1RDZ6WjdXVFNxY0NST3VxdWlCMV9Id05JOXZwTl9IMUJQbmo1TWpobQ?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_beragama",
+      "subclusterIds": [
+        "kebebasan_beragama"
+      ],
+      "matchedQueries": [
+        "Kebebasan Beragama / Berkeyakinan (KBB)"
+      ],
+      "collectedAt": "2026-10-30T05:54:48.624913Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
@@ -801,6 +1100,29 @@
         "Kebebasan Berekspresi & Berpendapat"
       ],
       "collectedAt": "2026-10-29T05:53:07.376659Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "d5caa044a1d48e499d336c62",
+      "publishedAt": "2026-10-29T00:16:31Z",
+      "title": "Polda Sumut Tetapkan RDLG sebagai Tersangka Dugaan Penistaan Agama Lewat TikTok",
+      "source": "Tribun-medan.com",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOenRWM3FKN2JXWUdudkRrYTBma1RVa0g4M1BJNE40V1Mxb0RWcjJ2eUhjMExSOW5uU0c1OUhNNHZaTzBleW95TzJnOXBlU2d4WVI5Q0EzWFFueWRob2k0V0x0UzAxdlZ0b25CbERuV3NSQ0lKRmExaU5pVU5td2FJdzlXTTdQSzE3c2N4a1VGLXRPYzJLVnNzOWxhVm1nN1I4QzZfYXNOQnk0M282V0dmV0UtYUNDSHNna0lPaEYtY0xqVEFpVGxn?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_beragama",
+      "subclusterIds": [
+        "kebebasan_beragama"
+      ],
+      "matchedQueries": [
+        "Kebebasan Beragama / Berkeyakinan (KBB)"
+      ],
+      "collectedAt": "2026-10-30T05:54:48.624913Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
@@ -1399,6 +1721,29 @@
         "Kebebasan Berekspresi & Berpendapat"
       ],
       "collectedAt": "2026-10-28T13:01:25.158644Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "b060243c1c8220866e49eca4",
+      "publishedAt": "2026-10-28T09:15:00Z",
+      "title": "MUI Bangkalan Soroti Pria Mengaku Imam Mahdi, Diduga Ajarkan Shalat Bisa Diganti Istighfar - Poros Jakarta",
+      "source": "Poros Jakarta",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOOFl1X2FTVHd5TkxSZVBBOG1uVWl1Yll0Sk9GREtHbzZBRzRZNm1ja2dXa056b1c2NG4zNEhwWXhscU1rUDdxbElWQUN1aTFzODF2Vzd6d21HRVpNWng0RlF1ek9xdjhUMWlpTUZJMTRZbzVGdUdINnhDUVQ5NHdmWElGUjlMSHNlYVhjUThIMER3UUFOb2RUeXpYd09MVVR4cHpVaVBZWjhuQ25JWW83SzVlTkNSN0luWEktdjVlUVFERXhuSk9kMzhWRHcweW9OcUp6MdIB2gFBVV95cUxNdTRKQnA1aXdwQW53TDNJMXQ3NS1LTHJRUlBja1V5TFJtcjdPTW1QT3dmekxmQjlWb19UbDl0a19jLXp6NkUyR1ZjanJrMl9sLU1hbkpEenpDaklKcVpxOV8zM3ZFeU82SEtEWnRYQUZsNXdrZHAtWE1zWjY4c0JBY3FtXzRNcTRGT1NQTmUzdExGNWdYQnFkd3FVMVJXMTh5OUtBTnFfZEFBc0c0M2hEUG1nbDh4SVQ0RlE4Q0hVWk42N3g0ZHhZVGZ1VkotVGxITlllM2ctdl9JUQ?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_beragama",
+      "subclusterIds": [
+        "kebebasan_beragama"
+      ],
+      "matchedQueries": [
+        "Kebebasan Beragama / Berkeyakinan (KBB)"
+      ],
+      "collectedAt": "2026-10-30T05:54:48.624913Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
@@ -2483,6 +2828,29 @@
         "Kebebasan Berekspresi & Berpendapat"
       ],
       "collectedAt": "2026-10-27T22:18:24.954074Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "325ce44f2aa9812b19e2e216",
+      "publishedAt": "2026-10-27T06:21:00Z",
+      "title": "Meutya Hafid Respons soal Takedown Ratusan Konten Saat Demo Agustus 2026 - Konteks.co.id",
+      "source": "Konteks.co.id",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOQm5SWVVoMU5Zd3dtYkRUSmF5Q0VYXzdWdkJDLWlBb2lzUlN5dEdpSkdQZkVzSjlvQXRPbGZPdEdfOXdjRWpSbWhya3NDZy1odkRBT0o2SFUwZ3c2UW11SWdSMk5MeElETy1HVkN1QzNhSXlvTl9uTF90QW9yRS1LN21OT0VqeVVwZjFRYjdGbTF3aGZUU2pFZVdJNmdnQjZSU1Y0dWJzRWc2UU1ERUZZaFk2ejZESFMyMjFUYTRRY1gzQldiQXNF0gHHAUFVX3lxTE5CblJZVWgxTll3d21iRFRKYXlDRVhfN1Z2QkMtaUFvaXNSU3l0R2lKR1BmRXNKOW9BdE9sZk90R185d2NFalJtaHJrc0NnLWh2REFPSjZIVTBndzZRbXVJZ1IyTkx4SURPLUdWQ3VDM2FJeW9OX25MX3RBb3JFLUs3bU5PRWp5VXBmMVFiN0ZtMXdoZlRTakVlV0k2Z2dCNlJTVjR1YnNFZzZRTURFRlloWTZ6NkRIUzIyMVRhNFFjWDNCV2JBc0U?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "sensor_konten",
+      "subclusterIds": [
+        "sensor_konten"
+      ],
+      "matchedQueries": [
+        "Sensor Konten"
+      ],
+      "collectedAt": "2026-10-30T05:54:48.624913Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
