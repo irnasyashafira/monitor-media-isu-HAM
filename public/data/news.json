@@ -1,15 +1,15 @@
 {
   "meta": {
-    "generatedAt": "2026-10-31T05:50:58.382805Z",
-    "lastRunAt": "2026-10-31T05:50:58.382805Z",
+    "generatedAt": "2026-10-31T12:39:34.481028Z",
+    "lastRunAt": "2026-10-31T12:39:34.481028Z",
     "startDate": "2026-01-01",
     "refreshHours": 6,
     "mode": "incremental",
     "feedsOk": 16,
     "feedsFailed": 0,
-    "totalStored": 2805,
-    "totalPublished": 2805,
-    "newArticles": 10,
+    "totalStored": 2812,
+    "totalPublished": 2812,
+    "newArticles": 7,
     "warning": ""
   },
   "clusters": [
@@ -135,6 +135,167 @@
     }
   ],
   "articles": [
+    {
+      "id": "d6f8e3eb49697978e30768e6",
+      "publishedAt": "2026-10-31T12:28:40Z",
+      "title": "KPRK MUI Sulsel Tegaskan Konten Asusila Bukan Kebebasan Berekspresi",
+      "source": "MUI Sulawesi Selatan",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQY2hwNS01R0ZSdDQzdjNUZDJ3eG84YXFad1diM0dURTVhbUFlRmlhbFBVaGplaDJLbkFuM2VnekhBWjdYbzdkcmk3Q2xrYTVvekRGblk0NWFHYlNlTklueUY3aTV4Q3dCSXpVWEEzTW5VaUNrU2pxYjN2dkZJTFk0TXJKbk9FeGFLOGUwNDlYbnRnZlVWS3dF?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-31T12:39:34.481028Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "3fe2e931c9fc1430341a3d72",
+      "publishedAt": "2026-10-31T10:40:00Z",
+      "title": "Pembungkaman Konten Aktivis Yang Menyuarakan Kondisi Karhutla Halaman 1",
+      "source": "Kompasiana.com",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPeXIyWTQ0a0xEaV8xOTl5ekQzQlM5TlVGcGZma0FXWk5yNTFVeFh6VnFoQ2o1djBtOHVHdHhWYk0xY2xJOHlCdWsxN1JnV0QxYkMyaFBGZm9QamxBZnVNdmZVUUZTenkzdkc0SUkwMF9PYlZJQU9fM0hoZ1ZFSWNRa25OR1lEUi1tVmJTTVpnUktZNWJXNHdUQVNCWFRiSHdXTDdLaEx2V0hXeEdwUktZLXRER19XMzBHZ1pYLU9yZUZvUE1rbDRqVkphelM1Zw?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-31T12:39:34.481028Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "6e9a38ff3d2da61514a35f45",
+      "publishedAt": "2026-10-31T08:40:00Z",
+      "title": "Perempuan di Pamekasan Ditangkap Polisi, buntut Injak Al-Quran saat Live TikTok",
+      "source": "RRI.co.id",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPRk1jU184dEx1bGdkZ0twemtIUE85aW1iWWxGWkxUXzlBTnc5Z3Nxd1diTVlrbmVsN1c1TzlVZ19fbVk5dUVlOGVSRkl5dTllTEMwaDRlNXFodlFYMUU1TTBqWDVRYlhnUmI4VzFWbmRxVDdrbWVTYmNaTHpmczU2TXFxSXFvTXVFR3dKeGFVSFBkY2FhZlBackVzU2g0MkFXY0pHdVNhRTBhRFBNU3A2cnViQldWR0J0X0ZFLWln?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_beragama",
+      "subclusterIds": [
+        "kebebasan_beragama"
+      ],
+      "matchedQueries": [
+        "Kebebasan Beragama / Berkeyakinan (KBB)"
+      ],
+      "collectedAt": "2026-10-31T12:39:34.481028Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "c85e23a473ccc5b21827de19",
+      "publishedAt": "2026-10-31T08:17:37Z",
+      "title": "Implementasi Precision Beef Farming Halaman 1",
+      "source": "Kompasiana.com",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNU054dHpDSTJwTnc4cXZVSXMwS3BhMWthamZGb3JfTmRzaGpWX1BsYTdrU2dadGpSWEZLdGFveGNvVVBBUURhbm5kZHVYeEJpSG9pdTdhTXFlZHFIRkxqcGlFdURsWnhvLTVkLTJla1hWY3ZvcTFkS2J4cTJuRFpqRUoyQlNUSnlwbEpKS0VqSHczeDZXMy1nbS1jRjBWekVZdzljeFhvZw?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "sensor_konten",
+      "subclusterIds": [
+        "sensor_konten"
+      ],
+      "matchedQueries": [
+        "Sensor Konten"
+      ],
+      "collectedAt": "2026-10-31T12:39:34.481028Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "bf756dbf37c917fb9d24a68a",
+      "publishedAt": "2026-10-31T08:04:00Z",
+      "title": "Apa yang Membuat Seseorang Menjadi Target Doksing?",
+      "source": "IDN Times",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNa21jMmhrUW11V3RxZmVKY0FVb0tOSWFxV09QRVFOWWRhZFVkYW1HdFZNelhOZzNNOXh6dkN0dUhMdEQ2ZnExRmdaaWxaeTdnd3NsNFRSWmpDV3pKRGxRc0pjdklwOERueXlMeTRmUTN4Yzl4VkNZVDBSX1JiOGllQnZkTlBCVjJEZ0hhS19QeHpPNlhEamx5eEpVTkd4dHF1M0daUk9RQm5MQdIBrwFBVV95cUxOVnpJcEhOUkMwSVF2MFlYQ29Ga2RLeVgzajh1T3o5OTdKemgtUVBHMHA3OWFZZmg5bm5FMm9Ed3pkTTlqSExUVXhwbEhZd3VndlowNDZ3NGxfdEhTa2pSTlc2RE4wbkhmWENZV0p6eTRTY25fWVhxOHJ2NHg3Ums0SUg3aDlBVVFwb0tGdm83SUpNLTdPWVh6MmUwQzBrZmtXdTVELXFoX3ZHQ2F2V25r?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "doxxing_intimidasi",
+      "subclusterIds": [
+        "doxxing_intimidasi"
+      ],
+      "matchedQueries": [
+        "Doxxing & Intimidasi"
+      ],
+      "collectedAt": "2026-10-31T12:39:34.481028Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "49aebab23f39cba12132b8a4",
+      "publishedAt": "2026-10-31T07:51:07Z",
+      "title": "Polres Pamekasan Tetapkan Perempuan 62 Tahun sebagai Tersangka Dugaan Penistaan Agama",
+      "source": "Suara Indonesia News",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxObWE1T1FnRkZ4UC1rQ09YckdFVjlPeUNkQW5WRkNDS2lmSENJelRhQlRET25TajNuTHZyVVg1d0djUnhXYlpucmR2bGRJdGRrUmFwT21XS2ZiZjlRNlZNdkNxR3FuWTh3SkVfZXItZ1lSZjJ3XzVUNnBIc0Rpb0x3S0ZBTnpPTlF0STVxb1VDZHljaTJzcjhhQ29CRmU4TVN3LUJvWGJKYjJCRUY3djJwQTUtSS01WEtob2c?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_beragama",
+      "subclusterIds": [
+        "kebebasan_beragama"
+      ],
+      "matchedQueries": [
+        "Kebebasan Beragama / Berkeyakinan (KBB)"
+      ],
+      "collectedAt": "2026-10-31T12:39:34.481028Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "5fd0fdcef9ae309c5c4cdde3",
+      "publishedAt": "2026-10-31T06:04:00Z",
+      "title": "Polda Sumut Tahan Ritman Marbun dalam Kasus Dugaan Penistaan Agama",
+      "source": "Tribrata News",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQRV9CRkR0Wi1zVGlFb3VWQjZSUFc2cFBjU2tBbkxWbXlpYWdMQkt4UVJqanZ1WVBUY2laeW5UdEw0WDZxYnQybUtWWDAzejlYbGR2aHBBbjdUSFN3MkcyRW40QzZsVnpkcVhuQmNwX0EwV3JCQTh5ckdKVlBNbXl2OEVmZk1wLTNOMHkwbFlzakFNMzJuY1pkTzdyZkhtMEFjSHdxek1oWEY2WHhKMnVJNi1IUmVUNHhiZml3Y2EwTnF6UQ?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_beragama",
+      "subclusterIds": [
+        "kebebasan_beragama"
+      ],
+      "matchedQueries": [
+        "Kebebasan Beragama / Berkeyakinan (KBB)"
+      ],
+      "collectedAt": "2026-10-31T12:39:34.481028Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
     {
       "id": "e802eddc13cc19bbb61fbd6d",
       "publishedAt": "2026-10-31T05:16:09Z",
