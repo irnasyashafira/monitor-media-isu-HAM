@@ -1,15 +1,15 @@
 {
   "meta": {
-    "generatedAt": "2026-10-31T12:39:34.481028Z",
-    "lastRunAt": "2026-10-31T12:39:34.481028Z",
+    "generatedAt": "2026-10-31T21:39:45.079048Z",
+    "lastRunAt": "2026-10-31T21:39:45.079048Z",
     "startDate": "2026-01-01",
     "refreshHours": 6,
     "mode": "incremental",
     "feedsOk": 16,
     "feedsFailed": 0,
-    "totalStored": 2812,
-    "totalPublished": 2812,
-    "newArticles": 7,
+    "totalStored": 2815,
+    "totalPublished": 2815,
+    "newArticles": 3,
     "warning": ""
   },
   "clusters": [
@@ -136,6 +136,52 @@
   ],
   "articles": [
     {
+      "id": "0ae9f8f533540da4ee2c7c70",
+      "publishedAt": "2026-10-31T19:10:45Z",
+      "title": "Bentrok Pendemo dengan Polisi di Paris, Gas Air Mata Ditembakkan",
+      "source": "detikNews",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQQi1ZZUFLTWljbW43S3FkMVhxenoyd1RxM1V1QWdDaFZFYmh2OUFWOFZiSTF4ZkQ4YlB1YkhpZ0w2dHhWMWtOVTU1MVNEQkQxM0dTaEQ5VWl2VzlfeFQxRWNGRXRRTnN3b2tqVUtoYlVmdUZsTWF0aDVqU3JyN1ozNkJZRzVXY1lRYk9LWXVtUFF0dW1QMkg3am9idGtQUFVLb3FIcGFwSFRSYnlFWVdlQzg1ZDTSAbQBQVVfeXFMUEItWWVBS01pY21uN0txZDFYcXp6MndUcTNVdUFnQ2hWRWJodjlBVjhWYkkxeGZEOGJQdWJIaWdMNnR4VjFrTlU1NTFTREJEMTNHU2hEOVVpdlc5X3hUMUVjRkV0UU5zd29ralVLaGJVZnVGbE1hdGg1alNycjdaMzZCWUc1V2NZUWJPS1l1bVBRdHVtUDJIN2pvYnRrUFBVS29xSHBhcEhUUmJ5RVlXZUM4NWQ0?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_berkumpul",
+      "subclusterIds": [
+        "kebebasan_berkumpul"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berkumpul / Berserikat"
+      ],
+      "collectedAt": "2026-10-31T21:39:45.079048Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "8083897e70fe184479dacc50",
+      "publishedAt": "2026-10-31T16:21:54Z",
+      "title": "Polda Sumut Menahan Kreator TikTok dalam Kasus Penistaan Agama",
+      "source": "شبكة تواصل الإخبارية",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE41U0RSY2dfRUtKYXZza0RuM0FvbHNhbE5rX1AxU2hXd3VaTE1lVVFMRi01SUloYXROeXkwaFlBT1dmamI3VTZjakRsT3p3dWZaM0F3?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_beragama",
+      "subclusterIds": [
+        "kebebasan_beragama"
+      ],
+      "matchedQueries": [
+        "Kebebasan Beragama / Berkeyakinan (KBB)"
+      ],
+      "collectedAt": "2026-10-31T21:39:45.079048Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
       "id": "d6f8e3eb49697978e30768e6",
       "publishedAt": "2026-10-31T12:28:40Z",
       "title": "KPRK MUI Sulsel Tegaskan Konten Asusila Bukan Kebebasan Berekspresi",
@@ -177,6 +223,29 @@
         "Kebebasan Berekspresi & Berpendapat"
       ],
       "collectedAt": "2026-10-31T12:39:34.481028Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "02a2a358a4d6e2b0d614f377",
+      "publishedAt": "2026-10-31T10:00:00Z",
+      "title": "Perdebatan Busana Panggung Sakura LE SSERAFIM: Gelombang Dukungan Penggemar atas Kebebasan Berekspresi - Berita Senator",
+      "source": "Berita Senator",
+      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOdXQycnhDQmhUeWFOcWxadXVnSmw1OWswVy1meUFkbGs2TUJjTDJGU0lOZDJvZElwTks0Wk9KdEpZMlRMYnA4ZGNEVy1nbUdMUzJWRHJadFIzWk5laTYxMXdTWVYtQTJsOGQ2VzliZUZNUlJ2MDctTVdFYl9DazdUbnowX1JSd3ZJcjJjOHFmenBZX2ZXTEJIa1R6STdHejgwWVpnTWRxeGc3Y1N4aU9NY2FxTEdjSW5fTVNWSTFxczF3b1JCbG91aExJOEVURmd2NEhpRE82V3R2M3R6OVpNR3I0aVJFRkFQTDktbDNWb2JDcDTSAfMBQVVfeXFMTnV0MnJ4Q0JoVHlhTnFsWnV1Z0psNTlrMFctZnlBZGxrNk1CY0wyRlNJTmQyb2RJcE5LNFpPSnRKWTJUTGJwOGRjRFctZ21HTFMyVkRyWnRSM1pOZWk2MTF3U1lWLUEybDhkNlc5YmVGTVJSdjA3LU1XRWJfQ2s3VG56MF9SUnd2SXIyYzhxZnpwWV9mV0xCSGtUekk3R3o4MFlaZ01kcXhnN2NTeGlPTWNhcUxHY0luX01TVkkxcXMxd29SQmxvdWhMSThFVEZndjRIaURPNld0djN0ejlaTUdyNGlSRUZBUEw5LWwzVm9iQ3A0?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-10-31T21:39:45.079048Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
