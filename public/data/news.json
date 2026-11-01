@@ -1,15 +1,15 @@
 {
   "meta": {
-    "generatedAt": "2026-11-01T13:35:29.803163Z",
-    "lastRunAt": "2026-11-01T13:35:29.803163Z",
+    "generatedAt": "2026-11-01T22:05:52.436785Z",
+    "lastRunAt": "2026-11-01T22:05:52.436785Z",
     "startDate": "2026-01-01",
     "refreshHours": 6,
     "mode": "incremental",
     "feedsOk": 32,
     "feedsFailed": 0,
-    "totalStored": 2879,
-    "totalPublished": 2879,
-    "newArticles": 37,
+    "totalStored": 2885,
+    "totalPublished": 2885,
+    "newArticles": 6,
     "warning": ""
   },
   "clusters": [
@@ -135,6 +135,29 @@
     }
   ],
   "articles": [
+    {
+      "id": "a1d02e7663caac6060835417",
+      "publishedAt": "2026-11-01T12:03:00Z",
+      "title": "Tuntutan yang Disuarakan Mahasiswa: Karhutla, Kebijakan Ekonomi hingga Biaya Pendidikan",
+      "source": "Kompas.tv",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOVjQzdXpXbllPYkxGMENOclBTRWMyTENWRHZKdW9ic1g3Q2hoaUdLejhfc1BUcGVXUXBpQWV5M05Nb0F3TXZ3UUhrbU9lZEo1RHlnLVY2T1NFOEswWjllMjB0Sm9rVDRGV1dqanBVWUZnSi02N1Q3bkh1Q3Vlekd0UWFFRGFDZU50WFA3S2FCVEtHU2FLRFNXZ3N4M2xySF84UVJlM0k5TUZRY3NNWHpaRnU0SVNsTHhTRUhXYnpjLWxqbFJiNnfSAcYBQVVfeXFMTlY0M3V6V25ZT2JMRjBDTnJQU0VjMkxDVkR2SnVvYnNYN0NoaGlHS3o4X3NQVHBlV1FwaUFleTNOTW9Bd012d1FIa21PZWRKNUR5Zy1WNk9TRThLMFo5ZTIwdEpva1Q0RldXampwVVlGZ0otNjdUN25IdUN1ZXpHdFFhRURhQ2VOdFhQN0thQlRLR1NhS0RTV2dzeDNsckhfOFFSZTNJOU1GUWNzTVh6WkZ1NElTbEx4U0VIV2J6Yy1samxSYjZ3?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-11-01T22:05:52.436785Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
     {
       "id": "91c2f7ca3f66cce815f5cd0c",
       "publishedAt": "2026-11-01T11:37:11Z",
@@ -315,6 +338,75 @@
         "Doxxing & Intimidasi"
       ],
       "collectedAt": "2026-11-01T13:35:29.803163Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "a25e4213e5674f556f10062c",
+      "publishedAt": "2026-11-01T09:15:58Z",
+      "title": "Dugaan Penistaan Agama di TikTok, Polda Sumut Tahan Kreator Konten RDLG",
+      "source": "Strategi News",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNSjBzYnlRWlpWcXlYc2JUXzNIQjdKSnd5azVDQjVldk81T3B3S0lTNGpWd2l6ZnFIMEppQXdmLXJoMmNEa3ItRkc1SnlPaFVOMFJxOGhaVGlzSnVfOHR3VGV4MWZqQ21WNTA3dE1FTElJSnBxaTlZX2UxZWltT2pIN3QzVmxCd0JITWZ2TGo5WFpIZjFUbk92Rk1jNVpSeXBhd2FTLVlSMmhiUQ?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_beragama",
+      "subclusterIds": [
+        "kebebasan_beragama"
+      ],
+      "matchedQueries": [
+        "Kebebasan Beragama / Berkeyakinan (KBB)"
+      ],
+      "collectedAt": "2026-11-01T22:05:52.436785Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "07d1d938baa173f1c322eb73",
+      "publishedAt": "2026-11-01T09:09:46Z",
+      "title": "Lestari Moerdijat Soroti Pentingnya Literasi Digital Sejak Dini, Ini Tujuannya",
+      "source": "Medcom.id",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQazFUNlBFczdGU2ZFdjhSR3V5X3lnTHFlRmE0M2YzU09xZVRBLTRPUkdxV3UtZEdhWkRidzFmZzFzbzFhWW40dE15ZVA5bk1JWTlrSXVINnZiaHZnc0Q5aWVkeFdOd2Q1OE9vVDVOVjRzbENhUklwd3N2aXd4VTZ6OVRTYlVGVEZuUllKTXA0cVNYWVE2d0oxLXhiTmhsMlhmNlRtZ0RkZFMyMUo5Q3J3UWFYekZVT1BBV0trV09iRWtTVGFTTXc?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-11-01T22:05:52.436785Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "76490a8b11254ae2a8997088",
+      "publishedAt": "2026-11-01T09:09:14Z",
+      "title": "Jempol Tanpa Kendali, Etika yang Terkubur: Refleksi Cyberbullying Dalam Kasus Fufufafa di Kaskus",
+      "source": "Obor Rakyat",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPRk9WLUxoM0lIcU5oSFh1ZHJtaW9iZDlGYTZvNTVnOTJ3djF6UFpmSmI1bGV3RVpaT19mNzFFYy1aX1gzZlhSNDlSanRFQzRfd1I4QmZQYllqcXZod3hfTXRHLXpFRnZSMFdBeHFPTnBOcVZhaWh4ejB0RVhoNVBuRTJvbnd0bFM5YUhyclhaQWxLT0Y1N3M2dTZod2hKdFA5VGU0U1U5TUtZV0c1ZVJjdjJWQVl4R1RldkpIaHdUdmJqTjBaS2JvRGFMdw?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-11-01T22:05:52.436785Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
@@ -1350,6 +1442,29 @@
         "Kebebasan Berkumpul / Berserikat"
       ],
       "collectedAt": "2026-10-31T05:50:58.382805Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "87d2b040872027941045854a",
+      "publishedAt": "2026-10-31T04:23:04Z",
+      "title": "Demokrasi Diuji, Hukum Dipertaruhkan Halaman 1",
+      "source": "Kompasiana.com",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQVzBHLXo3N2lENmZsMmZuM0ZCTjd6WlBFcURlcUhDOU8zLS1wRHAwYkNMZlBMeF8tdVBmRVRCS2w2bkdCRTdHbWV6eVBQNWx3MTFUd3ViWkZ4Y3R4OTd6ZXZ1V1Jxb2hESFJKTjU0X2lWMmE2WlQxZkJKMC1saU9acVNZTlN0SXFlalQtUUdFbzVXNFlncXZ2NDhWbkhXc2d5WDRITXhIQTZ0Zw?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-11-01T22:05:52.436785Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
@@ -3431,6 +3546,29 @@
         "Kebebasan Beragama / Berkeyakinan (KBB)"
       ],
       "collectedAt": "2026-10-28T22:38:29.297421Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "8c475c4e044609b9e2580bc2",
+      "publishedAt": "2026-10-28T14:36:08Z",
+      "title": "Polda Sumut Tetapkan RDLG sebagai Tersangka Dugaan Penistaan Agama Lewat TikTok",
+      "source": "RADARMEDAN.COM",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQWjFPMUkwMEFycVNmeHZydEJjT3ZnSWpadzdTdXJkNVUtMkpZQ2RSTS1iN0Fzay1FV082ZEZDbFdxSXNRbjVNYkpFY2l4Q0dUNkpiem5zWmlyQ1hqM2ctZUJQM3RKLW5pRFJ2NlBwTEVucklFZkZyX2V0Zmh6NkNjcklJNVZ4ODZhOFNaM2h1aUtUdXF5QU1SM3hCSnhlelJDdGZaOA?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_beragama",
+      "subclusterIds": [
+        "kebebasan_beragama"
+      ],
+      "matchedQueries": [
+        "Kebebasan Beragama / Berkeyakinan (KBB)"
+      ],
+      "collectedAt": "2026-11-01T22:05:52.436785Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
