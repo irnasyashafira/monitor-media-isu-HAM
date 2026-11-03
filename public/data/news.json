@@ -1,14 +1,14 @@
 {
   "meta": {
-    "generatedAt": "2026-11-03T01:01:51.386889Z",
-    "lastRunAt": "2026-11-03T01:01:51.386889Z",
+    "generatedAt": "2026-11-03T14:23:11.724117Z",
+    "lastRunAt": "2026-11-03T14:23:11.724117Z",
     "startDate": "2026-01-01",
     "refreshHours": 6,
     "mode": "incremental",
-    "feedsOk": 32,
+    "feedsOk": 16,
     "feedsFailed": 0,
-    "totalStored": 2930,
-    "totalPublished": 2930,
+    "totalStored": 2946,
+    "totalPublished": 2946,
     "newArticles": 16,
     "warning": ""
   },
@@ -135,6 +135,328 @@
     }
   ],
   "articles": [
+    {
+      "id": "c2b1a99c5997310246a8eb94",
+      "publishedAt": "2026-11-03T12:45:50Z",
+      "title": "Komdigi Bantah Takedown Konten Banjir Aceh",
+      "source": "detikInet",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxORGdQSE9YbFNNZDFXYUU5aHAyWGxwTlU4N2w3Z2JZRERmUFljNWtBd2FEcUlyUjRBWlctVm9oQWQ2ZFJ2cFVoWTUtSDdRQUtSM3RhaVVZUmVFZFIxOUk1Z0d4bXFOdWJuRTlnZnFNRk52Q3dabmJKZ0daZDZJN2NSd2V5bVNSZDE5ajYzdV8yZUhGMXNFQXVoRlJn0gGaAUFVX3lxTE5EZ1BIT1hsU01kMVdhRTlocDJYbHBOVTg3bDdnYllERGZQWWM1a0F3YURxSXJSNEFaVy1Wb2hBZDZkUnZwVWhZNS1IN1FBS1IzdGFpVVlSZUVkUjE5STVnR3htcU51Ym5FOWdmcU1GTnZDd1puYkpnR1pkNkk3Y1J3ZXltU1JkMTlqNjN1XzJlSEYxc0VBdWhGUmc?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "sensor_konten",
+      "subclusterIds": [
+        "sensor_konten"
+      ],
+      "matchedQueries": [
+        "Sensor Konten"
+      ],
+      "collectedAt": "2026-11-03T14:23:11.724117Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "2d6358c77cf4c31caa375261",
+      "publishedAt": "2026-11-03T11:43:00Z",
+      "title": "Untuk Hasil Yang Lebih Maksimal, Petani dan Pembudidaya Konvensional di Lamongan Beralih ke AIoT",
+      "source": "surabayapagi.com",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOb0Fjc05UZ0V2WVRfSm1yOWdkQm5aMGg5bDVoc1M4OENyMlVyWkhrVFBKbFdsNHIxdENHemdyOXBoT1VQajZoZXhhX25uN3NEa3V5eVpaZVF6R09SbUlWb1FoUHFIc1pFRERWSUlJbzZvS2Y5NjhJbE1tUlYzNHFhMTd4SllKRkxsci1JcnkyN0NZWnZxS1Y2aFVaSFZMNU9KTkVsS1dDYWlRb2t1TzAtcHVCWG5hemlpM3RMRk1TeHdBVVJXQ1pKZ250ajLSAdIBQVVfeXFMT01WeG11SkRzVld6UkVjUkluVDdRcGhzaG05SDZ5T3lLOG5Ua1VTMEFJSFQyOFVpOXY3YW1Id1NxbFF5TktJOVBWOG1ITmJBTzR2UUFnR3ZPNDczQzdRa2ZVa3A2MzRNekF4N2pZdkJ5cTR2c1JVUE5UbVk5NjJYOWw0bE5SZTlTOENmMkVSdWxfZWxzMldDQXdWaG12c0JhSURtbnIzcXlSN0dYYngyVVhPdU5IdjN5MFg4Y0x2QnFocFBQYUp1TUpPMmlTT2NyQXlB?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "sensor_konten",
+      "subclusterIds": [
+        "sensor_konten"
+      ],
+      "matchedQueries": [
+        "Sensor Konten"
+      ],
+      "collectedAt": "2026-11-03T14:23:11.724117Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "b9db578491d9a1b9d1d4f992",
+      "publishedAt": "2026-11-03T10:45:41Z",
+      "title": "Isu Penyadapan Pejabat Negara Memanas, Pengamat Desak Kapolri Buka Identitas Sang Jenderal - Paradigma",
+      "source": "Paradigma",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPTFJ0ajJfZm9kZnRHdjgxVHl6SmdvQXlsUW9GLVkxbllyRzEtX3pIVG5rYzhlM1R6Nm5sMURoendtN0tnZWdBMHIwOXFVS3RQODBjRmItR1BYV3JIZTZyY3J4N3hUMS1kX19Jb09TcE9pM3hUYjQyaVVFd0t0N29TWU9wTGVJSTYtZENZSHZIRGdVbUNUN1lWeUdlUk9Wek96cUlGU05fRGI1UTk1Q3ZWVEd3VC1RY0M5ZzE2WXluTDdrbFE5eWtQcXRkaElOMTh4NEVZ0gHYAUFVX3lxTE9ZYkV1dERzanRDQ1dvb0ZOaE01YmFoZzg4aWtDaTNzN2txNWJYbndzdVVObE1BODZHSmk3YnZoS1pSejczdHVVVm5PQkxSaGZLd3pfSXZEbmE0Rm9XT3VVYnU2NG1RTXYzRF85bWk1MVoyc2dOYmNLdVUtUGhIVkNmS2hFa244cWVtUEJ3aXU0U0g4cEZfR2poS1h5MThWWVhKdmZCbXhNbGJ4UEk4UFpxbmVDcGF1LWFoclpweWZ6eEVZODNONVdaMGFIUl9MQzQ2RGhXaTExaw?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_berkumpul",
+      "subclusterIds": [
+        "kebebasan_berkumpul"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berkumpul / Berserikat"
+      ],
+      "collectedAt": "2026-11-03T14:23:11.724117Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "4cc346c17c7b8164520bff61",
+      "publishedAt": "2026-11-03T09:47:00Z",
+      "title": "Diduga Minta Rp 2,5 Juta Takedown Konten, Admin Medsos Ponorogo Jadi Tersangka",
+      "source": "Jatimnesia.com",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQM2VhTEt3d1hMSE83VW5KWk9hcmJPb1paR0M2OWluNzF5VHNnYXg3RHNHbnVMMnVta1NER3Izd2hJV1JoLXVLYVd5LTBWcXU2cWRNY3pHcHg5bWh4YlcyMGNUWlE0dFFRdWEzWi1Sb1BvWlB2X0hENWhlQXZQWmZJUnd3Vnh6MEZmV2NMd3liNVlMSzQwT05UMGtlLWdxRUIyZGc?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "sensor_konten",
+      "subclusterIds": [
+        "sensor_konten"
+      ],
+      "matchedQueries": [
+        "Sensor Konten"
+      ],
+      "collectedAt": "2026-11-03T14:23:11.724117Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "e97ac65001a5b530e369d23f",
+      "publishedAt": "2026-11-03T08:01:00Z",
+      "title": "Mbappe Menghina Mao Zedong Bukan Kebebasan Berekspresi: China Langsung Blackout La Liga!",
+      "source": "Pikiran-Rakyat.com",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPWTM1bE5NRkhJZ0k0SldlYVZUZjZNOWh5ZnU3WnFCQVNzRmMzc19IVGNJYWc5QTkwMnkyNlJGaXNaekZkeXpjSTBfc1pYdHFOVkYxdWxOdGFqdVVqZGZBWmFnN3BDUE5oLXJVNGNnUFo3bDNIZ1lPSHhaVE1lUU9TaTByVEdLR1dVeGFrOEdQM3ZQMDZ1bzFEeVJkM21kTnptMnpnMWV5ZXZ5WmgzN0xoaEpxcEFSb3RwUW9yaUhuSTlzTkd4X3hmOWF1V1ItVDdNbmxWOUhLY05BMXphMnfSAeMBQVVfeXFMTWE3Um9vTTY3cGltSDBMZks5OXFSdE5pcjZOYnlmd1FWQ20zSVRXOVBObU95b08xVWRoLXNsdjJJYXo5djk3a0hZRXh6RG9Ta2p2NzJ6VjMxcFpHVEM5bTA2NjQzWkhfcnpkekZCejdfTzRrZ0daZE85Q1RiTlp4bG9icFJzVTNOM1gxZ090R1R5b1FJVEcxTmJDTG5ldDR4YndaTHZZYzRiVmdBalV3NF9SZTJwbFd0YlVuTUs5WUtQcnB6cHJsLV9MeGlVcWh4dFBqOXdPWWQ1TFBYdXVSdFNFcmc?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-11-03T14:23:11.724117Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "a66ba17c0377dc8327b0775c",
+      "publishedAt": "2026-11-03T07:15:00Z",
+      "title": "Komdigi Beri Penegasan Tentang Kepmen 127 dan 128, Kebebasan Berpendapat Semakin Terbatas? - Harian Haluan",
+      "source": "Harian Haluan",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOYmlNeV9EV1pFMG1NckJYeWlWM3hldTBaRjhGbzlTOHBxdUFBUEYydWlJXzF6c29qUV91SXN3TWtsb2FweGdSNm5ZSjFOYXpBdFE4VWh3TFljLUNoSHZueXJUMFhTYm5sMk5jQlh2OVR4YmZYX0F1N0tFR01PWVk5Y1Awa253R09YR0tnN2xRQnNTUGtKaTIxaGw1TjVYT1E2d08xaEV0eE9pM3I4VFRMa2RETXFwMm5Fa29DS010NXh5cnB5WkhjejRFakxxXzZyNExj0gHTAUFVX3lxTE5iaU15X0RXWkUwbU1yQlh5aVYzeGV1MFpGOEZvOVM4cHF1QUFQRjJ1aUlfMXpzb2pRX3VJc3dNa2xvYXB4Z1I2bllKMU5hekF0UThVaHdMWWMtQ2hIdm55clQwWFNibmwyTmNCWHY5VHhiZlhfQXU3S0VHTU9ZWTljUDBrbndHT1hHS2c3bFFCc1NQa0ppMjFobDVONVhPUTZ3TzFoRXR4T2kzcjhUVExrZERNcXAybkVrb0NLTXQ1eHlycHlaSGN6NEVqTHFfNnI0TGM?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-11-03T14:23:11.724117Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "03990b2ecf634050a4f265f5",
+      "publishedAt": "2026-11-03T06:45:00Z",
+      "title": "Pembungkaman Konten Aktivis yang Menyuarakan Kondisi Karhutla",
+      "source": "Radar Aceh",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE0zZDBGNUZQcWlSVHgyazNoUGg3OEpMeVJ6LXVTcDZSNks5alZWVTJhX1V2eDhQNnJ6aS1Kei1YUVFIVFVHX1JzbFJocGszVHgyY2pWclVjajJmUGhKakJKemtVN1g0Z29GbmRGZjYyc3Vxd0llNEZNdlJn?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-11-03T14:23:11.724117Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "1c211f8f6c1fa772cc52f084",
+      "publishedAt": "2026-11-03T05:52:24Z",
+      "title": "Mahasiswa Unisba Turun ke Jalan, Mengkritik Penerapan Pajak Pe...",
+      "source": "BandungBergerak.id",
+      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNZDJoc1NURFpkR2FvLXZEeXNRSE10UHE3Q1E4eHFUaXN4clRsN0dwdDFlbXJHbWhWNWVoLTR6R2dUVnRQNm10azdMWk9QelVPOGN0LXE0c1lpZDMzLUw5d2JCSS1zdkFTZVIwbm9OLV9zeDZKZ0lFRUt6dVdJeTktRFEtWjBPbGRBaVp0dlRyQkpUQ0JYS09zTHEtTTdQRHF5WFhXTlVndXVLTTcxRWg3cmlReWVpbmNfRHU2MXhoVmY1QVFxc0d0RVNEcU5lcTgySUw0Nnk0ZlBFQ3NmR3RRWXpDaGVVRjN1RTVabkNjMEQwMGdiOGc?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-11-03T14:23:11.724117Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "c8141ee1887a7a9f5c8fb520",
+      "publishedAt": "2026-11-03T05:34:00Z",
+      "title": "Ilham Habibie: Kebebasan Berpendapat Tak Bisa Ditawar, Demokrasi Harus Terus Dijaga",
+      "source": "InvestorTrust",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQbDZZNF9jNHRPS0VsS05VeEhGYkVFVzRxMHZMcEpmT01BNEhsRjVrcGNWaUFXY2hxS2JZeU9Ra1owNWZmT3pIQU1yX1N2bC15UEpWbHBLNTlUSXdLemJMYnNUUDA3SzdDakhMTzNqbTRyWnVlSkdhU3p3UDNibF9CUXpsYW82QWt6amdSSDk3NDFfY2hfellqUDBwVlhnR3dkUjhnd1F0N3JQRW5LYkxKOTVJRFBJVmZMRklBX2FiZw?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-11-03T14:23:11.724117Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "d38a84d61433f55dc660dcb5",
+      "publishedAt": "2026-11-03T04:00:22Z",
+      "title": "Aturan Takedown Konten 4 Jam Lewat Kepmen, Komdigi Buka Suara",
+      "source": "IDN Times",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQanFZMDk2ZWZoelFxRmNXQ1hfRGJyQjV0UzhNam5TN1pwRlFobGpHMFVaNFZsRXBYb0lBM2Q4ai1JNDl6WnJMakNMZlM2eVRtb0hDZnZWNEM2M0VTa3VmM2paQTBmRFZ2RThNUmxDTHh3SUd5VlZBWkV4RnJ1Szlwd1NvS1c5cWpqUDgwTEdzVUx6T0RNVVZWcXJ1X2NsWXF5bTFIWXNWMjlFNVkzS3ZwSnJUb1lsVUXSAbwBQVVfeXFMTlBPdEQ5aHRILXNvZ213ZDhyRThfeFlNU3BpZHE4UFF6elVtMGZpbkxXTm5BVm9WQm5qa3NsdmFBMnE5d1ZHMUltQWJVNmJZU3FRZ3U5ZHVVNV9FQTM1UnpQRXF0X3BQenlJWkljZExJYkpDbHZwaXBISHlnby1ROTE4VU5xZHc3dE1VQ0lkdW1WQkNtQ2hmUEdMLTJEUFdQU3pNcGFQY3gxQmNKWFIyTS01c2hCbUcxNzlCX1Y?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "sensor_konten",
+      "subclusterIds": [
+        "sensor_konten"
+      ],
+      "matchedQueries": [
+        "Sensor Konten"
+      ],
+      "collectedAt": "2026-11-03T14:23:11.724117Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "ff67c6168370562b016a016e",
+      "publishedAt": "2026-11-03T04:00:22Z",
+      "title": "Aturan Takedown Konten 4 Jam Lewat Kempen, Komdigi Buka Suara⁹",
+      "source": "IDN Times",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPelduTDhPS3dHN0hVeDQ5bTd5WHlpN3RyVjhkQWtHb3c2MDNkTmZ2V2pSanNPNnVCR19IeEZ2RFVXUG16SktVS0JaMVVDNW9yUkc2al9EWmlvUDRRNUczMVo0NUlHcldCbjQ3STBzNkl4eU5NSUpDQ0l2djhaclljcVh4ZElXSkdfVXVoY0FBT2JLSXZjVmI1aWxZVmVFVExnaU1INV9EdDFWS0RpVTRHQVZSQXlvMmdreWpsMNIBvAFBVV95cUxPelduTDhPS3dHN0hVeDQ5bTd5WHlpN3RyVjhkQWtHb3c2MDNkTmZ2V2pSanNPNnVCR19IeEZ2RFVXUG16SktVS0JaMVVDNW9yUkc2al9EWmlvUDRRNUczMVo0NUlHcldCbjQ3STBzNkl4eU5NSUpDQ0l2djhaclljcVh4ZElXSkdfVXVoY0FBT2JLSXZjVmI1aWxZVmVFVExnaU1INV9EdDFWS0RpVTRHQVZSQXlvMmdreWpsMA?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "sensor_konten",
+      "subclusterIds": [
+        "sensor_konten"
+      ],
+      "matchedQueries": [
+        "Sensor Konten"
+      ],
+      "collectedAt": "2026-11-03T14:23:11.724117Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "59225e931571caafb5268af8",
+      "publishedAt": "2026-11-03T03:41:00Z",
+      "title": "Anda Perlu Tahu ketika Unggahan Viral Bisa Membuat Privasi Seseorang Terancam",
+      "source": "RRI.co.id",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPWGctRXN3RkF0SnZPRmJHV2owWmNvbnJkQTVmS2QyTmx3eFppMjdOMnRnQ0RRMUtmM1ZTdjlLVU1oTmQ0QVgxamxWMFdIN2F1QXZIRHF4cWt4YXdPSEY4c0YyMUs5VC1RdmZxTDRhZkVYb2dPOHhaeUlSakNXY3J1UHVpMWM2SDByUFhJOU9QSkxkUVBPVHA3V2xkSW8tVHlrblZfX0JDREVLVUtBaFFyQnpxeG9DeDhH?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "doxxing_intimidasi",
+      "subclusterIds": [
+        "doxxing_intimidasi"
+      ],
+      "matchedQueries": [
+        "Doxxing & Intimidasi"
+      ],
+      "collectedAt": "2026-11-03T14:23:11.724117Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "acab9bfc0005bd2d9977e2f8",
+      "publishedAt": "2026-11-03T03:18:46Z",
+      "title": "Pembungkaman Sistemik: Aktivisme, Ingatan, dan Kekerasan Seksual di Indonesia | Katharine E. McGregor",
+      "source": "Howl.Link",
+      "link": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE51VnhuQWZIYTFsQmV2ajIxeXNjVEhMZXhhTFhiX1pSSG5YRHZjdEMwTWRpdVkxNGxDWUpn?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-11-03T14:23:11.724117Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "3008f3405b000ef5595599dd",
+      "publishedAt": "2026-11-03T02:09:00Z",
+      "title": "Komdigi Atur Batas Penanganan Konten Digital, Kebebasan Berekspresi Dijamin",
+      "source": "Industry.co.id",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNVS1Cc1JhRFpxemZFaGg1SENmdHdNYzZrdkJpZFpMSXRzOTlTb1ozYjlZNHlFXzk0X1UzUFlEWS1fdkU3a3J0RG1sbDdFVzdPVW0xbFdicGxMRWRJaVA5Uml2VUtPUnNCV01TZDhIcWRuOVF2SmxPcWlqSU9LSU5JYnlUb19NRFIyZzhjQk1zUTl0aUpKTnNaNERVYXBxem1vSV8ybnZ0dDJ0MkR1N0VUYXBtdw?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-11-03T14:23:11.724117Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
     {
       "id": "8e8955f6be4806563c74f097",
       "publishedAt": "2026-11-03T00:14:04Z",
@@ -568,6 +890,29 @@
         "Kebebasan Berekspresi & Berpendapat"
       ],
       "collectedAt": "2026-11-03T01:01:51.386889Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "82320c56d2ba764edf89282c",
+      "publishedAt": "2026-11-02T09:28:00Z",
+      "title": "Kepmen 127 dan 128 Perjelas Batas Penindakan Konten, Komdigi Tekankan Akuntabilitas dan Kebebasan Berekspresi",
+      "source": "mmckalteng",
+      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPS0x6cmZzeVJGSm5HUF9mMlkzeHJrRGgzeXVncUFqaVB1LWxwbEdJMTZTZG1IYi0tLTJxT3hZY05NanZIeDdBQWlzaHBXU0ZBTXUtV2IwNlB2VkE0VW9pZUJFaEdNS2VuaUN1RUJ5bHRxckdHajRqdmJ5TTQ5NXJpcUE1VUcyRFVUbDFOTXVFRHBnRlJmeWRvRVNfVmxTazJtV05Ddy01S05GWDJ4SFRCZTBGWkU2bVMwaDR0QzUySzVJa2NkXzJIZF8yWE9Xd19ueWdXWnRWb1pjOWxIYnhGNEswbzhyOUk?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-11-03T14:23:11.724117Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
@@ -4949,6 +5294,29 @@
         "Kebebasan Beragama / Berkeyakinan (KBB)"
       ],
       "collectedAt": "2026-10-28T22:38:29.297421Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "dbb24e87547486a8e23f414d",
+      "publishedAt": "2026-10-28T10:30:00Z",
+      "title": "Polda Sumut Tahan Kontek Kreator Ritman Marbun, Penistaan Agama",
+      "source": "Medan Pos",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQWHl3N1VZTlpVTk5VUnVvLXh1aVFXSzlYYlZxRElYaGVVbjBwUUROTGtzNTg3czlaM1FCb2FuM3NjbFVHbEJKaHR5aFQwSTA3MFVsZ3ZQcUVRUVlVZ2hLWEVrajhtQy1XRC1oYWp3TVZoNkMybXh5YWRDSTluTnBDaXoxMmpvYzFLcTg5UEJISktnNVZMbG12TkZLVGFGQllCdmVMWFdRLUtITjdwSGVRYV9Gb3ZnZw?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_beragama",
+      "subclusterIds": [
+        "kebebasan_beragama"
+      ],
+      "matchedQueries": [
+        "Kebebasan Beragama / Berkeyakinan (KBB)"
+      ],
+      "collectedAt": "2026-11-03T14:23:11.724117Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
