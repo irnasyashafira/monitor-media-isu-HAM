@@ -1,15 +1,15 @@
 {
   "meta": {
-    "generatedAt": "2026-11-03T14:23:11.724117Z",
-    "lastRunAt": "2026-11-03T14:23:11.724117Z",
+    "generatedAt": "2026-11-03T23:26:46.814351Z",
+    "lastRunAt": "2026-11-03T23:26:46.814351Z",
     "startDate": "2026-01-01",
     "refreshHours": 6,
     "mode": "incremental",
     "feedsOk": 16,
     "feedsFailed": 0,
-    "totalStored": 2946,
-    "totalPublished": 2946,
-    "newArticles": 16,
+    "totalStored": 2951,
+    "totalPublished": 2951,
+    "newArticles": 5,
     "warning": ""
   },
   "clusters": [
@@ -136,6 +136,52 @@
   ],
   "articles": [
     {
+      "id": "b7c5a574d5207971959119f2",
+      "publishedAt": "2026-11-03T23:22:00Z",
+      "title": "Komnas HAM Soroti Dugaan Intimidasi Digital terhadap Warganet Pengkritik Pemerintah",
+      "source": "Warta Ekonomi",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOV3BkSVk2X2lIM2tsTVFrTkFQS2IxT0swU3JyUGw5eHNqRGVGbUhfN3NCS09HbWVBajEwYmk3ZWxlS0JQMkktd3Zic2txYnZCYVh1S0kxSUQxdUdDLXM5OWtjaGNXUktSb0U0aEJQT00xU3VVT2RVdDQydFNHRjVIWTJhRXZSS2RxYmdMTWN0RjNqb0xCcG1jV2R0VmhXT19fdTRQR0R2RDFSeENfeXVpMFlVNlJlY2g0SnF5eV9n0gHDAUFVX3lxTE54cEVjYUhtRUtma1VmX2ZaTmNrYW91bTM4REU0M21Rb3MzaEpCUk9qcS1sOVF4QW5xdmtEQ2luYmtOSHpBMGJsU0dwb1FSZWhBM3VkUC1GdVpKNHQ3WWNWZmRpNVhqVmNmV3JtWndYbW52czdDZHhSellfMGJFSF9oVU5NWklFZkhvdVJYdi1TMFZYSUprQ0dVb2cwbEpwbWl5cUtsR2NZRlRjNm02N2lEWGEzQVNvclFEZEZMZzR3THIyMA?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "doxxing_intimidasi",
+      "subclusterIds": [
+        "doxxing_intimidasi"
+      ],
+      "matchedQueries": [
+        "Doxxing & Intimidasi"
+      ],
+      "collectedAt": "2026-11-03T23:26:46.814351Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "fe8fca6a19502a5d757066d7",
+      "publishedAt": "2026-11-03T13:05:39Z",
+      "title": "Panas! Herri Pras Dilaporkan ke Polda Riau Usai Sebut UAH dan UAS “Setan Bisu”, Advokat Ikhsan: Kebebasan Berpendapat Bukan Kebebasan Menghina!",
+      "source": "Riauterbit.com",
+      "link": "https://news.google.com/rss/articles/CBMiogJBVV95cUxONXNneHFKNWRNanh5Tm5pdWpXdVhyVl9US1BtLW9pQ2F0WjQzQjBTeUtkSDBNVzBxMzZmNW9kcUF3U08yUy1EUHoxSDdGbjcyX29HWklZY1czWmQwcHJ0X0hMOUpmRzNaUGFmVndzNG9CYzNpSjNISkh4dGJRUklSRThfRTZqVXItZUF4Sl9UNkZjMTYycVRYVldpdjlDNTY4OVVuY1JIUWlENzZhOEUxcVlFZlNVVm1nTlNtVDhmZU5GRG5DUUQzdDg2aklDVDJKVS1YVU9TdHVaNWU2ODhCV05heklzTXVvampCTUdpc1YtY2l0YVgxTk0zQ1lSRm9wSXVuRTdqX2p5Y1ZGc0lrS0YzYUxCSGw4QzIzU3FNSDFWZ9IBoAJBVV95cUxQR0xKc3p0QVc0cjVwR1ZoNk9VWENSUlJ6ZG0yWmt6Y3pZblhySk9BQk5iOUR1ZUpKV0xXWTRJVkJMUVRwcUZneGpuRzNSWkZjRGtfZFFPUHJ4T0o0LVU1Qk11WU9wU0F5T1pWQ1lVS0taRWE4dGVqOGxmZEtTTkpmNFF1T2s1TU02cGcwam1lY1J2bHBPZTJsNVhuS0dYdEd4eXZnM08wSVQtSGZ3NkdDYjRYUWw2QnpmRWVSbjhXZnZFWWdqYzhHbHBIUWlSSUpmWE9KLWVSd2d5SXZaQ21FbVU5RHNIMGp1bV9FUmdDcTd0ZlU2VWpvc0tkUHFiVDFld1pWTjZlRFZGS2VyX2hQdG1NZzVVdm15bVRWbWc1dGk?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-11-03T23:26:46.814351Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
       "id": "c2b1a99c5997310246a8eb94",
       "publishedAt": "2026-11-03T12:45:50Z",
       "title": "Komdigi Bantah Takedown Konten Banjir Aceh",
@@ -223,6 +269,29 @@
         "Sensor Konten"
       ],
       "collectedAt": "2026-11-03T14:23:11.724117Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "eb9ae84821c1b1c7364b98df",
+      "publishedAt": "2026-11-03T08:22:00Z",
+      "title": "Jamie Carragher harus dilindungi meski sindiran legenda Liverpool itu terhadap Aston Villa “ceroboh”: Ancaman gugatan hukum yang konyol adalah serangan terhadap kebebasan berpendapat para pengamat sepak bola",
+      "source": "Head Topics",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNMTJiSGsxQmdVTi1vU1ZjcXFpUlBnSmdNSDVyUWc4Ynk3dFVLbFIxNVVQZ0lMdUFOR3VfTUI1VDlnQkdNNUU4b3BkUlJxRXZTMW9RMEpzTDRqeWNlVTBkX3YzRjk2bGJlYU1abzRHczJUSERCeG5MUXpKWEVKaVhQOURXaFpoajByeUt6Y2dyQzBuQy1ZOWpyOFdqWQ?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-11-03T23:26:46.814351Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
@@ -913,6 +982,52 @@
         "Kebebasan Berekspresi & Berpendapat"
       ],
       "collectedAt": "2026-11-03T14:23:11.724117Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "4815d8e25217cb6b8229f991",
+      "publishedAt": "2026-11-02T09:26:00Z",
+      "title": "Dorong Kesetaraan Gender, Plt Bupati Ponorogo Ingin Banyak Perempuan Duduki Jabatan Esellon II dan III",
+      "source": "Jatimnesia.com",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOLTE4WnpJU05fTnRJOF9MOFJWN1FSLTcwSkRnZzRJSTB5YWlzaXFuWDJMQzVLaDF4M1RlQ2s1dGdtb3M3UUs0LWc0SGpHdEpqN3d3QU5yRnZtc3QySlRjeUgtckIweVpfSEZhR3pNa2RWb0xKTTN5X2pFTWR4b0hMWUFrMjM2YS0yN0FVVzRFTjJNcW1sZjYzb3pocVNyUUZBYVdNaHdDbVpuVkoyd1RFWnN0a2ZtdjNnU2QtODVUNGJjNXM?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "sensor_konten",
+      "subclusterIds": [
+        "sensor_konten"
+      ],
+      "matchedQueries": [
+        "Sensor Konten"
+      ],
+      "collectedAt": "2026-11-03T23:26:46.814351Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "eddbeca477b05971c1ba4f0c",
+      "publishedAt": "2026-11-02T09:23:00Z",
+      "title": "Berawal dari Toko Kecil, Mitra BRILink BRI Magetan Sukses Kembangkan Usaha hingga Supermarket, Kafe, dan Salon",
+      "source": "Jatimnesia.com",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPUWU1Z1M5TWt4a3FncmhjZDJqb1FoYTNmYW5vcWJjV2NSOUdya2F5VkJEWlRPcXhRMzRnM0tfTF9iRHhWWGV1TTZEbEo2eElRUWpzTjlwTVFCenZKcnNDLVZhSUQ2Wkt0TmQyOHc2T2VqU3FEQWhHendUS3FGLWtzQWJHTFBRN1VQcnNyR0RVZkhwME5KdzBmUmx0cWFtbjl6OHR2X2VZVnRfN1Q3WXRnNHBXcmlVZW4wX09TTm1GSnM2aEZLMGQwTGx6cw?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "sensor_konten",
+      "subclusterIds": [
+        "sensor_konten"
+      ],
+      "matchedQueries": [
+        "Sensor Konten"
+      ],
+      "collectedAt": "2026-11-03T23:26:46.814351Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
