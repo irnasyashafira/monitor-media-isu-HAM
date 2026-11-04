@@ -1,15 +1,15 @@
 {
   "meta": {
-    "generatedAt": "2026-11-04T06:31:59.041239Z",
-    "lastRunAt": "2026-11-04T06:31:59.041239Z",
+    "generatedAt": "2026-11-04T19:49:15.259253Z",
+    "lastRunAt": "2026-11-04T19:49:15.259253Z",
     "startDate": "2026-01-01",
     "refreshHours": 6,
     "mode": "incremental",
     "feedsOk": 16,
     "feedsFailed": 0,
-    "totalStored": 2958,
-    "totalPublished": 2958,
-    "newArticles": 7,
+    "totalStored": 2972,
+    "totalPublished": 2972,
+    "newArticles": 14,
     "warning": ""
   },
   "clusters": [
@@ -136,6 +136,236 @@
   ],
   "articles": [
     {
+      "id": "d7574b9509f44001c7000d59",
+      "publishedAt": "2026-11-04T18:37:40Z",
+      "title": "Bukan Malware Biasa, Spyware Canggih Bisa Intip Pesan hingga Lokasi Pengguna iPhone - Hallo Sultra",
+      "source": "Hallo.id",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOLVRST0lHSVlyMVZyRG1qTWRzZmxvRVpYTy1KZFc5LWE5RG0yWWYxOHR6WGhRVTRCcDVLanEzZmdTYU1CNE1oaDFXb3NyMHZzZ2Z1VUJSVTRBQ3NrM0dwclZlb2xhSTBZLWhHaHQtZ0MyWHYyenZUcU1pMDdxcS05MncxeG9PTkNfamd5VTlGdjVKaWU2TjVnNi1UTWJaaEhwZGVRVHE5QkpzNk1MZWVEVXdwZ0dGbTRhZFM2TDZ3RnEtaFhrLTI00gHMAUFVX3lxTE5KYnpsQWh0Mmg1cVNCN1pvWlI2RW1vckFldFROajdaQUxrbl81Zzh6d2VjQXBCSWFWUWo5Um4ycnJPbmpVT0VTT3ZjWUdvV2tzR1NxVnBmYTI3TXBGZkxDQl84N0IxMGVtMW8tcTMtTGxDNVBUMm9pVjB6Q1ozbWRKNDZ0Sm1EOXN1NjVpYnc1T2M0LUNnVXhYUG1fWTB2dGFfUnlHQy1XaEtSOFBSWENGT1Vac3ZrUVp1ODN2MjBYU0UzcXEtS19waUZodw?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "pelacakan_penyadapan",
+      "subclusterIds": [
+        "pelacakan_penyadapan"
+      ],
+      "matchedQueries": [
+        "Pelacakan & Penyadapan (Surveillance)"
+      ],
+      "collectedAt": "2026-11-04T19:49:15.259253Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "c4ac71682ef9b3849be16445",
+      "publishedAt": "2026-11-04T15:52:00Z",
+      "title": "Seruan STFT Jakarta: Bela Rakyat, Evaluasi MBG, Hentikan Pembungkaman",
+      "source": "InvestorTrust",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQRlRneTgyelY2dGJ3NnJDR3JPbHVTUUFMa1lvMHduRGZiQlZ6OE0tTWs2NU1UN3JxdUZsdHpMRU9BZlN5QzJhRXE1LXRRenF2cHZOVnlqWlhScmhpLXdueHl0QzZEdFBLTUI3Y1lodmlxYXVxY2ZKR0dtcTN4bXB4eW9KWlRYS3pVSEc5aWVES3NOUTlGMnRVdU9Kdk5vbkNsdFFPcWN5MA?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-11-04T19:49:15.259253Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "b422387eb5ad8bec8928ef96",
+      "publishedAt": "2026-11-04T14:44:00Z",
+      "title": "Massa Aksi GERAM Kaltim Dibubarkan dengan Water Cannon, Tujuh Tuntutan Kembali Disuarakan",
+      "source": "Kaltim Post",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOa2o2OGtzb1VuQ2p1ZnZPOERiOENYZGp2cUxsaUVmQmJCMmpwSGNXeUtrZ2ZrVUVhUmw5TlRWakY3czdibnFRMXYyYXFvemd2SWhXZjlTRGR3SWtPVU5EUVhJTDZtc1pockhaOFlJb2N5dzRJSHdxNzZJdDZtUWxzUUJfNTNjSnI5VkEtWHI5TVNQN0Z4T0hUdkJhdkN6d1JEemlXWWw2d1ZkWS1vQlBoMUc3NnQyZ1dxQjl0OHZmMkxnTndraFZPaUZCQlRYN0N2U0HSAdcBQVVfeXFMTjhUTENaZ0k4bFp2UVhpc1gxdmVoV000SU9OdEh0SWFzS3BmTm1VelFSSmVOZ0FhSHUxVGFEX2dWc2JKY0d1Q21VdW9JRE9JZDhDR1d5ODFfemhtT1pJNXZJU2JWSm5YOGpGTG9HN1d5UVRDNWhobUZJOUhfR185YldVSlFrM2ZuY1VVQTJuUGtCbWxiRjFPM05EWEtyYUJSLVExdWhWRFJ2b0o0VjZzbnVLUXcxdWNXc093VWFjX1pCU24xQjFiUWpZZ1Iwb0h6alQ4UWc4REE?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_berkumpul",
+      "subclusterIds": [
+        "kebebasan_berkumpul"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berkumpul / Berserikat"
+      ],
+      "collectedAt": "2026-11-04T19:49:15.259253Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "26230be98c71f659293d5d0c",
+      "publishedAt": "2026-11-04T13:40:08Z",
+      "title": "Isu Makar Bayangi Skandal Penyadapan Prabowo, Amnesty Soroti Ancaman Pembungkaman Oposisi",
+      "source": "OWRITE",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOdjA4NXFWbU5uOG9xRXQ0NzJPTXl1d1l1aXQ3VG8xQUt0aGtJbGJYS3kyMFk1TTVvM1ozQzFjSHZsQW1oZkdKZktlVThOT18zcXoyYXVFdEVwc2JtZ2RuakNGUkRLYTVBZjhrcjlicEhqT2VJQjctNjd1S3JUQ2UyZTF6Uk54N2tUZkphalVkU2hwXzFoR3Jfb1FtRGd5cU85aTFkcXNYSTd4aWI1bXJYRFVZNXQ3RzY4VVdGZl9yTk1IaUJOQVV2VGlB?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-11-04T19:49:15.259253Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "2f377b2b3aa246b8d57d0ed4",
+      "publishedAt": "2026-11-04T11:17:00Z",
+      "title": "Memahami Kebebasan Berpendapat di Era Digital",
+      "source": "RRI.co.id",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOamdZTmlNLW1FSWRXYnI3aElKRVN0LXVNTm5md3JfRU1BN3pDOXczQVZINk9rTEhnZWgxc0JlMzhSMXJMYUdrZG0wd1E5LTNna0ZJMi1wYnFxODdLV0tiOHIxVjk3X3FJOFEwM3R4TlpLRWJ1Z2RYZ2U1c0puVHp5aEpTZjJKRW14ZDVWcC1xblI2NUZu?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-11-04T19:49:15.259253Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "cd4880689d1d81dfb68f0bdc",
+      "publishedAt": "2026-11-04T10:27:27Z",
+      "title": "Gerindra Minta Polri Usut Otak di Balik Penyadapan Presiden",
+      "source": "Kabartimurnews.com",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNWnVyUkpNaFc3S0RBMEVCNnoyejU0QmRoVENoeVVwV1h0a2NIbHN3dFZXcGltcHFJX3g0NVp0M3JFZDJmOEJmVVdNaFMyd2NNTkwzeDJrM2pzZG0wXzFWY1dWY1ZGNTFBOVg2Ri04bm8wb3p3WlNzcDRDZ05GSnBQem8yanp4MHNPb1NsOEdoX0dySkpKb0tvNHc5SGJNaHVJQnNRRw?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "doxxing_intimidasi",
+      "subclusterIds": [
+        "doxxing_intimidasi"
+      ],
+      "matchedQueries": [
+        "Doxxing & Intimidasi"
+      ],
+      "collectedAt": "2026-11-04T19:49:15.259253Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "a076e4c157e13d0d92375f54",
+      "publishedAt": "2026-11-04T09:56:00Z",
+      "title": "Beredar 43 Nama Diduga Disadap Listyo Sigit, Ada Megawati, Haji Isam Hingga Zulhas - Sawitku Id",
+      "source": "Sawitku",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxObmdHUEJKNU5Uc1dZZ0hhV2k1Tmtibl9MNFFDZHZ3T1NUS045dGhiQndIdHhtZ2lmdFl0VjUwcjRPVXhOS3UtNmtQaFdOUHpPbU1XSW5BcVE0cngyd0YzV2tZblpHYjEtTDVvelAtck1qdWV4M3Q1cFJVQktyR1JVNW9PRGg1Y1NoV3ZEdlIzVFFJMFh6bGcweGl0Ti02TXhpZG5LdnBlb0hhUFRJbUdEc09GcTRHa1ZydWIwatIBwgFBVV95cUxPa3pwaFR5R2dZQzBUSGtlRW5OUmFSVXhBajB6NndtMmwydk1vQ2dSSVFSYnNvNXlxR1RJOUNjNkRNd0ZvM280ekF2aDdLaFltODlDbURuNTRSS3JtZFBETGtiQXY0X0VlWnlmRUE0ZDNPUVlmY0JKUzN5eUNZZ3ljZUpsRjVfOWRYTS1oS2t6eHVUS2RZUm9tUGZRTnVGbzVXeTk4UWtBMUk4NVd2X24zRVU5WmlIQnF5b0JYVEQwejRXZw?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "pelacakan_penyadapan",
+      "subclusterIds": [
+        "pelacakan_penyadapan"
+      ],
+      "matchedQueries": [
+        "Pelacakan & Penyadapan (Surveillance)"
+      ],
+      "collectedAt": "2026-11-04T19:49:15.259253Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "a36fc4560d4a6d734550c563",
+      "publishedAt": "2026-11-04T09:49:04Z",
+      "title": "Randa Abdel-Fattah Bicara Kebebasan Berekspresi di UWRF 2026",
+      "source": "Magdalene.co",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNSUJYbnk4LXl4Y01uWnhfVEQ1ckVZWlpMQ25RUWdWWmZZZkdGRzJTb0JaWUpBX2pqSFFUQkRZMXdDc3BWazVNdnZhT1lpT3dSYTg3LW9DQTBIOEZmODdEaFprdjNub0pDMG1ubjdQaHBVVWxRaVUtYkNJZm1LTkIyQ0dIMFhlcEFvOEhqcUZpX0Z6TnhwTVE?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-11-04T19:49:15.259253Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "89f2b65f757eea0657420da2",
+      "publishedAt": "2026-11-04T08:17:00Z",
+      "title": "Penistaan Agama dalam Pusaran Komunikasi Digital",
+      "source": "Detektif Jatim",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOdGpXTEZBVkUtd25abFpvSWRYY2NFVWkxaWJkVll3bXhQZXFlTUpWVGFONjhpWFNGUUJJbWM5M283Y1ZSOFpuR3JxY0NSdW9GbktuU0NSanlYUERVSVJZd1pmQUx5THplRG12M0EtVEtXbmY2QXZ4cVVpaWcyZ0VyekNrN2FVbnI1dHBJ?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_beragama",
+      "subclusterIds": [
+        "kebebasan_beragama"
+      ],
+      "matchedQueries": [
+        "Kebebasan Beragama / Berkeyakinan (KBB)"
+      ],
+      "collectedAt": "2026-11-04T19:49:15.259253Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "4ca8e867eaeb4c60318093c8",
+      "publishedAt": "2026-11-04T08:05:00Z",
+      "title": "Presiden Disadap, Gerindra Puji Ketegasan Kapolri Tegakkan Hukum Tanpa Pandang Bulu",
+      "source": "tvOneNews",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPazRXcFl1SmpiMTNTc2U3c3NmUkt6UEl2MGZ3S0RXN3pEck5CWlFwcC1SSTllTmxKLTk4MEpEZkwxai1DeHA1MFNpU0ZUdUw0Z29CWk14aG1QZms1RHk0SzZqX2pMQXd4dXVnNzZ2b1BYZEY0aHdOWVFNbzFlcVAxWVRBNzllQktJTm9xNFhRUnpQeHk3TnlGZUdYTzAtbzFISGxMZHRxU2w0bXYycnk3dFJvVFF1T0cxMEtxcTk4SGotdTdGWjJ3YmhmZllKdldK0gHQAUFVX3lxTE9rNFdwWXVKamIxM1NzZTdzc2ZSS3pQSXYwZndLRFc3ekRyTkJaUXBwLVJJOWVObEotOTgwSkRmTDFqLUN4cDUwU2lTRlR1TDRnb0JaTXhobVBmazVEeTRLNmpfakxBd3h1dWc3NnZvUFhkRjRod05ZUU1vMWVxUDFZVEE3OWVCS0lOb3E0WFFSelB4eTdOeUZlR1hPMC1vMUhIbExkdHFTbDRtdjJyeTd0Um9UUXVPRzEwS3FxOThIai11N0ZaMndiaGZmWUp2V0o?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "doxxing_intimidasi",
+      "subclusterIds": [
+        "doxxing_intimidasi"
+      ],
+      "matchedQueries": [
+        "Doxxing & Intimidasi"
+      ],
+      "collectedAt": "2026-11-04T19:49:15.259253Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
       "id": "6372ba493ede542158c56664",
       "publishedAt": "2026-11-04T04:55:00Z",
       "title": "Komdigi Pertegas Kebebasan Berekspresi lewat Kepmen 127 dan 128",
@@ -154,6 +384,29 @@
         "Kebebasan Berekspresi & Berpendapat"
       ],
       "collectedAt": "2026-11-04T06:31:59.041239Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "19186887274ac1a496df5cab",
+      "publishedAt": "2026-11-04T03:44:00Z",
+      "title": "Penyadapan Diduga Tak Ikuti Peraturan Kapolri Nomor 5 Tahun 2010, Bareskrim Jelaskan Perjalanan Kasus dari Laporan hingga Tersangka - Enam Pagi",
+      "source": "Enam Pagi",
+      "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPU0ptSVdQWVA3UWQ2WVRJVmo4YkIwU1liVEMwVkRyT0dlWUNEM05MaUZtT2ZuelVPS1kxSTdVSE5kVUdLV0hKMmp5RlY4UUZHT0RoUXZTYU1YUmpRZFFWLS1FWnpKaF91d2djRlJIc2VJZ1VOYXd3VlB0WUhzRFNFdnp3QngyQVA2Y195MGVKY1J4cmZGYTdBSXFGZnBxbDVjamM0TW1YaEpXS1dpZTA4anpwWWxDZTl1QXVRMUwyYVpyeHgwandnQnpvYXM3MnNUZ05LWUpGMVdKR1Btb29UUmpETzJVaHRvZ25JNnpjLWxKQThlQlVUN0dQV1kya1JuNnVDa3VB0gGGAkFVX3lxTE9TSm1JV1BZUDdRZDZZVElWajhiQjBTWWJUQzBWRHJPR2VZQ0QzTkxpRm1PZm56VU9LWTFJN1VITmRVR0tXSEoyanlGVjhRRkdPRGhRdlNhTVhSalFkUVYtLUVaekpoX3V3Z2NGUkhzZUlnVU5hd3dWUHRZSHNEU0V2endCeDJBUDZjX3kwZUpjUnhyZkZhN0FJcUZmcHFsNWNqYzRNbVhoSldLV2llMDhqenBZbENlOXVBdVExTDJhWnJ4eDBqd2dCem9hczcyc1RnTktZSkYxV0pHUG1vb1RSakRPMlVodG9nbkk2emMtbEpBOGVCVVQ3R1BXWTJrUm42dUNrdUE?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "pelacakan_penyadapan",
+      "subclusterIds": [
+        "pelacakan_penyadapan"
+      ],
+      "matchedQueries": [
+        "Pelacakan & Penyadapan (Surveillance)"
+      ],
+      "collectedAt": "2026-11-04T19:49:15.259253Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
@@ -223,6 +476,29 @@
         "Kebebasan Beragama / Berkeyakinan (KBB)"
       ],
       "collectedAt": "2026-11-04T06:31:59.041239Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "9db3f883c590e73d27d401cc",
+      "publishedAt": "2026-11-04T02:15:39Z",
+      "title": "Bakar Ban Warnai Demo di Depan Kantor Gubernur, Pendemo Ancungkan Tiga Jari",
+      "source": "Prohaba.co",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPOXg0b1otcjRlbFlBWXJWVWVvbDZObzlvaGRYSGQzWnFHVFNzakxIUFBJSm10OGlJSGVsLVV2azQ4SWFOR3lGS2ttazRSbDBWa1UtRlRjamhSeWlXN0NheWJmRnNJbS1RN0ZwNjFJcHFBbENUeWhYZ2VzNlFONm9uRnpoMlFYdzV6ZXAtRjhlVDJFRElwbVZydGJ0OUxlMFBTdnRXbnZVT2tzc01TcEFoRHlzN1psTlFXRWlHRw?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_berkumpul",
+      "subclusterIds": [
+        "kebebasan_berkumpul"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berkumpul / Berserikat"
+      ],
+      "collectedAt": "2026-11-04T19:49:15.259253Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
@@ -637,6 +913,29 @@
         "Kebebasan Berekspresi & Berpendapat"
       ],
       "collectedAt": "2026-11-03T14:23:11.724117Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "92455aab0ee19a2fc5591e7e",
+      "publishedAt": "2026-11-03T01:06:00Z",
+      "title": "Petugas Damkar Magetan Kewalahan Atasi Ratusan Laporan Kebakaran.",
+      "source": "Jatimnesia.com",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOb2QwOC1iWHpZeU02WVBzNnVOWUpVN2Jvazh6N2xBbE1vSmRGNV9kVkpPUVRMOUh6VlhhdUNRQ2RxVXJmNXFMNVdyWVc2Mnp3OVNacVRZMXIzVTk1cjlGaHJLRzNVU18yb2R4LVZ3cXdYcXllOEhvUkt2b3RkS2ZHNkY5Z0VGUklmaWN4MS1BZUEwdw?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "sensor_konten",
+      "subclusterIds": [
+        "sensor_konten"
+      ],
+      "matchedQueries": [
+        "Sensor Konten"
+      ],
+      "collectedAt": "2026-11-04T19:49:15.259253Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
@@ -3167,6 +3466,29 @@
         "Kebebasan Berekspresi & Berpendapat"
       ],
       "collectedAt": "2026-11-03T01:01:51.386889Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "ccad1ae292961eaa45608c49",
+      "publishedAt": "2026-10-31T00:31:00Z",
+      "title": "Polda Sumut Tetapkan RDLG sebagai Tersangka Dugaan Penistaan Agama Lewat TikTok",
+      "source": "Radargep.com",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNQ2tFd0dvekJHejNIc2tucFJZb3F2T1BvV0hVeWRNZDY2SGRsT2R0eXZUd3o1T2hWeEN5RzhkQXdRalFyU2JJY2tMUWNsREY5VW1tZndob1V3VTIxT0VBekVIX2Q0SmgxdTVXYldJMGpqNDRjMEFuVExLX1BlQ0dOdnVNeUJfSG5RTWVueWNzaklKQjV3b0h2OFVweFlscGY2R2tOd19UQkE?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_beragama",
+      "subclusterIds": [
+        "kebebasan_beragama"
+      ],
+      "matchedQueries": [
+        "Kebebasan Beragama / Berkeyakinan (KBB)"
+      ],
+      "collectedAt": "2026-11-04T19:49:15.259253Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
