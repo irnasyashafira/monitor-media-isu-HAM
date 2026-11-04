@@ -1,15 +1,15 @@
 {
   "meta": {
-    "generatedAt": "2026-11-03T23:26:46.814351Z",
-    "lastRunAt": "2026-11-03T23:26:46.814351Z",
+    "generatedAt": "2026-11-04T06:31:59.041239Z",
+    "lastRunAt": "2026-11-04T06:31:59.041239Z",
     "startDate": "2026-01-01",
     "refreshHours": 6,
     "mode": "incremental",
     "feedsOk": 16,
     "feedsFailed": 0,
-    "totalStored": 2951,
-    "totalPublished": 2951,
-    "newArticles": 5,
+    "totalStored": 2958,
+    "totalPublished": 2958,
+    "newArticles": 7,
     "warning": ""
   },
   "clusters": [
@@ -135,6 +135,121 @@
     }
   ],
   "articles": [
+    {
+      "id": "6372ba493ede542158c56664",
+      "publishedAt": "2026-11-04T04:55:00Z",
+      "title": "Komdigi Pertegas Kebebasan Berekspresi lewat Kepmen 127 dan 128",
+      "source": "RRI.co.id",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPcGhTR3o3U2xrRTAwNjR1by00cUdkUlE4cmdwNVFYLTAxRGZQek1iODFBc3JFNVdDamRrWWpETy1qU1Uzd3I0RjdFamE0OENURWlydUpYbXpsMHJKTlphRGg1VzdjV2NkSFFvZHk1Z1JvU2wxcndsNTM2ZnhkNjJsWE42N3RJdURJcnlOdWZlVEdYWGdVbUtHRVRELVRxd28?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-11-04T06:31:59.041239Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "18c1558c0fe1d916147ac466",
+      "publishedAt": "2026-11-04T03:21:00Z",
+      "title": "Hasto Desak Dugaan Kriminalisasi Aktivis hingga Jurnalis Dibongkar Usai Kasus Penyadapan Prabowo",
+      "source": "Warta Ekonomi",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQcVNpWXRPdHlBNUlqUXJDSVpiejdqUTlTeVBMNUxfMGd0MGg0THF3al95RFZyaTBvdjJqbC1zTzB1bl90RFNhZzBRWjVUU3RyV3BycTFKZTUtcUIzbTllSWF4dEZrRW5RcWpTbWotQ2duU1NOdXVpbWszRHlZWEs1ME9jc2NUZHJrc1B4Z2hFcXVmcHZEXzQ1M1kwWEUxbHNWRFBJT2lWSWQzT2tNUHhPYkNOOWk5OE5kMWxqNjJtbFpBWGZzZE14c2FPM0lneTI0RmlIMdIB1AFBVV95cUxQcVNpWXRPdHlBNUlqUXJDSVpiejdqUTlTeVBMNUxfMGd0MGg0THF3al95RFZyaTBvdjJqbC1zTzB1bl90RFNhZzBRWjVUU3RyV3BycTFKZTUtcUIzbTllSWF4dEZrRW5RcWpTbWotQ2duU1NOdXVpbWszRHlZWEs1ME9jc2NUZHJrc1B4Z2hFcXVmcHZEXzQ1M1kwWEUxbHNWRFBJT2lWSWQzT2tNUHhPYkNOOWk5OE5kMWxqNjJtbFpBWGZzZE14c2FPM0lneTI0RmlIMQ?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-11-04T06:31:59.041239Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "ea26393150de939976308807",
+      "publishedAt": "2026-11-04T03:03:30Z",
+      "title": "Kasus Penyadapan Presiden: Kronologi, Penetapan Tersangka Listyo Sigit Cs , hingga Penyitaan Barang Bukti - Krjogja",
+      "source": "Kr Jogja",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNUVhRd1g5N2VaVWVMYkNqZ05Ib3ItM2tCNThlc0k3LU5EZ3QtbG5YZ0hBR3NBdEhScWZpdkxfeHRDQVhYSnNJMFJwaUtlQURSVnExVlVFZGRlcVdQNWh2MDJBT2VKM2pVQUlWU3RVTzU3ekgtOVAzczdHSHVTS0k2WkhvVENkd1MwUXVxdU52dVlzT1Q2aUJoSVkzSHJuNkZYMzdiMjFyY01TUnhfeEhGNlNpMlBsdUt5aW91ZFd3OWxTRU5fTW1SME12UjRyS0VGRXVGcnF1T2Q3U0FUOWfSAeMBQVVfeXFMUEJvUW9UVGNzRGFkb2d6dzY4VG5wSy0ydnpJRi03WXVHRFdyMFZDdGdjSjVvX3U2X2JHUlZVQ1dEM0w3LTl4LWVLRTNEM1ExeUlRMFVRTlprWVItYnNuZl93MTl6cEcyNW56elV4N3ZtUno2ejBxYVFYd3ItcE5Vb0x3T3ZrR0pLV1VrNnhWZV9BbGc2WHhrOUdubl96RXg2bXRBZFVqeGJxOFZtQkQzLXhWVG13REVJY2VmNUpvbFZUTGRuYjRINHgwWEcwQk9wMkR1anZYUFAwV2lrWmJnTGY2bVk?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "pelacakan_penyadapan",
+      "subclusterIds": [
+        "pelacakan_penyadapan"
+      ],
+      "matchedQueries": [
+        "Pelacakan & Penyadapan (Surveillance)"
+      ],
+      "collectedAt": "2026-11-04T06:31:59.041239Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "fc6418d0d7a572146d7b9fdd",
+      "publishedAt": "2026-11-04T02:15:45Z",
+      "title": "Polda Sumut Tahan Ritman Marbun dalam Kasus Dugaan Penistaan Agama",
+      "source": "Website Resmi Polri",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQZ1hSYU5tUHNpXzV0M0FJUVl0VTd4M2FZZHZqUk9fa0hwSXFkOF9OSzRXZ2I2U2xWZ1pvVVl1REZ0UFo0a3hRSnlvcTZtZkJJVVZiM0VtN1hIUmRlUUhUSTJVZFpMeFFfUmFreV9BZnpSR2QtWFI5c25jb2FWVHRwT0FXbDlqYUZsNjNEbjJFb0lGYmRnNWJYY01RMUNBWVpWaEJjanlsSUJ3ZklxYUI0UExaU0Z1Tlc2ZlR5RGhsS2pFNENLZmV1aWljMjk?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_beragama",
+      "subclusterIds": [
+        "kebebasan_beragama"
+      ],
+      "matchedQueries": [
+        "Kebebasan Beragama / Berkeyakinan (KBB)"
+      ],
+      "collectedAt": "2026-11-04T06:31:59.041239Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "31d7a77d6fdddfed2f19ae1d",
+      "publishedAt": "2026-11-04T01:37:00Z",
+      "title": "Aliansi Jogja Memanggil Soroti Pola Kekerasan Berulang dalam Aksi Demonstrasi",
+      "source": "RRI.co.id",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNNThtWGZ4eGVrd1R0Rk94VWR1Z20tckhDVW5RQ1hRdlRTLUJhbmdZLWF2MExaLU1uaVVHckd1WVlHM21wNDVWU1RNSkJOd3V4YV9qR2p0dkFMZ0U1dTJJNFp4QlRyUDRMZDJObVRQVER3VmIxTVlRQ25vVnp4OV82QkxxX0ptTm9SLUtyeFl4ZWk0R3NCd3FZWGNxQXZORXAxempfYWpRclNQNE8xZ2lwTGhJX2dOemZyUVpoNlBRakE?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_berkumpul",
+      "subclusterIds": [
+        "kebebasan_berkumpul"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berkumpul / Berserikat"
+      ],
+      "collectedAt": "2026-11-04T06:31:59.041239Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
     {
       "id": "b7c5a574d5207971959119f2",
       "publishedAt": "2026-11-03T23:22:00Z",
@@ -1493,6 +1608,29 @@
       "reviewNote": ""
     },
     {
+      "id": "62782cffabc3126ec394df78",
+      "publishedAt": "2026-11-01T12:01:00Z",
+      "title": "Telaga Ngebel Hadirkan Atraksi Wisata Malam, Pemkab Ponorogo Bidik Peningkatan PAD",
+      "source": "Jatimnesia.com",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVEVwOUR3cFJxdTBUcm9HaXVuYjNnbktRbzQxbHJJd0I0Q2pDcjJrUDhxZnFiLTJKYWM4ZlQxbnpVenZBQzRic3ZRcGtfanBUMWlHNlBSd0ZWbTRQRnU4dVpESHMzbmRaeERmMzIxcndOUE5fMXhPelJQUFQ4ZEUxb1pQaDRXUkhHNFR0a3FrSlM4YlpwZlpud2dndmlmMkdDbDlocGkzb00?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "sensor_konten",
+      "subclusterIds": [
+        "sensor_konten"
+      ],
+      "matchedQueries": [
+        "Sensor Konten"
+      ],
+      "collectedAt": "2026-11-04T06:31:59.041239Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
       "id": "91c2f7ca3f66cce815f5cd0c",
       "publishedAt": "2026-11-01T11:37:11Z",
       "title": "Bebas Berpendapat di Media Sosial, antara Hak Berekspresi dan Rasa Takut",
@@ -2316,6 +2454,29 @@
         "Kebebasan Berekspresi & Berpendapat"
       ],
       "collectedAt": "2026-11-01T06:14:12.196679Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "bdceed2331635162decb3af4",
+      "publishedAt": "2026-10-31T13:33:43Z",
+      "title": "Young Lex Sindir Pembungkaman Simbol Tiga Jari Lewat Utas Viral di Threads - Indonesians.id",
+      "source": "Indonesians.id",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOZzBUcHBVbElwdzFLckRFd0tJVm5CQ18zVE9JMzRFckc3bUQzdFFhQlRDcFRBWWdQLTJzWFIzeXRPdUptT0p1dEVPdTkwNmUyZW5menExQ0dKWFdRWWdiLUhxblpLaG5GU3pwLU9FVWZqN1lLRFl6a21TQ1JYSkw5dlNiQ0dmTmktaDZqMnpNVjNNa01sVEk3THlQVG1JcjhjUm8ybHlLQUZ4M3JuQkl1b20wUDRHNG4tQkdIU245SlM4QzDSAcgBQVVfeXFMT2pEWTljQlM3eWVqbV9La0NQRVZoZEhpbGM4bnJwSHVKMmY4UE45WlUwVmFpaVFveWo5dUV1ZWdIemMwWXJTWWV6ejlsTTNvU2VnWVhob0hTdUQxbjhSRTB1MjdFc01saGNsME5qOTJaNTFrNnFUMnN1alU1eVBuQ2c4MkFqOGotWDlKc3lKZkt1VkIxM2tLTGJiaFo4RTNPTDQyNVZ4Yk00dUM4S2JkbWxLU0JNUi1yc3RGWnRta3lWWWMtMGw3Mlo?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-11-04T06:31:59.041239Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
