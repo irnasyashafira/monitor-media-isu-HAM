@@ -1,15 +1,15 @@
 {
   "meta": {
-    "generatedAt": "2026-11-04T19:49:15.259253Z",
-    "lastRunAt": "2026-11-04T19:49:15.259253Z",
+    "generatedAt": "2026-11-05T06:54:03.283961Z",
+    "lastRunAt": "2026-11-05T06:54:03.283961Z",
     "startDate": "2026-01-01",
     "refreshHours": 6,
     "mode": "incremental",
     "feedsOk": 16,
     "feedsFailed": 0,
-    "totalStored": 2972,
-    "totalPublished": 2972,
-    "newArticles": 14,
+    "totalStored": 2978,
+    "totalPublished": 2978,
+    "newArticles": 6,
     "warning": ""
   },
   "clusters": [
@@ -135,6 +135,121 @@
     }
   ],
   "articles": [
+    {
+      "id": "69976abcc8a00655b4131a08",
+      "publishedAt": "2026-11-05T03:23:32Z",
+      "title": "Komdigi Wajibkan Platform Takedown Konten Judol Maksimal 4 Jam",
+      "source": "riaurealita.com",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOcFhESGJyUUNHTzdfNzZxZXZiSWNXWWRzU0duVUJHYUljNGdjRGYwM2JUbjBpb3VGYjc4WkI3MTh3dmYwMTMxc1ZoclBuT20xN1FuNDBrTFI4a3VfMEFhMW9aTGFXOFVnVUlSYU41STRfalMyYXhxdlVxNzEydTNKVWdmOFcwakg1X3ZpdHpkckRQX1ZpXzZTekJ3QnVnWVk1VHFDZnppSdIBpgFBVV95cUxOSmdSTG9wUGMxRUhESHhYa1FIY0NqclA1cjJsdnNiYmVNUGIzT2VTbFdmbGhMVkRzY2VRUlNJUVZyMmdwdi1ocGFocElCUV9seTlXd0p5Z0wzVW9kNWt4RzVud1NRX1VNQWM5M3lYSWZ3YUhQY215ZXJqbmZnVFVETERpaktwNG1MLXNCeFNGMDZyb2FLN2NHYmJtYkhwX2ItOGxoTDJB?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "sensor_konten",
+      "subclusterIds": [
+        "sensor_konten"
+      ],
+      "matchedQueries": [
+        "Sensor Konten"
+      ],
+      "collectedAt": "2026-11-05T06:54:03.283961Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "48a62c0d540b3c1e63a9fc6f",
+      "publishedAt": "2026-11-05T02:40:00Z",
+      "title": "Kebebasan Berpendapat Bukan tanpa Batas, Hukum Lindungi Hak Setiap Orang",
+      "source": "RRI.co.id",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQb2tTOHJYTjFzRTJucGlQZnhLX1FwX1pneEExVWtELTZfWVJNRHo4cEVYVFY0Nk1mY3dZRFlaY0xJbmpsd0VGU0dINjNQR19uUXpBVTZpcmFQWE1GZjNGU0pkbWVMTDVRbXR2dlFPSkVTbVFjYjNkM0R6VXpPZzQxZTQxd1c4VTNha2Y2dmplcUktT201b2h2ZmVFZG90Tjl0aHprLTRwN0QyRUJEcmxvaVJJaVI?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-11-05T06:54:03.283961Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "afb113ae50b876b54f791975",
+      "publishedAt": "2026-11-05T02:15:00Z",
+      "title": "Ancam Kebebasan Pers dan Demokrasi, SAJID Kecam Praktik Penyadapan Terhadap Jurnalis",
+      "source": "Ketik",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNOTVzLU9tbWlUNnRTWk9zRVUyRlRCTHFHa3Z5YU5vak1UWVE0NUg3d1BlSmhRV2JHa3J5OENadENQU3pkODRrckpVams2UWJWOTRlSVI0U1ZXeGYwTERCRFdPWGdDVDEtQU1Sck9SWkN6YVpwWEh0U1ZYZ3dRMTZCY0RfWEVXV3BHSVVxdlJHWkRRbDUtMWk0QnJtUFJQZVV2MHRZNmQxb0vSAagBQVVfeXFMTTk1cy1PbW1pVDZ0U1pPc0VVMkZUQkxxR2t2eWFOb2pNVFlRNDVIN3dQZUpoUVdiR2tyeThDWnRDUFN6ZDg0a3JKVWprNlFiVjk0ZUlSNFNWV3hmMExEQkRXT1hnQ1QxLUFNUnJPUlpDemFacFhIdFNWWGd3UTE2QmNEX1hFV1dwR0lVcXZSR1pEUWw1LTFpNEJybVBSUGVVdjB0WTZkMW9L?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "doxxing_intimidasi",
+      "subclusterIds": [
+        "doxxing_intimidasi"
+      ],
+      "matchedQueries": [
+        "Doxxing & Intimidasi"
+      ],
+      "collectedAt": "2026-11-05T06:54:03.283961Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "b95ae7775221a3e13704ab7d",
+      "publishedAt": "2026-11-05T01:58:10Z",
+      "title": "Pembungkaman Konten Karhutla, Kebebasan Bersuara Hanya Ilusi?",
+      "source": "RiauNews.com",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQeWhfQ28yQ25tN3RmdVBJaXR4SE1VMHlXNm5RVEJUaGIxU05yamJYY0tEUWVNYlR5QnpRWGZwN0R6am94Vy10VGJ6a0JRNXZLN3I1LXRiaDhaRmdjZmJabUZPZHJVd3ZSeHU4T19mdmNTdDFqUGlWT242ZGs4ZjIzOVFUNGVCZVNjcDZPamtaOVRsY2pWQXFaRGwya0fSAZwBQVVfeXFMUHloX0NvMkNubTd0ZnVQSWl0eEhNVTB5VzZuUVRCVGhiMVNOcmpiWGNLRFFlTWJUeUJ6UVhmcDdEempveFctdFRiemtCUTV2SzdyNS10Ymg4WkZnY2ZiWm1GT2RyVXd2Unh1OE9fZnZjU3QxalBpVk9uNmRrOGYyMzlRVDRlQmVTY3A2T2prWjlUbGNqVkFxWkRsMmtH?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-11-05T06:54:03.283961Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "645922f99d7d8bdd47079f52",
+      "publishedAt": "2026-11-05T01:10:16Z",
+      "title": "Komdigi: Konten Judol Wajib Ditakedown Platfofrm dalam 4 Jam",
+      "source": "CNN Indonesia",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNMzVuVzJ6UV80VHpJNXE4bTJiTElyRnhXSlJvdXdwa1h6Y0NqakR4c0NWT0padzJGTUN1M1ltOGJzQUU3SlFiSXhXSkM2RDlzekxDaXRhdFdoYUFiakJxNUFnRFV4QzR5alNCZWtRR2NWMnFXWHBxQTlWS1A2Yk5DZnctQUgteWZFaTNFdVM4eER0eWttbjZkb2dvcUJRajIwTG9HMWlfSjZfc21JN29rYUhiTXBLYnNVUnJaMUFial9OWFE?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "sensor_konten",
+      "subclusterIds": [
+        "sensor_konten"
+      ],
+      "matchedQueries": [
+        "Sensor Konten"
+      ],
+      "collectedAt": "2026-11-05T06:54:03.283961Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
     {
       "id": "d7574b9509f44001c7000d59",
       "publishedAt": "2026-11-04T18:37:40Z",
@@ -545,6 +660,29 @@
         "Doxxing & Intimidasi"
       ],
       "collectedAt": "2026-11-03T23:26:46.814351Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "337d151863d24f1878c72a7c",
+      "publishedAt": "2026-11-03T14:19:49Z",
+      "title": "Pimum MSM Prihatin Dugaan Penyadapan Insan Pers: Jangan Sampai Menjadi Pola Pembungkaman Media!",
+      "source": "Media Suara Mabes",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPUFFjTXJHZGdYSmozNFhkdlR5TnhXZnd3a1UxSGp6Q21wRjNzcmdDVlMwemJMeWdTZU9vSXcxdUJsX0FKOFl6d2NCd29CdnN2REZYSDRVZk1tUnFBMXNEU1pGa3ROc0FDSFMwRmhVX3pheWo5NUQ4eUhIVFZfNW5iZDl6Z1U4MUVYNEc3Q0FOOUViX3NrWEUycWZBdEpxTUp3SkdyQVJLYUR3M29rWkhMckt6cTNjVUY1MW1WcDBFR19tcW5BODNJ?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-11-05T06:54:03.283961Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
