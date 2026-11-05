@@ -1,15 +1,15 @@
 {
   "meta": {
-    "generatedAt": "2026-11-05T06:54:03.283961Z",
-    "lastRunAt": "2026-11-05T06:54:03.283961Z",
+    "generatedAt": "2026-11-05T19:59:59.203122Z",
+    "lastRunAt": "2026-11-05T19:59:59.203122Z",
     "startDate": "2026-01-01",
     "refreshHours": 6,
     "mode": "incremental",
     "feedsOk": 16,
     "feedsFailed": 0,
-    "totalStored": 2978,
-    "totalPublished": 2978,
-    "newArticles": 6,
+    "totalStored": 2982,
+    "totalPublished": 2982,
+    "newArticles": 4,
     "warning": ""
   },
   "clusters": [
@@ -135,6 +135,52 @@
     }
   ],
   "articles": [
+    {
+      "id": "1a49af15ae99cb94478b225b",
+      "publishedAt": "2026-11-05T12:04:32Z",
+      "title": "Rumble: Platform Video dengan Kebebasan Berekspresi yang Menantang YouTube.",
+      "source": "quasa.io",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQY2FBTjdOZ2c5RjFWaG5wN2ZLNmptcXdQVjVWMzVDN1NXUlVzUlhuVWlJVmtSMEROQUxiNmJZM0xfcTl3aUVhTkRmT181bTRSaFVncFF6YjAwNVNhZGpXRVRueTJuRXlBR1JqRmRKQ3piZ3ZKaDNYeWdVSEJjZTBRZmo2V041TXdKTkIwMURrX3QzbEVGWkQxSzhvYjIwempC?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-11-05T19:59:59.203122Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "57d38c1a1cf5e805c801d35a",
+      "publishedAt": "2026-11-05T03:41:56Z",
+      "title": "Vokal Suarakan Nurani, Kunto Aji Akui Banyak Dapat Serangan Buzzer",
+      "source": "VOI.ID",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQdEs2ZVF1YzJmWmhiTTVDdEVBdGpNYzVfMkRnMnhxWkYxSXcyT09wbTkyUGtsR0ZKLTdvMnRJVUNBMWdqWEhaNUdnQUhMV3M1SHgtYmVYWWpGdjNCR1BsRXBCUUNiLUNwTXJnV2xjNXVTVUtzamVjTnNUZklwS1NocW9lTGk0TWJGd1dVWnQwakZ0Ui1uZnfSAZYBQVVfeXFMUHRLNmVRdWMyZlpoYk01Q3RFQXRqTWM1XzJEZzJ4cVpGMUl3Mk9PcG05MlBrbEdGSi03bzJ0SVVDQTFnalhIWjVHZ0FITFdzNUh4LWJlWFlqRnYzQkdQbEVwQlFDYi1DcE1yZ1dsYzV1U1VLc2plY05zVGZJcEtTaHFvZUxpNE1iRndXVVp0MGpGdFItbmZ3?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "doxxing_intimidasi",
+      "subclusterIds": [
+        "doxxing_intimidasi"
+      ],
+      "matchedQueries": [
+        "Doxxing & Intimidasi"
+      ],
+      "collectedAt": "2026-11-05T19:59:59.203122Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
     {
       "id": "69976abcc8a00655b4131a08",
       "publishedAt": "2026-11-05T03:23:32Z",
@@ -389,6 +435,29 @@
       "reviewNote": ""
     },
     {
+      "id": "5de7e5b48dd0e6b396a12e00",
+      "publishedAt": "2026-11-04T09:56:00Z",
+      "title": "Megawati, Haji Isam Hingga Zulhas Disebut Masuk Daftar Sadapan Listyo Sigit - Sawitku Id",
+      "source": "Sawitku",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxObmdHUEJKNU5Uc1dZZ0hhV2k1Tmtibl9MNFFDZHZ3T1NUS045dGhiQndIdHhtZ2lmdFl0VjUwcjRPVXhOS3UtNmtQaFdOUHpPbU1XSW5BcVE0cngyd0YzV2tZblpHYjEtTDVvelAtck1qdWV4M3Q1cFJVQktyR1JVNW9PRGg1Y1NoV3ZEdlIzVFFJMFh6bGcweGl0Ti02TXhpZG5LdnBlb0hhUFRJbUdEc09GcTRHa1ZydWIwatIBugFBVV95cUxNVlhjcjdlc1M3NlFpdU15cEY2LTlkV1c5SEdFM3dQMXBjbXZ0ckpiQnVRZG8zUThPNjBxMXU4YW4ySm10Q1hMajhqTFJBS19JamxMNXU1b1hQa3ZHcGVraTR3Q1Vwd3V6UTBfTDVaYnRCa00zMXo2MV9UVWlDRVRuUWtRM2ZJMkhMWG5UeFZQNkZzc044dzdJbmZxd3NoYTlQcEt2TjVKeUdYOXpxN1BITnh3TllaV2M4UWc?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "pelacakan_penyadapan",
+      "subclusterIds": [
+        "pelacakan_penyadapan"
+      ],
+      "matchedQueries": [
+        "Pelacakan & Penyadapan (Surveillance)"
+      ],
+      "collectedAt": "2026-11-05T19:59:59.203122Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
       "id": "a076e4c157e13d0d92375f54",
       "publishedAt": "2026-11-04T09:56:00Z",
       "title": "Beredar 43 Nama Diduga Disadap Listyo Sigit, Ada Megawati, Haji Isam Hingga Zulhas - Sawitku Id",
@@ -522,6 +591,29 @@
         "Pelacakan & Penyadapan (Surveillance)"
       ],
       "collectedAt": "2026-11-04T19:49:15.259253Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "4228f8b93a52c7b658f10625",
+      "publishedAt": "2026-11-04T03:34:00Z",
+      "title": "Kronologi Terbongkarnya Dugaan Penyadapan Presiden Prabowo: Bermula dari Penghapusan Data LIMS hingga Listyo Sigit Cs Jadi Tersangka - Nol Meter",
+      "source": "Nol Meter",
+      "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxOOTRuWTBJam9LSGpOS0N3eS0teXJuNHJrUzB4bkk2eEE4dHFoekRHVDg1aFZRX1M5TVQ4dkpYbUpBUEFXQWZYdVhHOUFKYnl1b0VacHhRWGtVOV84d1FmcjBPdXpOV21LYVRSOEcxRkNYN0Nualk4ZUdTTVhhT3VhSEpzTi14UEZWU0J3ZmN5TXB5NzZUaEFvb1ZMcnBHT2hFTjhqVWNWUTdfY1ROOGIxX2s0ai0zek1DQzBKWWdEUXpmd1JCQnl1NEtQUDdseHFpdElycmxnN3ZSUllqYWxudkR6SjVZVkU3VFc0V1RjbDA5bnVxMEQ1QUtvbVlQTnBtSXhndFNtVDZqTVRVUWfSAY4CQVVfeXFMTjk0blkwSWpvS0hqTktDd3ktLXlybjRya1MweG5JNnhBOHRxaHpER1Q4NWhWUV9TOU1UOHZKWG1KQVBBV0FmWHVYRzlBSmJ5dW9FWnB4UVhrVTlfOHdRZnIwT3V6TldtS2FUUjhHMUZDWDdDbmpZOGVHU01YYU91YUhKc04teFBGVlNCd2ZjeU1weTc2VGhBb29WTHJwR09oRU44alVjVlE3X2NUTjhiMV9rNGotM3pNQ0MwSllnRFF6ZndSQkJ5dTRLUFA3bHhxaXRJcnJsZzd2UlJZamFsbnZEeko1WVZFN1RXNFdUY2wwOW51cTBENUFLb21ZUE5wbUl4Z3RTbVQ2ak1UVVFn?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "pelacakan_penyadapan",
+      "subclusterIds": [
+        "pelacakan_penyadapan"
+      ],
+      "matchedQueries": [
+        "Pelacakan & Penyadapan (Surveillance)"
+      ],
+      "collectedAt": "2026-11-05T19:59:59.203122Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
