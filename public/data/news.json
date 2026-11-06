@@ -1,14 +1,14 @@
 {
   "meta": {
-    "generatedAt": "2026-11-05T19:59:59.203122Z",
-    "lastRunAt": "2026-11-05T19:59:59.203122Z",
+    "generatedAt": "2026-11-06T06:54:03.531354Z",
+    "lastRunAt": "2026-11-06T06:54:03.531354Z",
     "startDate": "2026-01-01",
     "refreshHours": 6,
     "mode": "incremental",
     "feedsOk": 16,
     "feedsFailed": 0,
-    "totalStored": 2982,
-    "totalPublished": 2982,
+    "totalStored": 2986,
+    "totalPublished": 2986,
     "newArticles": 4,
     "warning": ""
   },
@@ -135,6 +135,75 @@
     }
   ],
   "articles": [
+    {
+      "id": "f48ee590dda8bb3ba1a3b5b3",
+      "publishedAt": "2026-11-06T05:14:00Z",
+      "title": "Mohan Desak Diskominfo Percepat Pemblokiran Situs Judol di Kota Bogor",
+      "source": "VIVA Bogor",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPaTBHQVhKX2dKazl5ZHlhR0dWSmsyenBObHNvU2J5MVR3eDFDTWl3WjhtbjlHb0RhX0Y3enBzVHdJSFVRM2MxMzZKX0ZkMkM0dmJHeUwtVjdHZEVXUEFoSzNOMG8wOXVpeUlld0Vmand4TTUzd2RJV25PZ3NXdWRVLWtjTWloMy03emg3S1IxLVdmNld1VnZsWV9GZ1NmWExLc1U2Q2lsd1hNTHQtb3JjZ9IBtgFBVV95cUxNXzB0UjdJbTVLSG5URVg3eXd2UEZQd0REZXJTNjE5MjUxTW1KUGg1bXlxWlAtYnhBVHBnNVNWNVZvcE1PUER5VjNpMUZnQnowUkJtY3NldlBHUjAxOWFNWVNMYk4xeVI3MWoxcUNpbTBrWHE1aWE0TnpRS0d1dVdGZEc3Z0t3RlUxMUx1S2FsSkJsRkhOUXF1VG0xY3FpOG1kZzZwc29NVkFlR0s4SC1fRE5XLXpvdw?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "sensor_konten",
+      "subclusterIds": [
+        "sensor_konten"
+      ],
+      "matchedQueries": [
+        "Sensor Konten"
+      ],
+      "collectedAt": "2026-11-06T06:54:03.531354Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "cb164f939398cea73f87c384",
+      "publishedAt": "2026-11-06T04:00:14Z",
+      "title": "Uji Kebebasan Berekspresi di Indonesia, FH UWM dan UPN Bedah Koridor Hukum Kritik Pejabat Publik",
+      "source": "Gerbang Patriot",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOcFI2c0djeFBNR1ltZnlLWElnTnZjQzg3Z2pQOU01b0RvUEVaeVVKLWRic1RDRS1zSzJUMk9tLVgwTHBNeXJ0ZllVS3dDUjFRTEJwai1CMEY1dVhlMDkzTEdBMnY0VEQ3M085X0NYZW1HeDVNOVBucWxwcGV1U1hRalpsbE9xckZRUEstTTljSWs3MnUzYmgwWUU0cFhmMHQtR2dxUmxPSHNsZ09JS0VVYURSYWFIeTZKeldOZTQzRVRydnhqVl9wcDlNaWs1Qms?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-11-06T06:54:03.531354Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "e369f24069b421b88861ad05",
+      "publishedAt": "2026-11-06T02:46:46Z",
+      "title": "Kritis di Medsos, Kunto Aji Pernah Dikirimi Makanan Fiktif Tak Dibayar",
+      "source": "Akurat.co",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQR0FsREVMeWdZR0tHZHBlbzc4VUQ4X3NvNkZMeXVTdHI4Wk5WeTJKTzhEa1BPNHU0bFMxSTZuczJ5eTB6U0FiM1ZlRGxHYUFtUzZaSDlkN1V1TFl6dF96aXM2OTN5cEx6cV9vc1F6VW1uNlRSaWRwbHFlMXc2bFlPeTgzakxDZDRXWmtXVGtNaklwNkczNlFkdE5xRWh4RmVxM2Z6RzFuWQ?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "doxxing_intimidasi",
+      "subclusterIds": [
+        "doxxing_intimidasi"
+      ],
+      "matchedQueries": [
+        "Doxxing & Intimidasi"
+      ],
+      "collectedAt": "2026-11-06T06:54:03.531354Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
     {
       "id": "1a49af15ae99cb94478b225b",
       "publishedAt": "2026-11-05T12:04:32Z",
@@ -1143,6 +1212,29 @@
         "Kebebasan Berekspresi & Berpendapat"
       ],
       "collectedAt": "2026-11-03T14:23:11.724117Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "ff3664817a953177fb300d2e",
+      "publishedAt": "2026-11-03T02:03:00Z",
+      "title": "Komdigi Tekankan Akuntabilitas dan Kebebasan Berekspresi",
+      "source": "RRI.co.id",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPckh5R3FkX0dnYzFyRTFIUWlMTzNvazk2RnBjYk1sVHRHUXM3bDJvd19PQ0hjWkJ1MlRTR0JSTXBuc19KT3BWRUpOQW9oVFhzQi1icDFYWlFONFVDV3pZQkh4V1VSLWFuN0RKWGdHZ0ZUUEVjLUZGTDBBczNjWDN1MDVheGtWUnVIaWt2UDl2SlM2YS1NWkI2VWhrV0I4Uk9PZkE?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-11-06T06:54:03.531354Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
