@@ -1,15 +1,15 @@
 {
   "meta": {
-    "generatedAt": "2026-11-07T06:04:44.431211Z",
-    "lastRunAt": "2026-11-07T06:04:44.431211Z",
+    "generatedAt": "2026-11-07T13:09:46.232191Z",
+    "lastRunAt": "2026-11-07T13:09:46.232191Z",
     "startDate": "2026-01-01",
     "refreshHours": 6,
     "mode": "incremental",
     "feedsOk": 16,
     "feedsFailed": 0,
-    "totalStored": 3010,
-    "totalPublished": 3010,
-    "newArticles": 4,
+    "totalStored": 3017,
+    "totalPublished": 3017,
+    "newArticles": 7,
     "warning": ""
   },
   "clusters": [
@@ -135,6 +135,75 @@
     }
   ],
   "articles": [
+    {
+      "id": "ece41d7bcce779a5739dac37",
+      "publishedAt": "2026-11-07T11:14:00Z",
+      "title": "Ketika Suara tentang Asap Ikut Dipadamkan Halaman 1",
+      "source": "Kompasiana.com",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPM2x2eGxfTnlaMTN3NDVHUXBwVjMxZkpHS0FWNFVIa2hESUNObGlSUGVUOFM5dE0zNkZnM1ViazF4bUkzd2pPbGZPcFlDLVFpOWxybHVJX0tNdjRoMlZmZ19oNmFYVHQzUDRLRDZFTEJ1QlNWYWl6NkUtR3RZWW9mQjZEa1lTZ09tV3c0eGdnQ2t6TV95ZFRYdVRKN0FVVWN6RlNjRTNJY3FWcXJT?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-11-07T13:09:46.232191Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "da600cad24f55a5c3c5ec57f",
+      "publishedAt": "2026-11-07T09:41:46Z",
+      "title": "Kebenaran Dibungkam, Demokrasi Kapitalisme Sistem Tambal Sulam",
+      "source": "Arrahmah.id",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOSS1uQVJBbzVFekRfZ3BJZFptSDlZRDVjQ1VLYUNiaHRKV0I1dVhhVU1ON1NtZFIyN0FveXVod2ZxbEJPem45aHdvUTZpU1QwYkI4bHFhNFh5YXlLNGRpVk5iQ3JNUWk5U1JWVEhKUGZjeV9LTGF5RS10c2ljdUIzUXBNXzZ1algzTEZsU2ZB?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-11-07T13:09:46.232191Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "6022e60197905eb6228f0daa",
+      "publishedAt": "2026-11-07T03:23:47Z",
+      "title": "Film Laut Bercerita: Menjaga Ingatan Kolektif tentang Sejarah",
+      "source": "SUARANTB.com",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPVzE0SEc5Q0FCTFc1LXdyaGxhVENxUnJENm5fSkFad2JPQml1WUdmNVRuZy1wNGJMTDlvSDVjdU5NbGR0THdQblZJRTZYdzduRHNuRzFSTWhwYjdMOWZVUHNVSks4WHQxc210eWJETlEzSzRaaGkxZ25nc0t2bHVkQjUtQ2VmOU9ya0g0OXhGQmlnN3ByamcybQ?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-11-07T13:09:46.232191Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
     {
       "id": "02af451db9719b0e189ffef5",
       "publishedAt": "2026-11-07T03:06:12Z",
@@ -320,6 +389,29 @@
       "reviewNote": ""
     },
     {
+      "id": "f74c61cb4da52680e81f0bfc",
+      "publishedAt": "2026-11-06T10:21:00Z",
+      "title": "Penyadapan Ilegal dan Ancaman Kebebasan Masyarakat Sipil",
+      "source": "Magdalene.co",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPcGRObW1EMEpoczZ5OWRBSTlTOWtJTm9CNmIxODFiNWhUcFhZaXkydUFBdnBhSVpSelN0ZDZ4RlF1eURzWmJ1M0FybzRvbkVpMlk4SWJDUnlPX0RqTndHY05GdUpreUxhc3FvM25hU251cWp4TlZHcHlHamlocnVReXhndmdFUnZ5WlpkdA?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-11-07T13:09:46.232191Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
       "id": "ee671ed3b49139b624eff677",
       "publishedAt": "2026-11-06T09:41:32Z",
       "title": "La Ode Umar Bonte Kecam Pembungkaman Kritik dan Kriminalisasi Wartawan, Tegaskan Komitmen Bela Demokrasi",
@@ -384,6 +476,29 @@
         "Kebebasan Berekspresi & Berpendapat"
       ],
       "collectedAt": "2026-11-06T19:27:41.057599Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "a8dd54d92e879f7d635e139f",
+      "publishedAt": "2026-11-06T05:17:21Z",
+      "title": "Polda Aceh Apresiasi Kedewasaan Masyarakat dalam Menyampaikan Aspirasi",
+      "source": "Jaringan Berita Aceh",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQRl96SFNXY080LUtnWmFJcGZSWVB4Yk4ya0lXNU1YUEdvOXZsUTdsN1lRR3pNcnJvMEhZT0JlVkZMbWZWa1hHUGVYMUZvQXhZbDdwODZ6WXdQNWIxU3Bnc2xfN250ZDJUdmFRTTV5RnZtc3lXVnB1elRiek1iLVBKYnM0V3lDc2tDMlBwbFF6d3FuWElldzRVOWFxZi1FVFJjc2tMVUd2SVhuVFE?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-11-07T13:09:46.232191Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
@@ -591,6 +706,29 @@
         "Kebebasan Berekspresi & Berpendapat"
       ],
       "collectedAt": "2026-11-06T19:27:41.057599Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "95a77145cccbf0d1745ca7d4",
+      "publishedAt": "2026-11-05T04:48:04Z",
+      "title": "Demo Bundaran HI: Antara Aspirasi dan Represi",
+      "source": "Kompasiana.com",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQZHdfRWtLazQ5TUlIdmxkUEJxRFB4Tkp4SkYtU0xaY1o0Q1VORzBfYXhTbDk1Unp1Y2xKSm1sRF9weHI3YW1jSTNXaDJKVnFic3dlOTEzTFQzV25IUGVFS1Y5RnhGaGpRSXNJNVFRSm9UcEc3U1JmR2dxZkpfRFVKTGVfeEIycWtGV0RiUnVic3RDc3lqdHZkdjFQcGZYc3ZMZi1wNWhDTGR0Umtz?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-11-07T13:09:46.232191Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
@@ -936,6 +1074,29 @@
         "Doxxing & Intimidasi"
       ],
       "collectedAt": "2026-11-04T19:49:15.259253Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "cf6be67044d6ab955cb55ffc",
+      "publishedAt": "2026-11-04T10:03:00Z",
+      "title": "Presiden Disadap, Gerindra Puji Ketegasan Kapolri Tegakkan Hukum Tanpa Pandang Bulu",
+      "source": "Gerindra Sumut",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOcmZIX2lyam1UdlctcmxQMFhsX19xYVFMQ0p1d1luSk5NdFFhX0FSb3k1T25MRkNBYTdHYnlFQ3E0a0FzNzk3Q09tWWQ3OW9vbjNoNGxzb0VOeXVteDFnRnhvaUFhMXlOSHVHQzhOYTVWUGJ0bl9KRXc3VHpaMkN6cTVWZnBEUXNfRUJjem40ZHFGemNOemw0V2FCTGEycUlfb1BmV2ZMYXZ0YWNl?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "doxxing_intimidasi",
+      "subclusterIds": [
+        "doxxing_intimidasi"
+      ],
+      "matchedQueries": [
+        "Doxxing & Intimidasi"
+      ],
+      "collectedAt": "2026-11-07T13:09:46.232191Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""

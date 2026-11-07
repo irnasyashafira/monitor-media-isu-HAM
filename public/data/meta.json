@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-11-07T06:04:44.431211Z",
-  "lastRunAt": "2026-11-07T06:04:44.431211Z",
+  "generatedAt": "2026-11-07T13:09:46.232191Z",
+  "lastRunAt": "2026-11-07T13:09:46.232191Z",
   "startDate": "2026-01-01",
   "refreshHours": 6,
   "mode": "incremental",
   "feedsOk": 16,
   "feedsFailed": 0,
-  "totalStored": 3010,
-  "totalPublished": 3010,
-  "newArticles": 4,
+  "totalStored": 3017,
+  "totalPublished": 3017,
+  "newArticles": 7,
   "warning": ""
 }
