@@ -1,14 +1,14 @@
 {
   "meta": {
-    "generatedAt": "2026-11-07T13:09:46.232191Z",
-    "lastRunAt": "2026-11-07T13:09:46.232191Z",
+    "generatedAt": "2026-11-07T21:55:01.120875Z",
+    "lastRunAt": "2026-11-07T21:55:01.120875Z",
     "startDate": "2026-01-01",
     "refreshHours": 6,
     "mode": "incremental",
     "feedsOk": 16,
     "feedsFailed": 0,
-    "totalStored": 3017,
-    "totalPublished": 3017,
+    "totalStored": 3024,
+    "totalPublished": 3024,
     "newArticles": 7,
     "warning": ""
   },
@@ -135,6 +135,144 @@
     }
   ],
   "articles": [
+    {
+      "id": "868f359fe8e5dacbd7ad6db8",
+      "publishedAt": "2026-11-07T16:21:06Z",
+      "title": "Pembungkaman Suara Perempuan di era Demokrasi Halaman 1",
+      "source": "Kompasiana.com",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPdVNyc2t4OTRhYUdnQjBzUURFbEVYT24tRHU5QjdSYWt4YkpaelNtMmRHUFNlMTMxb0wxVDk2T0YwNkx0RHBoN2Rjclo5YlFkZGRJNmo5bnFBZ1NfaFlucGJpc0pYaE9aNkI5Q25xb3F4c195eW1ndWJUa0hUQjZWWTFkNGJKZUdQN1RiVnlrYTdzdTdfTl9mSzZ5TVI4VkJzTHN4UXYtQm5EYTRF?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-11-07T21:55:01.120875Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "553643215b2ef44a33541bcf",
+      "publishedAt": "2026-11-07T16:04:52Z",
+      "title": "Pakar UPN Jatim Minta Pemerintah Transparan Batasi Konten Medsos",
+      "source": "ChatNews.id",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5QVmlWeng2Z0VBcXJXQ3VCN05IUmtqVUhUQ3M0T1cyUjdMSEVRdnRPVm8xbmpLMWhSdmhOVVo2SVNHRVMybURJakhabDNyNjI1QVdjR2I3eVlwLW5xb0djMFUxTEZhQm8?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "doxxing_intimidasi",
+      "subclusterIds": [
+        "doxxing_intimidasi"
+      ],
+      "matchedQueries": [
+        "Doxxing & Intimidasi"
+      ],
+      "collectedAt": "2026-11-07T21:55:01.120875Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "cc56c3fb3930ad8659d712b9",
+      "publishedAt": "2026-11-07T16:04:34Z",
+      "title": "Pakar Minta Pemerintah Transparan Batasi Konten Medsos",
+      "source": "bsinews.id",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBBdnF1eWJXdDF3eXhvVjR6V1QxOEdLVnc0WktiUzN2MEJxaF9pbnoyTVV2YXBrN3htTzZJVmFKMDRzY3lweXJPbzBEZzdZUHZWNnhraXdFWS1zTTdDTTFlTE51VkttczVhTWtwakpfdw?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "doxxing_intimidasi",
+      "subclusterIds": [
+        "doxxing_intimidasi"
+      ],
+      "matchedQueries": [
+        "Doxxing & Intimidasi"
+      ],
+      "collectedAt": "2026-11-07T21:55:01.120875Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "ea3d79e757000adea3e78a71",
+      "publishedAt": "2026-11-07T15:12:13Z",
+      "title": "Mahasiswa Bandung Menggugat Penganggaran Pendidikan, Penyelenggaraan MBG, dan Penanganan Karhutla",
+      "source": "BandungBergerak.id",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOZTFUTGhjR1d0ZlhMb1cxc3lLbDlmVFg0TnZSaTk5QWRoVmFWRzJjRjB3RlBmS2UzY29VMHBXRkhlbi01ZTBlbGZxMVRlcExycXI1TDNSMl9NNWYtOEdlNFhIV3JFelZiLUtTWTFpbVpKUjRoNE5ubEJZZXFHLUxISUNhZEZvNzduY1YzZ0pwYy1HZGF6YXpvNDJLS0YycnJBZ1RDRDdtc1RUaUZHdXh4RnE2WGc1SXFLcE12RC1GbzlXazdYeXdUd2VucS1jdw?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_berkumpul",
+      "subclusterIds": [
+        "kebebasan_berkumpul"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berkumpul / Berserikat"
+      ],
+      "collectedAt": "2026-11-07T21:55:01.120875Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "3a777d15b3298948a369b82e",
+      "publishedAt": "2026-11-07T13:54:18Z",
+      "title": "AMPG Siapkan Langkah Hukum untuk Bela Bahlil Lahadalia",
+      "source": "Koridor.co.id",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5MSWsxZ0gxclY2LUdzdTVFSEpJcGNhUDJOa3VZY0hpc2dUTHM2WTc3R3hDdTZEUHFjVUxYWVY1akxLNlFDYnpTM0tyMmZhSHZnaE1hSnNCMmt0VW96UVN1MjBR?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-11-07T21:55:01.120875Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "52c2ddcbf6d45ea9ec73405e",
+      "publishedAt": "2026-11-07T13:25:07Z",
+      "title": "Kebebasan Berpendapat di Media Sosial dan Batasan Hukum yang Mengaturnya Halaman 1",
+      "source": "Kompasiana.com",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxObGgwTnpzVUpmQlIwcmwtcHJ2d0xGV25lVzQ1cURHMEt6NjIwZlJkVGJDREhnS3dwRGVURHIxQ0xRRzExY1c5alhMWGpwN0haSlBCeFFGYWx2MHRxbVRLRmR4RnhoMjlnUndnanhzUEp0N0lRaVFXdTdIcGJJazA0eTV6Nmtsdzlscm4xbUNkZVplTWpwVzRDZjU3Y3ZzSnBOYjVoS3FHQTctNlIwTGJESHJFUlhkd0JDMjNET0NKelJmZHowZlJqcVVnc3ZRX05iaWx2eA?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-11-07T21:55:01.120875Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
     {
       "id": "ece41d7bcce779a5739dac37",
       "publishedAt": "2026-11-07T11:14:00Z",
@@ -729,6 +867,29 @@
         "Kebebasan Berekspresi & Berpendapat"
       ],
       "collectedAt": "2026-11-07T13:09:46.232191Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "043fcc89a08cdd94dec221b1",
+      "publishedAt": "2026-11-05T04:43:35Z",
+      "title": "DPRD Dorong Diskominfo Kota Bogor Aktif Blokir Situs Judol",
+      "source": "klikbogor.id",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQNWNUS1M0eDRwM21IbWY1SVJGbXlBR2tWZUs4Um1ObTRqYko0UG44NVpRblc0cHc1Y0ZHQXN2ZENvWFREakRKZ1kzQXp4a3B5Sy03VzlpLVRjejdydzJiM3M5T2xYT2NoM1BSQmtzZ3FZM2lfRVNUY3NjLWJzUnpZb0VRV0t2VTjSAYcBQVVfeXFMUDVjVEtTNHg0cDNtSG1mNUlSRm15QUdrVmVLOFJtTm00amJKNFBuODVaUW5XNHB3NWNGR0FzdmRDb1hURGpESmdZM0F6eGtweUstN1c5aS1UY3o3cncyYjNzOU9sWE9jaDNQUkJrc2dxWTNpX0VTVGNzYy1ic1J6WW9FUVdLdlU4?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "sensor_konten",
+      "subclusterIds": [
+        "sensor_konten"
+      ],
+      "matchedQueries": [
+        "Sensor Konten"
+      ],
+      "collectedAt": "2026-11-07T21:55:01.120875Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
