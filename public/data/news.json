@@ -1,15 +1,15 @@
 {
   "meta": {
-    "generatedAt": "2026-11-06T19:27:41.057599Z",
-    "lastRunAt": "2026-11-06T19:27:41.057599Z",
+    "generatedAt": "2026-11-07T06:04:44.431211Z",
+    "lastRunAt": "2026-11-07T06:04:44.431211Z",
     "startDate": "2026-01-01",
     "refreshHours": 6,
     "mode": "incremental",
     "feedsOk": 16,
     "feedsFailed": 0,
-    "totalStored": 3006,
-    "totalPublished": 3006,
-    "newArticles": 20,
+    "totalStored": 3010,
+    "totalPublished": 3010,
+    "newArticles": 4,
     "warning": ""
   },
   "clusters": [
@@ -135,6 +135,75 @@
     }
   ],
   "articles": [
+    {
+      "id": "02af451db9719b0e189ffef5",
+      "publishedAt": "2026-11-07T03:06:12Z",
+      "title": "Pelarangan Ibadah di Rumah Doa Terjadi di Kampar",
+      "source": "tribrata tv",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOYjlFbV9JUTRnYWRNaUNIeVlyTUFtQUFPN0w5ZzhXd3dvY25ZQ0VCWEtEYnFzbGNRb2I5ZTEzMC1xN2pEWU52ZU14c0VxTzU1UUNwS3NYb2lLV011elZDd0NOZjI1a2lOcGNFLVhDM0tKLTNaRHJPMFBCS25DcGdiMjFFUFRTUlZxME43YXRSOTVNdw?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_beragama",
+      "subclusterIds": [
+        "kebebasan_beragama"
+      ],
+      "matchedQueries": [
+        "Kebebasan Beragama / Berkeyakinan (KBB)"
+      ],
+      "collectedAt": "2026-11-07T06:04:44.431211Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "09280d18a11df9215fdceeef",
+      "publishedAt": "2026-11-07T00:19:34Z",
+      "title": "UWM dan UPN Veteran Jatim Bahas Batas Kebebasan Berpendapat dalam Negara Demokrasi",
+      "source": "RiauNews.com",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNNVdndjlMU2xDN2lhRGZvb2l1RFZjMmFpMDRHZkFUYnpDTzJjcUczODlTRWZIOU1rRHk4OGVLMW5hRzJqalBSX1NXbU83b0lNUzFJTGs5bGpGY2JJLWZLbm5hbzRIVk1ORHFUVDg5ek9aUjRvei1mVFRRWDRTMU9sNUhsRUYwQ1V4NXRSeWo3SVVGZWI0MURSazVoUTN5azJNRHUwSDlRMDdxWUNrdHdYdXZVVWdpeVRTN2hGT3R4MFVVY2_SAcMBQVVfeXFMTTVXZ3Y5TFNsQzdpYURmb29pdURWYzJhaTA0R2ZBVGJ6Q08yY3FHMzg5U0VmSDlNa0R5ODhlSzFuYUcyampQUl9TV21PN29JTVMxSUxrOWxqRmNiSS1mS25uYW80SFZNTkRxVFQ4OXpPWlI0b3otZlRUUVg0UzFPbDVIbEVGMENVeDV0UnlqN0lVRmViNDFEUms1aFEzeWsyTUR1MEg5UTA3cVlDa3R3WHV2VVVnaXlUUzdoRk90eDBVVWNv?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-11-07T06:04:44.431211Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "612f6dfc1ada7342e3a7a3f0",
+      "publishedAt": "2026-11-06T23:50:27Z",
+      "title": "Foto Mohan Desak Diskominfo Percepat Pemblokiran Situs Judol di Kota Bogor",
+      "source": "VIVA Bogor",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPV1dkUVRSS3lMV2FSOER0Wk1yQkk4a01uMm9MMXBuMlBZMHJWajg0TElBekJ5OWs3RUpONkpUS3BkekxkYVd6LVVJSzFIVlo4ejFtOVJNODRJSjhibnlTNHRBcWwycEVKNnNTYUtjcW1iXzY0X1A1Uzc2MXRIY2VJd0VVUlplOVNwVEY4LVEwZlZ0eG1KeUFiRGluenBLLTE1LUk3THFRNA?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "sensor_konten",
+      "subclusterIds": [
+        "sensor_konten"
+      ],
+      "matchedQueries": [
+        "Sensor Konten"
+      ],
+      "collectedAt": "2026-11-07T06:04:44.431211Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
     {
       "id": "28ef68de4b4e79b1c8503b8f",
       "publishedAt": "2026-11-06T18:32:44Z",
@@ -407,6 +476,29 @@
         "Kebebasan Berekspresi & Berpendapat"
       ],
       "collectedAt": "2026-11-06T19:27:41.057599Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "26cac5f0107dc77819992443",
+      "publishedAt": "2026-11-06T00:48:00Z",
+      "title": "Mengapa Jurnalis dan Aktivis Kerap Jadi Target Penyadapan",
+      "source": "Tempo.co",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPS3VhY2ZQUGtyR2lENm12dnJJUEZXUlhSOE5fbTkzbHdvUEtncGpXWGFMM1dreFU2Zk5GRnlGa2psUE9zU1ZaTkVQZXlpODNPVnZmS2podGR1LWJFTkszV2tCbXByNUs0MTFwb3ZrWkxoN1dLUVlBZHJmeGVFQVhCNzVpcG5qNDJwYVIxV0J5TEpsU0FNTm9iNF9YQQ?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-11-07T06:04:44.431211Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
