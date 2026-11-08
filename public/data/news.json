@@ -1,15 +1,15 @@
 {
   "meta": {
-    "generatedAt": "2026-11-08T13:30:48.402457Z",
-    "lastRunAt": "2026-11-08T13:30:48.402457Z",
+    "generatedAt": "2026-11-08T22:10:57.383808Z",
+    "lastRunAt": "2026-11-08T22:10:57.383808Z",
     "startDate": "2026-01-01",
     "refreshHours": 6,
     "mode": "incremental",
     "feedsOk": 16,
     "feedsFailed": 0,
-    "totalStored": 3039,
-    "totalPublished": 3039,
-    "newArticles": 9,
+    "totalStored": 3042,
+    "totalPublished": 3042,
+    "newArticles": 3,
     "warning": ""
   },
   "clusters": [
@@ -135,6 +135,52 @@
     }
   ],
   "articles": [
+    {
+      "id": "92bb104e3e9df19c711b9f5d",
+      "publishedAt": "2026-11-08T18:36:54Z",
+      "title": "PLAVE Puncaki Billboard World Albums Chart, Stray Kids dan TWICE Juga Bersinar",
+      "source": "WowKeren",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1wQmlIX0hoNzBzMS1HekM4dmRUYjlILW9idUd2ekxrM2tkVXFzWXNqZUdQdzFNRDNEcEt6RE1OeVU4U1pBY3MzODRxVk03U01HM2NlRWo3R1hFQV9xaTc5THB3?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "doxxing_intimidasi",
+      "subclusterIds": [
+        "doxxing_intimidasi"
+      ],
+      "matchedQueries": [
+        "Doxxing & Intimidasi"
+      ],
+      "collectedAt": "2026-11-08T22:10:57.383808Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "827f7c931aa2a4e18ce17fb6",
+      "publishedAt": "2026-11-08T15:28:01Z",
+      "title": "Foto Artikel : Kebebasan Berpendapat Bukan Tanpa Batas: Belajar dari Polemik Ijazah Jokowi",
+      "source": "Kompasiana.com",
+      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNM2xLWXdNaUJZVGVTS0NvTUtYcjYzQURzcVlnaV9RdXJNYmFrZmF0YXlxTWU5aTJQY3NCWDM2dmNPRExnYmRoTDVBbzkzRUNONXZVSG1pdXVwN0I4dGNENF9pZ3c3NWkyaXFXYjQtTG0yd3BNdEdxU2d2Wi1XZEJ2eEF1OHowTkV4RTZzYjU4S3B1Mm1TTTZiOEdsSTNBYlhtVzVMTFRWNTBINjEyWXBBMGtoMkdGN0FLdWlSR2wzaU85OFhPYWFfZEtNS2x6VFhsVUNIMzA1bmYyeWJGMU1XdThDcVNsVmV3SW5nVUhaaVVTQQ?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-11-08T22:10:57.383808Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
     {
       "id": "1dcca5bdb49c37d8ecf08433",
       "publishedAt": "2026-11-08T11:51:07Z",
@@ -430,6 +476,29 @@
         "Kebebasan Berekspresi & Berpendapat"
       ],
       "collectedAt": "2026-11-07T21:55:01.120875Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "35947cf13174c84c6f9841e8",
+      "publishedAt": "2026-11-07T16:21:06Z",
+      "title": "Pembungkaman Suara Perempuan di Era Demokrasi Halaman all",
+      "source": "Kompasiana.com",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNY09LU2NnX3ZueUFsdzlWLVVERW5XdWl1ZDRQcFZDV0h4LWs5ZFVHNDN3LW04R3RmOEZKRTZEdk53cm51YXZNVTAxLWttcnYzMDM0Tk5EbGlQdmFKNzFZcUFoMkVENTN4T1FvLWplWENQdUNOTE9qMTBrVkhiWEs0T2hmNmp1azNlbTBYa3YzOGdOQ0xWTmsyUEd3ZThPV2F1MzNlUnZhQzhkaGpPYTdtWWhXQWI1LWpy?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-11-08T22:10:57.383808Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
