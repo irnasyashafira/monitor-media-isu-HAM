@@ -1,15 +1,15 @@
 {
   "meta": {
-    "generatedAt": "2026-11-08T06:08:41.803739Z",
-    "lastRunAt": "2026-11-08T06:08:41.803739Z",
+    "generatedAt": "2026-11-08T13:30:48.402457Z",
+    "lastRunAt": "2026-11-08T13:30:48.402457Z",
     "startDate": "2026-01-01",
     "refreshHours": 6,
     "mode": "incremental",
     "feedsOk": 16,
     "feedsFailed": 0,
-    "totalStored": 3030,
-    "totalPublished": 3030,
-    "newArticles": 6,
+    "totalStored": 3039,
+    "totalPublished": 3039,
+    "newArticles": 9,
     "warning": ""
   },
   "clusters": [
@@ -136,6 +136,167 @@
   ],
   "articles": [
     {
+      "id": "1dcca5bdb49c37d8ecf08433",
+      "publishedAt": "2026-11-08T11:51:07Z",
+      "title": "Krisis Demokrasi pada Rezim Prabowo.",
+      "source": "Kompasiana.com",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOTTg3ejJpVGdzekxwY2xHQUpzNXM3cHJ1a055VnFudldCM1NOdHdSWHhpdlpVUUxQT1IwT0JWOXZ6dXRfTHNWQ2J4SUFKUmduYWJtWVhMSUtMSHZSSjBJUkdXQ0FzMzFDcnFXRzBnYkVNWHBvaDhuc3I3bmFRRHQ2YWc2NV9UV0xJWXM4cmRfZHFkTlpTbEExQXRwVG5hb3dtaWV0bjF3?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-11-08T13:30:48.402457Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "ab76770fd3223e8630786988",
+      "publishedAt": "2026-11-08T10:30:00Z",
+      "title": "Komdigi Tegaskan Kritik Tak Bisa Sembarangan Dihapus, Ini Aturan Baru Konten Digital",
+      "source": "ValoraNews.com",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNM0ZGdTFLY2IxQUhQV0daLTQyZG5Mb3JoZGJrSldyc0tVZnE2TnBVVjFYZDZOcU45WDVubkJrWTBSR3pManBrLTVkYjBBR2ZaM2tvVHlod1V4MXgwb3NtdERoRThPTWdQNnBSSjJBN3F0YmVndXE1WDVVRGw2WHViU05ORVU4TTVPRGJ2YnNkOV9xUGNiWGhGTHk2emljdGxLczdQU0tjZGJoNEZVUW4zOVRJSjdjTHN1cEpTck9OOVY?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-11-08T13:30:48.402457Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "3536cb76c21be069128ca88e",
+      "publishedAt": "2026-11-08T10:03:12Z",
+      "title": "Pengaruh media sosial terhadap perkembangan demokrasi di Indonesia Halaman 1",
+      "source": "Kompasiana.com",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNcmhkam9VeEFZOUhZdUk1cklXbWJRU3dfRUtyTFIwZVNSSUFVdHZRZG5RaFhlUW1PamZzS0tFT0hRUGxCZkxDVlk5d0JEX0NSeHhrai00d2k0LU03VHdnSzFRNkFhRUlEemlpUGpCQXc4cV9tSnZfRGJEbDhWa1Z6cFV2REMzRUVhMFg0UTJJSXB4NWFKcll4VkJlUkZOTmpDQ0lCM1JsVkN0YXhSektvWTFnVnRNUTJ6MkFFcWJVS2E2QWp3RW5IcjQ0OTk?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-11-08T13:30:48.402457Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "433ccdc9b0d851700a1576d6",
+      "publishedAt": "2026-11-08T07:33:00Z",
+      "title": "Terbatasnya Kebebasan Berpendapat di Tengah Kekuasaan Orde Baru dalam Film Laut Bercerita - kumparan.com",
+      "source": "kumparan",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQV05aX0h5R2lBUHpUOHh5U0QyS0JDZTBkNjdFRjYzZ09SdW56QXhPS0JiOGg0M1dZWVJjYVlaVDhPS0IyckFiNkhBUHFFYkY3VmZZREZaZnRPYUJoczJJVzItR093SjVrYUxWUUxwQlM4SjlKUHNsdGhNLUZ1YlFGcU5IUnJVZklpdzVxUXFSOVpNeFUxREdoM1JQWjc3X1NFR24zenVLbTVZM1FaMlhlYy1IMHUwUUh5X3VROUp3bGlwbnZzY3pGMHZidGdaYnpB0gHYAUFVX3lxTE1YdFV2SGRZVXVTWUFYQ1IwTFFFb2NNRXBsVXRrWFg1S0t5YVFtcWloMDAwWDB3S0xYU3U0R1FGUzVGMGxHa3VGVHdsY2dxYXFaT2tTYm56WXozSmxVS3Jacmt0Sk1Qc0ZkekQ5QUZSSm90YUg5d0szMlBiajZLbG92cG1ITlMybERZUHA2TzdseUdPSkRnc0FCaVI2MTlwcXJyUjQ5ZWVWYk1IMHNPdk1remRaQld5X3M4UnhXN3htYXk1Rk5BMjU2SktoMklQaHp5eEZPbkpKeA?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-11-08T13:30:48.402457Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "e2d739ee6cc5a5ffe97c7273",
+      "publishedAt": "2026-11-08T07:10:44Z",
+      "title": "Kebebasan Berpendapat Bukan Tanpa Batas: Belajar dari Polemik Ijazah Jokowi Halaman all",
+      "source": "Kompasiana.com",
+      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNUWlXaER0N3BMdExweXZuVXR1bkI3U2prNjc2ODUxWVNaR3llenlGV2NPV0NWT1l6cjJPbXNLNTVCQjhja3ZyWDV3QW5vTDhjQXRFNXd0NlR4RTg2LXJ4LTFHMC1hOWo4TVZFdi1zZ2pxXzcwUmFaMl9KbnpXZ0JtQ2hMTGRaZ1ZHWXZaS1hFV2poY1ZRQmg2eXo3d1NMekNOMWc0dHBJMnJEV0xVeDU2OUp2andZLXhzdEx4VnM4dVNTa1MxdUpJWE1VZWZvRVk0R19razBIMGtLR1A2WlR3VnY1bHZNLUxuN3k4Yg?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-11-08T13:30:48.402457Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "69ef1ab3434ee3d1565035ef",
+      "publishedAt": "2026-11-08T07:00:42Z",
+      "title": "Polisi Angkut 13 Pemuda dalam Penertiban Pesta Miras di Mimika",
+      "source": "Cepos Online",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQSF9jVUxvV3MwdUVNREN1UXptcDZaV1QzSkQ3dmc4RUdJNlZVUVhwTkh0TnFFczh5UkVnQkxJV3lWbVVTTnhTWERKak94NFN6NkY4dW4wa3dTR2ZJbjVpYXhPNmhMYUlOTlFHbGFHTFpfSFZaZ0hISFhxbEs4c1VyZC1rY2pwbjFYb0tnejkzZWRPalZ5bkkyNmlFZDhydVBMNEpiLXc4aUVuVnkz0gGyAUFVX3lxTE0yWk94a1RhVlVCdi1hdU50amEzb3U4aTI1ejV1SG9jeTFjSTV2YVFkci1pOWVoeWl3M1J2NHZPeV9HRDE1RkduTkMxVkZhQnZYZ2dEOThwUEREWVhRbS1LdVlaQjlXNURPcVlBVHJkZ0ZzcWdYTEtBM1llMDh6MlBhX1JXZ0hqSm1mdkdycUpYYmxOb1lsMTJaNElJTXVyZDNQSHJ6Q25zbmJsSFE1MnZjaVE?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_berkumpul",
+      "subclusterIds": [
+        "kebebasan_berkumpul"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berkumpul / Berserikat"
+      ],
+      "collectedAt": "2026-11-08T13:30:48.402457Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "de3070f0b381b7769b946fd3",
+      "publishedAt": "2026-11-08T04:45:41Z",
+      "title": "Bareskrim Bantah Mendagri Tito Karnavian & Eks Kapolri Idham Azis Ditangkap terkait Kasus Penyadapan",
+      "source": "Tribun Video",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNNHAtVDlGeVc1b0QyTVFmMUFQVHo2YXVJZFV0ZV9nc01qM2JYaFdkQWV4QThoMDQ4eVk3eGd4Z1N2MDdfNTdNMHZDWjJJaDJGaERuSnU5Y0I2QXJfTURQdVFjV2wyZjZWM3VKTUpVQ3haZTFvN3Eyd1ExM3ljZ0o4RDlWdTQ5RXkzU09UYjhQZ2o2Ym1jQ1ctYW1JWk1nY2RUTXVmc1duSnV5SGZkS0UyUjIwZjV4emp2TzJoNnRkVVphSUY1WUl4RHNCZlhmWnFkdENsMHFR?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-11-08T13:30:48.402457Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
       "id": "0bd7c9e44cc443ab0c45f42a",
       "publishedAt": "2026-11-08T04:30:34Z",
       "title": "Data Menlu Italia Bocor, Hacker Gelar Sayembara Cari Informasi Keluarganya",
@@ -154,6 +315,29 @@
         "Doxxing & Intimidasi"
       ],
       "collectedAt": "2026-11-08T06:08:41.803739Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "494059237679312c82b63d72",
+      "publishedAt": "2026-11-08T02:55:00Z",
+      "title": "Pembungkaman Suara Perempuan di Era Demokrasi - kumparan.com",
+      "source": "kumparan",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPRFd5ZVl4eUJOV2YtZ2ZoRE1MZmpDeUw0T0FPMWdRazRrTzAtbnJoU1Q4YkhUOGlnWVcwb0tlNHZfVEF6X0dIVFI4YmRERy0tV25GVUhkbnhleVRYLXowb3NuQUNBaG41VHhnRDUzMFdWVjNPWFFLNGc1YnJYeTg0TWVOUnNZWjVPNWFWY29xOVdtQ1VFa0RJeE5nN2xaYmfSAZ8BQVVfeXFMT0RXeWVZeHlCTldmLWdmaERNTGZqQ3lMNE9BTzFnUWs0a08wLW5yaFNUOGJIVDhpZ1lXMG9LZTR2X1RBel9HSFRSOGJkREctLVduRlVIZG54ZXlUWC16MG9zbkFDQWhuNVR4Z0Q1MzBXVlYzT1hRSzRnNWJyWHk4NE1lTlJzWVo1TzVhVmNvcTlXbUNVRWtESXhOZzdsWmJn?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-11-08T13:30:48.402457Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
@@ -476,6 +660,29 @@
         "Kebebasan Beragama / Berkeyakinan (KBB)"
       ],
       "collectedAt": "2026-11-07T06:04:44.431211Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "e4def8bfe3fe1123e4194eff",
+      "publishedAt": "2026-11-07T02:21:12Z",
+      "title": "DPRD Kota Bogor Desak Diskominfo Percepat Blokir Situs Game Online Terlarang",
+      "source": "Radar Bogor",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOUUlJS19BX1lWMXVNVDZ0MnBzVUthOEJLeVM5eFM5bU1jeTYtU21zZDFRLTd2YTNrVGxtVnd4YmdtU0ZkazNEN0ZieVFSWUl2UXZhbmpOYVk3WWRGRlRLQlc3UWJkbVozRXRCTEFqUFl5MjFMRDBJUHZEQ3hyRnNwc29sRkNRcVhlQ0hEZjNUQkpwekFmbElJZDVwRUdodVBnWm1iT1ltNTd0SEpsTTBTYnk5MENoMjc1Z2NsdkJEZGRCaTBaMXFRTtIBzgFBVV95cUxNR3EyRlEtUGVlX3p1aVZZVDF4S3JKWTdWY2FySktOaVRkTVM0NEpSM3FtUkZkakVKbkdZQWdxWER4ZWVVNjBmLWN5UUhkOEhaYlF3Wk9OLWR6WWZCUm1TT18zMmE5VTNZZEd4SWpjbzBaWXZoVG42UFVELVhqRnhJbFI0b1UyS3d1a3NBUjE1MWVkc3h3bGFwQTlNaXNlUmQ5S1ZJT2djekp4dUVUSU91WVpQQW9kZzJLcE9iSm5hQUdzamNFR3l0MjJpUnFxQQ?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "sensor_konten",
+      "subclusterIds": [
+        "sensor_konten"
+      ],
+      "matchedQueries": [
+        "Sensor Konten"
+      ],
+      "collectedAt": "2026-11-08T13:30:48.402457Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
