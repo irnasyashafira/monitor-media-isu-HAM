@@ -1,15 +1,15 @@
 {
   "meta": {
-    "generatedAt": "2026-11-07T21:55:01.120875Z",
-    "lastRunAt": "2026-11-07T21:55:01.120875Z",
+    "generatedAt": "2026-11-08T06:08:41.803739Z",
+    "lastRunAt": "2026-11-08T06:08:41.803739Z",
     "startDate": "2026-01-01",
     "refreshHours": 6,
     "mode": "incremental",
     "feedsOk": 16,
     "feedsFailed": 0,
-    "totalStored": 3024,
-    "totalPublished": 3024,
-    "newArticles": 7,
+    "totalStored": 3030,
+    "totalPublished": 3030,
+    "newArticles": 6,
     "warning": ""
   },
   "clusters": [
@@ -136,6 +136,98 @@
   ],
   "articles": [
     {
+      "id": "0bd7c9e44cc443ab0c45f42a",
+      "publishedAt": "2026-11-08T04:30:34Z",
+      "title": "Data Menlu Italia Bocor, Hacker Gelar Sayembara Cari Informasi Keluarganya",
+      "source": "republika.co.id",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQRlZONjFmcmV0Q3dJcThKNmZGNUlIUmcyc2dBdFpQZ0JLd2pVcGNLZjdSLXJVRzR5N2lQYXdtOGZjai0wMjBWUXlqdDNzdFlOLWRZYlRTZGI3dTczZ2ZEbnN6WHVvZThnTHUxTW1zX3VNR09PNzJuVm1ZRXZ0bWNXQnd4VUozaktFV3V6NHlhUXlfUE5sWmZCQWdHUk1wRFk1OVBHUnVNNVVLVFFOOG1nbXBqNzVVNnhLaVA0?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "doxxing_intimidasi",
+      "subclusterIds": [
+        "doxxing_intimidasi"
+      ],
+      "matchedQueries": [
+        "Doxxing & Intimidasi"
+      ],
+      "collectedAt": "2026-11-08T06:08:41.803739Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "00a3c3f7b7b0f322a125d91c",
+      "publishedAt": "2026-11-08T00:49:48Z",
+      "title": "Hasto PDIP Sebut Penyadapan Ilegal pada Prabowo Sebagai Makar, Singgung Pembungkaman Suara Kritis",
+      "source": "TribunTrends.com",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPVzhOcWxCY0k0LXYzb2hCNnphRE1vcUxFY2IzdEQ4bzZhNUtHQ01JTzdNRjN4MW5McElhaFFyWGQxQWU0TmlOVy14Q1AwNHhoRENiSEZwZUtfWU9qUFprTndwdVN0TzlnYWprdEdaZWdOcmg0NDdnUTExLU94eTlYYWhrWVQwNDlUalBNRjFDR2RieGE1c3Q4WG02M056SGJHNHM3NzBTVTlJR2tuVmZGRWwtVnhTRHJOR1duZmZIcWw3N0FrQ015Y2pxYUVjb0pMN0xYMg?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-11-08T06:08:41.803739Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "c47b209e2fba48579fc00492",
+      "publishedAt": "2026-11-07T23:38:00Z",
+      "title": "Hasto Sebut Penyadapan Presiden Kejahatan terhadap Negara, Singgung Pembungkaman Kelompok Kritik",
+      "source": "Tribun Video",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQZkRNS1ZyUS1OZ09CX204cmZKQlowTHBPa3pQRUltc0NJb2NzdkZJSTl5Qk5xQ2JDS1ZhZlBNNjV6SW1iV19Wd0taZ0FkbzlnSmN5Q2ZtOUFIeGVvNjJUbTZYUEM0Z0U4Y3I0LTM2bmFOWU9WR1RGR1JTc2NsOFU3dW1Eb0RaejF6UUdOUkRyU2drcF90dERzbnRSTU1BWHEyNW5tVGZVaC02YlhfbXFLZEJzeXBaQ3dnMzVyY3g1a2U2Z2lFRDkzaGVUZHpIM3J4NUE?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-11-08T06:08:41.803739Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "bf094afc5f18b249465aedec",
+      "publishedAt": "2026-11-07T22:07:19Z",
+      "title": "Mao Mbappe",
+      "source": "KBA News",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5pT1V0YTdLeEhVd2F0NVdubjJTWGp6ZEtvRXF1Ui1fTlg2ZFRIczItOWJPMXNZWUQ4aW5vRkxNdVdWQnRKZmJlUFUxQ014R2U5NXEw?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-11-08T06:08:41.803739Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
       "id": "868f359fe8e5dacbd7ad6db8",
       "publishedAt": "2026-11-07T16:21:06Z",
       "title": "Pembungkaman Suara Perempuan di era Demokrasi Halaman 1",
@@ -154,6 +246,29 @@
         "Kebebasan Berekspresi & Berpendapat"
       ],
       "collectedAt": "2026-11-07T21:55:01.120875Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "2ba8936b211c5b536f8107d4",
+      "publishedAt": "2026-11-07T16:17:20Z",
+      "title": "Foto Artikel : Kebebasan Berpendapat di Media Sosial dan Batasan Hukum yang Mengaturnya",
+      "source": "Kompasiana.com",
+      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOejlnenF5QkVZUzhoZi1zME5KOFFudUxLTzRuUnU1dlhIZlBfWU5JbWRiOWJzOTBndGprYWk4LVBzVUtfLTdTTGw4ekgwUzV2aVdPaGExQzZwWjZWWkg1ZGNLakUtTy1XdlpZWHk3amdlOWI3VW9Ydmd1eHFQdXZZQ3dVUUNhVzJlRmhkUHBXNFQxR1NvQUVyYjNjelZuNlJMRVYwelptRGxSb0M0QkhHN2p1SGQtMU9tQ3FIeUxDaE8tdmV1SXl6UHk1dzZJdjd2QVRMbE5JLS1TRTNoTHJzcGs0dTQyZw?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-11-08T06:08:41.803739Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
@@ -499,6 +614,29 @@
         "Kebebasan Berekspresi & Berpendapat"
       ],
       "collectedAt": "2026-11-06T19:27:41.057599Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "1c6aeef62767776b427defa5",
+      "publishedAt": "2026-11-06T11:57:10Z",
+      "title": "DPRD Desak Diskominfo Bergerak Cepat, Perangi Judi Online dari Akarnya",
+      "source": "Bogor Online",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNUUY2R1ZUYkVDQ0J6OTFhbUt6aGpOMlBfajBhZjRST0ZfdDBtNU4wQnhxN044WE5EQ212VTNJZUt2QW5RSHZySTZJZW5WM2l6T3RMejU2dnA5VEZDQUJieWsyVGhBWW1WakRWRkNOWEtZTVdYdjBSU3JWRmxGUVR4QmtKSlBZU2FkMV9RdGVUZ19PREFKa0VwS0YxWC0wbXdsMG4w?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "sensor_konten",
+      "subclusterIds": [
+        "sensor_konten"
+      ],
+      "matchedQueries": [
+        "Sensor Konten"
+      ],
+      "collectedAt": "2026-11-08T06:08:41.803739Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
