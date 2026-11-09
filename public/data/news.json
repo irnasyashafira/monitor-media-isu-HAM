@@ -1,15 +1,15 @@
 {
   "meta": {
-    "generatedAt": "2026-11-08T22:10:57.383808Z",
-    "lastRunAt": "2026-11-08T22:10:57.383808Z",
+    "generatedAt": "2026-11-09T06:42:18.176697Z",
+    "lastRunAt": "2026-11-09T06:42:18.176697Z",
     "startDate": "2026-01-01",
     "refreshHours": 6,
     "mode": "incremental",
     "feedsOk": 16,
     "feedsFailed": 0,
-    "totalStored": 3042,
-    "totalPublished": 3042,
-    "newArticles": 3,
+    "totalStored": 3047,
+    "totalPublished": 3047,
+    "newArticles": 5,
     "warning": ""
   },
   "clusters": [
@@ -135,6 +135,123 @@
     }
   ],
   "articles": [
+    {
+      "id": "b45261674c67041fa1d199ed",
+      "publishedAt": "2026-11-09T06:33:34Z",
+      "title": "Wacana Intoleran: Bagaimana Kekerasan Merembes dari Layar ke Aksi Jalanan",
+      "source": "Islami[dot]co",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQVFhVMnRIQnhGWHRGWEF0aG1aQjZCWHNoTE4zNndkeFd6eHo0UDVJQVRCQ1RTZ1dvaDFhOXlhRmpGTG9FZ3piS25tVWViaVdSdkI5dzVBR211dFphZXc2T3d0NmNlUEZfNVN0TElwRXRlblprTTJQQ1NTZEt3UXQ5ZEVpYW9maTJ5cFJWVG1kVnRYWFc1alE?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_berkumpul",
+      "subclusterIds": [
+        "kebebasan_berkumpul"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berkumpul / Berserikat"
+      ],
+      "collectedAt": "2026-11-09T06:42:18.176697Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "6b343de59c16efb07c082122",
+      "publishedAt": "2026-11-09T04:00:00Z",
+      "title": "Diterpa Isu Pembatasan Panggung, Dongker Tampil di Tugu Proklamasi",
+      "source": "Medcom.id",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQMG50SEV6ZHJOanB3WWc1eEkwNjJKZ3FlVFpJUTFlU0JmQmotRXM3T1NNZm5SWk4xSTlfZXVzcXN2NGFfbDBsVzl4TTFYWldtVFppVjNyanFUSTlXZ3ZxZG44Vkl5M0FCMHhYR0lMN1NRQjREdW5PVDBXZW9wbTlHTFVGYXFidVY0OEdJdHZEWWE0dG1MTl90VmNhRDYySlEtdzJzc3RqeTlSYVg1dGczUXh1cEk3MWt3?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi",
+        "kebebasan_berkumpul"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat",
+        "Kebebasan Berkumpul / Berserikat"
+      ],
+      "collectedAt": "2026-11-09T06:42:18.176697Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "759f67c477274bb39f127a06",
+      "publishedAt": "2026-11-09T03:27:00Z",
+      "title": "Demonstrasi dan Kebebasan Berpendapat: Masihkah Ruang Demokrasi Terbuka? - kumparan.com",
+      "source": "kumparan",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPc1dLVGRaMEttVU5ZQnRWcjktN05JYkpkLURwWlprTmdDQUJSV0treTNHNE8zTDEzb1NnRGE1cTMzUGJCV3JqYmRjTWI2N1ZPMXo0LTFZNXB5cEctNHZldGhHZlRXUGdTYV9IcUpQWlgtZUJyYzhkM2gtYURHVjAtZFJIYnZZY3NhNG8xNHZCQ2pJdUNUTmlfLVdFM0VtTGJMRmlJY1RHaDA5MGY0am1ockQ5eU1KQXpZRExZWnFZU2FaUmtNR2owZdIByAFBVV95cUxPc1dLVGRaMEttVU5ZQnRWcjktN05JYkpkLURwWlprTmdDQUJSV0treTNHNE8zTDEzb1NnRGE1cTMzUGJCV3JqYmRjTWI2N1ZPMXo0LTFZNXB5cEctNHZldGhHZlRXUGdTYV9IcUpQWlgtZUJyYzhkM2gtYURHVjAtZFJIYnZZY3NhNG8xNHZCQ2pJdUNUTmlfLVdFM0VtTGJMRmlJY1RHaDA5MGY0am1ockQ5eU1KQXpZRExZWnFZU2FaUmtNR2owZQ?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-11-09T06:42:18.176697Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "03fc604c1490eedc817e149c",
+      "publishedAt": "2026-11-09T03:10:05Z",
+      "title": "Berantas Pinjol Ilegal dan Judol, Penindakan Harus Sasar Bandar hingga Rekening Penampung",
+      "source": "Bedanews",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOT09oeXFQTkM3c3gtOHFvdDJHWUg3QTh6S1pDUW5sN0JySUhPMzdGWjFwdk1zMjdMNmx0VGl0Q2VKOERDR0x5OF9IOEM5cnVodmdhT19iR0hfODdocko4TF9kMlB2Y2hsMllUNHFZbG9XR3hUajNkRGw0bDBNZTItS0VZM01KMjNsS1Y5V1VrNnZYd2FTY3ZoTFE1bVZXXzV0S2ZjbDA3MzZrTEtOZy1J?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "sensor_konten",
+      "subclusterIds": [
+        "sensor_konten"
+      ],
+      "matchedQueries": [
+        "Sensor Konten"
+      ],
+      "collectedAt": "2026-11-09T06:42:18.176697Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "770e1ef0feeceff36250630b",
+      "publishedAt": "2026-11-09T00:52:00Z",
+      "title": "Hasto Sebut Penyadapan Prabowo Kejahatan terhadap Negara, Singgung Pembungkaman Kelompok Kritis",
+      "source": "Tribun Video",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQMHl0TU93d0U4c08wY29sb0ZVeGZEQWN1YXUwR2ZUdV9pWWo5UlZwb3JXSjdEQ1VFTkdUY1BvQ3Vwd3ZZRWxLdjN2RkUwUHFRV3RXNHpaUmc4RnpFY1o0Y0VBcmZxUDJ3MkhvV0E5Y3FDVVp4Z2N6X2ltak1VaG5XbzRQMTZJU0d1OHlKcEFpcS1FWS1CRFVQWTlXd2VmejZWcGhHSDU3d2tYa2s5YV9aXzE5VkU5WFE3M1ZXNjR1aHExSUpCQVpVQlNFX0lBUWww?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-11-09T06:42:18.176697Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
     {
       "id": "92bb104e3e9df19c711b9f5d",
       "publishedAt": "2026-11-08T18:36:54Z",
