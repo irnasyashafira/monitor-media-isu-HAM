@@ -1,15 +1,15 @@
 {
   "meta": {
-    "generatedAt": "2026-11-09T06:42:18.176697Z",
-    "lastRunAt": "2026-11-09T06:42:18.176697Z",
+    "generatedAt": "2026-11-09T22:25:37.471179Z",
+    "lastRunAt": "2026-11-09T22:25:37.471179Z",
     "startDate": "2026-01-01",
     "refreshHours": 6,
     "mode": "incremental",
     "feedsOk": 16,
     "feedsFailed": 0,
-    "totalStored": 3047,
-    "totalPublished": 3047,
-    "newArticles": 5,
+    "totalStored": 3061,
+    "totalPublished": 3061,
+    "newArticles": 14,
     "warning": ""
   },
   "clusters": [
@@ -136,6 +136,282 @@
   ],
   "articles": [
     {
+      "id": "d6a6a5e82f0d5c5435e9a080",
+      "publishedAt": "2026-11-09T14:51:19Z",
+      "title": "Pemerintah Pastikan Revisi UU Penyiaran Tidak Batasi Kebebasan Berekspresi di Ruang Digital",
+      "source": "Sinar Indonesia",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQUHJnVU9hbVpOT3pEeDAyTlBRTDEwUmx3TjlGYXgzVm9HSlZVR0oxV3NfZjJtQ1M3Wm00dzdvOWhfZUlWQm80Z01MMF9rQlF0WHN1SGtVQmNVYVFjS0NyUFktUThLTmdYQS1Daklvc2NPdUlfMUVLdVhlNGZGeVV3YzhhQnNFemUwN2ZTTmpSblItTVpWMkdMdHBvTTZyX29TTkRFZ04wbmJTbWlHM0x0MlFWeDBxZnpkN3c?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-11-09T22:25:37.471179Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "6cfb77f123f601ebf680c561",
+      "publishedAt": "2026-11-09T14:48:00Z",
+      "title": "Habiburokhman Klaim Kasus Penyadapan Lebih Serius dari Makar, Sebut Presiden Bisa Terbitkan Perppu",
+      "source": "Kompas.tv",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNelZmMWVFWmNoWjRIbUpPQW96R09vaEZzWU5Nb05MQ21RTXZMQkpGQm5rVEx3eHo0QTNxWS1mZGIxcFdZRWNfNDJ6YkEwbkNpNU80Vm1MRmxjUl9kMWY3b0RCaEY4Z1RZWDJJM2VucEQtT2hiUFNld3R6XzhibExORExIUnBfeTVRNHNGWGRwT0ZjTnFuVXZyRE01Q01JWEhYTXpsQ1RvT0dRLVQ4V1N1SG1pRWhYTFhVX3gyWUJuWjh5SUZ6VmVoSzdicEFoclNS?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "doxxing_intimidasi",
+      "subclusterIds": [
+        "doxxing_intimidasi"
+      ],
+      "matchedQueries": [
+        "Doxxing & Intimidasi"
+      ],
+      "collectedAt": "2026-11-09T22:25:37.471179Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "45d352cddfa662bb7344187d",
+      "publishedAt": "2026-11-09T14:26:00Z",
+      "title": "RUU Penyiaran: Pemerintah Janji Lindungi Kreator dan Kebebasan Berekspresi",
+      "source": "krusial.com",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPWHBHcVo3QUk4eWtmRjU4X1ZJR3o1QTlaU3l0Zl9XZUpHNXNGekY0a1BRMWpuQW1iQUFoR2ljMGtpT0VFd1lfTU1wZEhsczU2TG4tSVJWUXJoQndqcDQ2cmJOYmJMMlBnbUVlSmR4M3hXdVNtT1MxUFpoZTFOM3MtYWtEYkFJSVdrWDlVdGt6VFBobEx6ZGxyRFotdnZ4cEU?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-11-09T22:25:37.471179Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "b99ba65e811b8c33a134b211",
+      "publishedAt": "2026-11-09T14:20:48Z",
+      "title": "Chilling Effect: Ketika Masyarakat Takut Berbicara di Ruang Digital Halaman 1",
+      "source": "Kompasiana.com",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPMFUyeG9fM0Vxd05QT0xRWXNtTEF3WWFUZ0V4ZTRZT250bGktVTIwSzc4ZnZtMlZxSFRnYWJFTEFpU2N2MDlQd2hHdm0yMWx2cm1SMTc5V1RWTlNJbnBtcnFjNW1fQk1UQTZ4c2xtUFdKNFM0cXUweDk2OEdMZ1RIZ05FVDRGVTlJdktaazJjSVpDLUQ3cVpnQWJnOFlTZHZUTk9yQmd0VVVubDZJczFKalJCTGpXM1BCX3lWdW1ncFFHcFlBYlVSaA?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "doxxing_intimidasi",
+      "subclusterIds": [
+        "doxxing_intimidasi"
+      ],
+      "matchedQueries": [
+        "Doxxing & Intimidasi"
+      ],
+      "collectedAt": "2026-11-09T22:25:37.471179Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "80f5e8f397473458c0be82a8",
+      "publishedAt": "2026-11-09T13:57:27Z",
+      "title": "Rakyat Bersuara: Kebebasan Berpendapat dan Tanggung jawab Negara Halaman 1",
+      "source": "Kompasiana.com",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOLXd0NFo1ZWl2Qnk2V3FGS2JrOS1lMUZGRlhQaEhSQm9vZ281QXJERnotSVRudVE2aTJDMzdXT19EOXRMZ2ZFNUdnOWF5Nk4tazNuZWtFQ0pFMk1MTHVxaW9BeXB3R2kwazBpM2E3UVRpQjdtSWVwRTZlNTMtZ2ctWjd5QmlEWThTNE0wSXQ0NTZzVHg2NUhQUVg0N0NGaHVmWDJXV25SYnVQVklzR1ItYjFkaXBrakVxRGV4QkM1OGVIa2dma05hU2Y0N3NzY00yNzZEdFBB?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-11-09T22:25:37.471179Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "bb4fe1dd84d941154471e7a0",
+      "publishedAt": "2026-11-09T13:00:00Z",
+      "title": "Berita Kini - Angga Raka Prabowo: DIM RUU Penyiaran Lindungi Kreator, Jaga Kebebasan Berekspresi",
+      "source": "Kementerian Komunikasi dan Digital",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBWN1cydGxlRmw0elBhTjJPbzZSX3JFNnBMWU1HRXYyN3dmTnAyTHQtRXNFRWJIQmJBRkx5RHhMWHh5cWM4SGp4VXEwd1dIYzIyUHoyQmNkVEpnWHROY01ZcUhfNzJyNS1CVjZB?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-11-09T22:25:37.471179Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "7b1e3831162182c051117d10",
+      "publishedAt": "2026-11-09T11:01:02Z",
+      "title": "Sebut Penyadapan Aktivis Bentuk Pembungkaman, WALHI dan YLBHI Soroti Bobroknya Penegakan Hukum",
+      "source": "Hukumonline",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQUW05UlJMaDhKM0pvUFFiLTNIeFp1RnhXZmZmdm92bVhFXzgzTl96dFhnSkJQcmxmN3VlUlNBV1ZudE9MU1V5RlR3UFFENkppbW40VnVpc24wUktVeXJmNkZZMWlBM19fNVpoNmlBSlpOM3B6TFF6cVN4OGhvWDNmRXFqaklaTXhQZE1YUG42N2dZSk9XSXE3bHhmSmRzM0pCcm45NVBKbFUzeUg4QVZXVzdFbjRBMjYzM0g2RTFFV0RVTUtKVS11QU5ScUpSeUhlY0pvX2JLOEl6cTBPRy1tOUtB?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-11-09T22:25:37.471179Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "e4a0fa1216f8f4487ba06ab7",
+      "publishedAt": "2026-11-09T09:52:09Z",
+      "title": "Di Tengah Pembatasan Ruang Sipil, Dongker Tetap Bersuara Melalui Musik",
+      "source": "LBH Jakarta",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPOGlEQ1hXek9kVWR1SXlBZzV0eG04SlB5OGNqRU1MOU9JUlc2dkE4TVJTblFFQkJta1ZGeEQ1NWkwN0ZocktHS1haTEZqR3Rkc2hFa3M4YlZ1ZlBzaVlpM2QwbmtoamE0NjJhSll2UGFsVmVUUFkyMHljbG41UEtUM2NCWjJWaXZjdVA4X3l5dVlWYlM1UHQ5NVBScC1KQQ?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-11-09T22:25:37.471179Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "439eedf5570ecdbc85b1cf8e",
+      "publishedAt": "2026-11-09T09:37:00Z",
+      "title": "Konser The Weeknd Diinvestigasi Pemerintah Malaysia, Diduga Muat Unsur Penistaan Agama Islam",
+      "source": "Tribunnews.com",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOVVdaeldTMlV5MnNBTVVLd0NBRHBUZnpQMEJ1TDFZYlJoVG9hWERMWlgzbHJOY0xUdl91dnAzZldELTRkTHdGNUM5MlNtcnl1QzQ1R3JjRmh5bjgzXy1PQW5uTVpURklOU0Q5VEkySkxPZjNLYzhsQ3R4TlFWSk14RG1iRzRuSW1Cal9yMC1rQkhrNFFJdGozYXRaMFJ5TGN5Q2dranFNR2l3V0d4MFZJakJuVEl3bTdFSWl6NHR5Y0ZjMHJUbDVFeTl0NWNPLVhVQzhoYXhaYw?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_beragama",
+      "subclusterIds": [
+        "kebebasan_beragama"
+      ],
+      "matchedQueries": [
+        "Kebebasan Beragama / Berkeyakinan (KBB)"
+      ],
+      "collectedAt": "2026-11-09T22:25:37.471179Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "b7bf782bd54dd149c8a6c1ca",
+      "publishedAt": "2026-11-09T08:50:42Z",
+      "title": "Bukan Cuma Penyadapan, Walhi Sebut Ada Upaya Pembungkaman Masyarakat",
+      "source": "IDN Times",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPWlE1TE1Eam9FeHJKWHpEUDVNZDBPYUhfVTBuVnV6dU96S1g1UGRIaUdNWEpoby1salppeG00RElFRUZzb2RCUWxzb2U1UDh1OWFPU3VTd0VkcHlaYmxhQng3bHdIcFZOaHNHMWkwTWJfNV9pdVhRQVlJOXhZUzlBOFNHWXUxcFZMaXZ0cHZGNDB5cUNweXB1N1dzOEhxVjF6alBHbWZOR2FLVVV3NjFkSjdpUFo3T3pYRjNHVUo1RlDSAcYBQVVfeXFMTmNGWDNkWHNWc1lUcG91Yld5b3U3eXByeDhpMGlYV0gzNTV1aTBpMDJmdkg3cFpCZEt6U0FuWlhJdk0wR3BrT205bUdyYk5uVjJzT3Z6bnU0dUY5RTg5RGJiVzFRRVJsN2RiWFBCZWZrRGxWd09tTDB6Y0ZwZXk0TUx1NDY5Rjg0aFhfdXY0aFI1NlFqRHVZRlZxRnprUDhWUVA2NWRlNHRPRUhsT1lGTmpuSjE3Q2hBMDUtX3ZsOU52SFRKRjh3?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-11-09T22:25:37.471179Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "362b705f45ccb2fd34f91ddd",
+      "publishedAt": "2026-11-09T08:29:51Z",
+      "title": "Dewan Nasional Walhi Mengaku Disadap Sejak 2019, Ini Bukti-buktinya",
+      "source": "OWRITE",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPZU1pYjltdzlHS1lmSS0xazMtQUxjV08wdHNFc0hUMHB1TWpDU2NnNEFTX3lTVjRpQWhfM0RYQTFpWGtYaTU2YWt4bWYzUWNpVmdPcDF1a1VTeVdWOHpmSEVuUjZRZU55cEY2YTh6VmRIQ0FTN0F1N2pfdmZmd2VBbGdJbFhiXzQzdmNyazBFc1U2TVo0cHhSM1FOUVVpWmdTcG1NN3BiQ0tOWVZRbFE?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "doxxing_intimidasi",
+      "subclusterIds": [
+        "doxxing_intimidasi"
+      ],
+      "matchedQueries": [
+        "Doxxing & Intimidasi"
+      ],
+      "collectedAt": "2026-11-09T22:25:37.471179Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "74a8663b73348ae1b9f8fd1d",
+      "publishedAt": "2026-11-09T06:55:36Z",
+      "title": "Stop Doxxing! Pahami 4 Jenis Kebebasan Modern yang Wajib Kita Hormati di Era Digital Biar Gak Kebablasan! - Halaman 3",
+      "source": "Jurnal Gaya",
+      "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNaVIxMWRWRjJ5UEZJSDVWbU45djlDUU1pTE83cjJGcWgxVUpjSGptUFF2OFE3SmZiV3M1ZzQzR1NSVDZvMU9xdTJ4dmdEOTVqVFJJLWhTaXdPa2pRSlE5MVl1dVNMNzVSbXZwUllWZmx3M2x3bjNubGZOaGYtU2NJQzRlVzZiZklhN3MzWTI2TGNlRTdxZWtUNkh6al9XeFVib2Ria2Rrcmc1TmhWd0g4VzFuSzVJU0hUNWpXaXJjaVpVNjM1WDJfcUZDRFJlM0V1Y3RSQzhFZTNnbXh4NWZWRHU1aTZuSzJaYjdhU1REVmw2NEZTcXROemlMRnA1T3cwRE5B0gGIAkFVX3lxTE5jYjdWUFQ4R3pXVmlrMHVkTThTRnRqcGRpRC15UU1UQnpSV0Y1YlVKaWZMZjJVTmQ3Y1FGcThJX3NiMzZadVZLN1FhSzF5bVRyQUVDc2NyaGc1TmZGb0JoQnFNTy1ZN1JDbXlsbWpVMWYzS3liN0xQV3paRUh1ZWJnemxxcGp4LVRGTEF1cjlTVHhURDZFbkRsOV9FZ09ESi1Vek8xOVVUaGp2NXVWVUlGZE1uX2tCeWttd3d2djRoLWhtbVZOUUJLYnFXSkwwWEpINzRibGhUUFJKaWxtQU1DUGhmdXRRdERadjBudGRwX1ctemhCYUFLdUZGdTktUGFqZ0t1QkxydA?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "doxxing_intimidasi",
+      "subclusterIds": [
+        "doxxing_intimidasi"
+      ],
+      "matchedQueries": [
+        "Doxxing & Intimidasi"
+      ],
+      "collectedAt": "2026-11-09T22:25:37.471179Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
       "id": "b45261674c67041fa1d199ed",
       "publishedAt": "2026-11-09T06:33:34Z",
       "title": "Wacana Intoleran: Bagaimana Kekerasan Merembes dari Layar ke Aksi Jalanan",
@@ -159,6 +435,29 @@
       "reviewNote": ""
     },
     {
+      "id": "66d75edfc25adbf1363e8cc9",
+      "publishedAt": "2026-11-09T06:15:00Z",
+      "title": "Hasto PDIP Bicara Penyadapan di Era Jokowi, Sentil soal Pembungkaman",
+      "source": "JPNN.com",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPbU1CRHVQWW5sbUJCdVQzMHpoSzZEemQ5Tm1EUzU5VldPVjN3SG1JeWE4alcwZXBjVEJBakNLREt4ZjRXcXBHQk8tUS1kVUwwaDk3SUFuU0tBTkJyNXZBTS1PZG1SOENnWnpSM2lzSGRycE81QTFXaTN5Q2MwOUItdWxkOXBmcmJsRDhqNW1aR01aNk4yOC1IdlRn?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-11-09T22:25:37.471179Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
       "id": "6b343de59c16efb07c082122",
       "publishedAt": "2026-11-09T04:00:00Z",
       "title": "Diterpa Isu Pembatasan Panggung, Dongker Tampil di Tugu Proklamasi",
@@ -167,16 +466,19 @@
       "description": "",
       "primaryCluster": "sipol",
       "clusterIds": [
-        "sipol"
+        "sipol",
+        "digital"
       ],
       "primarySubcluster": "kebebasan_ekspresi",
       "subclusterIds": [
         "kebebasan_ekspresi",
-        "kebebasan_berkumpul"
+        "kebebasan_berkumpul",
+        "sensor_konten"
       ],
       "matchedQueries": [
         "Kebebasan Berekspresi & Berpendapat",
-        "Kebebasan Berkumpul / Berserikat"
+        "Kebebasan Berkumpul / Berserikat",
+        "Sensor Konten"
       ],
       "collectedAt": "2026-11-09T06:42:18.176697Z",
       "reviewStatus": "Belum ditinjau",
@@ -915,6 +1217,29 @@
         "Sensor Konten"
       ],
       "collectedAt": "2026-11-07T06:04:44.431211Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "43bad832287fdabc6837853f",
+      "publishedAt": "2026-11-06T20:06:16Z",
+      "title": "Bogor Selatan Tertinggi Transaksi Judol, DPRD Minta Pemkot Bertindak",
+      "source": "rmoljabar.id",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPdUtwOGt0ZnJLQnNNSFQ1WDlBU3psczRtOHlGbjJ0RTIzdUlPNEhmWFVySHFrVUQ0R1MwVDVGRmJSalA5ajRBMkNDWXZ1emtFVklPSmhYZU9md19la1FBVnRFQWxaeWxIV1Z2SDdmeEpIczhPbklmLUVkUWJrTGZIeWlNaUpHd2txT0tIb3VDQjNadzFDQURz?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "sensor_konten",
+      "subclusterIds": [
+        "sensor_konten"
+      ],
+      "matchedQueries": [
+        "Sensor Konten"
+      ],
+      "collectedAt": "2026-11-09T22:25:37.471179Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
