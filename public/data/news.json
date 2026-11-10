@@ -1,15 +1,15 @@
 {
   "meta": {
-    "generatedAt": "2026-11-09T22:25:37.471179Z",
-    "lastRunAt": "2026-11-09T22:25:37.471179Z",
+    "generatedAt": "2026-11-10T07:24:47.535403Z",
+    "lastRunAt": "2026-11-10T07:24:47.535403Z",
     "startDate": "2026-01-01",
     "refreshHours": 6,
     "mode": "incremental",
     "feedsOk": 16,
     "feedsFailed": 0,
-    "totalStored": 3061,
-    "totalPublished": 3061,
-    "newArticles": 14,
+    "totalStored": 3068,
+    "totalPublished": 3068,
+    "newArticles": 7,
     "warning": ""
   },
   "clusters": [
@@ -136,6 +136,98 @@
   ],
   "articles": [
     {
+      "id": "9b082d83fe9adc2327cdee5c",
+      "publishedAt": "2026-11-10T04:44:00Z",
+      "title": "Akomodasi Era Digital, Kemenkomdigi Pastikan DIM RUU Penyiaran Jamin Kebebasan Berekspresi",
+      "source": "Beranda Indonesia",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNckp5bXdMTGx6aVZ0d2FKM1NMWndJblVELVZTYVFZLU9YMVB6U2hNRElDOE8tNG83eHFBMG1uWHJxX1daME1jczVBcUNvZDMyT1VDZWJGb3hUU3NkSzBTSUhTYm1vTGJ1UHhWVVBwX0hEd0oxZWhmSHA0RTg2d1pJN2FObXlnYTk4MGNHX01uM2l5NVRWazRYQ25zSlFBRzFhSXJIWjZnQ3RUZ3R5MjdzYzduaTRFTGVjN1BzcFJCUG4wOFk1cnpsOEM0ZjA?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-11-10T07:24:47.535403Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "6f56f6c0f762d55bc17e4283",
+      "publishedAt": "2026-11-10T04:35:00Z",
+      "title": "Puan Beri Peringatan soal Kasus Penyadapan Prabowo di Rapat Paripurna, Singgung Ancaman Kriminalisasi dan Pembungkaman",
+      "source": "VIVA.co.id",
+      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQS1c1bTYtX1BvdVQ5d3ljM0xKY09Kenp5Ny1xUDdoMEVZblN3Z0l2S3BMZFZ1ZTB4RGtQeVZhYmtJV0hnaDhweGRsM0JuVDhaOGVrXzVxVTdGYXdlSkl1YVNvcFk3LTRHalhrTG1DZGRuaUIyN2lEeWIwandUSnB1WmVqZUd0ZGkyVUNYZlc1SnM5dHVvdmp4WkRFQ2I3aVFXdHdkcXhHNHZpd2JaUjQyaFZKTWFhV0dsbGRobnVQMmdhM3VfcHVmT2F6TmVtMHVoWXlBaEwwa1dOUms5OUJUX3Fia2JzdngxUkhfdGFYUEpuak9yX3k00gH8AUFVX3lxTE9FY0FvZ01JQ2x1eDd3ZFNHNjNlcnFfN3VyRFlVS2xBUTFBdTA3eUV5MzhOSFRZYWlvRTNPY2tTM19DT044VDNWcXg2YTJaRDNxa0c0WUV2bC1SNjZtQW9LSjduZEhHbnBuWTV5NnB0b2l0OGtqWWV0djdabTZfZERwNHBubzRLV1JBZGZzeVNNY1dNemZWdGUwRUY1ajJoUjVfZDV6VlBTQ1B2VzV0Zm5tNWdnN2pZcVZvV0xyX2dya0F0VDVKRkdKd01XLXdraVl4MmtrRXQwanlCYmNKTkdSdFg1Tlh1aExWb0ZDQXBzaUlDQUg5VE1NN21BWg?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-11-10T07:24:47.535403Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "52790b7bf8226cf34d6f567e",
+      "publishedAt": "2026-11-10T04:04:02Z",
+      "title": "Pemerintah Sebut DIM RUU Penyiaran Jaga Kebebasan Berekspresi Kreator Konten",
+      "source": "Telset.id",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQWG1QVjdkRnV1cEF0Tml5eEdkdFNfLUtHSGtPY1NPMUU5VW1jSkR2bjZGNTk2dmpQbEFKR3pwV24wZmtUUUxkeml6T3J1bDN6Vm1DaVVLOUwyV3RUemExV21QZFd2VlZoblZIM1doMzJOcFM1SC1RUWpWazlucDV0cC01TXVjNWlsRTJNaVhLcmdBTW9vMWd3dm5ZbS12WG9iSi1WTDlHazY?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-11-10T07:24:47.535403Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "02110ef4649b591004a0189f",
+      "publishedAt": "2026-11-09T17:28:15Z",
+      "title": "Tolak Normalisasi LGBT, BEM PTNU Serukan Penguatan Moral Bangsa",
+      "source": "Liputan 9",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQemYxXzdCcGJPZ2lnWnh3dkh0SERWT3FhQnBDUVh2R1Z0U01SdlVBaldvOG9JYVhFX01rOGd1N2ZEc21GakFlS2p2RXhoekJRelNFTVJJalJuSEF5V1Fad3g5Y3RoZmZhcTRzVVlxOENmQ0x6Nm9haDJuZWZDOVdYajRGVEt0MkxwdGlJ?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-11-10T07:24:47.535403Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
       "id": "d6a6a5e82f0d5c5435e9a080",
       "publishedAt": "2026-11-09T14:51:19Z",
       "title": "Pemerintah Pastikan Revisi UU Penyiaran Tidak Batasi Kebebasan Berekspresi di Ruang Digital",
@@ -223,6 +315,52 @@
         "Doxxing & Intimidasi"
       ],
       "collectedAt": "2026-11-09T22:25:37.471179Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "7ab2342ce0c24171d1215d82",
+      "publishedAt": "2026-11-09T14:06:32Z",
+      "title": "Kementerian Komunikasi dan Digital",
+      "source": "Kementerian Komunikasi dan Digital",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPT2ZWNVg1bVh5UWltTllkN3Q0dmpOSUdlNDJlR2x5X2s2clREdGItZFlrbGlzYkZHMWg3QUJWUHhRUTlMVVVmbFlRa19fclZhcWJEamZsNTVpVEptVGtadFpqeTY4WUtLMVpXNXJzTzFtNnl4Rl9qUmpueGZMa3FMSTJMSlBxVWk2NlRvdTYtcmE1WHBRLWNnTUlfLTZLVlVwRzJFREpremxlY05DaF9YZ2FKOHVhZC15aUpYRnhISUx4YnZMb0Jyc093RGc?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-11-10T07:24:47.535403Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "e85124641447f3b777837c74",
+      "publishedAt": "2026-11-09T13:57:27Z",
+      "title": "Rakyat Bersuara: Kebebasan Berpendapat dan Tanggung jawab Negara Halaman all",
+      "source": "Kompasiana.com",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOVlkzbndoYVNtdVpFN3dpQXN5Nk4zYnNJVlh5dGRUZ0M0ZWI3Y0kwYUpwQ1UxYTlJdENxT3B5aUZMYjRRSy05cC1DbzNoTVZSVUJPMmN3OF9YVFo2aTZDeHBaZTN1QkZ5X3pKWVRkaEdvd1hQTW5kVmVXNFFPaDRmeU9KV1FpRFlHeUdNQUFkUUVVazIwdFYwRG1Xb3RhQW9tU2FtczB4eTZDeFdGTzhFd3BlcE91bHFDdks1blJnWVlvV2F2bUxjMldGMjRfSncweF9QV0dSaTVacW1qQTFwa0Vn?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-11-10T07:24:47.535403Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
@@ -872,6 +1010,29 @@
         "Kebebasan Berekspresi & Berpendapat"
       ],
       "collectedAt": "2026-11-08T06:08:41.803739Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "c35e8c9c002ce61fb072ca66",
+      "publishedAt": "2026-11-07T17:39:44Z",
+      "title": "Foto Artikel : Kebebasan Berpendapat di Media Sosial dan Batasan Hukum yang Mengaturnya Foto 2",
+      "source": "Kompasiana.com",
+      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOcXZqV2VEWFpKODVMSVF3QVJjTVBSRkdQa0VXZlFQdl90MWdURWRZdnJYaDJ5Y3J3d3ZKUVJtakNLUVRyUVVVSVRCZmxyYi00QzF3TWhPUFVuNE9iZVF4SVRvZkNVa3JwaGlubUtNU18wMWphVnpsSU10aE94QmlxZEY4RkY3N0xoX19GdFlQdmdjVW81QUxRa3d5V1E1Wk9VVWg1MnVnM0pINXNDSTF5TFd6UVlHSVFwRGZ4bWQ0ZldWSjVJMG5JWjdpV2NEQ0xwcS1LT3VmLURmb2VsWWVwTGszNHpwQQ?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-11-10T07:24:47.535403Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
