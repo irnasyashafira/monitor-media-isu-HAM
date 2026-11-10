@@ -1,15 +1,15 @@
 {
   "meta": {
-    "generatedAt": "2026-11-10T07:24:47.535403Z",
-    "lastRunAt": "2026-11-10T07:24:47.535403Z",
+    "generatedAt": "2026-11-10T19:47:38.917979Z",
+    "lastRunAt": "2026-11-10T19:47:38.917979Z",
     "startDate": "2026-01-01",
     "refreshHours": 6,
     "mode": "incremental",
     "feedsOk": 16,
     "feedsFailed": 0,
-    "totalStored": 3068,
-    "totalPublished": 3068,
-    "newArticles": 7,
+    "totalStored": 3082,
+    "totalPublished": 3082,
+    "newArticles": 14,
     "warning": ""
   },
   "clusters": [
@@ -136,6 +136,236 @@
   ],
   "articles": [
     {
+      "id": "0ff7b26f6ad8d8ef6a519d9d",
+      "publishedAt": "2026-11-10T18:32:32Z",
+      "title": "Kapolda Sumut: Kebebasan Berpendapat Harus Dijaga, Mahasiswa Diajak Bersinergi Berantas Narkoba",
+      "source": "BenHiLL Pos",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPQ3hmNzhkbFZ2MFZsVzZtUXc2OFFtOGE3VHRVdGdRUzhGanNiT25ISTQzeS1WRGg3TDZvdXFwT3l3S0p3aXc1MGV5cDdSMDFkUm9TSWNNUXV1MjI2TWxtRmVKTEF5WHRQdU5SZldDZGFmWlhqcEw4eE9iM0s3QU5SUFJwei01RUR4X3JLVmR6Q0dVZkthQnVjX0dIRkw1aTlHcW1WVDdVWXM1cWRPanF5eDYyQUltZ2pZ?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-11-10T19:47:38.917979Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "cc4d6360b5710ea4d0dd9258",
+      "publishedAt": "2026-11-10T14:20:00Z",
+      "title": "Mahasiswa Sampaikan Kritik, Kapolda Sumut Tegaskan Kebebasan Berpendapat Dihormati",
+      "source": "Media Online Jurnal X",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPelNYeEdabkJWOTVKb2R3dEFVZEJVWi1vemxTN3p0WTNXby1UYTNmSjdzMzVYdmQxdmRjUkN6QVJvbV9ZZk1IOVkzdm1qYnZHQ2ZXcmJVMDNRRGJIeUZiblF0Ym5tTHJIVHFnb0o2YlhtS3JWXzZsVDdPNDJ2MkpOR05zY3hWdGlHUFo0VllsWWFrR2t4dFkwVTgzUWNJX1FBamd6Yy1JOA?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-11-10T19:47:38.917979Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "b5d9be2951941e7e4aea1d54",
+      "publishedAt": "2026-11-10T12:53:01Z",
+      "title": "Polda Jatim Pastikan Tak Ada Pendemo Ditangkap, Aksi Tuntut Prabowo-Gibran Mundur Berakhir Tertib",
+      "source": "Suryamalang.com",
+      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQSlNnSWFQdjRGTk14SDA4QVcwMHhCVG1iS2IxRFdad1FMckJZRE85emtqQldVUS1va3VMYlJUdlR1dVBjVUs0VnpyZGRDYnNad2dwTkZpdHN6RjJVcXhIdktvR1BiVFNyTWxxZmhtOGdidHlZcmtZa1paZzlub190Y1JtMVFuaEw0cDZoZ3dobXJWenN6d1dZckhMenlnQ0s3Zzk4RHZ3RGYzeTg2dGVUNFdiaF9vMjF5R1FGR1JDZlgzSkhQZGdzWUdUenFyWUNFZEhyRmEtc1luMVEyd3l6UThKMWlsd3pT?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_berkumpul",
+      "subclusterIds": [
+        "kebebasan_berkumpul"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berkumpul / Berserikat"
+      ],
+      "collectedAt": "2026-11-10T19:47:38.917979Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "79fce386622156c08baa1ce6",
+      "publishedAt": "2026-11-10T12:30:48Z",
+      "title": "DIM RUU Penyiaran Lindungi Kreator dan Kebebasan Berekspresi",
+      "source": "Headline.co.id",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQS2V5R3lNSzBNU3U5V2ZqNkwwTlp2dWRqZDF0SWpmbmpnRXRnM2lUQXJTcDdJQ1M2V2NCeGRjTTNtLVk1OTg2cllkbk5aWG1mWDNpTDJTZllNeTBvQ09wbFhBaHNuM2dZeGFDZFRoWTcyQXhUd1BGVld6TmdGTE1qTFgxTlJlQUwxTkJGLVplWFZYeDQ0azN5ZUtSVQ?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-11-10T19:47:38.917979Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "0fb710c2540bbd063cb39be0",
+      "publishedAt": "2026-11-10T12:30:00Z",
+      "title": "RUU Penyiaran Lindungi Kreator, Komdigi Jamin Jaga Kebebasan Berekspresi",
+      "source": "Jurnal Borneo",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQbHJJZlFQTUJBeW1MN2JxSnlOcGVIVW9kMzJaaTBFWHZJbFQ1YTlLYUJ0OGpiSWxEdTEyUWFSVzdrUjdndUNETGZYQzRSa19DU0NieFBSUGthUGFiYzZMOHVTNTNKNmZEZGtHX282ZEFwa0hNYzJ6NnpCeGtuQlpmX0xaZHREMmQtUGQ0bEtabkJWYWo4Ry1oWG5HZnpjUQ?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-11-10T19:47:38.917979Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "dedd2081a2b96d77a4a5c81f",
+      "publishedAt": "2026-11-10T12:11:58Z",
+      "title": "Aksi Mahasiswa Surabaya Kondusif, Arif Fathoni: Kebebasan Berekspresi Harus Dijaga",
+      "source": "Kempalan.com",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOaWRwSGE3Qzg4ODJmTnlmVFNSQVc0bXA4eEJzSlZvcjhhR29KOFYyR2haeEdJbS1tNE5QR3NkQThINXFwdTd0V2I4SlAwWkNicUlrTGlXZ3VXaEtJUWQzdm9ST1doajFDM2h6aExqZTNuWGJsQ0hLOGtiVHVJVDNpVlRsaE4wcEdrY2FYeGZVUE02MlRneU80OXQ3c3BvSkh3aW5vMDdsbFZKQ0hlbGpITnJMOA?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-11-10T19:47:38.917979Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "b6b5148422a2f93d34cbf13e",
+      "publishedAt": "2026-11-10T10:39:23Z",
+      "title": "Wakil Ketua DPRD Kota Bogor Rusli Prihatevy: Hari Pahlawan Momentum Perkuat Nasionalisme dan Pengabdian - Realitas Online",
+      "source": "Realitas Online",
+      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQWXJsUnZwNXVhNVo0VGlaOTNpaEZzdzNQc1lvd1NuVmQ5NWZkLWFZelJjZUdON1hDSHNFd3dNOElzUkJtMHoza1A4Vk5FZGNwSWFXbE1rZVNFbHhGbjlrdkxqT01ZMmU5XzV2WjlxVlNFdmNsRy00ZWlnMm9ySkJ6MGVIRnI3bGt3blhKWU9lNElZWW9od3c3cjAwMEdFQmxtMlJSZDY3d2l4aHNIMllIMWdTQWRibE5ocFZtUjBEQy1vZUEwWlBtVnY5UklsdHVabWZsbXVucGdyaXRXTVZVdzQ5eXd5QdIB6wFBVV95cUxQd212TDE3QjZXQnZuWXVRWlJKUVUxVjlNTjYyQ2U4RHptZUc2a3FOVzFjVlNlZC0tM0RCUFZoSzhzb3lnSmpXbmlTTi1PY3RMWmlTelJ4RGhyR3M5YXNDc1ZObUVNRVV3b1BPN0NUZk5hQUljQU9YZmNPVzNJNkxzNElwc0lCTHlNNDE1UlNlY1J1STNQN2k4dlREaDF6TzRDS0o0SG5kdVNnY2psN3Y1VVVrdGZWRndnMGUzTUdSVjZBSGRRVGR5MFZKdGQwWFhyalB2eTZzcFpoSzZudVI0bWFOTTVCVzFSazRz?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "sensor_konten",
+      "subclusterIds": [
+        "sensor_konten"
+      ],
+      "matchedQueries": [
+        "Sensor Konten"
+      ],
+      "collectedAt": "2026-11-10T19:47:38.917979Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "55485302560d3ca478656c9e",
+      "publishedAt": "2026-11-10T10:35:00Z",
+      "title": "Dukung Ekosistem Investasi, Ditjen AHU Kemenkum Perkuat Integrasi Data Korporasi Nasional",
+      "source": "iNews.ID",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOb0dBcEcyYTY2ZExsWU9oOUMzbVNFdnZQaU9vMGZjN0N3NkhHV1RYakZuS09LMHhhZHl6dlBtZzBEcncwZWswNENtQjM0bWEtazAyQnVPUG0zQko3ekVRdEpkcG5qT3IybEZDS1JSZ2UtTUEtVE1JaHlCMGk2S3BqOE1rWjVyN0dmWVZsaGtpYS1Eem1CbEc5akRUWDVOZUZ0SEFFVlM0LXlyaGlFQkNENXpGc01MbUhKZkhpbTExb0TSAcYBQVVfeXFMUFVERXZkbG9mdWgyOXBscHRUbEtic1Y1a3V5UkVDd21leUtIdjI2RzRSYVloaFl1cTA5WjFtT0xhRGxTWHpGcEJIWG13MlRQMndacDUzUkdVSnljZVlld0NBU2d3VUZpZGxEWG9yN2F2aFVSQ2JEb09NaTdrT29zQzJSSlNlRGVjaXUxeHh2TzRtci1KejBiblJJbHJpUHJHOVo0RHFabFZQRzcyNDB3UEkxc3ZOcjljNC1YRC1xNHQtWC1ldklR?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "sensor_konten",
+      "subclusterIds": [
+        "sensor_konten"
+      ],
+      "matchedQueries": [
+        "Sensor Konten"
+      ],
+      "collectedAt": "2026-11-10T19:47:38.917979Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "d696c53146341dc0293d8782",
+      "publishedAt": "2026-11-10T07:03:00Z",
+      "title": "Ketua DPR RI Ingatkan Aparat Tak Gunakan Hukum sebagai Alat Pembungkaman - Harian Terbit",
+      "source": "Harian Terbit",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNMm83X2RlSWtCbDlHZXNQVWNHR2JpenptbkxIZ3JhbFRNeDRvSEs5aHhVVXVrMDFMLWJ1bmxqcTZON2thdzRLX2lwSG83MmV2bnpGamJUS19oWVJoNExmZGs1OW1iYWhKUFgwZjRvLXRNQW5jVndrdWJiMVNiLTcyRm52UWM4TjctVEFtMi1ucmhCSVVPRFpLemVFS0pQcGI3ckhUdGl3Y1NRR0w3Q28yOWRnU0t3WE9ZN1hlUldXYUFobXBN0gHEAUFVX3lxTE0ybzdfZGVJa0JsOUdlc1BVY0dHYml6em1uTEhncmFsVE14NG9ISzloeFVVdWswMUwtYnVubGpxNk43a2F3NEtfaXBIbzcyZXZuekZqYlRLX2hZUmg0TGZkazU5bWJhaEpQWDBmNG8tdE1BbmNWd2t1YmIxU2ItNzJGbnZRYzhONy1UQW0yLW5yaEJJVU9EWkt6ZUVLSlBwYjdySFR0aXdjU1FHTDdDbzI5ZGdTS3dYT1k3WGVSV1dhQWhtcE0?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-11-10T19:47:38.917979Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "ba4dfba26cbc5c97709c4615",
+      "publishedAt": "2026-11-10T04:46:54Z",
+      "title": "Kader Partai Gerindra di DPR Diberi Kebebasan Berpendapat Soal Ijazah Gibran - Konteks.co.id",
+      "source": "Konteks.co.id",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNUEZPVDdlbTJpcmJ0RTZKb3FMUktBZUZ0MUdVUmw2UEttRjBuVm9vRXRfZ2xMLVduY2Zvbk1tQkk3QnllQU5YRUMzQ25FNjNNWUx3SV9tLVgzclJvcUJFTXhiSU8zS3Rrb3Nid3ZCU29wZzBfQ0JRUk9rY2R6NkxOY2x3OFI1djk0cGkxcmNiZ2JNSjUxQzZWSk5OWUJSeHpiNUlGeV9ubWs5V0Nla0EydUphdkUySGRKamJHU0IzONIBxAFBVV95cUxQVmNHZjNXNmEwMlN6OEJMcC1ON1hCT1FURWItbjJqSThaT3lLek81dDN5WDZZQ2VxT3RDdDdDV2p0ZDEyV3JjeTZpZ2tjYjlSMHFWcGs4WVJrRGhTRWtOajMxZWUtSDIzdUFCQzlxbHBzbXNsendMbnMtTWFZTHlsWE9iY2NRUlk3MWt2OFhiWFUza1REeVQ3WWVUWEo1Z183a0FtVWxTNHlhSjBiYWlkM0o0RHVjXzh4R2ZiM1pnaEQ1RGxX?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-11-10T19:47:38.917979Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
       "id": "9b082d83fe9adc2327cdee5c",
       "publishedAt": "2026-11-10T04:44:00Z",
       "title": "Akomodasi Era Digital, Kemenkomdigi Pastikan DIM RUU Penyiaran Jamin Kebebasan Berekspresi",
@@ -200,6 +430,29 @@
         "Kebebasan Berekspresi & Berpendapat"
       ],
       "collectedAt": "2026-11-10T07:24:47.535403Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "10a7d0fe219e92a0ad6cad00",
+      "publishedAt": "2026-11-09T20:48:00Z",
+      "title": "Budaya Pertanian Karo, Smart Farming dan Tantanganya",
+      "source": "RRI.co.id",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQOHNWbmJUejZJcHk4UnB2dnBBX2tia3o5N0xTTm9KYTVPVVh5bTJaengtNVE5RFJ0UFdMbkF6eUZpVHBIMEpvVVRac1RoSU5UVWl1dHo5NEk2TE52VGpuRG1FMElMY1RzMVkzM3h3dXVkZ2d6d3pOQUN0R2JmZkxkMVBiLVYzdUlxUHlqUVQzX1NnMVkzTGsw?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "sensor_konten",
+      "subclusterIds": [
+        "sensor_konten"
+      ],
+      "matchedQueries": [
+        "Sensor Konten"
+      ],
+      "collectedAt": "2026-11-10T19:47:38.917979Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
@@ -504,6 +757,29 @@
       "reviewNote": ""
     },
     {
+      "id": "8cf460036afa55681e886ce2",
+      "publishedAt": "2026-11-09T08:34:07Z",
+      "title": "Ikapete Jatim Dukung Kapolri Berantas Judi Online dan Pinjol Ilegal",
+      "source": "Javasatu.com",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPSmdDcGJPOFlHd3RncXlkdmQ5X1pJa01JenBKY1ZaSG9nZnlIbGRON3k5WjltRXNpQjV2NzNFWXMtdkRkLVNEZnZzeWFLMjV0VlF0WXk4LVdoUWpmZzBrT1c4cmk0Rm0xLWY5Z0ZrNXh0ME14YnlaZm91U0prNUZzd1ZOSEZITEduM082RE1Bc05EWXFTTk1RWnlhaTI?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "sensor_konten",
+      "subclusterIds": [
+        "sensor_konten"
+      ],
+      "matchedQueries": [
+        "Sensor Konten"
+      ],
+      "collectedAt": "2026-11-10T19:47:38.917979Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
       "id": "362b705f45ccb2fd34f91ddd",
       "publishedAt": "2026-11-09T08:29:51Z",
       "title": "Dewan Nasional Walhi Mengaku Disadap Sejak 2019, Ini Bukti-buktinya",
@@ -522,6 +798,29 @@
         "Doxxing & Intimidasi"
       ],
       "collectedAt": "2026-11-09T22:25:37.471179Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "e38a55597c2e611b4e77991c",
+      "publishedAt": "2026-11-09T08:28:00Z",
+      "title": "PW Ikapete Jatim Dukung Langkah Kapolri Memutus Ekosistem Judi Online dan Pinjol Ilegal",
+      "source": "gadget.qoo10.co.id",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOMWx1cUE3QVZrRkVVR1ExZ3RLTTh3dTNSZlJyUjlERVZLN19JZS01SV9feE5UTHBFUm5BRlRwWGZFWWtRZVU5S25wUXlmV0tLQWJsVWt6YUg4Si1HbDFsQmt3QjF3TjhKal9EaFFTekNNSC1vTFJqdmczeUxtSGZqLQ?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "sensor_konten",
+      "subclusterIds": [
+        "sensor_konten"
+      ],
+      "matchedQueries": [
+        "Sensor Konten"
+      ],
+      "collectedAt": "2026-11-10T19:47:38.917979Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
@@ -826,6 +1125,29 @@
         "Kebebasan Berekspresi & Berpendapat"
       ],
       "collectedAt": "2026-11-08T13:30:48.402457Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "3729e3870d127cf7913981c3",
+      "publishedAt": "2026-11-08T07:21:00Z",
+      "title": "Situs Judi Online Masih Mudah Diakses, DPRD Minta Diskominfo Kota Bogor Bergerak Cepat Perangi dari Akarnya - Metropolitan",
+      "source": "Metropolitan",
+      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPWWxnSEYxU1FYcHdGRGhKZVN0allXUGIyeWtNaFl3WDlBZFJaN2FzRFpMV2JqdC1DY1RTTzlUY2hKSkxnZ0ZrNWpmZ1NiT01fUkVZMWV1NVJyeDdwSTJORUlnOUcwcHB1OGxpZ2NYN1ZSdHVuYzNwbmlPOTdobGV2bXp1cTZQTDVFYk96RTYzNE9YaUJBUWltZlNIXzFwWENCV1ZGUHQzc09xTDFqcUZ2LVB5bU1VY0tBMk1zTXpDUW5XOHM1M2RteFdpeUwzY3FnLUlGM1lPU2FTRml1RlJSQk5fNEh5c3VRU3h6LVJKdWQ0a1nSAfMBQVVfeXFMT1lsZ0hGMVNRWHB3RkRoSmVTdGpZV1BiMnlrTWhZd1g5QWRSWjdhc0RaTFdianQtQ2NUU085VGNoSkpMZ2dGazVqZmdTYk9NX1JFWTFldTVScng3cEkyTkVJZzlHMHBwdThsaWdjWDdWUnR1bmMzcG5pTzk3aGxldm16dXE2UEw1RWJPekU2MzRPWGlCQVFpbWZTSF8xcFhDQldWRlB0M3NPcUwxanFGdi1QeW1NVWNLQTJNc016Q1FuVzhzNTNkbXhXaXlMM2NxZy1JRjNZT1NhU0ZpdUZSUkJOXzRIeXN1UVN4ei1SSnVkNGtZ?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "sensor_konten",
+      "subclusterIds": [
+        "sensor_konten"
+      ],
+      "matchedQueries": [
+        "Sensor Konten"
+      ],
+      "collectedAt": "2026-11-10T19:47:38.917979Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
