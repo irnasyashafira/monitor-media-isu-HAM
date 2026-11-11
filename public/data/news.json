@@ -1,15 +1,15 @@
 {
   "meta": {
-    "generatedAt": "2026-11-10T19:47:38.917979Z",
-    "lastRunAt": "2026-11-10T19:47:38.917979Z",
+    "generatedAt": "2026-11-11T06:32:35.838333Z",
+    "lastRunAt": "2026-11-11T06:32:35.838333Z",
     "startDate": "2026-01-01",
     "refreshHours": 6,
     "mode": "incremental",
     "feedsOk": 16,
     "feedsFailed": 0,
-    "totalStored": 3082,
-    "totalPublished": 3082,
-    "newArticles": 14,
+    "totalStored": 3091,
+    "totalPublished": 3091,
+    "newArticles": 9,
     "warning": ""
   },
   "clusters": [
@@ -135,6 +135,190 @@
     }
   ],
   "articles": [
+    {
+      "id": "f8d02be4fc729de82d5fe6fc",
+      "publishedAt": "2026-11-11T06:27:12Z",
+      "title": "Sikap Tegas DPP FISIPOL UGM: Kecam Kekerasan Aparat dan Desak Perlindungan Kebebasan Berpendapat",
+      "source": "Radar Jogja",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQQWR2Zmt6SGVkTFdlTTY3RndCSkE5ajFfU0NOdFZxVnRIRHNxcl9OZ3AtY1k5LWhNS0NaZWEzTXl2TE5BVzZJY0dzQTBsdjhQUTJOUkZVTkN6WlRad0VFd1pfUmo4Wmw4c25yYXpHeXRINWc5MDQya3NzWWo0UlBnQ05oSXpTb01CQXhWMkgxYk9JVzBueXRuWlZINF96OFBXcmlrUlVZR2FaTndXZkFmOE1zUENsVWRxeHFUNnFRaHVacFg4Q3RUMExaQ1hFdmt2NHM2YzlZXzlKZmPSAeABQVVfeXFMUEthOHNzbDhjWkRSOHNzd2F4bktpeVdOS2x6OFJxWU1udDFCT0M5d1o1a21UWS1QaWlsQlFWTXliU1FGa1J6Ums0czdxYXFTa2lYZHNVMXhZR2xwMXB5YXVieUdsNnVfYmNEam1EVkhsLVA1R3VaNTlJcDlSNW44R0h2VnhCTXgwUHRVcDF4R013R0o2UE5TTkJQZmNLNC1DeGZjYUtWV3VHdWpsLVBtY3pXblJjbHVvWm5mcHEzdUk5TDJGdGY4dmpyWXZvSjQ5WU9zaDJ1VFFPcG1Ia1oxdl8?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-11-11T06:32:35.838333Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "8a598386a1a6ff0d066f3db9",
+      "publishedAt": "2026-11-11T06:09:38Z",
+      "title": "Perwakilan Ombudsman RI DIY Ingatkan Polda DIY Tak Kriminalisasi Demonstran",
+      "source": "Tribunjogja.com",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNSjdGejk4RzFJYWR4NHJnTzd0V3lETWI5VFZRNjhHSkZxY0VoLWF2NkpGSk5kUXNZaEJRcEhmc1k3emd6N0pScXBSRGhnRDJtSHpfR0Zxdno3OWFNSlRWM1pSZ2U0RXZ0TnhQcHNFeVh0ZHIzNjNtNEV2M1RWYWVwdGRQVXFIdXB4MHRXZnRkMXFuaFFKRnRUR0pjVXdJRHlqRDR3c0VfYmlVZU9VcjRiRkVscW0tM28?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_berkumpul",
+      "subclusterIds": [
+        "kebebasan_berkumpul"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berkumpul / Berserikat"
+      ],
+      "collectedAt": "2026-11-11T06:32:35.838333Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "3f3c8e3dd77358821c101ff9",
+      "publishedAt": "2026-11-11T06:04:42Z",
+      "title": "Pemerintah Pastikan RUU Penyiaran Tidak Batasi Kebebasan Berekspresi di Media Sosial",
+      "source": "www.vibizmedia.com",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQdDRNRjVpS0ZhSVc3QjdVV2drNXFFWWJCRlBEU2ZIZG1tYzdPS3B1Ql9wcXo4RGFXMjhyQm85UnQ1UERCSjJla2h2M2hRODFfdkZHUHk5STZXUG9lUnROQ19KZ0JncUx5a05IcUNYYVJZTFk0dHRSY0E4ZGttRGp5S0VmazZiNGFGaWZsQlZHcVF2ckgwTzk4bGRmQXpnX0pKOXZwR25sUFZCSFo1QWdVSncwV1o2S1NOTDBhcTlraDZGS0hoajZSM0thM0NxUQ?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-11-11T06:32:35.838333Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "333ebdc6d8be40cb568dbe40",
+      "publishedAt": "2026-11-11T05:56:22Z",
+      "title": "Pembakaran Masjid Duren Sawit, Polisi Didesak Pakai Pasal Terorisme-Penistaan Agama",
+      "source": "Jawa Pos",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQNDQxaDVfUU5rN19kUHNoTkVXcVZFd3JYNGpiVjVwWHRHZEI5dnNmUm8zMnN6S1FpRnVDOU9rN0lBdGlDSFczR2NTam4zcFljOXdKa0YyTDJheFRmWFhzTGliQk50cHFCMG81R2lDQ3haTkpYanFIOUVvZXBxOTVubkMtbmNROVVrMFp2NkpGSHFNTm1sNEpXa0Z5LWhfaElaRDREVkxnSS13OXdMdlFXTU9rSEpaLWJGODl2dzVNUFR4ZEdYeUJkMg?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_beragama",
+      "subclusterIds": [
+        "kebebasan_beragama"
+      ],
+      "matchedQueries": [
+        "Kebebasan Beragama / Berkeyakinan (KBB)"
+      ],
+      "collectedAt": "2026-11-11T06:32:35.838333Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "5478acae4d9c8ff6f3a807c3",
+      "publishedAt": "2026-11-11T05:47:03Z",
+      "title": "Kapoldasu : Kebebasan Berpendapat Harus Dijaga, Mahasiswa Diajak Bersinergi Berantas Narkoba",
+      "source": "DNABerita",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNVDlwcnphZHgtMUlBajV3TTFteDYxSXdDa3hDcG9MY1JRQ3g0VklKUHhqdWZXSW5HUVJLWW1GT2ZKSk84SnJhV3A4Yy1WQzhXYnd1cmZrVlV2cFJhWnQ1QW9kMlBoM3dDYS0xRk03aGs1YzJXQVVJakdYX1Bnc0l4YW9pdTNaVWRsVEV3UXhJeG5neF8zdFlpd3ZmNWdka3NJRzlDZU9vTU5IQVMzRjVHTk9n?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-11-11T06:32:35.838333Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "2000f80dd991e1e2db06d9b1",
+      "publishedAt": "2026-11-11T03:44:14Z",
+      "title": "Cyberterorism: Ketika Teknologi Menjadi Instrumen Teror Halaman 1",
+      "source": "Kompasiana.com",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNeTV0T01CdDV0MFlXLXlqdkl5Q25nbjJlV2xtSGYxZnFyd1ZVdFZvZlRwRVhVQmJadVlobFRJTG9rd3l3SUg3enJaRV90MWNuXzVBc2hhVlVtaGgxb2R3YWREWWlXbmpHZVVWTXFJV19xZENRSVY5a29hQlNYei1GX2dmVWU3S19pUlhuVHlxZk9xM2l0REVYVDViNS0yaWZRUnFNa091WjBTT1pNSEJEMjdrTWNPQnl4?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "doxxing_intimidasi",
+      "subclusterIds": [
+        "doxxing_intimidasi"
+      ],
+      "matchedQueries": [
+        "Doxxing & Intimidasi"
+      ],
+      "collectedAt": "2026-11-11T06:32:35.838333Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "7d3f39239d7b100806454950",
+      "publishedAt": "2026-11-11T03:00:56Z",
+      "title": "Pemerintah Tegaskan RUU Penyiaran Tak Batasi Kebebasan Berekspresi di Media Sosial",
+      "source": "Harian Berkat",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNaUs4VjJpQzVCSXRZLTR6dERQdV91OEZGVC1ndDkxbmxkZ2hHd2J2NHlySEhFWVpLeDZwN2pUcV8zLVFBOTRYeVRTVVp4ZDJkNEY3TDZNSVU3Rk9vWEM1WGhEUEo4ZnJZOHpUeGVpV0QxZWRNckFPX2NQbUo0M0oxQlNDQUEyZ0RfRVlscUt5UFNzWmpVc3VNdUFFTkFYQzY0b1BzcmppNC1jU29mM0dBMFFrSnNCTjZyYUVN?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-11-11T06:32:35.838333Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "87acfe32099f0f9426f07983",
+      "publishedAt": "2026-11-11T01:14:47Z",
+      "title": "Aksi Hari Pahlawan di Jogja: Aliansi Jogja Memanggil Soroti Tindakan Represif dan Premanisme Negara",
+      "source": "Gerbang Patriot",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOUGlxTVNCY0hIMFluXzhLMFVBSFF1a3ZzOWJVSzVma2Q1a1ItaldxQ1pRRzRheFJBMDNwZWxBZ19nc05ERTNJSzdrODF4d3hzdm9URG5zXy1YWUZQRHhTOHMtWEF5MXdydnBuMzZENG1pZklGM2tUcXZnbVA4U1FNLVo5VnhaS2ROX0Y1NHNMRkRmMUk4aURLMHY2clJJUzBkNlVsbE42SjdRZzlyMC1IVHFkcDIwSnBwNHVaSW1OczVCWlVrdUxTQVRqckFBRFJoZXA4?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_berkumpul",
+      "subclusterIds": [
+        "kebebasan_berkumpul"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berkumpul / Berserikat"
+      ],
+      "collectedAt": "2026-11-11T06:32:35.838333Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
     {
       "id": "0ff7b26f6ad8d8ef6a519d9d",
       "publishedAt": "2026-11-10T18:32:32Z",
@@ -315,6 +499,29 @@
         "Sensor Konten"
       ],
       "collectedAt": "2026-11-10T19:47:38.917979Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "5f4fcb84fea6e82eb8446d41",
+      "publishedAt": "2026-11-10T09:35:24Z",
+      "title": "Wajah Baru Tribun Jabar, Hadirkan Green Office dan Ruang Kreatif untuk Komunitas",
+      "source": "Jurnal Gaya",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOYlNmN0UtZldKWnlWT01hUnA2R04yQ1lWZVdtRTZESUxFY1JuSV8tdkF2ZWNWdVM0TWstV3Jra3Zob0tKNTJvWW4wdnZNRHlramJZaXp3Q3c1SGVSWkJKZW80WW1KRy1uX2pfUGVQSlF2LVU4cGRiM3pBaU1mV1pXdzhIWUIxdk96QXZiSTV4TVhidkNobmQzdEYzUUtkWWtsTG9Bd2xHR2t4MGV3dElGaXE1amJJX2FaazdTdW5GdHRFeVpjSExLS3dpY2s2Umgya3fSAdcBQVVfeXFMUDhjQk1UTTh5ckJMemJGclFlcmZMd0steHJDck5tYmpid3B2b0tvZnl2TkhSWXY0b1lGLVJHVmVoSHRHMVhMMHJoeFJLYjhHNlJ3TTRRUnlJTXJSdVZWTXhwY0dZbGtfaVg2bkpaajhWYnNXU2UxYUo1TU5EVzNHbzhjQ2hlelN0VGtTU2owaERueGNiV3NwdEk5bUhHWVB0REZsUUNEWU82aktEcy15M1h0dUN1U1Z1MlJCYmpOWFc4UDlFZnFqam05ZGNvVFFIUWJkcHZqWlU?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "doxxing_intimidasi",
+      "subclusterIds": [
+        "doxxing_intimidasi"
+      ],
+      "matchedQueries": [
+        "Doxxing & Intimidasi"
+      ],
+      "collectedAt": "2026-11-11T06:32:35.838333Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
