@@ -1,15 +1,15 @@
 {
   "meta": {
-    "generatedAt": "2026-11-11T19:39:09.297633Z",
-    "lastRunAt": "2026-11-11T19:39:09.297633Z",
+    "generatedAt": "2026-11-12T07:17:36.198012Z",
+    "lastRunAt": "2026-11-12T07:17:36.198012Z",
     "startDate": "2026-01-01",
     "refreshHours": 6,
     "mode": "incremental",
     "feedsOk": 16,
     "feedsFailed": 0,
-    "totalStored": 3104,
-    "totalPublished": 3104,
-    "newArticles": 13,
+    "totalStored": 3118,
+    "totalPublished": 3118,
+    "newArticles": 14,
     "warning": ""
   },
   "clusters": [
@@ -136,6 +136,167 @@
   ],
   "articles": [
     {
+      "id": "3022ad1c71b0ccbb25c9bca5",
+      "publishedAt": "2026-11-12T06:14:11Z",
+      "title": "Sikapi Penangkapan Massa Aksi di Yogyakarta, Ombudsman RI DIY Minta Aparat Kedepankan Pendekatan Humanis dan Tidak Mengedepankan Pidana",
+      "source": "Ombudsman Republik Indonesia",
+      "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxPb0pkcjN6S09GNF9xT2JaZHhxY2RuZ1ZrMy1CX3cyVVRfSTMyc0hEOU1wRGhNUy1HVGpveXkzUHhaYXBBSEZCaWFkYkllR3gyMzFzQmxuNDRZSXJKQkVlY20wWGtUTDkxMnJ0OEFqbkFzSGZLUldqX1F5bXhjbmhpekdoZjBKNjBOZFBTUDhCWW1KZmtQeUFoNklycWdfQjExeFdPWU1seTZPaDRPYXo4Y25LcUtHZDV1Y0tTRXl3VTJlX3VvbjI3NjJ1TFhPQmY3SDN4bWNWSXFnN1JTcWpfb0JHMGtHc1FoWnVWM204ajRfZVVfR0RjMEszREtlWnlQUzBXMU9jVEFNSmVyWTZMYjZGX3pQUQ?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_berkumpul",
+      "subclusterIds": [
+        "kebebasan_berkumpul"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berkumpul / Berserikat"
+      ],
+      "collectedAt": "2026-11-12T07:17:36.198012Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "b996abf58ff523c23458afc0",
+      "publishedAt": "2026-11-12T06:01:03Z",
+      "title": "Konser Dongker Dibatasi? Fadli Zon Singgung Kebebasan Era Prabowo",
+      "source": "MerahPutih",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZEEtRTJyeHpWV3Q0MV9JVGlrUXZpZmUwTjdCcGNkWVk5WlhobE5LZTZtZlFjUEJVT2h3VENHQVZVTGVpTjA2aHhkUlBFRzFOMnZxeEx4TnItVzV4bE9ua3ZJY3Iydk1KMVdZY1RIYUk5MnNoZ0Z3MEJscm9OYW1yd25TZEpvUFpn0gGHAUFVX3lxTE5oWDdLaDBMVE5aUUtqTVNVY2lEdFhLcG85WXJrYUwyczE2WTUtbXpEWmlQNFJSMGhNOUtBMzlrMTRRQkhlcHpNb3hjeUZIeTR6Sl9oWDd3QnNIaGZIeVNoZEp0MW9OX203bWdYckxkMjlWcWcweHBpSjNVX2xUUkVBcjF5N1ZuUQ?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-11-12T07:17:36.198012Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "07d061c0df733805f0622a19",
+      "publishedAt": "2026-11-12T04:42:06Z",
+      "title": "Benarkah Komdigi Minta Takedown Konten Kritik hingga Karhutla? Ini Temuan Remotivi dan SAFEnet",
+      "source": "GoodStats",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPQTVkcTR0NlRTMkNGMnM2ZlhSSG1sa2x3UjFRV3FJQ0IxYzhRTTVKTUZPaF9lUXo1TVduOEVoQ0ZHVXRGcGxJYWhpbVNKaFdHSjNkODl6ZUYyUXlaeU9PX3JrWG81WkJLSmpqU1R4RGdyanVJblFpeWRZOXJPWXFlSUJ4UDkzNFJjS29R?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "sensor_konten",
+      "subclusterIds": [
+        "sensor_konten"
+      ],
+      "matchedQueries": [
+        "Sensor Konten"
+      ],
+      "collectedAt": "2026-11-12T07:17:36.198012Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "abc3384e9528095ac6d0d2f4",
+      "publishedAt": "2026-11-12T03:12:48Z",
+      "title": "Kronologi Pengunduran Diri Dosen IAKN Palangka Raya: Buntut Pembungkaman Kebebasan Akademik Pasca-Aksi Protes Bencana Asap",
+      "source": "RumiNews",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNMHBGWnBWT0U2UExNWW5BRVI3Q3NIWW1jR3lfZnRUX3hBQkJHQzdEZzdyMFR1U0xKZkxKWENhUzhHYU5xSVNTNTlEeENnUHRFdkhONFFiRTljUzJYLWxIX1lsVms1WFhjWE5oUVd0ZU1rSkRlUGFvZmxINFFyZ2htM01rbGhNejZxQ3lyVzNYY2JJSVNuckltRzRSejVITHFVVkRIdUQtMDRBZHlRYVRmaGhBU1BNVXRuNFd3bFNlc2xiajBPcVhub0xaTGJfeUVWRFVRcHZ2b2xMZw?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-11-12T07:17:36.198012Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "3d05e363a54f0240a4e95e8e",
+      "publishedAt": "2026-11-12T02:28:00Z",
+      "title": "Demo Ricuh di Yogyakarta dan Penjaminan Hak Kebebasan Berekspresi",
+      "source": "Kompas.com",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPUmItNWJObGxEbDNwbmJkdkdwYV85azllb2lPUkg5NFZYcDg5bU1RMTRpbWY0dURHVlpXU204RGwwRUFNQW1nbjltdEZnVGxFNHdHdjczdksySG1pUnhKd1JNTUdKM2xBU1F1UVFDdVg3QXZnRThGWmNCXzIySGw4V1JDeGhBRzVoS052WDF0azdzYU5BZGJYSWlRNFpCeEFYR05rNzZCUDlUTXlmX3JGM19ob1l3YU5zNFoyLTFB?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-11-12T07:17:36.198012Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "65b69d34535a8a87a695035b",
+      "publishedAt": "2026-11-11T22:00:00Z",
+      "title": "Ancaman Bom Sekolah Italia: Hoaks Massal, Teror Digital, Panik Publik",
+      "source": "Orbitindonesia.com",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQWU45eDR3RHhuQ05KdG9Tb2wxZ2g3RmpudFEtOHVidlF4b0E3Mk9ybzFqdVVpcl91MFcwU2Nfek0yVktSMFlyNTd5R1FBbnV0REswbEZ0di1jVGZCMVlwSXJRNTlMVUJrSHZTb2VoamtMQmRFYkJsLWNGUzRvQVlJNEhGaXBNUmx6aWNuaGRHY0VHY0o2Uy1kQlM4VnR1THRXVUpUdDE0aG5uYVUxTnRyVUhXcU44UQ?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "doxxing_intimidasi",
+      "subclusterIds": [
+        "doxxing_intimidasi"
+      ],
+      "matchedQueries": [
+        "Doxxing & Intimidasi"
+      ],
+      "collectedAt": "2026-11-12T07:17:36.198012Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "ec66f64fc6add52f73f6a6b4",
+      "publishedAt": "2026-11-11T13:22:00Z",
+      "title": "Kapolda Sumut: Kebebasan Berpendapat Harus Dijaga, Mahasiswa Diajak Bersinergi Berantas Narkoba",
+      "source": "Media Hub | POLRI",
+      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNa202WW1pMkdfR1RWSzMtOGVPUjBXV01RcDhpdjN2c2tvSU53cnZNSEFSMFhMMEtyT05GWHAtYVhKNlkzejBhTC1EbDh6YzJIdExwNVQwZHEtSEZvZ0N3MTM3UHhwcGY3QVMtTmhZRHppa3NsNmRtWWUtdzJCTF9JUE1pQTgtcXhXUDBycFJneXJDLVhBa2lucEUxczRsTlJwMVNqVkpkNnl1WXN5emJWNGdkUlZMa0gtS3pCUDNCU21mbXpINW5PS0lmV3h2OXo4MUZZeGtXQk94Ym85LXVVRFV2MEJJSHJleDVPZnBnUXdaSVNMN0prejdB?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-11-12T07:17:36.198012Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
       "id": "5b8a0904790345dc85ddef51",
       "publishedAt": "2026-11-11T13:03:00Z",
       "title": "Pemerintah Pastikan RUU Penyiaran Tidak Batasi Kebebasan Berekspresi di Media Sosial",
@@ -246,6 +407,75 @@
         "Sensor Konten"
       ],
       "collectedAt": "2026-11-11T19:39:09.297633Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "d69d03b62a10e82c1bbba359",
+      "publishedAt": "2026-11-11T10:35:35Z",
+      "title": "Foto Artikel : Pakar Hukum UMJ Soroti Perlindungan Kebebasan Berpendapat",
+      "source": "Kompasiana.com",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQaDBlbVZIajcycFlFUm1FUkJ6NUJaeFdMc1pKM1U0eTRXeExPQ2t5VEtMaVhGaXFtYVBRb1ZwaWZBd1lOWmY5MFVJRklacThwd2dSc0dsVnlENVdtRm9tN3RHSnRKRDhUSEFzMDA0YmZIdEgyMk9rcndlRmUteUtqakRQTTRZWFc1TXc1Y1BtRU1ZSGpOVUtVdHRla21XTVJtTGx1dUotX193SGN3VWVuR1lMaGM1V2M2dVVOVlpOekJSSVlzX0JpWmZwdy1GTm9OSkliRFp6WTM?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-11-12T07:17:36.198012Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "e40c925923c3979f092e28e1",
+      "publishedAt": "2026-11-11T10:21:00Z",
+      "title": "Pemerintah Usulkan Penguatan Ekonomi Pencipta dalam DIM RUU Hak Cipta",
+      "source": "RRI.co.id",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOMS1oLUtUS2RnamJFVTVNcHZCc2VvVmtwNmNwcnhDY3IybVJ5ZU1adkZ3eU1lbGkzV09VQmNfS0pSc1F2QTE0QTJvc0RKWm5qSHFJVU80UVdmM3FoYzBGWVhEc2NSNnRUVVZmcDBpbVNMQlJ6akVIOWNrT3I4ckFIMEpRZVFvYlhsOFlRZjk3T2xZcXdCNFVtNmxxVk55ekVEYlRUYXlsMVpVWUs3R2hYRnJLWlVMUQ?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "sensor_konten",
+      "subclusterIds": [
+        "sensor_konten"
+      ],
+      "matchedQueries": [
+        "Sensor Konten"
+      ],
+      "collectedAt": "2026-11-12T07:17:36.198012Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "af3350a9cef18591fcb7a1bf",
+      "publishedAt": "2026-11-11T09:55:31Z",
+      "title": "Pakar Hukum UMJ Soroti Perlindungan Kebebasan Berpendapat Halaman all",
+      "source": "Kompasiana.com",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPLXBkRi1IT0hSZkMzak5Fd21QS1ViamN3QlVObDExeWowdjdVRzlLTnByNTdTc2NnLXdXODRYckZHaXN3bGU3TWh5cDNkWnNKeGNTaVQ2cmZVbWwxZkhSamFocEI1b0hvOUxMTFhCNmowX0xVS3pRT1NNYzdyQkFOTmR6Ym9URDB6UTN4NXR0alE3ZmRnUDFUQk1XUm1QbEpqR3NCd2Ntb1ZORmRIN3ZONHJVTkVYVnNvZjl2cWs0N19maGlpUkFIWHNEQXM1WnRCcXBR?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-11-12T07:17:36.198012Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
@@ -458,6 +688,52 @@
       "reviewNote": ""
     },
     {
+      "id": "536c164c869c462ac591b27a",
+      "publishedAt": "2026-11-11T05:55:56Z",
+      "title": "Manfaatkan IFP di Perpustakaan, Siswa Kelas IX A MTsN 7 Bantul Pelajari Kebebasan Berpendapat",
+      "source": "MTs Negeri 7 Bantul",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOZzczQXdVVTZiaUl3LVAtZVh5QUZ6RjRSb3VweTloZURYdkJiMkpiVWhoMEkyaFVDUy1ibXlXMDIwaUhDZS1jZUlsaWpQbDFpMXpxeDFuTGJkSHdkSE9KZGdpTk4xeTBxSHFvbzhrbE1BQ3BGWnpMNkVENnhjRmdxNGhyWFd5TGM?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-11-12T07:17:36.198012Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "0ffb284e3ca2785f8a86f8ef",
+      "publishedAt": "2026-11-11T05:55:56Z",
+      "title": "Belajar Pendidikan Pancasila di Ma7uba Lib, Kelas IX E Bahas Kebebasan Berpendapat dengan IFP",
+      "source": "MTs Negeri 7 Bantul",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPMHVBZ3BaVC1wdEZZaHdzdWZDd0xmdkFaX1ZsZzVqR3dndVpvQzlpd09wMzlxZ19WSElXakNoZk0yb3E3OThoTkpaSldhSHNSNHFHVU5sdXBybWlaNlBTeVhSM2hFOVVBcllJVWxUQ0hDclc2VUczUnRaNXNPZjVaYzVxVHJWcDBjd1E?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-11-12T07:17:36.198012Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
       "id": "5478acae4d9c8ff6f3a807c3",
       "publishedAt": "2026-11-11T05:47:03Z",
       "title": "Kapoldasu : Kebebasan Berpendapat Harus Dijaga, Mahasiswa Diajak Bersinergi Berantas Narkoba",
@@ -568,6 +844,29 @@
         "Kebebasan Berkumpul / Berserikat"
       ],
       "collectedAt": "2026-11-11T06:32:35.838333Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "d8a4caa5b4349a2c931be5ba",
+      "publishedAt": "2026-11-10T22:05:12Z",
+      "title": "Represi di Ruang Digital, Keamanan Manusia, dan Tantangan bagi Demokrasi Halaman 1",
+      "source": "Kompasiana.com",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPZkszNUk2V3NXSFQ2UXhOMjF3Vm1OLVRkNlRGR0dEdzFpLTYtMzBIYWV2NGZ2akhkems5dlRJbE9NaVZvOXo3RmNDbXVSWG1KZ0pwc1d0Rld6THpoWGlzYU9qc25kbmxlUWhILVFoS2UtVnc4c3JlY3NvcHBpSk02RGk4Vk5pM013MTJOUkliMTRMcjEyd01tbFlYODVuQnZWOENHM3dwMXlnZTVPaVZuUldyQmVHak1mNndULVZraE00WnhpZXZINXNBM01vdw?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "doxxing_intimidasi",
+      "subclusterIds": [
+        "doxxing_intimidasi"
+      ],
+      "matchedQueries": [
+        "Doxxing & Intimidasi"
+      ],
+      "collectedAt": "2026-11-12T07:17:36.198012Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
@@ -1327,6 +1626,29 @@
         "Sensor Konten"
       ],
       "collectedAt": "2026-11-10T19:47:38.917979Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "8ec38ef6ac04dac1b9d70f7b",
+      "publishedAt": "2026-11-09T08:00:00Z",
+      "title": "7 Cara Buka Link Situs Diblokir Pada Google Chrome",
+      "source": "JalanTikus",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9reXFYU29NLVA4cFVNZkN3OEM0aFppNk9LQnFiYzJKdmRKOWs2ZVVTWHYtbUpVS0FKTlBSRjd2VDgyUDZ6dFZXaTdtZHp6MFd0ZGNWLV82UGl4b1dPaU9SYVhiSXhEZWNybEHSAW9BVV95cUxPdVNrMVo4WlBkZ1JpbFM0WWJsV182N2RrQ1ZsS0U3NmMycjV0SmZyVVJJQ1lscG83T1F2RDhKWWNRcWQ0bU5vTzBQM0ZOZm1zRS1BaWplTkdQa2xvdUktWnVMbFJia3B1NDN5R1loOW8?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "sensor_konten",
+      "subclusterIds": [
+        "sensor_konten"
+      ],
+      "matchedQueries": [
+        "Sensor Konten"
+      ],
+      "collectedAt": "2026-11-12T07:17:36.198012Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
