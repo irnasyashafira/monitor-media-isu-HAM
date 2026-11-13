@@ -1,15 +1,15 @@
 {
   "meta": {
-    "generatedAt": "2026-11-12T19:58:52.448656Z",
-    "lastRunAt": "2026-11-12T19:58:52.448656Z",
+    "generatedAt": "2026-11-13T06:51:29.106512Z",
+    "lastRunAt": "2026-11-13T06:51:29.106512Z",
     "startDate": "2026-01-01",
     "refreshHours": 6,
     "mode": "incremental",
     "feedsOk": 16,
     "feedsFailed": 0,
-    "totalStored": 3132,
-    "totalPublished": 3132,
-    "newArticles": 14,
+    "totalStored": 3138,
+    "totalPublished": 3138,
+    "newArticles": 6,
     "warning": ""
   },
   "clusters": [
@@ -135,6 +135,75 @@
     }
   ],
   "articles": [
+    {
+      "id": "2309c9be3157271692338302",
+      "publishedAt": "2026-11-13T03:33:25Z",
+      "title": "Demokrasi di Bawah Bayang-Bayang Ketakutan",
+      "source": "Tribunnews.com",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQWUhqMHV6Rkl5SzJXZFQxY3hyemhudXNTQmJjZnBEOGNBYzlpTDJYNmQwcDlKTUNTY3g1ejJvc3ozdndFOWdrdDUwOUFhZTNINXdJUGQ3SUt6cFl3YU1JMnFqdUJTSDFqeGlUekZydVI0LUh3WlRIeG8yaVBlV0IzZTQxSDF4cGZ1RTcyYVRfOXhKQQ?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "doxxing_intimidasi",
+      "subclusterIds": [
+        "doxxing_intimidasi"
+      ],
+      "matchedQueries": [
+        "Doxxing & Intimidasi"
+      ],
+      "collectedAt": "2026-11-13T06:51:29.106512Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "d46353e08e86fd6f91e56dfc",
+      "publishedAt": "2026-11-13T02:12:48Z",
+      "title": "Video Tanggapannya soal Band Dongker Dihapus, Ini Alasan Opie Kumis",
+      "source": "Tribunnews.com",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZnhnSlRRRE9ycEJoVkh5UTNXb0ltZGs3VFNrblRNLUZ5N3I0TE5iZXBEcnZfRVhVb29XVzlNWDUtTFllRkdrRDIwdTN5YWI1a0duMlJTY2lkMlNMYTdrTk1ONVVjbzVmaUp1cVhkcV9sNUEyZU0tS25GeE1obTg4dHhsdVRBNU16UDZ4a0FnQ01ZY3BVTUlMV2JzcFhfZFRlUTJCeEZNVHBrMGM?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-11-13T06:51:29.106512Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "9f34d803f71d1070aa591d17",
+      "publishedAt": "2026-11-12T23:25:00Z",
+      "title": "Kisah 5 Wapres Dunia yang Mengundurkan Diri",
+      "source": "CAKAPLAH.com",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPMkg2MnRybXZVYmRpeWpZdC1EN0xVMFBkWVVzTmROVHh1bGtROHhMMU9GV1owbm1hMFEwU21SemxlRl9TOFJiWkRpcjZiRTFSMHZBX3Z5eE5HaUY2ZmdJb1NFU1RhTjhRc09wam1CX251LUdmUWFtbW0yNHljVmp4dTRvVTFndl8zNXZ5c3FscUZ0enFlbTBUVkpLU0RqZ0k?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_berkumpul",
+      "subclusterIds": [
+        "kebebasan_berkumpul"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berkumpul / Berserikat"
+      ],
+      "collectedAt": "2026-11-13T06:51:29.106512Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
     {
       "id": "ba5e707dcd2ce904d9f21e72",
       "publishedAt": "2026-11-12T16:10:16Z",
@@ -315,6 +384,29 @@
         "Kebebasan Berekspresi & Berpendapat"
       ],
       "collectedAt": "2026-11-12T19:58:52.448656Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "42fc38aa441d210f289a15bc",
+      "publishedAt": "2026-11-12T08:16:37Z",
+      "title": "Kebebasan Berekspresi Melalui Musik di Tengah Pembatasan Halaman 1",
+      "source": "Kompasiana.com",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPeFB2YkpjMktWNExGc1dPaDloTVRUQU9sOUJQVnd0ZmE2M3lvRHBkbDZDb1J2UmUyRGtGYk9HUGQ2dERWSGppdEZfWXdPd3NfYTB4dEFzWnhsbWIxU3Njc2pvYXBVR094M1dBWTYwY1pFcTUtcmlwc3BwLWdWM0JQM3pldXZzMXQ5UnRXaHRpUXJCOXdwYzdhaVJndlpRQjBiNHpTMXg1SXVDa0pQb0ViZ2h6eG5XSkNaUjBsemxsVFJLODR3VEY3VQ?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-11-13T06:51:29.106512Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
@@ -1378,6 +1470,29 @@
       "reviewNote": ""
     },
     {
+      "id": "875444eff836c1626a090294",
+      "publishedAt": "2026-11-10T08:00:00Z",
+      "title": "Kapolda Sumut: Kebebasan Berpendapat Harus Dijaga, Mahasiswa Diajak Bersinergi Berantas Narkoba",
+      "source": "Nadaviral.com",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPajRMSFp1bXdFWU1fMnN5ZnJ2bmZzOGhyc3J2bDBLTFpOTkw4NEVIMlJ0WGFiMFZoMXFzQ21zR1dIYU1rYU9nNGNBWWRsc1FrQnhvSnhhelFvM3JDSjRmaFRvZ29nWHBhNWdlNkFJZW1KaDRSUTc4ZjBsa2hhT3FlUy1sSm45V3lFLVd4RlFlN2NLTl91MFNVZDFvU29WT3phdEdGNHFaSVk3dXRlWXFKT25tdFdYdw?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-11-13T06:51:29.106512Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
       "id": "d696c53146341dc0293d8782",
       "publishedAt": "2026-11-10T07:03:00Z",
       "title": "Ketua DPR RI Ingatkan Aparat Tak Gunakan Hukum sebagai Alat Pembungkaman - Harian Terbit",
@@ -1511,6 +1626,29 @@
         "Kebebasan Berekspresi & Berpendapat"
       ],
       "collectedAt": "2026-11-11T19:39:09.297633Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "20e180bc5a5ca6a854f1fa45",
+      "publishedAt": "2026-11-09T23:45:00Z",
+      "title": "Penyadapan Disebut Makar, Pakar Hukum: Dalam Sejarah, Tuduhan Ini Biasa untuk Pertahankan Kekuasaan",
+      "source": "Kompas.tv",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOQWhhbExhbWpiUG12M1NEQjlUVXBJdzNZLVFBb29VUk1JamNXc3BxYlNkeDF4MXNHU3kzLXVMcXIwSXlLQ0xKQV9nTzBFWmZ6OUZHY2dQZ3g0M2hxYUpaR3JxTi1JYnR6bUsyNjVpa0FqX2N4V2M5bnVZRkhJLU1vSEkyNzhvQzB1NFRnVXNsTVE4MmpickVrM0ZPRWFiS2lDZ1A3THlxdnROTzRQRXJmWEZ2d01qTVFZRlVXcjMzcW9mVXFJUmdiWDJQOGpSX0HSAdQBQVVfeXFMTlg4VVBrSVI2M2FWaFRQdUVvT1UyNHI1RGlubTh5MkZ2UHBMNVBCUjg1cUFWQTV1OHNTNUdNaTAwcms3dDFWT0t4MTdnRGoySGJpNExTU3JxZjhfV0tYamstYzFWWF9FUk13OEg4UGc3VVVDWkFaZjJxdjBJYjlTNEFMMnNkLV9acFNrT180a3hjNkdjTXYteTZVRDM0dmVONXIyVTdjY1ZCX1gxOHhsWWg2ZzNoNWh2bDZocG1FRk9TajdXb1k4NFJaa3UxMkpOdVo4NGQ?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "doxxing_intimidasi",
+      "subclusterIds": [
+        "doxxing_intimidasi"
+      ],
+      "matchedQueries": [
+        "Doxxing & Intimidasi"
+      ],
+      "collectedAt": "2026-11-13T06:51:29.106512Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
