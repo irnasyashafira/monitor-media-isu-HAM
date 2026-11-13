@@ -1,15 +1,15 @@
 {
   "meta": {
-    "generatedAt": "2026-11-13T06:51:29.106512Z",
-    "lastRunAt": "2026-11-13T06:51:29.106512Z",
+    "generatedAt": "2026-11-13T19:46:29.246006Z",
+    "lastRunAt": "2026-11-13T19:46:29.246006Z",
     "startDate": "2026-01-01",
     "refreshHours": 6,
     "mode": "incremental",
     "feedsOk": 16,
     "feedsFailed": 0,
-    "totalStored": 3138,
-    "totalPublished": 3138,
-    "newArticles": 6,
+    "totalStored": 3149,
+    "totalPublished": 3149,
+    "newArticles": 11,
     "warning": ""
   },
   "clusters": [
@@ -135,6 +135,213 @@
     }
   ],
   "articles": [
+    {
+      "id": "7ef529c3d121649e283f64a8",
+      "publishedAt": "2026-11-13T12:37:00Z",
+      "title": "Aksi di Unair, Aliansi Gerakan Warga Sadar Minta Aparat Hentikan Kekerasan dan Intimidasi",
+      "source": "JPNN.com Jatim",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNU09sUWFHdkxZYzBwWkc0NGIzbE9qc0xwUk1jMGQ3dTE1V09vbW5RenUtdU5qOHlJQXJJRi03QWtVNnkxbzhYNU9vaHktREI1ZDEtU1poSGVyREpsS2ZsTENZRlRPTG10R29velRUMW1vcWJ2WEVfSmtHdmotTV95eVV1ajZ1RkI2ZFFhUkczVUE1LTJReEFHTHdxVjQ2TUhENzIzWklOaFJIaDVnSTZjdlRqRUlMMHRTbGpJYmxxdFpWQkxvYjd6Znpzdw?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_berkumpul",
+      "subclusterIds": [
+        "kebebasan_berkumpul"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berkumpul / Berserikat"
+      ],
+      "collectedAt": "2026-11-13T19:46:29.246006Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "004b99dcb2866819613a3683",
+      "publishedAt": "2026-11-13T11:16:00Z",
+      "title": "Komdigi Jelaskan Mekanisme Resmi Takedown Konten di Platform Digital",
+      "source": "Head Topics",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxObmx3QlN0STEwZXgxNWNiSE92MExlR3ZvUmhEQUYzZ1dwSzFFUEJrMTE0R3pMT043MWN2VVZ3RFpPeThZNFo3M2xLRVpEU3ZablpUa3RQWlpYMldNZ2U0YVdiLWpXTjV6RjNoSDUtcURnRXZ0NlRYMjlTdi1tdFp0SDFfcjZkcl9ZY3RJMFpBWXFrSlI1d0E?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "sensor_konten",
+      "subclusterIds": [
+        "sensor_konten"
+      ],
+      "matchedQueries": [
+        "Sensor Konten"
+      ],
+      "collectedAt": "2026-11-13T19:46:29.246006Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "47c77f3ecddc50a1c95fc190",
+      "publishedAt": "2026-11-13T11:00:00Z",
+      "title": "Komdigi Jelaskan Jalur Takedown Konten, Pastikan Tak Sembarang Sensor",
+      "source": "CNBC Indonesia",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQLTJJazd0RzA0czA4SDZaUkZVNkwzcUFlRmxCbUxjQ3ZlczY0SWtNTUZkcnZGaWI2bjBNVEQ4cHMzMHI5SnNVOUZXWlRfY2RTUFJHbG9FRGZFekVEU2htaDFrN1NBOUNkTTdNTmRQUXZDS2xEZWdDY1piMjFSOFhWY1lDdjdubkkxcWJ5SjRPQ1NMd056SHNySEVUb25DazNmcmFyLUkzZnlTWWVXTzZkQTJPVE9lU3FJalhwTE1raGQ4dFJUVEc4?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "sensor_konten",
+      "subclusterIds": [
+        "sensor_konten"
+      ],
+      "matchedQueries": [
+        "Sensor Konten"
+      ],
+      "collectedAt": "2026-11-13T19:46:29.246006Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "392e9389a6204d10d3ec6aca",
+      "publishedAt": "2026-11-13T10:59:09Z",
+      "title": "SETAPOL Indonesia: Jaga Stabilitas Keamanan Tanpa Membungkam Kebebasan Berpendapat",
+      "source": "patroli indonesia",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOR2JlOFFOeHRaU2VOT0pYWEtGOVhsa3RqN3hHVzMwY1R2NXVKVTRDT1NSZ1pvRk9fWXRaaGV1VFBqLVYtTjl5U3Z6ZlFyd3NBNkdSYXNzOWxSSVVaWk9ZU0xMMDlPQ1duN0VGX2VyNmZFUDFYaFk1UHA5SUh0ZDJua3hySGd4Rl9iS1B4WHdybkp4M04yclJiT3pudklNeFlUT1lPQl9zb01DTTFNMktTdlJn?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-11-13T19:46:29.246006Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "dc32e440d708af6428cb64a0",
+      "publishedAt": "2026-11-13T09:53:00Z",
+      "title": "Ketika Kritik Dianggap Ancaman: Apakah Kebebasan Berpendapat di Indonesia Mulai Terancam?",
+      "source": "BantenDaily",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZm4zUlVSWmtKLVdPYzNtMi01YkVSRFdjVloyWG9TcC1TaGotaXY3LXhidWhENHJFVExUc3lrRk9ENXRFcFZkRUFYa2l5ZmxJZGxFcnBka0ZfbmxHTUl5SERSbklxdTVJT1BwRDdXbVc5UVpOVVFWaVhzWVN5R3JBTHJDUTd4eGtBRnc2TUJUa3NhZ2c3aC03LWhxaFpINUJyQWxkYTMxcEF1djBSOGUwcNIBuAFBVV95cUxOZXZ0ZDU4aDBKUjYyMkJ4a2tIR3ZqZHVLdXdDRVEwc3FxaWdCUEl5dG5KMDNja0x3VGZsUTZlWDlWZUxwWTNaemJDd2c5eGwwWmdrdmVJSnZZcV9iUHRhVDhkTlYwdExUVFdlTVpiQldMLXhhREkzZEpvQ29RRDlleEg1TV9ybm5pSU9Jd1RncmdRU0xhSzE1Mzd1S1lkRGRkV3Jlc2p1akM1WE1TQzlEMDMxVUJNWEZP?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-11-13T19:46:29.246006Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "ee80ee08e2a1b97336c19ad5",
+      "publishedAt": "2026-11-13T09:46:33Z",
+      "title": "Terungkap Siapa Saja yang Dibidik dalam Kasus Penyadapan Ilegal, Ada Internal Po - Quena",
+      "source": "Quena Id",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNbjM5RVZ6bTJFUFNCT2R6bGc3UEM0b29FZ2dNblBsWUU0NEdId2VWbDJGWS1qT2Z1ZFpYQzZfSnVjQjY3T01rZ25wZ1hNbzAxRDV5T2Nsd1VfT1hBSFh4Nm9OWVFpcUtNbXFoWXZudktibTlGUk14RjcyQ2ZtYjFEVzlGUWpNVUxTSUFMalVsdUd3M1ZWRllpY0R4ajRQOVhISlhwQzlwZ3NTMk1pdGxlcThuSl9jY0d6bzJyZ0dB0gHDAUFVX3lxTE5sWlNvU1BDc1U2M2Z6YTNNb2U3LVhsOUJsWXVCS0lLTURYWXFwMzZzMzFHZ0F6TnhZWlpFa01zSWFZYmlad2pDdVZjcmY1dFdWTFB4blNBWHRHc3d5YWdhZlJ2N18wd3FFNDllek9tNTdDUzRGZzRxa2trcVBKRENMbXhIN3ZTUlhrYlZlSktyYXNId04xcHFoczBvSlpxZFg1NHZPQzlXbFctQmM1MGFJRDdLSHVxelNhazVfbk9xSGhxRQ?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "pelacakan_penyadapan",
+      "subclusterIds": [
+        "pelacakan_penyadapan"
+      ],
+      "matchedQueries": [
+        "Pelacakan & Penyadapan (Surveillance)"
+      ],
+      "collectedAt": "2026-11-13T19:46:29.246006Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "563a713c79790b6090f8e750",
+      "publishedAt": "2026-11-13T07:20:00Z",
+      "title": "Komdigi Ungkap Alur Takedown Konten Medsos, Ada Batas Waktu 4 Jam dan 24 Jam",
+      "source": "Katadata.co.id",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPVHlnSVBLbEtsb0VEZlN6OEptLUpoWTZhT2x4WGtMMWRUT0tCMjlNaHF6cnBNeElrNGpHd2M0VE92TjFZMGMyc1NHVUxTaW9WazRrNVM2dWxMOGdhVGhibmdHdjczUkl2SDFreDJ3dzlnMjVMVERMWDJHSG5ZRzRWbnRHZTNWRWVNelVHSDcxZHdFTTBKamxhYnNPU1hURVQ0ZExTZjE3aGlGMXh2T1ZhdURQXzVJTXd1eXBWXy1sT3c1OTd0amRGaWZn0gHPAUFVX3lxTE1GZWpGc0J2cGk1S2p6NGhXeXY1T3dUVGN1MGdhR0lUNjBGVDV3ZkxVNkVzZi1EQXdIQUVDR0tWVFVuYXB1RVAyNUhhZk5JTWpLZHdoV2dEQ2xRSVAwSnV5SEhmQWVJWk90UHRNaENhcHppeGN2Y1YxSlE1MnJSR3czNF92cks4SmJJa0g0dlJhdTBBVGdvZ2RRcE1DQ1JjajZLT3BPaFVYalhfNW43V0RjNTJPWWJoU2RhQUJPTnctbU90c2dzYjdQNnh1azd6WQ?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "sensor_konten",
+      "subclusterIds": [
+        "sensor_konten"
+      ],
+      "matchedQueries": [
+        "Sensor Konten"
+      ],
+      "collectedAt": "2026-11-13T19:46:29.246006Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "5c375452b124827d6b389fc1",
+      "publishedAt": "2026-11-13T06:53:00Z",
+      "title": "Komdigi Tegaskan Bukan Tukang Sensor, Ini Batas Kewenangan Takedown Konten",
+      "source": "Katadata.co.id",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPRDJZX2wtc19DdHIzSVBkRlZVSlQ2NENFdXN1VlFwa21aVHZqRU5DZVlIRkVaakFsTFJFTUdfNDRsckw5dEpITWlfQndBYnlSdzF4NVgxbU5POTBWNnVHTzVTN3A2MUNpVXJ0cndoUDMxX1hSNmRIMWV2Slp6RzA1VDcwSTVrbFBPeUpHS2pRY29XaXlxeWZJemU0dXRoS3JmU2s0ZUx0NV9nZDFOajlfSXFwS2RBLVMtbDY5UmxhY1Vxd1VVZWU00gHMAUFVX3lxTE9EX1A3VGJwa2R6NUZDSXJYQ1lscjAtaVRFVmp3bU85eFExc1V6WG5FdGdUalEtRGlZMG54QnBXUlBYWEVHVGFqQVp4LTJsT0lGLU55R21NTHNoNkhIc25wQ3BpMzNvWHdGT1dMUl92WTYyRUc1YldNTERMU1NySU5KdUpUSHJGbWY4dGMxSTJ5a0I4eTV3V2FsWXZBZGFVZ05HZUlvVDhpdTFoNEdGVWFqUldURGdQUUxNcHY1dGNsZUFZZjZJVXB4OVVESQ?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "sensor_konten",
+      "subclusterIds": [
+        "sensor_konten"
+      ],
+      "matchedQueries": [
+        "Sensor Konten"
+      ],
+      "collectedAt": "2026-11-13T19:46:29.246006Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "078660f8ac79a6cda103e8b7",
+      "publishedAt": "2026-11-13T05:40:41Z",
+      "title": "Ribuan Sekolahan di Italia Menerima Ancaman Bom Via Surel, Pemerintah Perketat Keamanan",
+      "source": "Media Purwodadi",
+      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOY3hVTV9QdFh6R1E5ZS1mT0FkMlVNejBzX3ZBVGNKODUwN1A1Yl90S2hBQWJQb2luV016WDNlNTl0eTVnN2ctWlJlaGV5dlJjUDJYalpjZWdQdXdpbkI3ODdENzZWdUg3NWlHLUFZSEtLektlOHR3M3ZkSXp3ejIyT3didkkzNnZHSzIyaHVlMTlKdlVDLUFNbnhVdG91TlZKak9SZ0tpN2VDVFEwVXNwQWZxUDduM0otbEFXSlYySklrOFlFRlZBaEd5ZmZkVnZhXzNwMTByN0R3UFFQb2F3UVlOTUlKSXl1TllCd3VqTjQ3VXZ4UEdPbmFR0gHzAUFVX3lxTE5WTnA3aVp2NGl6Wi1pXzhkS0xqeUhDZXNUSTFzZEZYdVNOb3VVSXJYbmZJLVRMMWozVDU4Z0lyM3V5TDMxSGFHdTNuUmJiVElQR0FpNmlqVkNKUXRVYTU3Ykc4Y1BvUEFIV0dISzRvSXVQTjhUTUk1ZUVGTTM4QWo2cGdfU3FUUUl2eUlEMTRBRHB2Tkg2Vm1PYmVFVGtSUUhqdnNKMmFXQU90bm5xb3lmQU9KdmtCUU91YTVmYTExRXlMQktMRndGMWlrMUp0V1ZLZE1naXgwNUZGZTRKMWp3TG40UzR2T0hJdzliaWhHYkljNA?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "doxxing_intimidasi",
+      "subclusterIds": [
+        "doxxing_intimidasi"
+      ],
+      "matchedQueries": [
+        "Doxxing & Intimidasi"
+      ],
+      "collectedAt": "2026-11-13T19:46:29.246006Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
     {
       "id": "2309c9be3157271692338302",
       "publishedAt": "2026-11-13T03:33:25Z",
@@ -384,6 +591,29 @@
         "Kebebasan Berekspresi & Berpendapat"
       ],
       "collectedAt": "2026-11-12T19:58:52.448656Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "7076ce6a2eaa159f9a715f8c",
+      "publishedAt": "2026-11-12T08:16:37Z",
+      "title": "Kebebasan Berekspresi Melalui Musik di Tengah Pembatasan Halaman all",
+      "source": "Kompasiana.com",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQZkpnZm14VFQ4S2xQdVhObTRTNElCT052WWpkQVdHTlUyRFNZVkNBTEpVdzltYi1YMDFoSTFxd0c5NERSNXJlN0E1MmplS3FGdXhoMEhoNF96U3ZRQ2pDQThDTDJpc29rQm90SS1jWmg1bW5Xemd4SWNUU2xRZTdjZVNhdkZwdmpkY2JaX2h3cEJBYTM1YzRsaGRPSXhyUnp0SDZjc0xrRGtCVVliTFRoRUhfRGF5THlTSTlYamFzRjl1RHVLMk43dlY5YXBpeUdhRGVyMw?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-11-13T19:46:29.246006Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
@@ -660,6 +890,29 @@
         "Kebebasan Berekspresi & Berpendapat"
       ],
       "collectedAt": "2026-11-11T19:39:09.297633Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "b293cde0660b80f6e6c8c1f4",
+      "publishedAt": "2026-11-11T12:21:14Z",
+      "title": "Analisis Hukum dan Etika di Balik Ancaman Serangan Ransomware",
+      "source": "Kompasiana.com",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPNHhuMUJ2akoxZEZDN3JKaUdEV1MyeVZXNDJhUnZ3ZEgtWmZkX0xpTGJTZ1J2SS15MGZxcmhZZU54RmRHckZhaGl1eGptbmxGSFR0dHlmbGJIcl9Vb3RMUFp2OW1zTWF2ODNpZy1MVWEtbW5CRU04SGhTSzBQNGhxVExHYlZKd1RaSTNFQ3h0MXl6X1JwMGxaU3EtVE9MSWV5VHhSdUVHcU1DMm5abmxVNFptSmNFbnRYbGd6bE1WY3FxNTVwLVpQaC1B?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "doxxing_intimidasi",
+      "subclusterIds": [
+        "doxxing_intimidasi"
+      ],
+      "matchedQueries": [
+        "Doxxing & Intimidasi"
+      ],
+      "collectedAt": "2026-11-13T19:46:29.246006Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
