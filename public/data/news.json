@@ -1,15 +1,15 @@
 {
   "meta": {
-    "generatedAt": "2026-11-13T19:46:29.246006Z",
-    "lastRunAt": "2026-11-13T19:46:29.246006Z",
+    "generatedAt": "2026-11-14T06:31:35.545162Z",
+    "lastRunAt": "2026-11-14T06:31:35.545162Z",
     "startDate": "2026-01-01",
     "refreshHours": 6,
     "mode": "incremental",
     "feedsOk": 16,
     "feedsFailed": 0,
-    "totalStored": 3149,
-    "totalPublished": 3149,
-    "newArticles": 11,
+    "totalStored": 3158,
+    "totalPublished": 3158,
+    "newArticles": 9,
     "warning": ""
   },
   "clusters": [
@@ -135,6 +135,144 @@
     }
   ],
   "articles": [
+    {
+      "id": "d8c253c7ac563c1ef568a18e",
+      "publishedAt": "2026-11-14T05:14:53Z",
+      "title": "Ruben Onsu dilaporkan ke Polda Metro Jaya, LBH GPI ungkap dugaan pencemaran nama baik",
+      "source": "Elshinta",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQV1o3aWNOWmw5S2ZmOE1wNm9ZYjFna2owUU1jb3RwRHBWQ3N0akROdmlPdy1JdEstaHhpRGhVTjF0bWdXZXZzUXNVUzNvQUN4aVZxalZuMDVRcTFnV0ZZQnMtemZKbnpQM294TWFMa0RIZVBfOTVKN1BDSEhTSEdScnlTSUVsbHBwN29PWkREZXlyek5ob0E?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "doxxing_intimidasi",
+      "subclusterIds": [
+        "doxxing_intimidasi"
+      ],
+      "matchedQueries": [
+        "Doxxing & Intimidasi"
+      ],
+      "collectedAt": "2026-11-14T06:31:35.545162Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "2662cf96a577b67b6ed2e9cf",
+      "publishedAt": "2026-11-14T03:48:00Z",
+      "title": "LBH GPI Melaporkan Selebritas Ruben Onsu Ke Polda Metro Jaya",
+      "source": "Mnctrijaya.com",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPczVyUVg5WTJJYjA1dnR6aTVZbWZObnJQWGRpdmFHSms4dTdJRjhTNlNPNF9XMFZNOUhrX3ZPX0NaOW1HZ1doRVhSOGlRTFdVNWdkODV6UU5mUDE3TW51Ynhlb0VOYXVJWnM1VzB3M1JPVFZ6ZFM3QzFYTG9mejFHRzk1X0VqYlBFYWFmWjRfZEVJMG5zcEc5ejg3ME9HUWpfLU5DNDdiVWM?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "doxxing_intimidasi",
+      "subclusterIds": [
+        "doxxing_intimidasi"
+      ],
+      "matchedQueries": [
+        "Doxxing & Intimidasi"
+      ],
+      "collectedAt": "2026-11-14T06:31:35.545162Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "005429996cfe61ed7823609a",
+      "publishedAt": "2026-11-14T03:31:03Z",
+      "title": "Dewan Pers Diminta Lindungi Wartawan dari Pembungkaman dan Intimidasi",
+      "source": "detiksatu.com",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNVk12UGlOc1luUy1GMWR5SDVvVXpudlViSWl2czZDWVZyZGtxUFZSLWlPZE9aRWYxWV9rcUFFR2ZXNXF3R3NrX2VCekRTdm96Z1VMX2ctUzB4VGxkenhpSmdtM0hLV0pyQnFWalV3akdoanZTek1OUS05Q1pleVF2TA?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-11-14T06:31:35.545162Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "9a1d011eb132a8b7f286dc20",
+      "publishedAt": "2026-11-14T01:00:00Z",
+      "title": "Remotivi dan SAFEnet Nilai Komdigi Makin Agresif Moderasi Konten, Termasuk Takedown Konten Karhutla",
+      "source": "Kompas.tv",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPVnBYTzhEeWJiLURURUFZQlZxZlgzalozSVpJZThVRnpWc1N5SG0zVTE3MDVYaVY0LS1QUnJoY2paWEk3YkMyMjhBRHU1S0Q0MHJzTGVuOHA4U0x4eXRwU0VocHlTb1pBRExtNVk4QmlQeTc3Wl85UHFSY09fcE9vbTFPWnIzLU9hc3lreTVLb0pwUWhFMGZjd1FiYTdsbWowZ1pvZFhfcVNYYUk5VUpCU2JwU3dkdXRJUW5ZNmlFZmdHR0NLSUtIUXJSSXJPSFVvQ1HSAdcBQVVfeXFMTjNaNElwdDlLQmFpNklWc3RianNneTZXT0pHYWdvcG44MWZqeGpuTDZNSmRKMjVGZkhYMk5kb3RXRE14UGpQdGN2YzY1UGtqV2x2eHhzbEJvbW15ZnBCaXRCaDdiaEs2TTBtM0dSYlB2UDMtR090ZzNfRzd6bDh5YzUxTU9Ea2xvdGlYaWlPMGlncVFzUS03R0l0bTRXSVlhVFhKdkFpSl8yNjlObGJMc2VTMGh5blE3ZkJ3QTV6SGFJTXJKMld2V3FYMlc3YV9BN2FzTUt1amM?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "sensor_konten",
+      "subclusterIds": [
+        "sensor_konten"
+      ],
+      "matchedQueries": [
+        "Sensor Konten"
+      ],
+      "collectedAt": "2026-11-14T06:31:35.545162Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "ac33055aa4458e5750589bf5",
+      "publishedAt": "2026-11-14T00:05:24Z",
+      "title": "LBH GPI Laporkan Ruben Onsu ke Polda Metro Jaya atas Dugaan Doxxing",
+      "source": "KoranIndopos.com",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPX1lXZUZ0SE5SLXBwQXRNYm9WNmNTYUZjaFlEUldJMENrbmlZaDZCZUh6Zko1MGIwcVIxLTMyQjBFbWlOQy1wakRGN2JRd0JaaHNTSHA3NWNpY0cwalF3MUI4TURGVFNyNUtXeGRrYktFQlFOUXFpOWhLdEllLVhmQnZjeE8tQnB0QVZLYkF4OFo3WTBUalFsNQ?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "doxxing_intimidasi",
+      "subclusterIds": [
+        "doxxing_intimidasi"
+      ],
+      "matchedQueries": [
+        "Doxxing & Intimidasi"
+      ],
+      "collectedAt": "2026-11-14T06:31:35.545162Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "31680ce279b50c9eae65b881",
+      "publishedAt": "2026-11-13T23:01:00Z",
+      "title": "Seru! Isu Takedown Konten Kritik Penanganan Karhutla, SAFEnet dan Remotivi Tantang Menkomdigi Meutya Hafid Adu Data",
+      "source": "AFU.id",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPZXdoOEdnLVpESFNLcGFOZGMweFYzUkw5SlV4TERma3NGbzlNN0hwaHYyRlNMZEdfYjQ3MFZOTXluVFFYVjdjbjczb2hERDhGS3dydVpPNFdhN1hlT3lyZW9BaGQtbzR3V1JUMWQwc0R0SkVUVGNVVGdzWWVSM3diOTdwbUQtdW5DZUhLakgtdkV1eC1CTGtHdFBxdzRfejRweGJGMTFjNVhPMUpKTmZnLWJLT2lyVzBxN0g4dFNyZVB6RVkzUUkzazJSTnFwYU1WQko0?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "sensor_konten",
+      "subclusterIds": [
+        "sensor_konten"
+      ],
+      "matchedQueries": [
+        "Sensor Konten"
+      ],
+      "collectedAt": "2026-11-14T06:31:35.545162Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
     {
       "id": "7ef529c3d121649e283f64a8",
       "publishedAt": "2026-11-13T12:37:00Z",
@@ -320,6 +458,29 @@
       "reviewNote": ""
     },
     {
+      "id": "4b67b37b0cb34d81243a457d",
+      "publishedAt": "2026-11-13T06:39:00Z",
+      "title": "Komdigi Respons Temuan SAFEnet dan Remotivi, Sebut Siap Buka Data",
+      "source": "Katadata.co.id",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQTEVHS1F0VXB2QzRtaHo5MkY1dlpVUzlaSC14Q0VJb3NpdzdsWlpJOS03b1F1TjgyV0tqQUhQbWZpVUwweE1Ec3ExZi1vTVNHU2JwRmQwUERMRmtzWkQyVXNQbmJqLXdDY09oeTE1RjJZVWlKRFl5dzRTMHFraTZkUGhzaTBCaGZLNFVyRmVsS2dMUTNVMzRsZVd0ZWVkWHZXVGZGQkw5MVFZLXZ3NVB1cjJaUEl6WjhuX1Jz0gHAAUFVX3lxTE9rcEthajhkS3N4eVJWRk1oQS10WG5MVldPV1NBWF9od2pVMjVjRVdMU3djdzM5TndFMkVVWHZhT0dkMjlCaXBJeWNSN0pTd3JUb1VyNUlHdHdhcllPVEh1NF9jZGhkOHp5VUhncnBOTUdHTTl2Q0RTQVVROHBsT0hmVVdMNllhOHlNY3ZPYk5ja1hlZi1jQmJWdVpVSEs1eUhrdUMtWThxN1RfbXRRa2FWSkdISEw0NURTTVFvVjhvcg?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "sensor_konten",
+      "subclusterIds": [
+        "sensor_konten"
+      ],
+      "matchedQueries": [
+        "Sensor Konten"
+      ],
+      "collectedAt": "2026-11-14T06:31:35.545162Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
       "id": "078660f8ac79a6cda103e8b7",
       "publishedAt": "2026-11-13T05:40:41Z",
       "title": "Ribuan Sekolahan di Italia Menerima Ancaman Bom Via Surel, Pemerintah Perketat Keamanan",
@@ -384,6 +545,29 @@
         "Kebebasan Berekspresi & Berpendapat"
       ],
       "collectedAt": "2026-11-13T06:51:29.106512Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "7e8d21bcf053f0efa4895e27",
+      "publishedAt": "2026-11-13T00:52:00Z",
+      "title": "Judi Online Ganggu Psikologis dan Relasi Sosial Anak Muda",
+      "source": "RRI.co.id",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNMWctU0s4bjdybVN1MHV2eVF3amxyVG9uaWIwV0pjTmszdzdkM21IRkNYQXZyQU1QQy1ob2NOVnpPX0VaOXE4YVNnY2c2dVRPTFJFVGJEcjJPU2ZoaWkwWDFpaFQ2SGNhLU9uV1lOc25GajNkY0N6T2xPQ1JQMWU3ZWQ1Mjc3TTlMX1h0MDNaWWd4MVhIUFhCUml1c1pCQmpWWm5aSUhxQWJPUQ?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "sensor_konten",
+      "subclusterIds": [
+        "sensor_konten"
+      ],
+      "matchedQueries": [
+        "Sensor Konten"
+      ],
+      "collectedAt": "2026-11-14T06:31:35.545162Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
@@ -844,6 +1028,29 @@
         "Doxxing & Intimidasi"
       ],
       "collectedAt": "2026-11-12T07:17:36.198012Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "74a34dbaf57010ec91f03573",
+      "publishedAt": "2026-11-11T13:33:00Z",
+      "title": "Fadli Zon Tanggapi Dugaan Pembatasan Band Dongker, Bandingkan dengan Ahmad Dhani",
+      "source": "Medcom.id",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNbzBKeXBGZThFN3JlQjhoX3FMZ05tV3RZcUVOclo2QktDTlh2RjljWGk4M1huSktGVGZTQ2ExY1ZuTGF0anhvdGpyaW05OWFRUktaWXlDZU4zWTU0aDFqTndneTZoUGE2WjFlMG1TWmZBeHoyd1B0YmNUQlJ0NzQ5QWFSWjY2ckN3YVJaUTRxVlltcUZnZW4zUHphRTRRYkVYNk1PLWhEd1hnVGtCNmJfYXVzeTVXYXVEWFZwd3ZseHprUQ?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-11-14T06:31:35.545162Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
