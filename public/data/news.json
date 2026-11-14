@@ -1,15 +1,15 @@
 {
   "meta": {
-    "generatedAt": "2026-11-14T06:31:35.545162Z",
-    "lastRunAt": "2026-11-14T06:31:35.545162Z",
+    "generatedAt": "2026-11-14T18:10:22.647499Z",
+    "lastRunAt": "2026-11-14T18:10:22.647499Z",
     "startDate": "2026-01-01",
     "refreshHours": 6,
     "mode": "incremental",
     "feedsOk": 16,
     "feedsFailed": 0,
-    "totalStored": 3158,
-    "totalPublished": 3158,
-    "newArticles": 9,
+    "totalStored": 3168,
+    "totalPublished": 3168,
+    "newArticles": 10,
     "warning": ""
   },
   "clusters": [
@@ -136,6 +136,98 @@
   ],
   "articles": [
     {
+      "id": "e93be77be5b54f5cdc45c28e",
+      "publishedAt": "2026-11-14T15:47:43Z",
+      "title": "Komandan Ibrahim Aceh - Kecam Somasi Bahlil terhadap Kolonel (Purn) Sri Radjasa Chandra: Kritik Bukanlah sebuah Kejahatan, karena Somasi Adalah Pembungkaman",
+      "source": "baraNews",
+      "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNUllmdDlLeEdBQWhKVXMxcU1VVDd0MXNWTjl3cnZtZmlLREZqeXprSUYyemF3eXFrdkpPZklmSUJscEpGMVF2eXlyeEp1bGxjVDNNazFPQTdKTGFUZW5vdXZydGk5N3pNUEZnS0ZHRFAwZ09QNFROSll6YUV0VnV5RmJDd0c3ZnVOZlVpR1I0UlZfNnlSQ0xBYXhMWUppYnNzMVhvV1pJSGdJYXgycDdZbXA0N2ZxWi1XQm1JR3YzOVZNWUFGWVpxQ3B4U1V2LVhFOENid2lnX2VGV3VrRXBqZkM3RUFIaXpHYWFrWTJSaGJBMmw3U1dIVjVQN3JOdHNUQVFFYlFn?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-11-14T18:10:22.647499Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "6b2f2a694eeffcce883edacd",
+      "publishedAt": "2026-11-14T13:04:03Z",
+      "title": "Ketika Cinta Muncul pada Pria “Red Flag” dalam FTV SCTV “When Ya Tunangan With You”",
+      "source": "Bewara",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQVXIxM1VjOVRseWRnX25XSVpZUzk5NVhSYndPSUphU3RfVFZtVnhxbmo1d0l6dlBkSWxQNjM2QmJZblByRXBENmdoSnlNaFRKUFFkYkx1RmpGd0FqUHFoS3puNmxjeDZkd3E1a2YxM3owUGpDdjNDX0RwQlJsZ1VlMkZNdjlyZkdRZ1pMZGFtdGZtUzZjbktBN0RXdzJYNm5Na1E?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "doxxing_intimidasi",
+      "subclusterIds": [
+        "doxxing_intimidasi"
+      ],
+      "matchedQueries": [
+        "Doxxing & Intimidasi"
+      ],
+      "collectedAt": "2026-11-14T18:10:22.647499Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "0351f765a299a7bbfe6032b8",
+      "publishedAt": "2026-11-14T08:43:22Z",
+      "title": "Daftar Lengkap Film Horor Indonesia Terbaru 2026: Dari Pesugihan hingga Teror Digital",
+      "source": "Bewara",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOaXJlQVhpVks2RHZ5V0w4NW5PSFJFdEdMQXQ2NUNwZm1zS2V1TjZJQVU2ZExGUDQ1d25qb0RxdGE2ZzhnUTY5YmFGNERnVTRuSncwT1pxc1JLdGJRQW9vcFBJWV8wRkdXa0J4TUF4eV9EcVRRdllvb2xpbXdmTzNhZnRlRlMzeXJ4bUExZGE2dDZNM0U0bVZxWVc1VDlyUjZocHlmRTRHbUs?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "doxxing_intimidasi",
+      "subclusterIds": [
+        "doxxing_intimidasi"
+      ],
+      "matchedQueries": [
+        "Doxxing & Intimidasi"
+      ],
+      "collectedAt": "2026-11-14T18:10:22.647499Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "7afe284f4a3893eeebcf2111",
+      "publishedAt": "2026-11-14T07:08:32Z",
+      "title": "Opini",
+      "source": "Kompasiana.com",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9HWHV5SDVCQWM0aUtzcWx6Y1RVdTBHWG00alhvcklVZnNuZGJfZ0wwNVhkNFNZVXh2dTJTVV9nQWo4b2RsWjF3ZWthTDR3bjJuMUZVQS16YVF2bkZQaldmTjk3Ujd1aFl4RjMwQXZYbld2LUdWcWx6cFJEbzhIZw?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-11-14T18:10:22.647499Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
       "id": "d8c253c7ac563c1ef568a18e",
       "publishedAt": "2026-11-14T05:14:53Z",
       "title": "Ruben Onsu dilaporkan ke Polda Metro Jaya, LBH GPI ungkap dugaan pencemaran nama baik",
@@ -200,6 +292,29 @@
         "Kebebasan Berekspresi & Berpendapat"
       ],
       "collectedAt": "2026-11-14T06:31:35.545162Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "aa7d5612d96f16c408060ad6",
+      "publishedAt": "2026-11-14T03:18:39Z",
+      "title": "Koalisi Orang Muda Aceh Serukan Salam Tiga Jari, Sampaikan Enam Tuntutan",
+      "source": "Jaringan Berita Aceh",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOZ210SlZpc3FiZFVERlN1LUhhYkJXakhpc3dUbmtzSEJFN0xTOFh2SXZkc0ZKZnBqbWhLYlFfOFRfbFRUTFpfR3FRVlRlQjN6T3BMemZvcE5HcjFpUE85NDZKMmRvbUwyU29nOFVGQ0pKbndseU1LbHlmQ3g2dlBibGQzY0NlSklRQmQ3NThvQVBfcFJjTXcta3R0OGYxNm9Pd1liU3dqSFNfRzVr?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-11-14T18:10:22.647499Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
@@ -274,6 +389,29 @@
       "reviewNote": ""
     },
     {
+      "id": "5b833644e331b5245c241d84",
+      "publishedAt": "2026-11-13T18:02:53Z",
+      "title": "Koalisi Orang Muda Aceh Tolak Intervensi Kekuasaan, Desak TNI Kembali ke Barak",
+      "source": "AJNN.net",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQTEhsU1JILUtwUFZKRDkwcklfQWREcnpyNnVjRWcxeUMwUWJkbjFzTzlSOUFhM29oX29zMFp5aHY3Rk5fTTlrNGltRV9GMG1SX3g0ZnE3TnA1OEVMYlhtUzdzTlRXaUhkMUJmcWt6aU9vQWE3OC1PbDI5Mnd0bGwxTHZUYlh1cnZzM05lM3ZlT014N3ZDUVV1U204eTRzR3FseGFzY1JxSHFSZ1pGejN1WERR0gGyAUFVX3lxTFBMSGxTUkgtS3BQVkpEOTBySV9BZERyenI2dWNFZzF5QzBRYmRuMXNPOVI5QWEzb2hfb3MwWnlodjdGTl9NOWs0aW1FX0YwbVJfeDRmcTdOcDU4RUxiWG1TN3NOVFdpSGQxQmZxa3ppT29BYTc4LU9sMjkyd3RsbDFMdlRiWHVydnMzTmUzdmVPTXg3dkNRVXVTbTh5NHNHcWx4YXNjUnFIcVJnWkZ6M3VYRFE?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-11-14T18:10:22.647499Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
       "id": "7ef529c3d121649e283f64a8",
       "publishedAt": "2026-11-13T12:37:00Z",
       "title": "Aksi di Unair, Aliansi Gerakan Warga Sadar Minta Aparat Hentikan Kekerasan dan Intimidasi",
@@ -292,6 +430,29 @@
         "Kebebasan Berkumpul / Berserikat"
       ],
       "collectedAt": "2026-11-13T19:46:29.246006Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "ff9fad509971015078c6fcdd",
+      "publishedAt": "2026-11-13T11:41:49Z",
+      "title": "Peringati 28 Tahun Tragedi Semanggi I, Mahasiswa Unpak Desak Pembebasan Tahanan Politik",
+      "source": "Pojok Bogor",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPQlZ4VGVkRkdmQnNMWFFuLWpHSkJMNHJrNEJQUDdJenpuYk5JQ0xyZHIxRy1WOUNXbFdPMjIxOW12M3VmR1hmVmczWWtJOWFwRGRleGhweGs5bTh0RWM0a1BFQjBIcTg5bWoxSEF3ZW83MVVUelRKWkQxRDFiLVc5bERCcVN3alFCQUROcXM3bzdlVmJZbl9oZEZ2MklLZkNVR1lZVHBmdWsxNVM3TmNFVi00alZmTWxOd0RhbmRNQUNhQQ?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-11-14T18:10:22.647499Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
@@ -688,6 +849,29 @@
       "reviewNote": ""
     },
     {
+      "id": "f043bd4ba1e4a934c8cb29b0",
+      "publishedAt": "2026-11-12T14:06:09Z",
+      "title": "Komdigi Makin Agresif Takedown Konten dan Akun Media Sosial, Konten Karhutla Salah Satu Sasarannya",
+      "source": "Southeast Asia Freedom of Expression Network (SAFEnet)",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOZmNrNEFEaTdGRm53UVY5M3NyT21uY2VFSnF5bUY4dGplXzhIMTFJV0NGR3BmMjlIb3lUS1JqRVFlRllaQ2dEcnpKUEx2U1VsbWpuVVRzeVNQcERuQXkwN19MckV5TndKWUl0TXR3M3FYdUtsYnhCYXgzeXF0TEtYakRvemhJcTRyWWJjczR0S1RhUjZ0Z2xFZkY0YTlPUmIwbUZ2MU9UZWRya1dObUF5WG5HZkRzLW02aVlCcA?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "sensor_konten",
+      "subclusterIds": [
+        "sensor_konten"
+      ],
+      "matchedQueries": [
+        "Sensor Konten"
+      ],
+      "collectedAt": "2026-11-14T18:10:22.647499Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
       "id": "f20022baaf2712b0a116e6c9",
       "publishedAt": "2026-11-12T12:11:16Z",
       "title": "Ketika Kebebasan Berpendapat Mulai Terbatas",
@@ -1033,6 +1217,29 @@
       "reviewNote": ""
     },
     {
+      "id": "3ef3b7190e351e0e7f574470",
+      "publishedAt": "2026-11-11T14:04:30Z",
+      "title": "Fadli Zon Nilai Ruang Ekspresi Musik Lebih Terbuka",
+      "source": "Cirebon Times",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0wRmM3YTU0VlJnNEZsbGYteHdFamFhQ2VjamJRaXVuNHppdXVja291eDZoVl84bHRJTnZ1b1V0djlpek5jOVhQX0RIODlGazF4ZEdvSXdTMU1hYlJmcDJSR1J1d1gwc0NKSUpYRzRCRE8?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-11-14T18:10:22.647499Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
       "id": "74a34dbaf57010ec91f03573",
       "publishedAt": "2026-11-11T13:33:00Z",
       "title": "Fadli Zon Tanggapi Dugaan Pembatasan Band Dongker, Bandingkan dengan Ahmad Dhani",
@@ -1212,6 +1419,29 @@
         "Sensor Konten"
       ],
       "collectedAt": "2026-11-11T19:39:09.297633Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "9c301eaf23ea7ce8f6a8b506",
+      "publishedAt": "2026-11-11T10:36:15Z",
+      "title": "Kritik Bukan Ancaman, Melainkan Bagian Penting Halaman 1",
+      "source": "Kompasiana.com",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPaGpNMXlHMnRPTkJTaFZCN093VjNiOHZlbng5akNhRWtyNjd3eUFTVEhBYUxQdVM2cHVWUDJXX1NWX05iYzFQdHBheGY4bWNnam5QTEY5eC1TUFRvQWtVUHBoOWRRbWVvZ3RvTWp5Qkl4TmtzeFNYWXNRLUhLa1JuUURQQzZaMXlReGhPY09OYjRiV3BSUGg4Y2pnTGt3MDU5S0lsMTZVTF83UXJndGc?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-11-14T18:10:22.647499Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
