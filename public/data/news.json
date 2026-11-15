@@ -1,15 +1,15 @@
 {
   "meta": {
-    "generatedAt": "2026-11-14T22:29:26.350815Z",
-    "lastRunAt": "2026-11-14T22:29:26.350815Z",
+    "generatedAt": "2026-11-15T06:40:48.871668Z",
+    "lastRunAt": "2026-11-15T06:40:48.871668Z",
     "startDate": "2026-01-01",
     "refreshHours": 6,
     "mode": "incremental",
     "feedsOk": 16,
     "feedsFailed": 0,
-    "totalStored": 3168,
-    "totalPublished": 3168,
-    "newArticles": 0,
+    "totalStored": 3175,
+    "totalPublished": 3175,
+    "newArticles": 7,
     "warning": ""
   },
   "clusters": [
@@ -135,6 +135,121 @@
     }
   ],
   "articles": [
+    {
+      "id": "a12d7f163c41dc8454020f6a",
+      "publishedAt": "2026-11-15T05:06:44Z",
+      "title": "Polri Pulangkan 154 Pendemo di Yogyakarta, Sahroni: Polisi Harus Lindungi Kebebasan Berpendapat Masyarakat",
+      "source": "VIVA.co.id",
+      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOMjF6cVI4WmN3el83QTFhbjZQU3A0SURFckM0NVN1N21ZZ1pPcWRYeFl5cTBzMXdlLXRSZ3NuMGlnSjhKUGdBMmhkMzdTSzRTQnZodzVwY0t2X1V5ZnFCRi1qOXZtNkh3UVQ0b2FicHZqeHV2NGxtTHM4bm5FTUhMRk11amhGMjhHYWtWYXlDalNDSXgzZ2VvLUVNODRsQ0t0YS1LNlNWajQ2djdrV2JxaGh5N0ZQOGtmT3RJdkhTdWpkMjE2NlBXcE1BcERuNk9LZFYxQ0I4TzN0OXRGTFBqanVXZzBmd9IB6wFBVV95cUxQMTFDSm9mNFBwcG5ZWW0yZ2p5Q3I2elVPZzh3bmM2SmVwOEx6RWNpUFZYbUFsZUVDV1pLWkNpamY0Z3U3WVVDTUhZaXVkLWRlc3VKR1FKeXBpV3ZJQnkwSmtfZkMtYV93SGFwTl9RNWtDVGRzSkZ5ZG5nQlFBZ19PdG9DQkt5NHZqM0VUTVZxbXJxOVhrZkhIalBOUEd3bkEyVEljd08xTFZqTWpWVUJ5MzRZUmk5RUN5cmxWa1BEc1prUGdPMjlCN2hoQmtJbHMtMVhlamRhUHdlS29IMWM5bk91ZGc4ZXVFZWxn?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-11-15T06:40:48.871668Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "9a609c78dba1755fad143615",
+      "publishedAt": "2026-11-15T02:56:00Z",
+      "title": "MA Vonis Kasasi Kasus HAM Paniai: Kompensasi Korban Rp 2,3 M",
+      "source": "Tempo.co",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQQ25OWExaSzJoQ0t3Rkc2OVZ5Z3V6YkhfRGkySThrUDhTdG50dm5tcGN4VFJkOFBoRUxtTzk1Y2wtT1lXN0RPZ1VSSEZiSXFNd1UzTUZLZy1yWmtmYUxVbC1PeVRvdFM5OFZXNkFHNzFLdUpnUmhZRmtUQlRsVGExMFo2U1paSmNyNGZNVFBSWG40bGcyRGVFYVdB?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_berkumpul",
+      "subclusterIds": [
+        "kebebasan_berkumpul"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berkumpul / Berserikat"
+      ],
+      "collectedAt": "2026-11-15T06:40:48.871668Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "4bb9afe1f8bf13f9058ce69b",
+      "publishedAt": "2026-11-15T01:34:00Z",
+      "title": "154 Pendemo di Yogjakarta Dipulangkan Polri, Sahroni: Kebebasan Berpendapat Harus Dilindungi!",
+      "source": "iNews.ID",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQbzgwOV9rYmFpejdSZ3dUVWN2RW4ybDktRWQzd0dPckxSQS10WHN5ejAxODl0b0dnZmtTUDBzMk9KZXJXRFZxTEo5VmZjU3ZXUC1SZmd2d3Y4QmdSbG9PNWZqa1BoMVFxOENoaUNlLU1BUmpBUFl2WkVObXJkYjFKWVNpcmoxVU9ETWNaWkhGWFZrb1gtUW81dVJuWXVBeHpiMXpzZy0xVTJHTHhYOUoxWDhPSXNtRGY4LXJjNDMyMUdXMXds0gHDAUFVX3lxTE5uV1hOaDVMeXotZ1pZV0FzNFVsR1hBazNHRVVtX2t4c1p5LXVORXZyakdWQTU3aTFTQVdwNExCbktoZ0NkTHAxMW10ZUhWNFZlSzVITHlXUnNPNWNRQWFUQUhQdkFRY0tWa293SENaMXNTSmpiaWtiV2cyRG1PWmZDdUlUMXVva0tYck5YRUk0Q01teGtYT2tlUzhKVnU2c18zNnVjWUhsU3RBUXhoZGdrek9xSWE1U0hVZGhRUjRiZkpIUQ?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-11-15T06:40:48.871668Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "2139f0e8a5e2aa8af1ab4893",
+      "publishedAt": "2026-11-15T01:02:34Z",
+      "title": "15 November Hari Penulis yang Dipenjara: Mengingat Perjuangan Kebebasan Berekspresi",
+      "source": "kabarbaik.co",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPeWFUT1gtSlBPM003cHdIUW9SQ1ZYWTdTSEE1TVpPMmNhS3pneDY3cXhPallDUGFlZUpQSjRzbDhiZmdMa1RpdmdyeDExY19uVm5lMjlIa0g3SGktY29IdDRqUVJvamlwcURqbVlzQVZMaUFpa2VSNEJNZG9YY3E4bmV1bE56TEZ1OG9kWVAzcVJyZEZXNUtiNi04REJqWW90eEpJbTZycw?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-11-15T06:40:48.871668Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "1ffbd7c78a0d00d5a2a01621",
+      "publishedAt": "2026-11-14T22:50:00Z",
+      "title": "Remotivi dan SAFEnet Ajak Meutya Hafid Debat Publik Pada 17 November, Terkait Data Moderasi Konten",
+      "source": "Kompas.tv",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPdmFJZ3lMN09zZmhvWVUxOWI4ZGtCTjBMRWRDQ2RNYXU0a0lCcGQ2eVNZSkZfXy1ySmo0dy0xWlZNMEJleXYyR0VnY2Y3ZWxlQktVeXpfTjVyLTBmMDdoQzN2bV9OeDBRMmQwRkZiM1dpUk91R0N0RjlUdjB4LThxdWYydFZZbE5YVktpeHpYR0R0U2dYZTdSZS1iaW5Nd1lLS2M2VnE5eXA2UUFTNi1pc0NBMDFJSi1rMDNCbW1kbUFyS1RIMkRiRHctRzdOS1ZO0gHWAUFVX3lxTE1LTWFoMGFkcnJMLXBTVnlweUpPenoyOVYyZXVmd0hlSUhTWVowRUR6NHUwSklZTjFGMnJzQmItNEx3TGZ2N0hWSjRxTC01dFhSNjBDZHJUZXhXaC1WcGhZeE5aQjQ3WmU2bm8tMW9uWndfNk05QnUyOEQ3dEE0QWpSYkxSVDhna1QzeDJodDE1cWFzbE1Wd2c4MS12RnlzdWw5clVrM2ZPSmswQUsycVVZYkMzR1pnc2p5QXdHNnhRMXRtSDJNdS0ySWdpRTJ4S0RmNFJXcnc?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "sensor_konten",
+      "subclusterIds": [
+        "sensor_konten"
+      ],
+      "matchedQueries": [
+        "Sensor Konten"
+      ],
+      "collectedAt": "2026-11-15T06:40:48.871668Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
     {
       "id": "e93be77be5b54f5cdc45c28e",
       "publishedAt": "2026-11-14T15:47:43Z",
@@ -803,6 +918,29 @@
       "reviewNote": ""
     },
     {
+      "id": "bbab50c25c2824cf6ea6318c",
+      "publishedAt": "2026-11-12T16:09:00Z",
+      "title": "Fadli Zon Soroti Pembatasan Konser Dongker, Sebut Kebebasan Berekspresi Harus Dijaga",
+      "source": "RCTI+",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQZGx4TVluSnF3RHhWSjNsZWFZU1JJYWV4bkY1V1FtM2dwd0xkVUtNZjc1NUo4cFBlV2x4TllXeVJ2aVhYR1gwX0IzUXh5MGJGdjdNQV83OWw5Mnc3eW5wUGhTeUl5WF9sOHg0Uk9XbGhSOERCREZsWmVLZmttdm5tUk05UzNlZjgzeDc3OWk2Z1RXdFIwOHdrQmxmelM5a0taYUJFY0xQQXRMS1l2aFdqOG9rQkEweTBmcDdacDNKLTdzMTFQZnVGNEZQWGpYNUg2elUwZnBkdw?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-11-15T06:40:48.871668Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
       "id": "928a7facb7503467cb084a72",
       "publishedAt": "2026-11-12T15:15:52Z",
       "title": "Kebebasan Berpendapat, Sejauh Mana Perlindungan Kampus?",
@@ -1120,6 +1258,29 @@
         "Sensor Konten"
       ],
       "collectedAt": "2026-11-12T19:58:52.448656Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "89c137147793b0e188b77bad",
+      "publishedAt": "2026-11-12T03:23:42Z",
+      "title": "Kapolda Sumut: Kebebasan Berpendapat Harus Dijaga, Mahasiswa Diajak Bersinergi Berantas Narkoba",
+      "source": "Harian Dialog",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNdklGN19ucmhaX2hyMzB5dWZQS2NENDM2bEhUR3ZjRE0wZ3k1WUFXcU1wclJ6RjNpeHMwZ0ZuVk9KcHpHdE5PSldjM0xyTGZublJfcHdLYUZlX05kSm5ycWxsVWl4UTUzSDF0NHFLVlNRLWNudlZkeVBwaFdJUXYxRWNYMXFzd0dtRVpkbUlsVi1ya3Q2SW9iZGd0aXR5TlV3dmg5XzFMQjNVRnl6R2pIcnYxQnNsejgycTlHZ0R3?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-11-15T06:40:48.871668Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
