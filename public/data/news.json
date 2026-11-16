@@ -1,15 +1,15 @@
 {
   "meta": {
-    "generatedAt": "2026-11-15T18:54:16.560449Z",
-    "lastRunAt": "2026-11-15T18:54:16.560449Z",
+    "generatedAt": "2026-11-16T06:37:39.989694Z",
+    "lastRunAt": "2026-11-16T06:37:39.989694Z",
     "startDate": "2026-01-01",
     "refreshHours": 6,
     "mode": "incremental",
     "feedsOk": 16,
     "feedsFailed": 0,
-    "totalStored": 3191,
-    "totalPublished": 3191,
-    "newArticles": 16,
+    "totalStored": 3206,
+    "totalPublished": 3206,
+    "newArticles": 15,
     "warning": ""
   },
   "clusters": [
@@ -135,6 +135,328 @@
     }
   ],
   "articles": [
+    {
+      "id": "f490792992488262c6584cc2",
+      "publishedAt": "2026-11-16T05:58:02Z",
+      "title": "Kaspersky Deteksi 2,7 Juta Ancaman Siber Online di Indonesia pada Q3 2026",
+      "source": "Mobitekno",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNZGd5dHNmUDFZbmgzQ0RFaUZoVFc2dGdCeVFIUmUxeGZKNEFtNlppRjM3ZkF6U0dXcHdLcUtnbWVQalNJU3BSRmFCeTdicTRlRS1oRmhSU05Wb000TU41UXlDZFUtejNINnBjMzl4Sml2NGRUNnJXSjctcU45cUZsSQ?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "doxxing_intimidasi",
+      "subclusterIds": [
+        "doxxing_intimidasi"
+      ],
+      "matchedQueries": [
+        "Doxxing & Intimidasi"
+      ],
+      "collectedAt": "2026-11-16T06:37:39.989694Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "40df0df1b80a2f4cd8528575",
+      "publishedAt": "2026-11-16T05:09:56Z",
+      "title": "Kaspersky Deteksi 2,7 Juta Serangan Siber ke RI Kuartal III/2026, Turun 27,7%",
+      "source": "Bisnis Tekno",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPRzY4VWQ4eHE4a3NFQ05wSW43Wk1SbTVuNWZPUmZIVm9XQ3FRSnlBaGc0c05NclR0ajlaNTBfd2ZsbDlKcGVZWFN2enM0OVd3VTZLM3Q3RmdqZHJ1NFpra1oxSmZNZ2ZyTmlOX0daWUZ4cnd5c2w2OHM1WGxOeHhGY21Md1N5aDI5dXhjRkJManVsRmM4bUJUOHdOZmFfTGVLR0dKemc5WFBwMWJtaXpPRWxDM2pxRHdsd2lJdERUd3JUalJi?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "doxxing_intimidasi",
+      "subclusterIds": [
+        "doxxing_intimidasi"
+      ],
+      "matchedQueries": [
+        "Doxxing & Intimidasi"
+      ],
+      "collectedAt": "2026-11-16T06:37:39.989694Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "88c77dd40eedde498f3d5bbb",
+      "publishedAt": "2026-11-16T04:39:21Z",
+      "title": "Penghadangan dan Penyerangan Women's March Disorot, Jaminan Kebebasan Berpendapat Dipertanyakan",
+      "source": "Hukumonline",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQQmpRZmlMb2VCZnBUYTFaZ0owNDlaRER6eXhUVjJwc2ROV2NlZzRMQzlIMnlkN3BLV01JSE5MY0g4UUhiUXlTd21ocTlTaE52X1B1UlJCamduWFl0XzZIdlNrenNvbHRyQXZacjZXdkphX2FjNUtkTXRGZ2RmUGJQLWxNZzczb0NTcmN5X1JwSG84RVRWcnEwY0JkTTQ4Y1ZjQ0dnN1JjTkY0RXpseGkwWlJVajF1TURsYmZwT2hhODNreFlTZWhOQkp5TjkwaVNRVHFXS241bDZSc1JQamtCeDZR?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-11-16T06:37:39.989694Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "7905907599ef455b2121d4a4",
+      "publishedAt": "2026-11-16T03:41:10Z",
+      "title": "LAUT BERCERITA:potret pejuangan, kebebasan,berpendapat, dan kemanusian",
+      "source": "Kompasiana.com",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNM1kxVUhLak81NnVSdHRjc0ZfVGludEp2YjJZZXBvRmZIQWs3ajJZLTZQMG9MalF0YWgzdV9nZkJfRjktTklOX3ZtU2dJa3AyUVA0cFNWN1Zxdmt0TVItWVV6STVaalJQM2hYX0ctLVdfQjFPTjE5M3ZMYml1NU9ERjE3WS1pZ3I2bURkLS1QdUF1WjUyMElDZ1BFTHhVWWV4QVV6akJ3WlNPZldIMWI4c3ZJbUxjOFZNT0FCMzc0ajd2TkwxLUNKWFdwX2p0VllHYjN5b3gtMA?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-11-16T06:37:39.989694Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "1e3cf24ae03102ac5f187ffd",
+      "publishedAt": "2026-11-16T03:36:00Z",
+      "title": "Potret 350.000 Warga Turun ke Jalan Tolak 'Pembungkaman' Media Massa - Demo Republik Ceko | Ceko Berita",
+      "source": "Head Topics",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQOWIxUVA4RHJ1blQyTEZud05CM01GRzR0UHFucTVNa1ZNU3Q4RTVDQXdOblFWRFYtTlg2UUpjSWpTT1kyU2ZROEtGbGo1b2hBUUdnYlZTMERiamFsUHFmbHVsbkpJYWpVcjBxZ0dlOVIzdmdKZjBDSHdfU3RsM0tuYk5nb2E2OXJucTNMMG91alZENTFnS00weTNR?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-11-16T06:37:39.989694Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "a9438259fc63c1d95ce737fe",
+      "publishedAt": "2026-11-16T03:34:11Z",
+      "title": "PLAVE dan RIIZE Umumkan Tanggal Rilis Lagu Kolaborasi \"Lowkey\"",
+      "source": "WowKeren",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE54M0p4YThBRHJKV1Q1MGpkbTB3NG9XQjBmZFNnNS05a19EUzlSMTdjak5FbWlteEZXMmVJUXdtbWxxSjlDelJCbGpkYi02dEp5OVBQLW9lOHVmUi1ZUGlyeEl3?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "doxxing_intimidasi",
+      "subclusterIds": [
+        "doxxing_intimidasi"
+      ],
+      "matchedQueries": [
+        "Doxxing & Intimidasi"
+      ],
+      "collectedAt": "2026-11-16T06:37:39.989694Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "9d1ac8bd64e32ea7a5c83d0f",
+      "publishedAt": "2026-11-16T03:32:00Z",
+      "title": "Telkom Diakui Asia Atas Pengembangan Talenta Digital - infodigital.co.id",
+      "source": "infodigital.co.id",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNSGVuX3phckdBQ2pLVjBnaTZyY2dZRzVGTlV2YzFuZTg4cXdTN19MS2JyVlZXMEQxdkhGeVJ4emZvOUpuX0dxOC1MN3VxQkpEYWt6anpKcmo4M0k5YjByY1JpMEJ0RXVXekYtMXI3MHhwaklsdjlJUUpyTjBDd0xOc2s3M01PT1pfUjF0anpjZFkwUUdpVWfSAZABQVVfeXFMTzNUZE4xa3l4VngxOFhCSVZ0dTE5QjRKVm13TjZaSFlPUlJZbmF4MDN3VS1XV1phQ0x3ZDlGNFd1LXZBV3ZvYnFva2xlTnhkU3BEc2ZuU29HWUZQQmF5TFdQNVpUZ2Vxa0RUbl9LV3VvY1pBajI0SGhEeXY4T3RXVndoaHNBbXdfNFBBc21YSHRZ?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "doxxing_intimidasi",
+      "subclusterIds": [
+        "doxxing_intimidasi"
+      ],
+      "matchedQueries": [
+        "Doxxing & Intimidasi"
+      ],
+      "collectedAt": "2026-11-16T06:37:39.989694Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "bc97afc8368a30b8d52de40f",
+      "publishedAt": "2026-11-16T03:30:00Z",
+      "title": "Potret 350.000 Warga Turun ke Jalan Tolak \"Pembungkaman\" Media Massa",
+      "source": "CNBC Indonesia",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQQ21YNmJOdkgzTXd5cXpOZ0ZaMjdqNW1oSV9wOTJIWlVwTS1SYU5GcHdpd2NvWDFyMUUzVm1pZUtCeGdvamtLX0JYb3RDakkyMTF5bURaSms0NVRnd2RmMHNsLTF6ZjMxRW45MjA0cExTSnlCcnNYa0JsUUxhSTRMLVRvSjNsS2wxV1RiM1E4RTJ4U19CTmI3Rm5GOHc4VEo1emthZFQzSnFDejNIRDR1bkpKR1NWeTFsX2ZYcFowYUtjUdIBxwFBVV95cUxQYVo1QjZ4aVZWUVdlR0RnYnlIZFlySVRzNm5TWm5wcDkzU0E4UHhzZm1xYkZJanpWNUFIYXNyeG8wTHJESGdyRW5vM0R3SGFIUTIxMzVKbEtUZkhOMkV3NmpsM2NRM3hCbEVCUkt1ejJnN00xM1JQaW1ZdExXQnZ5SnBHSTN1Y0lTNDVwQkdTZG15NkYyMktWV0kwN2tqSURhOE5nMVNpNHBSMllZNkl5ZmlBT0h3dVR4dnpCNTVoTU5oajNsdWdr?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-11-16T06:37:39.989694Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "b95c73fe35d3721d1c53cf96",
+      "publishedAt": "2026-11-16T02:42:02Z",
+      "title": "Foto Polri Pulangkan 154 Pendemo di Yogyakarta, Sahroni: Polisi Harus Lindungi Kebebasan Berpendapat Masyarakat",
+      "source": "VIVA.co.id",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPc0FrSU1wNldwUnp6Nl83SFZTUFFRV214aHA0NnhMT3JMb2hRYlJYa3FWbHh2MGFlLXpGekpmX0lPaVhQTWREYlk5RDhKalFSRVdITVNCRU8yX3JoS0YyaThUTVBub05CTnRhb3Y4MVBiYzh3bDZoZmViLTdIVmpSSUhVYTJFV05IU2F0RjFDZ29LNkZiV3hSa0VUSldIVGJ5b3RfMWd6SVhoV2FCUTFPQUdtbDd2OGhWbTFaODFEbWRMZElYOGVVMUZQYVc2amdqVUJ1YWw4SQ?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-11-16T06:37:39.989694Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "b5003e07e8e141ff4be9faa4",
+      "publishedAt": "2026-11-16T02:21:58Z",
+      "title": "Perspektif fikih siayasah dusturiyah atas pembungkaman suara karena politik",
+      "source": "Kompasiana.com",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOeFJVNnJleUxSV0Vza2M1b3Jxak1wQzV4cFpkcXNMdVlUd3B5V1lMYVo3UmViVW4zZmtTQXdwX04yNG9oVXU4ZXZiSzFHMG4xbFNDMWs1bkQ1YTBhY2hQbHhNN3BxUlh0VEJ2eTdXbG9EOVZ5Smx6S0lQWE4zeHhlQ0tCdTJvQ0tMNnluZDBiOENudVpnWW92ZC1Wb3ZDbEx5cENfSHRZZFVTWWs5c29vbGs4ZnZZcllLVVFuSFVETHM3N1lOU2ZleUFzS2lZZERPSURUU2dzNTVDd3ZqbHc?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-11-16T06:37:39.989694Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "a3c4b8973abc791d45fd08d7",
+      "publishedAt": "2026-11-16T01:45:00Z",
+      "title": "Hampir 3 Juta Ancaman Online di Indonesia pada Kuartal III-2026 - infodigital.co.id",
+      "source": "infodigital.co.id",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPY3hPbjQ5OC1LMFhHdGxxM3NVM01VTlNXZ29XM2lzZ2RhLWtwbFRZbDBaSjBkNnY2OGRoZ29PaDZzUXNKYmhGRDItUUpEdDRCVVNQM1VqdTh1NlIzNExpak9rNS01Tm9FaDNGNFFSODVPM1BGdmNKaEhkT1pLV0ZTd1VsaXJncW1MWDg2d1RQSlNrdmN3cTBRaGEzZ2FaVDFNTEMyUtIBnwFBVV95cUxNay1PR0gyVEJnSFpVNUU5MDdpWFFQT3ZSUE5WVUY1STRQNFVnTFA3azJ6VGEyRnVsZ0o4SjFvU1p4U2pBX05HYjc1NVVELXQ1TXp6LWU2ZXpndV81TTZ3QnNjczZiREFZSkRLMEVBWHljN1JWbTYtZm1ZMTE2YTZNWUYyZzhuZzdFZkZrSHRuUGRZNENKVHpkS1hGa3c5NDA?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "doxxing_intimidasi",
+      "subclusterIds": [
+        "doxxing_intimidasi"
+      ],
+      "matchedQueries": [
+        "Doxxing & Intimidasi"
+      ],
+      "collectedAt": "2026-11-16T06:37:39.989694Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "587ad2d01829b0cdfa0c0534",
+      "publishedAt": "2026-11-16T01:27:50Z",
+      "title": "Hentikan Pembungkaman Suara Kritis Suporter, Cabut Sanksi Aksi Karhutla Suporter Persijap Jepara",
+      "source": "Prohealth.id",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVGtGNnF0UVJ6bjBvVXlPc3EzNDA2ZDVQRnByU1Yzb1ozSFVDbnlpcm5LSTdqcUhiTWdad3BRUWZiM2tBc21GVjNfTnRhZERtM2RuSXV0cmdSbkJkaGNraGlKd2Q1YkE1WnVKN0FyOERydHpjVHF0eEY5M29PaUNNY0tHYW1iR1o2eXRBTDIxelZfVXlQLUV4UDhKSFRsb3hUbll2cjNIOUtGS0pTbGpWc0IyRzBZd2RH?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-11-16T06:37:39.989694Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "5a734f9d575766634ba48471",
+      "publishedAt": "2026-11-16T01:21:00Z",
+      "title": "Ancaman Siber Mengintai! Kaspersky Deteksi 2,7 Juta Serangan Online di Indonesia",
+      "source": "Pasardana",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOcTgteWtKQUVMZERhM25GYlE1TDQ3a2pRWDJISjV2NHpzbm5qTWVISXNvNFFWbkRTZGRBVy1qU29PTS1zYVkwUm54N2g3S2ZTUkJOa1JrSEZ0NlNyN2V6VDdmZjhvaDBIWS1WaWZGYUdQdF81bHVVQ3huR3JVTExMR0xYYUNkaGhVdW9sSUpIbHZadldySkQyUEo4c2ViSzQ1ZlM5a1FyamNGNG5ZaVNWaVJxNUxERWM?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "doxxing_intimidasi",
+      "subclusterIds": [
+        "doxxing_intimidasi"
+      ],
+      "matchedQueries": [
+        "Doxxing & Intimidasi"
+      ],
+      "collectedAt": "2026-11-16T06:37:39.989694Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "0cd5980e0b27b9c8e8086257",
+      "publishedAt": "2026-11-15T23:33:59Z",
+      "title": "dilema kebebasan berpendapat dan penerapan uu ite dalam kehidupan bermedia Halaman 1",
+      "source": "Kompasiana.com",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOT3hDa0FZM0VDRkdnelZQQlBsUmtrMTR2TlE4VXU3Vk9pb0NQZzdWT3VPQWJlQ0VGenZfRUVvX3hYM0FMc05nQ2hTRGFIT2d1a1RmU3FmS3RJdDc5dmJBLU9lZndkSUxxYjhFaUxMVC1xcmJHZk1nLTQtdllvQmlzay1vSXNpYWE3YlRtMnZJc0lReC0yNVlpMHk4b3dVYlNSdnFuM1dWVC1YT2RNLVJCNEpIcHpNbTBhTWNTNWZVRFBzSmRoTHZ4WHpCR3ZZaXcxWWxwR0JhRnY?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-11-16T06:37:39.989694Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
     {
       "id": "a12d7f163c41dc8454020f6a",
       "publishedAt": "2026-11-15T05:06:44Z",
@@ -1534,6 +1856,29 @@
         "Kebebasan Berkumpul / Berserikat"
       ],
       "collectedAt": "2026-11-12T19:58:52.448656Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "c16c9815e5c76e8cd806ad5a",
+      "publishedAt": "2026-11-12T08:00:00Z",
+      "title": "Sangat Disayangkan, Ada Upaya Framing Rombongan Menko AHY Melewati Sultan Yogya dan Menerobos Lampu Merah, Staf Khusus Menko Infra: Cek Fakta, Mari Gunakan Kebebasan Berpendapat dan Bermedia Sosial dengan Bijak",
+      "source": "Kementerian Koordinator Bidang Infrastruktur dan Pembangunan Kewilayahan",
+      "link": "https://news.google.com/rss/articles/CBMi4gJBVV95cUxPTHhkbnVtcVRDc05uakRoQ2ZXdnRWVVFhMVVqU2pyTjgwWktqSW1FOUFZRzFiaFNTd2duS25UWmhXNDVSZ3c1bmYwbVB2Y2Exc0FaVFhnZWF5YlRFXzZPMWlJZlphcWJBX1lLQ0RHSG81dnlONlRxMmpmRmlHcU9rSDZmTi1tVzRybTVJVVp3NVR6dXllQTVmZkVyNUpJSUdmbmVBWkUtS2xKd3o4S3I3QzNNOGI5T3lTbFBybXBUSXNweGxtWFliTFgzYTVLS21VS1YwY3BVa2NaeUdqblFDSEpPMi0tYUMxNW5wQ1NWdGRSZGY5RUxhLWYzaXlpak1OVkd0eDBOeWY1YzZHMUtqRUwzdTEtNm5FMlZVdFJuSi1kYi12MHRZNWxuM2FzcHhSOFdCdmNvS3N0MHMwblFsSVc4REhmUUtYS3dtWTdaZWlSd0RZeDR5aGV5aXNoZUNxWmc?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-11-16T06:37:39.989694Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
