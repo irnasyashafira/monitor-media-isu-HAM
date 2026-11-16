@@ -1,15 +1,15 @@
 {
   "meta": {
-    "generatedAt": "2026-11-16T06:37:39.989694Z",
-    "lastRunAt": "2026-11-16T06:37:39.989694Z",
+    "generatedAt": "2026-11-16T22:10:53.101889Z",
+    "lastRunAt": "2026-11-16T22:10:53.101889Z",
     "startDate": "2026-01-01",
     "refreshHours": 6,
     "mode": "incremental",
     "feedsOk": 16,
     "feedsFailed": 0,
-    "totalStored": 3206,
-    "totalPublished": 3206,
-    "newArticles": 15,
+    "totalStored": 3223,
+    "totalPublished": 3223,
+    "newArticles": 17,
     "warning": ""
   },
   "clusters": [
@@ -135,6 +135,282 @@
     }
   ],
   "articles": [
+    {
+      "id": "71546ab98188cfe2ddecc75d",
+      "publishedAt": "2026-11-16T14:35:06Z",
+      "title": "Kaspersky Deteksi Hampir 3 Juta Ancaman Online Di Indonesia Pada Q3 2026",
+      "source": "GadgetDIVA",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOalU1YW0zOFFDUFE3TzR6TmRPenFlanNnSXdHTDJqSmpuY01pb1d3anRvdjliWmJQQXlXM1Rnc1dqVFJLN1dnWjdsTENWV09aN0dnQTQ0OG9OMzRzVzUzalhpQjRIVXB6b3VWV1RxUWRmTUZaYmVUV1d4czdZajlkQ0hhdXVEMTF2TV9VSW1TR0VvRjdXYmFaekVFamNXQ0dTVGVVSlBR?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "doxxing_intimidasi",
+      "subclusterIds": [
+        "doxxing_intimidasi"
+      ],
+      "matchedQueries": [
+        "Doxxing & Intimidasi"
+      ],
+      "collectedAt": "2026-11-16T22:10:53.101889Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "3d505db25f094fcf9aa8bf8c",
+      "publishedAt": "2026-11-16T14:18:19Z",
+      "title": "Ancaman Siber Turun 27,7 Persen, Kaspersky Masih Blokir 2,7 Juta Serangan Online di Indonesia",
+      "source": "VOI.ID",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPeTBxb2ZFM0dQT0J0SUlkYWp3VklUcDNyLUtDaHkzbzVLTWFSakFMM1N3SDBDSzI5T3VMOFJ1SkNEWklKbUUzcXF6MDhXRDNrN21SQ2FPX2FtYWpMY2FtTGp6Z2pnQUFMeUJfREZlVzhFTFZxTUNELXQ2cWtOenhMS0QyWV9mVHlwQ25oQ3I4OFV2cGhlcURlWVRsbHRCYXlDNkhVNG9kSXpNcDdOVkxTeFlnamtXNzVyN0HSAboBQVVfeXFMT3kwcW9mRTNHUE9CdElJZGFqd1ZJVHAzci1LQ2h5M281S01hUmpBTDNTd0gwQ0syOU91TDhSdUpDRFpJSm1FM3FxejA4V0QzazdtUkNhT19hbWFqTGNhbUxqemdqZ0FBTHlCX0RGZVc4RUxWcU1DRC10NnFrTnp4TEtEMllfZlR5cENuaENyODhVdnBoZXFEZVlUbGx0QmF5QzZIVTRvZEl6TXA3TlZMU3hZZ2prVzc1cjdB?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "doxxing_intimidasi",
+      "subclusterIds": [
+        "doxxing_intimidasi"
+      ],
+      "matchedQueries": [
+        "Doxxing & Intimidasi"
+      ],
+      "collectedAt": "2026-11-16T22:10:53.101889Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "714ad112c3bdceb9e99fb0bf",
+      "publishedAt": "2026-11-16T13:05:00Z",
+      "title": "Video: Di Balik Dugaan Takedown Konten Medsos, Tanggung Jawab Siapa?",
+      "source": "20detik",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPWGdpVFQ1MUlqY0w5VE45V1BnN0ZIVF9WTldkQW8xR0FPN041a19ic25wV0s2WDdFUENZRmZhdG5vMVNPdjV1U3RGbkZIX2M5RmJyN1JJYXVPVlpnVDNvRWhVcFlTc0JGX0JJM1dqaGpDVm81ZWItX0o2MURXVk45ZjJDUXBLbXNpaEh2bGhJU211N2k2N0Y2V2R3YkYwRkhUUnBHTmZrN244MVNMYlBKa1BlV3V0Y1E?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "sensor_konten",
+      "subclusterIds": [
+        "sensor_konten"
+      ],
+      "matchedQueries": [
+        "Sensor Konten"
+      ],
+      "collectedAt": "2026-11-16T22:10:53.101889Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "84b98e65b5ff511f855de627",
+      "publishedAt": "2026-11-16T13:02:00Z",
+      "title": "Video: Polisi di Batu Digerebek Istri Sah, Ngamar Bareng Kades Cantik",
+      "source": "20detik",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOMVhSemVBdm1iRnJLVkVCdVBFUGFtSXRNQzR1MFVfVzBGNU4wUWo5NFQ4QVFLUFFyVl9UQWh3RWdjS0x4ekRIR1hXWVhEZzFueDAxY1E0ZmRJb1JxNW05UUNtUUIxZjJUdjI4WUZ3bkNHRlFCd3VtSzh1M3k2VWFpQXVWRHk2Rzl0RmZuTjZhajZqeHRjbWZxb0tjeEVzdWI5ZUZMTDJTQ0NEWHNiVHpTSS1SV3NXVXdta1E?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "sensor_konten",
+      "subclusterIds": [
+        "sensor_konten"
+      ],
+      "matchedQueries": [
+        "Sensor Konten"
+      ],
+      "collectedAt": "2026-11-16T22:10:53.101889Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "19ea935b8bd8889f0ad751b1",
+      "publishedAt": "2026-11-16T13:00:00Z",
+      "title": "Video: Tak Ada Parpol Anggota KIM Plus Ajukan Kader Pengganti Gibran",
+      "source": "20detik",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOb0NSOHQybFNtVzJ2NlZlTm8zZi0xOGZwNHRrdGVYSF94RnhZak1TdEQxN1ZzQmxuMnFENHlpY1ZqNW9EVFg1MHhZWkhVaFpwTnJHZDlydWdJOFQ4NzFrVkJtRmJVXzdYSHctV2d5Zk01Mkg0YTJrcFVVUVdlcVI1NlhvWEV2RXFzWkNyTzRGSkliTXRpOEdKOEFfSklFWE95bUJSOFoyNldUSzQtS3l3MEVLNmhWUHZ3T1E?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "sensor_konten",
+      "subclusterIds": [
+        "sensor_konten"
+      ],
+      "matchedQueries": [
+        "Sensor Konten"
+      ],
+      "collectedAt": "2026-11-16T22:10:53.101889Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "cb50306bf8a508cc7c1c0753",
+      "publishedAt": "2026-11-16T12:33:49Z",
+      "title": "PSSI Didesak Cabut Sanksi Persijap, LBH Minta Komnas HAM Turut Hentikan Pembungkaman Suara Supporter",
+      "source": "Radar Kudus",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPeUZ0ZTlNM3prak1TeG5idjVwQkZrMlpGTnNwWl81MVN2RENEeGI1RlFyeFMweGJVVWNyb0lxZkNsN09QeWF3Umo2YUNxM3Jfbzh0cGRQSWloNXhXQTNCVXpWQXhHSWlrOGctd2dTR1pGRUtndEREMDNZcndBRGRzX3QtZGJaWmtsRlE2WGNXUHdBU2owN3NtR1dHMDhVdjEwQkdTdVBva0JpNWdLQ1ZSWDFfZjhrNnRHU09IaHllaTF0Vmp4ZFBhZHR0VF9zOERWWjk4YzlmelBNRUI0R0FsTXV30gHnAUFVX3lxTE13U2ViS19rX3dkZVN3dHF6ZEZaRzZkaHZTRGozMUpXdzIwampNeXZUeTFvVGVSb2g5RkRZRDJOc0F3enZLb2VOMG9VREQ4NEJHNE1qVW02Z3o3TkFJRTFBWGpOTGthenZVdlZGUExlSW1wYWNWQmtSc3hfZjBUS19QaGpoZUlxX1JKVGNNcEpVblFZcTBSTDNlWFdQMThPX3VveThoRVJhbDNoUmFCcUVaeHBWQjBlMndDQlNRNDd2d1NfRXZ3dDAxRjVReDktZEE1LUNsVnFkLWdJbkxTX3JrX2h4aHRCTQ?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-11-16T22:10:53.101889Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "24540afd441fe11acf1deec5",
+      "publishedAt": "2026-11-16T11:50:03Z",
+      "title": "SAFEnet Tantang Menkomdigi Debat Terbuka soal Takedown Konten Karhutla",
+      "source": "IDN Times",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQNjRteDdDV2QxRGQwNDN1YXFnQVRISWVTaHRDaVp2eDBsUEY5aDFFNHpzTDRNRkxkTWJkWncyakRUZGtzNDVOUVUxNW5vdmxFSm4xRjVuNkM4TVFfZVF1Y1ZHRHBjLTFUaXBaM1FxdndqTXpxRjZSbzhzem16bG1NYnNtUWdqeFdIdWJ6bkR4WmFSckh6STNwYTRKRU9SUzF0Z3lNeHFnSEIwOHFjZ1NldWVPb1NGSVRJT1lmUC1DeG9xZHJ50gHKAUFVX3lxTE1FWkZRbG5ha0JzM0NnLWw2OXFmVTE3R0dtTUhRRG9SN2N5VnNHTnJ3eTNHTDFFUm96Z3hXTnN6aFdVbElZdDdRLTh6dEgzTkxiczVIWjV4ME94TDRhSXpaNFlPTGNFY093bjVnSkF4TEpXamRvMm5reTFwb2Fuc1YwckFnZEFKOGlyQUpWVENRUGlSZDlOa3htbERXdGRRcGROS2NQNHY4enV6bUl6NG1iZTNXc2RRS1hZSmxXNXp2aFNDTFpzalFMRXc?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "sensor_konten",
+      "subclusterIds": [
+        "sensor_konten"
+      ],
+      "matchedQueries": [
+        "Sensor Konten"
+      ],
+      "collectedAt": "2026-11-16T22:10:53.101889Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "9a6d60f55c5ef6277a2f77dc",
+      "publishedAt": "2026-11-16T11:05:00Z",
+      "title": "2,7 Juta Ancaman Online Terdeteksi Sepanjang Q3 di Indonesia",
+      "source": "IDN Times",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPZ0JDMnp6Vm1HeTRiM3l2SXIySVJqbHRjcnllbW5UNUhTVlN1ZU10VlFxM2VHb3ZYeFNhYTJyVzcyaGFKSDhob3NNRXpGM01rQWFvbGU2YVRXRXRUbFZTTlZuTE15ejY3MGF6cHBPYkxwNlpDY01nZkpNUjRyTG80VTBJa3pOeTNOV201al9UdDhGLXN4OGxMWlcxSldYa0FPbEM1T3pCR3NCNmJUYzF5NnNB0gG3AUFVX3lxTE9ucjFuajFicGNfUWFuR2JvbG16Z2JmUFIzM1gtSTZJSkNfajNJNmFnRnV5X0VxLWo1VHRuQ1BId3FsTWhzRWFTREZmT1hNOWxBQmZIeGQzc1lRelJTSmZtbHlJbXh1WjV0dUdXT3IyUWVZS0hSZ0l3dnMzTlZfckN0MmR2NkxUekY1RGxmMTVnUE4xcGdtSkhDcFE0Y0ZVa1AtQjNhN19QNHdlc1hjcmhEZ2VhRFVGRQ?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "doxxing_intimidasi",
+      "subclusterIds": [
+        "doxxing_intimidasi"
+      ],
+      "matchedQueries": [
+        "Doxxing & Intimidasi"
+      ],
+      "collectedAt": "2026-11-16T22:10:53.101889Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "22968566b160ff78455118af",
+      "publishedAt": "2026-11-16T10:52:45Z",
+      "title": "Komdigi Terus Blokir Situs Judi Online, Pelaku Diduga Manfaatkan VPN untuk Hindari Pemblokiran",
+      "source": "Kabar6.com",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQY0t6cDBXeXowalk2bndIeTFVR0ZrVGtWc3RsZnY4Q3BfUGNqRzhxOWYtaUI3ajF5QUhlZXBmc1hLOXF2V2g1aE11QWx2YjU2Zm56cFhGLU1VUkVRMmFNVnJTUHJqTmp2djVfajhqNFJjZlVyVENWVlhkNUtvMlZMc3dxTEgyMmdmcmtNOF90Q25kZkp2MTZxSDZNMU44bG8xQUx6S1JYb2RHYmE1QXpMb1VLUQ?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "sensor_konten",
+      "subclusterIds": [
+        "sensor_konten"
+      ],
+      "matchedQueries": [
+        "Sensor Konten"
+      ],
+      "collectedAt": "2026-11-16T22:10:53.101889Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "4b312b7eb81b8e15d8769a0e",
+      "publishedAt": "2026-11-16T08:39:12Z",
+      "title": "SAFEnet–Remotivi Tantang Menkomdigi Debat Terbuka Selasa Besok, Misteri Takedown Video Karhutla di Situs Dewasa Jadi Sorotan",
+      "source": "AFU.id",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNZjdpRlZCYlNUZFAtUzhMM0ZPcmZ6dXhYbmtHczM0YmRiUklhX2FleWhVQ0V1NXNfVlQ1TDRjeUI3NEw1am8za2ctMHlTbktablhwVkE4VktuWE5NSTZTd3lHSTJna2J6M0pkQzlBbGhrcGlObFpzVFBoRGNhMXdBUVIwVTRGOURDV0p1V0xJMEFfajlMXzZVaTZQWE9yVXNSS1RPbjdlNFAzR3VzemJBSXhtcXFGNDd6MmxLNG5RUDBadjlVZnEtZUg3Znh4SHBQNHRZOU1zWmlGOFktMGxZ?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "sensor_konten",
+      "subclusterIds": [
+        "sensor_konten"
+      ],
+      "matchedQueries": [
+        "Sensor Konten"
+      ],
+      "collectedAt": "2026-11-16T22:10:53.101889Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "2321f741d869eeb1cb641774",
+      "publishedAt": "2026-11-16T07:44:22Z",
+      "title": "Daftar Korban Penyadapan Listyo Sigit Cs Bertambah, Polri Sebut Nama Najwa Shihab, Raffi Ahmad hingga Nagita Slavina - Quena",
+      "source": "Quena Id",
+      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOVlFLLTQ2MWYtaHJ0MVYweklIM2czQ0VXUFBFR3FoVGV3ekc1ODY4bDVobW1UX3R1V2k3VXlqU0RZM2dTMFhBMWpzckV0SmtoRkU4dEJPa1k1UHQ2Q1lMSmtjNWtDNmY5eC04d1V1MGxsTmpiODFpeVdfVHBCSjdnRkQtUGVtQkpRakM4SkdPMVZtOEZyUHhRV0FkT25jZnNEekVRTHVlYXNqZG9vVkFwcFl3ckphSzk3Sy1sel92VTBRU19rQ2VxUHRQS3hOaHVpanBIUHlYZXc5bVh0THVkX0laak5qR0loTFROX9IB8gFBVV95cUxQSlVrWlFlZ2NRaVNpSEZyZGpMSkdkRVpoUV9BQlNpeFZJaFFIaEl4MlZveHptTkJjVEZtVUVPU2FmbXIwV3BDRVVsQ1JKXzhkUzZMend3czlSTUx6QlVPWHZEekNCMlhDck9BSnVaczBtSWV2SmpXZEgzQzc4OHpuQjBtTUxCeTc5M1B3eGVaX1F5aFNPR3NlR3h4VXNhT1ZVLUxtYzYzdkJpd3poUS1OU1RUQXZVSlhrY3AtUlFLQUp0SzVweTJFbnRfS0dnME1ROXA3dDRYS29JNGJsbnpoZUFCNUJRSzIxT1JrSmd4c0pYdw?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "pelacakan_penyadapan",
+      "subclusterIds": [
+        "pelacakan_penyadapan"
+      ],
+      "matchedQueries": [
+        "Pelacakan & Penyadapan (Surveillance)"
+      ],
+      "collectedAt": "2026-11-16T22:10:53.101889Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "c93e8bc20f4bc97220304b1f",
+      "publishedAt": "2026-11-16T06:21:00Z",
+      "title": "Ekspresi Emosi Tidak Ditentukan oleh Jenis Kelamin",
+      "source": "RRI.co.id",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQSUZncnY3dEgtS1BuM0pBYUVlOTZ4SUJoVDluREE0ODNpVEc3a3hwczNYc1dHeU9WVW1BcGR3VmFuQjlfcHJ1bDc3UE5hd3VfNG1VcVNtRW5rcnZBdnBNVUZXZ0VMQTFpLUhEV0tmV0M5MFRLTExiZDd6Nk0tVHlGaGp6UjU5cTI1akR0TTJENERRYi00cFpLQ09ETHMtS3M?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-11-16T22:10:53.101889Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
     {
       "id": "f490792992488262c6584cc2",
       "publishedAt": "2026-11-16T05:58:02Z",
@@ -527,6 +803,29 @@
       "reviewNote": ""
     },
     {
+      "id": "e67035f2c6b612f2a91b20b7",
+      "publishedAt": "2026-11-15T01:55:00Z",
+      "title": "Komandan Ibrahim Aceh Kecam Somasi Bahlil Lahadalia Terhadap Kolonel Purnawirawan Sri Radjasa Chandra - Poros Jakarta",
+      "source": "Poros Jakarta",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOMXREdnY3Q3phMDVnd3VBdFlodThWRTN0Q3JOSXl2Slk4ZXNRZXZjSEFEUjN1OXV6MUNsMHd5bjJfQktmVzI4dTNFVkFwdUl0RF8wQUVZXzlzZV8wd3QzU1FxMDdPWklSaGZUU0w2UnBTcDVCUEdsUmdJN2xVYlZ6MmZiTDRDMXdQeHREZ1QyV3N4dVQ4NUlQSUlhU1g4Q2tpQVBrWElVRDF4UmEzd1VoZnVaenVfejVFT1c2V0dDenRROUhCRUEyUUxObGRwM21Id3YxT0toUktuTUpMNGVN0gHkAUFVX3lxTFBxRnJ3d2NFQ1l6d2ZheklHTWRtMFB5WnNfOVk4enhIekZVOUs1WWdHU1V5SzhTWDdMZl9SVExQY0RUbnN1XzdvSVdyMnZNYXNvOVFJcmRzMXFrQnlEclRRZjQzWmdDaWwyelFqQnRvMTBieklDVXgxV3hnQnJ0Q3JaTkJoWUFHYVpPMGxZdEE0bkZ6bU5JTTFZY3JwVF9ySjZjSlZLcldhUUt6bE9xakdaVkIyY3ZNWTdnQ2NCVkpvNGxVcW5xdTFqOVNhMGpjSUk3cnRPaDFXX0NzdVpVLU95RWVaUA?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-11-16T22:10:53.101889Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
       "id": "4bb9afe1f8bf13f9058ce69b",
       "publishedAt": "2026-11-15T01:34:00Z",
       "title": "154 Pendemo di Yogjakarta Dipulangkan Polri, Sahroni: Kebebasan Berpendapat Harus Dilindungi!",
@@ -729,6 +1028,29 @@
         "Doxxing & Intimidasi"
       ],
       "collectedAt": "2026-11-14T18:10:22.647499Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "00fddb0a895ecb9b8b7a9f0d",
+      "publishedAt": "2026-11-14T07:27:04Z",
+      "title": "UU Layanan Digital Uni Eropa Kembali Diveto Nawrocki",
+      "source": "JournalArta",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOWHNsUTd1NjRJQm1lbm91dzBETUNYTy1vZHFjU3JtU0tVZFhhRjVqTkt3UTF6UWRkNDZvZ1RTMmRKdGRaRGpjYmxPTDh1dDhYTTFnbzJ1VDNpRldwcGplbG1TcHJIbU1jY0hWVFd2Y1FhTzhvemZvdTN6YmcyTzBUcnZjRkFZcFVicEdZ?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-11-16T22:10:53.101889Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
@@ -1097,6 +1419,52 @@
         "Sensor Konten"
       ],
       "collectedAt": "2026-11-15T18:54:16.560449Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "8c51121b3df281d52c35279e",
+      "publishedAt": "2026-11-13T11:49:00Z",
+      "title": "Video: Aquascape, Meracik Keindahan di Dalam Akuarium",
+      "source": "20detik",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPSjJsRFQ3UEc0RG5Eb2lqdldJSWItcF9nSENra0QtdklFZktpTjEtSkpydFJqMTMyMFp4anFWSUhmc1JTdHhoV2dRZUtKTUdCRTd2ZTZndUYtTk1CaGxKM29lenpvb0k3cnU3cEE4Wmw4RzFkbTdqaGlCM2xLWXZuVVhWYk9yUTB6WjVmdkRtQTBFM0o5Nzg4TFN0dkl5OEhaZWdiXw?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "sensor_konten",
+      "subclusterIds": [
+        "sensor_konten"
+      ],
+      "matchedQueries": [
+        "Sensor Konten"
+      ],
+      "collectedAt": "2026-11-16T22:10:53.101889Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "de29ff7685f97452010ad024",
+      "publishedAt": "2026-11-13T11:47:00Z",
+      "title": "Video: Maros Mendunia: Pesona Alam, Budaya, dan Potensi Daerah",
+      "source": "20detik",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOUVZQMEtjVF8teXQ3RU53cU9oZUNYNHQ1d3AtOHhrT085X21YZW15bzhKMVZmUDJwVVBHaTh4V0ZVdS1Cd3VHX3JSMkplbWY1UVE0azk3RzM0UVhHdmJkam50SER4NDJFQnFHc1RjS2FnZzdveHJDOVA1VVlzWGRFNjBsa0QwcG9aQUpBU1k1MXV6Yl9lTUxuOW82V0QxN00tYnRWRHBtZkVOckJGY2c?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "sensor_konten",
+      "subclusterIds": [
+        "sensor_konten"
+      ],
+      "matchedQueries": [
+        "Sensor Konten"
+      ],
+      "collectedAt": "2026-11-16T22:10:53.101889Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
@@ -56970,6 +57338,29 @@
         "Kebebasan Berekspresi & Berpendapat"
       ],
       "collectedAt": "2026-08-31T23:07:12.746081Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "aa8ea274ac9a8ef966ff31af",
+      "publishedAt": "2026-08-20T02:21:18Z",
+      "title": "Dari Challenge Berhadiah Miras, Berujung Jerat Pidana",
+      "source": "Pusiknas",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOZWZISDVUeEdxOEJEVDdaZ0p6dXFEbTkwYk5NTWplU0xqWlRleUpJQ1ZPeDllYkxKZnl6MzNGa2U3a1pRbzcwYU5kaFdfb3BVY3dwbHNlZ0pDVHpuc3R3ejBFTFdoU0p6SGZKWXhKSmZsaFNSM0ZpVlZSWjVUQmhMWjlaU2FVSE1maHVDcXExdGlzTWI5R0JPS1VLakg1Zw?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_beragama",
+      "subclusterIds": [
+        "kebebasan_beragama"
+      ],
+      "matchedQueries": [
+        "Kebebasan Beragama / Berkeyakinan (KBB)"
+      ],
+      "collectedAt": "2026-11-16T22:10:53.101889Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
