@@ -1,16 +1,16 @@
 {
   "meta": {
-    "generatedAt": "2026-11-16T22:10:53.101889Z",
-    "lastRunAt": "2026-11-16T22:10:53.101889Z",
+    "generatedAt": "2026-11-17T07:59:32.397451Z",
+    "lastRunAt": "2026-11-17T07:59:32.397451Z",
     "startDate": "2026-01-01",
     "refreshHours": 6,
     "mode": "incremental",
-    "feedsOk": 16,
-    "feedsFailed": 0,
-    "totalStored": 3223,
-    "totalPublished": 3223,
-    "newArticles": 17,
-    "warning": ""
+    "feedsOk": 15,
+    "feedsFailed": 1,
+    "totalStored": 3239,
+    "totalPublished": 3239,
+    "newArticles": 16,
+    "warning": "1 feed gagal; feed lain tetap diproses."
   },
   "clusters": [
     {
@@ -135,6 +135,328 @@
     }
   ],
   "articles": [
+    {
+      "id": "4c849ab39e9c3acd338a7db3",
+      "publishedAt": "2026-11-17T07:44:27Z",
+      "title": "SAFEnet Tantang Meutya Hafid Debat Terbuka soal Takedown Konten",
+      "source": "Koridor.co.id",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9SQmZ0am1UWjFRQV9OOFdkWk91UHF3dUlxYWdOZHFjM3RzMmZ3QzhlMHZzTGNLenZ3d3BLVUVfSmxCeTBTQXR0bTdOUHkwaWJJeUZhRzBoSFV2YXdTREFrOHBmUWR6TVQwZXhr?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "sensor_konten",
+      "subclusterIds": [
+        "sensor_konten"
+      ],
+      "matchedQueries": [
+        "Sensor Konten"
+      ],
+      "collectedAt": "2026-11-17T07:59:32.397451Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "bd00cfd6e083b0afafc1a0e1",
+      "publishedAt": "2026-11-17T07:40:00Z",
+      "title": "Konten Kritik Dihapus, SAFEnet Tantang Debat Terbuka Meutya Hafid",
+      "source": "Bloomberg Technoz",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOSk1saHV6Z28tZTl0Y001NzA4a2ZSd0ZvU2hjTk9yQ2FlYlN0TUdMZ3JRQ0o1TDNOdDlGVVVmbFVPMk1hUWFpdW9rTXR4RW83Z3dUNUtSV2lhWnB5SkN5WDFCQ3RVdThaRGU4cU9lc29yNWNNZE9OeElsbTBfb0xmRlRxSlJfVWpmQTlHUUp2bW9DWEpxWGtVY09jaVhQNmx3VFAwNGhJT2R2SHF5c2w5UVNCRy04TWc?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "sensor_konten",
+      "subclusterIds": [
+        "sensor_konten"
+      ],
+      "matchedQueries": [
+        "Sensor Konten"
+      ],
+      "collectedAt": "2026-11-17T07:59:32.397451Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "33efb5aaf3541abedfd76280",
+      "publishedAt": "2026-11-17T07:20:20Z",
+      "title": "Mahasiswa UBSI Edukasi HAM dan Privasi Digital di SMP Negri 156 Jakarta",
+      "source": "Kompasiana.com",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNSzVheXNXNU94ZHNUUFJKR25pSGUxSFlWdk5wbVpzc2FzV2p1N05kX29ydkVCd0E5M2p0TXpfRmphZ3I3Nnl0VGwxcE9MZURZT3d4YVdGMF9adU5ZOHd6VDhuNUJlanhkNVZLRUJoS1p2dGVhd2ZqWUlqRDVkNVJRNU83MzdoalRVV3poYUpUR1FPUkVJeXpZS3ZnaUMyVWRWaWFYZlUtMlF0c1hBRXVWbUVNMDJEOFZDSGxtRXd5MzB4VHJqZzZiLWZoX0VzQkx2WlFLRVQxQy0?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-11-17T07:59:32.397451Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "d1105d80516de3d12e043f98",
+      "publishedAt": "2026-11-17T07:02:30Z",
+      "title": "Kaspersky Catat 2,73 Juta Ancaman Siber di Indonesia",
+      "source": "Koridor.co.id",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE03Q0kwVS1TR1JnUXVKNEVxblF5VTllRUxjMEVqc0YyMlB0YnpDa0tDbURqNHJsMjVqRG5ZOXFKTWlBWXpVODVqQXREOTlMTUhrNzhkaF96ei1TX1oxOGRBeXAxVURydw?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "doxxing_intimidasi",
+      "subclusterIds": [
+        "doxxing_intimidasi"
+      ],
+      "matchedQueries": [
+        "Doxxing & Intimidasi"
+      ],
+      "collectedAt": "2026-11-17T07:59:32.397451Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "2a079b367c0ded993bf4d9e4",
+      "publishedAt": "2026-11-17T07:01:20Z",
+      "title": "Kaspersky Deteksi 2,7 Juta Ancaman Siber di Indonesia",
+      "source": "ChatNews.id",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE12Zk41Qk9CMVFsLU0yaXpLZmFYM3Y3aXZKRmVJZFMxRWxDTEtROWU5TE1EbzJOakJXR3pCNDk4NThMZlhhUDJiWHY1MWc1SmF6cFF6TDBNdTUybDFOQ2l1c0lDaw?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "doxxing_intimidasi",
+      "subclusterIds": [
+        "doxxing_intimidasi"
+      ],
+      "matchedQueries": [
+        "Doxxing & Intimidasi"
+      ],
+      "collectedAt": "2026-11-17T07:59:32.397451Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "20a155d4d269a9f8c1eb79cd",
+      "publishedAt": "2026-11-17T06:15:00Z",
+      "title": "Data Kaspersky: Hampir 3 Juta Ancaman Online di Indonesia pada Q3 2026",
+      "source": "Olenka",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPRjVOMklmWkJsSXQ1MnliZng0TEJnV0pDQVY2clZlNzFDbVRBcFZrQnIzLTB5YmxlN0o4eG1qVlF0WlE3X2MyYUZNVGpQcEQ5bVJYMXRQdlFDa0psMnh1SkRKRlRsRHZ1TkhEV2ZleE91UU9tNnVsbTRYcndGVC16SjlGU25mNFQtdXdMYXVTVXPSAZYBQVVfeXFMUFpYN3VyQlZNSDFzVE5ld0JjWHRLVE1PZGE4b0Fyc0FlUllXSkZHRmUwUFdZSlRGWTJqSkIxejVxOHJEYTNDVHZBN2U4M1V3dGlNMG1vQ3hFelo1cnNlQkR0MXhEcU9wQVpaRTdYTU1adUdBYUVOYzV5cktHN0NCLVk3MVhNVXBnZGpKWTFCOTBEdEwxTEZn?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "doxxing_intimidasi",
+      "subclusterIds": [
+        "doxxing_intimidasi"
+      ],
+      "matchedQueries": [
+        "Doxxing & Intimidasi"
+      ],
+      "collectedAt": "2026-11-17T07:59:32.397451Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "93963de7c059f2eab113be5b",
+      "publishedAt": "2026-11-17T06:05:36Z",
+      "title": "Polemik Takedown Konten Kritis Warga, Menkomdigi Meutya Hafid Ditantang Debat Terbuka Siang Ini!",
+      "source": "Jawa Pos",
+      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPOXMyOXprZmZCdXdtajd5RFZONTUtTE5vTzZSaTlJUjhSR3NZaEVlMjRidVZaQl91Unl2V1Q1TklfSjBMb0FjaV90Y1ZNb21aYjJZZTZaSll1enJGSFIxcHlPZUVPbHNhbzBxTTItQ3loZ1k4anBvOVJiVnNKMXNlTjJYYXA4ZERXa01HcjVrZ1RzdmNzTi1DSW1MWS13UlNuR3BLSmtfcGpVWGxqamh1SGZ4NS1nbGhod1RjVWZ3SDB6WWxzRGpGenV1Z2lyUlpkUnprdTIwbW9SZU5Id2VtWjJaNTRNMWE1Q1HSAeoBQVVfeXFMTzlzMjl6a2ZmQnV3bWo3eURWTjU1LUxOb082Umk5SVI4UkdzWWhFZTI0YnVWWkJfdVJ5dldUNU5JX0owTG9BY2lfdGNWTW9tWmIyWWU2WkpZdXpyRkhSMXB5T2VFT2xzYW8wcU0yLUN5aGdZOGpwbzlSYlZzSjFzZU4yWGFwOGREV2tNR3I1a2dUc3Zjc04tQ0ltTFktd1JTbkdwS0prX3BqVVhsampodUhmeDUtZ2xoaHdUY1Vmd0gwellsc0RqRnp1dWdpclJaZFJ6a3UyMG1vUmVOSHdlbVoyWjU0TTFhNUNR?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "sensor_konten",
+      "subclusterIds": [
+        "sensor_konten"
+      ],
+      "matchedQueries": [
+        "Sensor Konten"
+      ],
+      "collectedAt": "2026-11-17T07:59:32.397451Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "2da99f4f8c4f11b4d423b951",
+      "publishedAt": "2026-11-17T06:00:00Z",
+      "title": "Meutya Hafid Ditantang Debat Terbuka soal Takedown Konten Kritis oleh Komdigi - Harian Haluan",
+      "source": "Harian Haluan",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQYThOSVZzbUcxZTBXUko2clJydEJwME5VbHZDZGdaYklpRzVBQno4NXFnZHZocjBvZVZ0TVJGREowOHlfNmhXa20ybHpMSUZNQWFrbERyVEtBeEZVQ1o0dTBDYVY3THExQ18zbE8zMk5IZUYwRmtKTUZLOG9HVTRuMjZIWDlONVpjZHQzOUR6QWhQWUQtazZJdFdEZXQ4WkJuT09Bb3pZRF9jSkg1U3lqQWdral9DMUhjS3NDSncxTdIBxAFBVV95cUxNVjRBc1RwZml6YmZHaUNvbmVMSGNIWXE1aHQ1YWlkU3JLTHdBWEdjOUZFWVBZOVh4QVRJVlZnazlTeC1UVmdqLTJHSmJOZXIzT0JtUWdvMXU0S0dDUkxKeXg1cmdlWDQ1dTZLeTdfeHFoeHdZUnlMSXlvNmU2TmhvUjJtU0JzMVNaS1NSVDE3bGJYZG12Z2Q4SmM3SmJLc0tuNkRuWVZSUW9MdVc3ZXpoN3lnUTlmcUd2UDRxcVJqY3B2MXk1?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "sensor_konten",
+      "subclusterIds": [
+        "sensor_konten"
+      ],
+      "matchedQueries": [
+        "Sensor Konten"
+      ],
+      "collectedAt": "2026-11-17T07:59:32.397451Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "aec5a97d0c370d5aff8291a2",
+      "publishedAt": "2026-11-17T05:20:02Z",
+      "title": "Temuan SAFEnet dan Remotivi",
+      "source": "Magdalene.co",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1KbVpyZFViZ1RzeXp1ak1BNGhBT09UajRQcGMtZHV2bGg1VnF5UlJYX2MzcGxkdVRBM21NWTJYdnZsMXJMWktrdGw2VE8wOGtMcGI4eHU2OUtWQjJYTWw5MXFFcXpvX25HakoxQ0psOWpMUGc?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "sensor_konten",
+      "subclusterIds": [
+        "sensor_konten"
+      ],
+      "matchedQueries": [
+        "Sensor Konten"
+      ],
+      "collectedAt": "2026-11-17T07:59:32.397451Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "17aabc81e9a5c2fa4be6934a",
+      "publishedAt": "2026-11-17T04:53:05Z",
+      "title": "SAFEnet dan Remotivi Tantang Meutya Hafid Debat Terbuka soal Takedown Konten Kritik",
+      "source": "Radar Tuban",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOSG9JbDVEdlotRFhNY1ZoZko0T3doX3FRalB3akdkdmVtelpKTGs1cDBFbnJqaURYbzFQUXBqb2IwSTk4WTZrb1B4aUtpNkFMT0lpYjQweUpiekZwNnpkM3l3WnpLc0N5dW45aFJsYm5WVUJtSldkWkhkQWhVU1c3ODZzUHhkR3pqQXE1ZDFod2NBSzZFSUlSZEJPeXFDdUYtUEYxVFM3TmxQUURDcjJOVll4YzFCOG5sa0M1dlNjY0ljeF9kMzF4UG5NR084NTDSAdQBQVVfeXFMTjQyVkxuUjVhUEdFOTZDTDZSTjljMXV3MGRnb2Vhcnp6S0x6M2U2R2cxMVBtYVh4am1QQXpvTUJnaGZidXJtTHFpWTcyR1MxdExDaTd3ckNHbVVacndxRHRrbTl0cFJtdzY3djllUmk4U19rSUNtT2RGdzEycjFzZUZ6Tmc1UFdBU0JJZFA2MUhMT3dvclFFVDRNNEFTTDZTMFp5ZUJSbVo4a0NsRXlJTkRLV3FOQzV5dzkxZTh5SXJiRHpFaTNJdHdnUDBJWGlkd0tvbzk?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "sensor_konten",
+      "subclusterIds": [
+        "sensor_konten"
+      ],
+      "matchedQueries": [
+        "Sensor Konten"
+      ],
+      "collectedAt": "2026-11-17T07:59:32.397451Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "17e691465b750eaaf03fbcc5",
+      "publishedAt": "2026-11-17T04:51:32Z",
+      "title": "Komdigi Kerap Takedown Konten Kritis Warga, Meutya Hafid Ditantang Debat Terbuka",
+      "source": "Jawa Pos",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNSFRITDNubW8wTmZIRGJ1bTlkNnR2ZjhEZVZVdTFqaGNEZ1l4MG1oVEZULWlMaDdaVVNjdVBvVXZGY0JJX0ZwMWM5dy1VMGdoNXRMdUNmcG1yWjJGYjNiUk1feWZmc2UwSVc5Zy1RVmtLU1RmcHozY25TQ05TNXdaUXppNnJsdVA0c2NTWmI3NUxuamdGbDY4eFJWX2U5S0d2MXpzUTI4N1lNX2t3LVNUdllKcGhQZHhNVGxJc2FuaUs?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "sensor_konten",
+      "subclusterIds": [
+        "sensor_konten"
+      ],
+      "matchedQueries": [
+        "Sensor Konten"
+      ],
+      "collectedAt": "2026-11-17T07:59:32.397451Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "c028c89aadee17c7910858b8",
+      "publishedAt": "2026-11-17T02:59:03Z",
+      "title": "LBH Semarang Desak PSSI Cabut Denda Rp 30 Juta Persijap, Soroti Kebebasan Berpendapat Suporter",
+      "source": "Radar Pati",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOajJPYmsxbm1FNGtFNk8wc29lOThnQXJfNW5NaXgxcy1tczBRNEVEUHlpQ3hScW1NMHBYRzdMdm5HWDUwejZmS0ZRV3pVNkpXY0M1aVppNHg2c2NrUzZ1Q1NzdUJfWFhza0toaWwzZ1hpTS1XSkE4SWtobFVuYm1rcjZjRjZUREUyR00tMzRvMTYweEJwQUdKYXhWTTd5Q2tabHNhYml4NjNTX0FUYlhrYUdLb0d5WHFST2VKRUxUV0pET0NsVzZPOU9YTmlUbWJGOHRjQks0T1NyQUxLTmfSAd4BQVVfeXFMTmoyT2JrMW5tRTRrRTZPMHNvZTk4Z0FyXzVuTWl4MXMtbXMwUTRFRFB5aUN4UnFtTTBwWEc3THZuR1g1MHo2ZktGUVd6VTZKV2NDNWlaaTR4NnNja1M2dUNTc3VCX1hYc2tLaGlsM2dYaU0tV0pBOElraGxVbmJta3I2Y0Y2VERFMkdNLTM0bzE2MHhCcEFHSmF4Vk03eUNrWmxzYWJpeDYzU19BVGJYa2FHS29HeVhxUk9lSkVMVFdKRE9DbFc2TzlPWE5pVG1iRjh0Y0JLNE9TckFMS05n?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-11-17T07:59:32.397451Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "a96005a0082940329bac4c93",
+      "publishedAt": "2026-11-17T02:32:28Z",
+      "title": "Komdigi Siap Buka Data Moderasi Konten, Tegaskan Perlindungan Kebebasan Berekspresi",
+      "source": "beritanasionalupdate.com",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNSFh1YkVpOHY4dU10SmFFal9qbnI4RncxUjl3cS04R3FUeEM3bV81NURfdkZjWXZYU2Q3RWZVNklXUzFURjZrMlozendsaDd3UWF2c1RhR0dwajlra1EzYVdHOUR5WEctZll4ZGhLaUhBYTY4U0k3YTd3dHVTRWphRW53WG9KRGNzdkVRV2NRdW02QjhNN29LUDBEYlpyQ1BsemxlWjVQR0ptMWpta2FtZHRST3VFNXVNYlhiVUgtNk95NTVHcE1YYmNtcW83U01nWTBlSQ?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-11-17T07:59:32.397451Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "b57ab102fe61d0be77d9c10a",
+      "publishedAt": "2026-11-17T01:20:00Z",
+      "title": "Video Donald Trump Tak Keberatan Jensen Huang Kembali ke NVIDIA",
+      "source": "detikNews",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNSUdPbWoydUIwZ21wOVJHaE51dW84VHJnbHMwOTNpS2czZ0RiUVZhWFZORjY4TV94S0Eyd1JNWXFFUjdVb0tEeGt5SEVadlh3S0xTNVlhXzVfWHFEaURjcXdwcEFSQkVHUlJCVlZ2akdFdWRUU2I1eEZZZTdiVTFxeUdLeU9RYms2VXNJLURSMXprTkhmUWpZQXBzd0x6TDVrcXo5ajVidw?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "sensor_konten",
+      "subclusterIds": [
+        "sensor_konten"
+      ],
+      "matchedQueries": [
+        "Sensor Konten"
+      ],
+      "collectedAt": "2026-11-17T07:59:32.397451Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
     {
       "id": "71546ab98188cfe2ddecc75d",
       "publishedAt": "2026-11-16T14:35:06Z",
@@ -1465,6 +1787,52 @@
         "Sensor Konten"
       ],
       "collectedAt": "2026-11-16T22:10:53.101889Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "777d8c722a805846589518e8",
+      "publishedAt": "2026-11-13T11:44:00Z",
+      "title": "Video: Sejumlah Hasil Rapat Gabungan MPR Soal Pengganti Gibran",
+      "source": "20detik",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPTDBid0R1RXRKVFRPUDM3UEI1dUdhckZkRW9kQ3A0X0pYTzA3TTVGRWpPX280c1d4T1liUV8yZjFraW1CUDMweE9kZ21UekhmZzAzbWVOUWFqV3JXbzZlZnRzQV9xMF81LVNKTFBDZGFaaGpwTW9PTkFsWmViS1JITzRza3NLMTdsdThBZktDX0pITG9Eb1RtTWFfV2M0SE1TcWhhVVhETi1fb3hxUHdJeTh3?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "sensor_konten",
+      "subclusterIds": [
+        "sensor_konten"
+      ],
+      "matchedQueries": [
+        "Sensor Konten"
+      ],
+      "collectedAt": "2026-11-17T07:59:32.397451Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "ac6e08387a0fe41b3d85c9de",
+      "publishedAt": "2026-11-13T11:43:00Z",
+      "title": "Video: Pergantian Kursi Panas Manajer Manchester United",
+      "source": "20detik",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPMk9WNllIdURhZ3ZzWHBrcW9Salh4cm1kbjJiODc2WGo1RzBJSXVMVS04RXl0c0xxRTJhVlVKOWRXN0ZvSDRzd0VPbHVNSGl2WHBBVUVjejh1UHZLZUx4TGJ3RTJWX0NacEFhU2NrRWlZaS1RR1FhLUpsMVl5QW94NnNlQ3kwLVgwb3BXVmppY1U4VU10MFYxNU5aeWI5SWhhN0hOMm1sQjk?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "sensor_konten",
+      "subclusterIds": [
+        "sensor_konten"
+      ],
+      "matchedQueries": [
+        "Sensor Konten"
+      ],
+      "collectedAt": "2026-11-17T07:59:32.397451Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
