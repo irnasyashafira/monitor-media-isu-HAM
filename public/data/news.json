@@ -1,16 +1,16 @@
 {
   "meta": {
-    "generatedAt": "2026-11-17T07:59:32.397451Z",
-    "lastRunAt": "2026-11-17T07:59:32.397451Z",
+    "generatedAt": "2026-11-17T20:59:09.174484Z",
+    "lastRunAt": "2026-11-17T20:59:09.174484Z",
     "startDate": "2026-01-01",
     "refreshHours": 6,
     "mode": "incremental",
-    "feedsOk": 15,
-    "feedsFailed": 1,
-    "totalStored": 3239,
-    "totalPublished": 3239,
-    "newArticles": 16,
-    "warning": "1 feed gagal; feed lain tetap diproses."
+    "feedsOk": 16,
+    "feedsFailed": 0,
+    "totalStored": 3261,
+    "totalPublished": 3261,
+    "newArticles": 22,
+    "warning": ""
   },
   "clusters": [
     {
@@ -135,6 +135,466 @@
     }
   ],
   "articles": [
+    {
+      "id": "f10390137999b105ed7624e6",
+      "publishedAt": "2026-11-17T16:11:09Z",
+      "title": "Ketika Kebebasan Berpendapat Kehilangan Etika di Ruang Digital Halaman 1",
+      "source": "Kompasiana.com",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQZWthZno0X19LbWJyb1E4ZGw5Y3BEcVFETnZqckFGUU5VdklWMnNmXzEwaFFxeXVyQTNhX0swbVM0YnZkT01IOS1NWC1oSUgwbjRPUDhCcVdyaVhJc3NBUDF6ckNvbmtJNXk5eC1idW41NVM3a2didjBRekV5eDV3WVk1MllyTmZDZW03MHlwckdpTlBlVXowY1JUaC1ZZU1OYzVsaG5yY1NZckdvUC10WjFITVBqLW5BWElJdThiR01QekpTRnc?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-11-17T20:59:09.174484Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "731693ddac93a0fbda978a89",
+      "publishedAt": "2026-11-17T15:27:00Z",
+      "title": "Pihak Ruben Onsu Tanggapi Laporan Dugaan Pencemaran Nama Baik dan Doxxing",
+      "source": "gadget.qoo10.co.id",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPWEp0MlplSnplMmNMc2hnWUMtd2xwR0FITldfSkN0aE9DUWkzekVkN3FHUjg5a0ZpNTNueGoyZkpxNXhrYWY5d0xlTkprRGNqbmF0WTdXRFQ4b1B4MS1QemdoVHYtU2ZIclMwR3FaVXRxT2hOMTVUYXQ5ZW5pU1NGS0lWSVMzSWc5b2VMRVNuTnZ5T0ZpY2dUV2hXZ19ibGtLTVE?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "doxxing_intimidasi",
+      "subclusterIds": [
+        "doxxing_intimidasi"
+      ],
+      "matchedQueries": [
+        "Doxxing & Intimidasi"
+      ],
+      "collectedAt": "2026-11-17T20:59:09.174484Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "b293eb913b578a08e70ad631",
+      "publishedAt": "2026-11-17T15:25:00Z",
+      "title": "Ruben Onsu Dilaporkan atas Dugaan Doxxing, Kuasa Hukum Soroti Aksi Demo",
+      "source": "gadget.qoo10.co.id",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQY0tzaW1sVmI0Z0lJVG1wTnRXRzAwTU11MkFHVDJkM0wyaVBYd3BwTDZiWHNwMVRWRUlQOWQ4ZXhEb0dnWTdab3pUSzh6T2lHRTdzM3Y3OHJyTVJvZWlSaUJKck5wdUp2cS00WVRfUlptTGs1b1JEZENlY2d3Qjl5Q3F5eUczZlRtYnBEZ1EzOEphdjRMY1dtQmJRRmg?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "doxxing_intimidasi",
+      "subclusterIds": [
+        "doxxing_intimidasi"
+      ],
+      "matchedQueries": [
+        "Doxxing & Intimidasi"
+      ],
+      "collectedAt": "2026-11-17T20:59:09.174484Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "c8e884918b1082469e9e7249",
+      "publishedAt": "2026-11-17T14:32:29Z",
+      "title": "Masyarakat Sipil Kritik Takedown Konten Kritis, Desak Komdigi Buka Data Moderasi",
+      "source": "Jawa Pos",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNYzZTUkNYb2l4TmJPMjZKcVd4d3hqWnk4RjIxTl9qd3lCUXFXcENkYTFYdDNHcVpHWXEzTXVHbm00MVNkSEFkOVBIVkFidUhySU1ub2ZqNW12QXk4OV84VDBNY1BQeGk0RjB0Zk5NSGV6dkRxQlJlU1NsTTdaSzJJSm5aRW1sTnFCdkxNUE5lYnlhQmhCTjFhSHBFQUk5eG5aU1dtajRLeVlIcUl4dWQwZG5hZWtQWEJtSWxoU1FMNXNFZw?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "sensor_konten",
+      "subclusterIds": [
+        "sensor_konten"
+      ],
+      "matchedQueries": [
+        "Sensor Konten"
+      ],
+      "collectedAt": "2026-11-17T20:59:09.174484Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "fa2d0970fe32c93d6c902480",
+      "publishedAt": "2026-11-17T14:32:15Z",
+      "title": "Deepfake, Penipuan, dan Kebebasan Berekspresi Halaman 1",
+      "source": "Kompasiana.com",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNZHp4QThERnQ3UTJERzhoM2QzU2QwVHlURTlpWTBOamFZb19WSjVwREthS1ZiRXRJd1N4UmxZYXFRQTU0Yl91bHg2RVVwX3g4eUdCWWFwZlFHWlBKaXNTdV9FM0Z4ZXFiWWdGekhNWnQ3bG1lYVdFS1lHUGhYTjQ2YjRWelNWcDNaOGJWcUVrc1RVZ1ZaZm96ZkNhNlZhSjN1MVhkdkNLLWZ3RVht?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-11-17T20:59:09.174484Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "d6ce1ff16fe1de1a9c3cf9d3",
+      "publishedAt": "2026-11-17T14:11:58Z",
+      "title": "Respons Pihak Ruben Onsu Usai Dilapokan Atas Dugaan Pencemaran Nama Baik dan Doxxing",
+      "source": "Liputan6.com",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNcU1sRUxCN2t2NVotd0sxOUtnTTkyZ2hXeGlxbF9TMXUtcWNNREFQd0hUZzVycmFWVHRHSFNWZlRMX0U1cldLT1UzTWhFWUs1bzQ4UHR1dUxVdFZ3TW41Tk9kWmFLNWlydjluaG9nVTRuRzFUTXN6Q1NVUHI1QTdVTFJOelBOZzRPazZ2TENYaHFHWGY3TmRDYi1ycFh1QjR6dmJWUk5LV0lLX29UUVRfMzhOYlpaMEJRaTg5Skx5RzVfTUprUTA3UEJB0gG-AUFVX3lxTE9sZ0Njby1tN0JXQmgzYWdyVWVQZ0FrRGY2TUtUb0kwanZkR3NINXBGbmFxLTQwVzN4NmNvQTRZT0phSk9QdU95WG1EZnVOS2JMRTRSZU9WV2VpbHB1dXk0dmhFZUU4OG5hclc0YTltY2FuN0p1V3R1VGNwelFieXkwOGVPWGp1V0lvWFE5TzFLSnlzTkZtNUxaenI4amhySVh5ckNBUUVQM29EbW4wS2JtV2ZoSjZhcE9MUEc4SUE?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "doxxing_intimidasi",
+      "subclusterIds": [
+        "doxxing_intimidasi"
+      ],
+      "matchedQueries": [
+        "Doxxing & Intimidasi"
+      ],
+      "collectedAt": "2026-11-17T20:59:09.174484Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "21b6f993cc442c09f1804483",
+      "publishedAt": "2026-11-17T13:12:31Z",
+      "title": "Protes Dugaan Pembungkaman Ruang Digital, SAFEnet Gugat Komdigi ke PTUN",
+      "source": "Hukumonline",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQNlNqcFAxUWo2d0EycF8tYWFGWmhzcUR5VllKZU5HMG9tdkdRTVBDOVdiR0pRdUYtU1gtRFNvdXFNazFaVmdQc3pLWC1Vc2Z4RDlHRzZtUVRDVnF5Smw4ZldBbnBHOWUxMnZnNnJmSVlZakFmM3JxSEdkd2IzWFh1Y2dnT1A0cVRsZzZZQm5uQ1pMMVdDYzB6NmVjTGpfbWZfVEsxdm5NRVlwZWZ3MDRTdC1QZmFtaE4xdHVSZlZlMGVKeDU0RkZYTWN3?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-11-17T20:59:09.174484Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "d057a5585b13dbb90b0aaf46",
+      "publishedAt": "2026-11-17T12:46:00Z",
+      "title": "Meutya Hafid Tak Hadiri Undangan Debat Soal Takedown Konten",
+      "source": "Tempo.co",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQaXA5M09hUmZpNzdNY3ZNZ2tUeTRxSWVQWDk4U3BJa29mVDdjRGJGNkRhTGt5MWlIeWxtRFRsOTBNV1J4Qk1iMW1PTXF0RGx2SmZKQ1JjTVFkdUtQdFVwMlBLRmhZenBSeUFqdEdXRVJBeFozZGdiZ1lmdENlUTQ3RHVZOExhUUFDYW1CNkhVLWZFaGxIc0VDdTU3SXA?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "sensor_konten",
+      "subclusterIds": [
+        "sensor_konten"
+      ],
+      "matchedQueries": [
+        "Sensor Konten"
+      ],
+      "collectedAt": "2026-11-17T20:59:09.174484Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "8c175b86b38d1c374b584967",
+      "publishedAt": "2026-11-17T12:26:12Z",
+      "title": "Bertemu 13 Pimpinan Perguruan Tinggi di DIY, Sri Sultan Tegaskan Kebebasan Berpendapat Harus Dijaga - Pojok Malioboro",
+      "source": "Pojok Malioboro",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOa3NaMTRBSEMxeWp1TjdzbjRkcWtqQkhKWGtlcnN3TE92WkVzblJIWUYwQ1BTNnBXT3FYamtzWHgxeEhJUmFEUTJMdnlyY3lzeTd0MHR5eW5PZ2pSTFdteEMxTHlwSFU3YVBaazBGRENVR0J4VFJkWXU2Qm96cGNvZEVaVHlfdlMwNEJINDJOb3NSa25UT09Oc1I5c2NaNTB0dGRYQnpBSkpaay1LbDRhQjNhM3VMTXFtQzRhQVJSZTc3OU1sbmo2LXNlSEFQcWUxRmRtbHptVWxBX3g1ZWpBcWxB0gHnAUFVX3lxTE9nSDlDdF9PZE5MTEstd0Q3SUI4cndmdGFRMWI1ajhOdUVYY2g2Z1hKT25XeFE1a0hwZG1yendfMU5OcUlQaDJOMW9tWDVnTDRQZ3VrTFl5eUFSTHN1NFRfVzNDSFo0cnhVOWl4SjA1MjdUTE04b3JhXzZsUXZiZGN2UmkzbGhnY00tdWh5QVo1dWZOMmhucmotcHBTbEZYS0RLeEk4V1IyY0xKS28xYUVqSVlfTWEyVXpKV2s0OFpRNF81cFBZSTZDYmZFOVVjNjZ4WVZhZzJ4VEF3eWRvRkVWVWxyV1dGaw?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-11-17T20:59:09.174484Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "01d9a7e6e54ff2988792b199",
+      "publishedAt": "2026-11-17T12:14:00Z",
+      "title": "SAFEnet Desak Komdigi Gelar Debat Terbuka soal Takedown Konten Kritik Warga",
+      "source": "gadget.qoo10.co.id",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPT3RVY1h4YlU2TFJ0SEZITFh3X29kRzRCelhoWmZHS012QTVfOXYtYmozT0RSMzFRVTVkem9CQjdncFJIYUFvMWNGVy1FN0pQeFVZLTNZd1J2Nmhpdi1LejhLdU5Yck45U01Zb0NYOHp0MWdrdGdXZjlCNGpEMmJobDIyTURCMTBYNnFmNi1lNVV1b05ULWc?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "sensor_konten",
+      "subclusterIds": [
+        "sensor_konten"
+      ],
+      "matchedQueries": [
+        "Sensor Konten"
+      ],
+      "collectedAt": "2026-11-17T20:59:09.174484Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "e57e80979411d7b5b8ab4da6",
+      "publishedAt": "2026-11-17T11:39:54Z",
+      "title": "SAFEnet Tantang Komdigi Gelar Debat Terbuka soal Takedown Konten",
+      "source": "شبكة تواصل الإخبارية",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9zaF85Z2pQNEYyOTZ5ZWRkc3ZmQkpReC1tYTBLMFRLRjN0SXdTRnZ2bURLa1FvSnFjbGd2STZORmNMbHhUWWpCcmltMGk3b2pZY3Bj?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "sensor_konten",
+      "subclusterIds": [
+        "sensor_konten"
+      ],
+      "matchedQueries": [
+        "Sensor Konten"
+      ],
+      "collectedAt": "2026-11-17T20:59:09.174484Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "7e0a6c05b042e96ca0e395b0",
+      "publishedAt": "2026-11-17T11:36:31Z",
+      "title": "SAFEnet Desak Komdigi Gelar Debat Terbuka soal Takedown Konten",
+      "source": "Demokratis.co.id",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFA3ZTYzRktzWWRPRklhcFpONVBMajNNa2tfaUkyM3hTZ2FsLTluclVjY3M4c2d6bENFOHI5OF93UTBHZjdkdHQxUXllTENfQ25nRnNXbE5PXzByUVpKODdDSld3?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "sensor_konten",
+      "subclusterIds": [
+        "sensor_konten"
+      ],
+      "matchedQueries": [
+        "Sensor Konten"
+      ],
+      "collectedAt": "2026-11-17T20:59:09.174484Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "3d1d8e8bf76f28b37b3df586",
+      "publishedAt": "2026-11-17T11:34:47Z",
+      "title": "SAFEnet Tantang Komdigi Gelar Debat Terbuka soal Takedown Konten",
+      "source": "SuaraGarut.ID",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQTTNXaEVrTzFlYmczM0hWc3ZuRjc2VUpQYW1QVThMaHREZ2NuSGZnNk9BQ0QwZVJKVnV5NXY1TlZqWnZ1YmpTSnJZV0xsQk0zTW02aE1TeDd0RkozMU5KeXZNSU01Tl9JX0ZLZ2tVS1JkZXVDelktXzdBb2xIaDRWczd1UGs2Q0ptTGpMQWNYdw?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "sensor_konten",
+      "subclusterIds": [
+        "sensor_konten"
+      ],
+      "matchedQueries": [
+        "Sensor Konten"
+      ],
+      "collectedAt": "2026-11-17T20:59:09.174484Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "fd9192819c290ed48897da5f",
+      "publishedAt": "2026-11-17T11:02:14Z",
+      "title": "Polisi Larang Debat Terbuka Kabinet Bayangan vs Komdigi soal Takedown Konten",
+      "source": "Tribun Video",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQaWtUbmxpdEM2Y2lkTHZObG1SQlMtcFp1WlU5Q3gzTkJpdUFzbUtXdHV3X3RwSFlFZm1LWHlvTGxaajZfT0Q1RUFRSzVMcWdqU19ROGFxZVJhWEJlN2stS00tZ1laR2JhU1lpVVAxYTVKQnFhWGRSc3BIZ0ZZd3dybzF5ejlzVk9sOGkzaFQ5VE1yY2dRcFNxSHJwNWJuV3dDeFFmcVdiV3podlJfWlAyaUtGUUNFNk9S?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "sensor_konten",
+      "subclusterIds": [
+        "sensor_konten"
+      ],
+      "matchedQueries": [
+        "Sensor Konten"
+      ],
+      "collectedAt": "2026-11-17T20:59:09.174484Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "0bab0deccf4e99eb1aca2837",
+      "publishedAt": "2026-11-17T10:18:39Z",
+      "title": "SAFEnet Tantang Komdigi Gelar Debat Terbuka soal Takedown Konten",
+      "source": "bsinews.id",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1rNGg1VjJTQll5UV9YaXo1bFpISy1hRkplVUZKYk9vRUsyUmhCUGNDUG9rQ212NEN2TzhPS191T1JYZE5nOENZaHYzV1VKMGlsdTNYWnBHN2dqbWltUnJsb2ZtNWdFTTA?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "sensor_konten",
+      "subclusterIds": [
+        "sensor_konten"
+      ],
+      "matchedQueries": [
+        "Sensor Konten"
+      ],
+      "collectedAt": "2026-11-17T20:59:09.174484Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "7e7cb039999c89f7eb3e4f68",
+      "publishedAt": "2026-11-17T10:12:35Z",
+      "title": "SAFEnet-Remotivi Datangi Komdigi Ajak Debat Soal Takedown Konten",
+      "source": "detikInet",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOXzBNTk9BdEpPbkd5aVZWNGR4cF9RSkY0clJnUUdEM3ZSUV9MbzVTdFVHeWwzUl9FeEFUZEdZTnlhVUNMV2I2YWVWNTZlcU9zNW1peWtOQ0hlTGZIYUxqNl9LU01XZUtpNDdDamhpbDR5em1VVE9YcnBlUDBMZW01UUFGYktrc1Y1NUFqNGxMRXZjNlo4UnE3aEc4UHBOcWhRcE11emZHSkZwbnZFbjRNX0VB0gG3AUFVX3lxTE93Tnp4bDZTWVZJMlJQcDBITEp0UV9hVWJHQlJ2RFhQVzJCZEFXNjBSQnRkSHpmQW1WVmd0Nm1lejJ6VTIxY2djNzk1cW03QUd4MFFKNlIyeXRNSXRVb2c3TTBoUVN2UWRtNnFKQ2E2RjFlaGJtdFlDS1ctRl9rZGVsQUJoUDJJOUREeU9HVGMzM1hXbzhocE9LWEZmR1Z4aEdfc1FVUG1IOF90Mi1mWHhrMnptT0lrOA?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "sensor_konten",
+      "subclusterIds": [
+        "sensor_konten"
+      ],
+      "matchedQueries": [
+        "Sensor Konten"
+      ],
+      "collectedAt": "2026-11-17T20:59:09.174484Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "0cd44b4e18ab4c0cce4b5345",
+      "publishedAt": "2026-11-17T09:59:19Z",
+      "title": "Protes Dugaan Pembungkaman Ruang Digital, Koalisi Sipil Geruduk Kantor Komdigi",
+      "source": "Suara.com",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOb0pyQjUyYmE5STNhTnh5ZzUtMnlsY2NoMWZaNmFWS1lkZXl4NEdZWE5hVldoS0hNTGstNTV5Sld6ekJjZl9iQWVid2twMVpCRkRtLUEzSkltaUhTM045T05aTkJxOHNrZmtzcnZtNjlzSkJWWXpMQTR4dU51Z2oyaEoyNE5RazFoaDYtMy1qMTR3TzMySF9FZEVfQ2tZY0NpR0RtV1pPcV81b0MwbmxSaHBESXNyU0RfV05MWFdGVdIBvwFBVV95cUxOb0pyQjUyYmE5STNhTnh5ZzUtMnlsY2NoMWZaNmFWS1lkZXl4NEdZWE5hVldoS0hNTGstNTV5Sld6ekJjZl9iQWVid2twMVpCRkRtLUEzSkltaUhTM045T05aTkJxOHNrZmtzcnZtNjlzSkJWWXpMQTR4dU51Z2oyaEoyNE5RazFoaDYtMy1qMTR3TzMySF9FZEVfQ2tZY0NpR0RtV1pPcV81b0MwbmxSaHBESXNyU0RfV05MWFdGVQ?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-11-17T20:59:09.174484Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "f09e180687178996c5cdc523",
+      "publishedAt": "2026-11-17T09:43:00Z",
+      "title": "SAFEnet Tetap Tantang Menkomdigi Debat Terbuka soal 'Takedown' Konten",
+      "source": "InvestorTrust",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPTm9BSmRMaUt5YnBORzc2NkRJMHhzSmF6eGx2YnVjT09RREVnaFVzZVoyNkVwQzJud2g0X21STU5YdkpCSjBtZnZPS29LcE5BMjBNQ1E0d0twWlMzTV8wbVh6Z3ZTNGFiS1kxVUZwTjdVc1AzZGVZdHowUmJjMW5GaFEySEhXRUJzSHRCUTd4QUpVMFNfdmVILXZFYVlLaks2ZmRVX0RDUUpxUDcw?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "sensor_konten",
+      "subclusterIds": [
+        "sensor_konten"
+      ],
+      "matchedQueries": [
+        "Sensor Konten"
+      ],
+      "collectedAt": "2026-11-17T20:59:09.174484Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "cf14b0fe6bdeada511d9be87",
+      "publishedAt": "2026-11-17T09:41:00Z",
+      "title": "Indonesia Diserbu 2,7 Juta Serangan Siber",
+      "source": "law-justice.co",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNLUQtMEx4MkNsamgwYXhWVW5kMXBxMUFFcEJuY3gzR0tnZmgwTmVFVThzc2ZFaXNRLUJKcUlhOUR0am5PSGNmNThqbFpSd1VwVVBrWlNJY2s0UzNuZUdjUy03VHNROUxfNHVnaXB2bWdld3JDZTBNU0dYZDBfeUpNd2EzUE5ldG50bVNr?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "doxxing_intimidasi",
+      "subclusterIds": [
+        "doxxing_intimidasi"
+      ],
+      "matchedQueries": [
+        "Doxxing & Intimidasi"
+      ],
+      "collectedAt": "2026-11-17T20:59:09.174484Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "a692c6621f9d1cf029ce863a",
+      "publishedAt": "2026-11-17T08:45:55Z",
+      "title": "Polisi Larang Debat Terbuka Menteri Kabinet Bayangan dan Menkomdigi, Alasannya Dekat Istana",
+      "source": "Tribunnews.com",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQYnZTNjdTekdmS09ENm04QnJOYmpQRmNxTk91bC10TmQzb3dKNVZNakVCVl9nWlFWbHdZX1RRLVRuc1pTU3VXQUZoMVUtWWt5UE5zYXlUdWxsSlZ3VDNrcjJleWtldWxDWS1uUVBMaG5BUXE5Vi1jOGo4cmVOYWVhRktHOVpvaVRZTzMxS2FLVFJMX0V4U3JnRWxDc3l0UjZqck1wZnZGaFdQd29MUjNRUFV2TmVrR3MweWJTTS1tVmdzS2VFcTAycVZIR0NWWnc?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-11-17T20:59:09.174484Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
     {
       "id": "4c849ab39e9c3acd338a7db3",
       "publishedAt": "2026-11-17T07:44:27Z",
@@ -320,6 +780,29 @@
       "reviewNote": ""
     },
     {
+      "id": "7f0b2d819e5156cca00f80c9",
+      "publishedAt": "2026-11-17T05:26:16Z",
+      "title": "Komdigi Disorot soal Takedown Konten Kritis, Meutya Hafid Ditantang Debat Terbuka",
+      "source": "Radar Palu",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNeUFBR2dxcDBoSElPTmtRejY1VHRHeTdZMGplSDNHdVloandvSzNIZVd0Tk1GMHJTal9SdHhlRGtzU09fa1NfaVY5Y2pVOEFRRHBJQ1JfX2s1VVFZMXk3bm96TEhfTTRmVWJIN0tHQW5pZGJEcWZtSU1FRkZwb2xWTTdBQlRZbHBvUVl2dXNDQTBsWWVQVVFuNDNoekI4Ql92UGk4UnRFekxlazR5YnVVWkJPOTlYRW5DQ1htamhCOWQ5aFBZdlJMOTVn0gHPAUFVX3lxTE5OTmtkcDgyZ3phcVBjZHg4NGF0cjEwN1JEUmhmak5wNklzSnA3VHo2SFluZEFWMnRaYXJoRG9SdEVDMElsRlV6aGdOVC1CMlB5aXNTMkxUWnotT2tWRnUtS05XYVc4ME9SNzlvWDRYTm1ENllobnV4cGc3QzFRQ1F0LTBOWmgxNEhKcFFwOXhxRnRuYjM2MjhfT19aOTZhODhjcjhJOE45TkxNUVZ1NlE1N2tQYWNFMzZIZ1psOUZMcGE5dWk5NW4zTnZhQ0FwTQ?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "sensor_konten",
+      "subclusterIds": [
+        "sensor_konten"
+      ],
+      "matchedQueries": [
+        "Sensor Konten"
+      ],
+      "collectedAt": "2026-11-17T20:59:09.174484Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
       "id": "aec5a97d0c370d5aff8291a2",
       "publishedAt": "2026-11-17T05:20:02Z",
       "title": "Temuan SAFEnet dan Remotivi",
@@ -453,6 +936,29 @@
         "Sensor Konten"
       ],
       "collectedAt": "2026-11-17T07:59:32.397451Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "9065f8fc7aff1b2795d9ea8b",
+      "publishedAt": "2026-11-16T22:45:00Z",
+      "title": "Debat Terbuka Menkomdigi dan Kabinet Bayangan Batal Digelar, Polemik Takedown Konten Kritis Belum Terjawab",
+      "source": "Majalah ICT",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOUFFKS3ZFcTlQMFZHbTh1OEM5U0Y0RkFkNzRVX0w5WXRFYUV6aldNTU1fN0JyclI2bUk5WlVUN09mMVFod2VCNzJMSkh2Vm9mX1A2cGF5RVJRbTgwc1pqdmwyNmJGZ1R1M25EYlFIdWhMNFJLSU9hMTBVc1ZZZHgzMUFVZDE5NkxHZVl0NUdmS0JGd3FoeDI1aXFzd0ctcVZTcTloN05ZU0RaTXUtd1hXQVA5aldZSFFDeDVyd3JpMEVDc0FrYkJKRWhMRUM2QQ?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "sensor_konten",
+      "subclusterIds": [
+        "sensor_konten"
+      ],
+      "matchedQueries": [
+        "Sensor Konten"
+      ],
+      "collectedAt": "2026-11-17T20:59:09.174484Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
