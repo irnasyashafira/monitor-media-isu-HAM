@@ -1,15 +1,15 @@
 {
   "meta": {
-    "generatedAt": "2026-11-18T20:36:56.887933Z",
-    "lastRunAt": "2026-11-18T20:36:56.887933Z",
+    "generatedAt": "2026-11-19T07:31:33.636155Z",
+    "lastRunAt": "2026-11-19T07:31:33.636155Z",
     "startDate": "2026-01-01",
     "refreshHours": 6,
     "mode": "incremental",
     "feedsOk": 16,
     "feedsFailed": 0,
-    "totalStored": 3305,
-    "totalPublished": 3305,
-    "newArticles": 23,
+    "totalStored": 3317,
+    "totalPublished": 3317,
+    "newArticles": 12,
     "warning": ""
   },
   "clusters": [
@@ -136,6 +136,236 @@
   ],
   "articles": [
     {
+      "id": "18b633adcb0a44f3a92cabcb",
+      "publishedAt": "2026-11-19T07:18:00Z",
+      "title": "GMNI FIB UNEJ Kritik RUU Penyiaran, Soroti Ancaman Pembungkaman Pers",
+      "source": "Siaga Indonesia",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNRzRUOFgyWHJrNko2R2hndWk1Q2JzMllmOU5iYy1vbjBWNXo1UkhVaEt2SmZSdGtZYklVNDhvOEVEYjE0cEk2eGhaU3ppZ25DSXlYM3gzVHJVbE41UEhPbXpaME1VTzYyMlI2amRnSmJZRURsSkQ4cHVkaUt0Nm55X1FMczNHb05IaThqT29IRjdsQktWYk1GMQ?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-11-19T07:31:33.636155Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "dc1ef4043404ee72aa12f577",
+      "publishedAt": "2026-11-19T04:44:57Z",
+      "title": "Fiersa Besari Sentil Pemerintah Soal Ancaman terhadap Aktivis",
+      "source": "BeritaSatu.com",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQUnlRazVaczFmYWNOaDBMbTV1djNZRm9hX3BYMUhtb3ByeHA4alV6Z25nX3hLODJ1c2ZZdzFfSW1FcDdVTmxKSGFtYS1IUG9MSXBxUTdYTHphYW5EcEFkQ0VTOUQxa3NOdGlFU2pwODRrN0tINDE2T0h6NkRKVkpGYzRLUWtCZThKTkktVmlJMWhpM3NXODR3U0lmYnVNX1ZIOWVUUTJsLTBNQQ?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-11-19T07:31:33.636155Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "ff2f2dd14b05d2262097cd00",
+      "publishedAt": "2026-11-19T04:29:18Z",
+      "title": "UU Perampasan Aset Disahkan DPR, YLBHI Peringatkan Potensi Kriminalisasi Aktivis",
+      "source": "Suara.com",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOQnJlM2J6bV9WS3pfQTJvWDBhR3AyWmNIdFRSVzVmMEFRR2lZVWhrUlYzX1V4NFN4TDRTcGRscFRVeHdnVEZfWEVoU3JvekRCYWdoRVZCVi13Z0RkM1hKQ3RldEszWG8tUXdidG1jNndZWGN5OW1FSVNIck9KakVIVW1BLW1NS2VrR3NFaWgtY0RwYjZHRkVzLXI0YTJUaW9UYndDTXFONDhOMVY3OEtNQVFSMW9mdjRVbE1vNzJOWU1lQk03OFU1WFNkbVJ5UdIBwgFBVV95cUxQeS1BSWxNd3BSUWJHQzZ2WTJiMzAtSnNlUk1BczZDQ1lRYmNXMDhfZGJPVHRQdjNqdGlBUnNKM1JSR3B2emhXLXdhc09sck45ZzdEdDBTZUhNamRlcG5SUkJicVNJWF9xMUJZa2JjaG84azhaNzZuWm52ekdVcGZkUW9tenJPN1N6UjJoUXZtOF9UTl9Kb1NqNkJ3aGRCTWx2WlNWNHNRZmpZdVlQR0JUSzhfMGFja0Z4X3Vwb0E0YlZsdw?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-11-19T07:31:33.636155Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "38dd72d88f0bf0a2bce17de0",
+      "publishedAt": "2026-11-19T04:14:39Z",
+      "title": "Iman Sukri Minta Komdigi Transparan Soal Takedown Konten",
+      "source": "katakini.com",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPN0tpU2lScjljR0h4a29mdWVfVHUzRHpjYnZDNWNvSUdzcnJqR3lwc2xDNnE4YXdhVTNCWGpRaG5yeE53MmllTFBDOENmZkZodjJ2UGdXbFdXdEw5LWlHWnR6T1hRMEVyUm83a3UzYUhXd3B4N0ZvRFNIRGNqOE1KeTNhN0tWa1I2VjZURHRpMElvdUVxdW92Wi1Kaw?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "sensor_konten",
+      "subclusterIds": [
+        "sensor_konten"
+      ],
+      "matchedQueries": [
+        "Sensor Konten"
+      ],
+      "collectedAt": "2026-11-19T07:31:33.636155Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "4e495c3515063aae788ffbe4",
+      "publishedAt": "2026-11-19T03:34:11Z",
+      "title": "Dua Laporan Penistaan Agama Seret Akun TikTok Rahman Laia, Polda Riau Didesak Tangkap Pelaku",
+      "source": "Lintas10.com",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNV1JDUFZ0QzJlejRjVUF2RVkxWkpNal9GT1Uxb1oxT3FLcDNuZU1ONzJjSDdPZXJLVUF4WXNuVDROY3hiQTJCSG5hc0JIOThxTV93bWhNcDJDd2ViSm9tT0Z1TFV5Sm1XeE1qRjItZjFNM2VMT2xZemJySEVQdDIzNWYwNm5IaTF3SjA3WWRJOHF4QW5NcWF2Vi01MlR5Y3Q0YkRDcncwZHg2T0xzZEtkeXFvOHNxZFVmLXZqMnRn?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_beragama",
+      "subclusterIds": [
+        "kebebasan_beragama"
+      ],
+      "matchedQueries": [
+        "Kebebasan Beragama / Berkeyakinan (KBB)"
+      ],
+      "collectedAt": "2026-11-19T07:31:33.636155Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "682bb56ceebc23367f2f2ae8",
+      "publishedAt": "2026-11-19T02:32:00Z",
+      "title": "Dino Patti Djalal Sebut Intimidasi Buzzer Ancam Demokrasi dan Kebebasan Berpendapat",
+      "source": "NTVNews.id",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPLTVfX29Ca28xZG9zRWVkV3BSaW80aWk0SEhuX1ZwRTNJdUVOQjJQMVV2ZVN1cDZFZVJLdndSTnpBYTg1NjJQelB0cGUtaF94Sjg0ME53SHB1cFB4Yll3Q3lraEJnOXlSdkc4anhGaFE4bmFfWFVKY19vNERzUEJnN19oRklSd0tQVTRhWTNnRlFmWUpoRmNnSGRmbUVNa2tYbEpKU0RwOUZYTEJ3c0hMTFVPSFBOX0Qzc0luZg?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-11-19T07:31:33.636155Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "b3ac138ccaa199de7056796a",
+      "publishedAt": "2026-11-19T02:15:06Z",
+      "title": "Google Tutup 19.389 Kanal YouTube Pro-Pemerintah, Dugaan Ladang Pencitraan dan Pembungkaman Kritik",
+      "source": "Aktual.com",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPSHFBVVhvcXVQS0lxd1pMNXY1am8zeDBxMzY3VGdiekVBZk9YM2FZOTU4MlZhb3V2Nkg3RmlmX00tWl83dWdfMkRPM2FhdzIzbUtZRHVWQW0tVlBZX0Y5Y0xTWDVSREl0cDZNV2Z4b3lEYlhvTFktR3QxeFlCYTQ2QkVCREc2ZHpsbWUxaDJPSGh5MGVkT3YzQmRvN3A3SzZ5ekhQLU5qSE4yQmdEUkFWVWlPb3hWdG9q?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-11-19T07:31:33.636155Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "8c95cf442390932d4d9d683b",
+      "publishedAt": "2026-11-18T23:00:07Z",
+      "title": "Dino Patti Djalal Soroti Ancaman Buzzer Berbayar terhadap Kebebasan Berpendapat - Indonesians.id",
+      "source": "Indonesians.id",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQdlFMbVkxVld4T3hhY2R0bUIwVFdjSnlnSUo3TzljbXlfN2tBdHpNZmlTYTVxRTNPZFJidmRzRXBoeGllRlZaV2dQMmxzZUVLZVlQRXVNVGljWHExWVRxNkZEOF94Qmtfc1I3LUd3VlpwbU1HX0FQdk1GVTRSR0RQMjlrclJqRXRDbDZlTzVGWUR6RVp2ZldWWHFaRHBmWjRMMWZfTEVncThkUUpEakd3YTlMMUJBckZaWnhJUHpvc3FUV1HSAcgBQVVfeXFMT1hBZWxtTHQtbWdxbDBTdllLUDBmVl8td3FLQm9sTDBSMVFQSFlmbUpkRlBzSlZOSFVud0pGdFlxNGhXRGNUQ2VxZE53RC10aURBOEdLR0JISko0TFRhVjFDdTNzU2QzQmtlN2dvVmgtdjNtTjkxTGozNjJrSGVsdWVkU3Q0TkRvcC16dTlhZGtwQVUzelYtSHBISEtxZGVxRDhUX3dWYW51WFlPd0twdnhrcDFQUlI3Sm5DS0hMRDBmTFo5SEhuNDM?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-11-19T07:31:33.636155Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "97c1dd1449b92e683458e6c3",
+      "publishedAt": "2026-11-18T22:52:06Z",
+      "title": "Bahas Ancaman Kebebasan Berpendapat, Dino Patti Djalal: Parahnya Menyerang Orang Kritis - Kilat",
+      "source": "Kilat",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNWjZHQjJZMDJIcjVRdnJraktjcjNrSzlQMnZfQmRjYnFFTzlWRHZqRGRPRWVta0hma1M2cTRZMHFhUVBkYzNINVVkZ1dZaDZhd1FibW9oTko1RkJ5Yk9uRnpXb3RJNEFydmhJS1RTclRLV201Mm12N2pvaWtVN3pPTkh5MFRnbHlTQzFKMUxQWXUtOWxhVERQNkE3b0pJZloydDRQUTU3Ri1xVkw0MkZYYlhMNUdta1k2aUtxVVFKdFhrZFVBS0JB0gHMAUFVX3lxTE1Kd1F6Q28xYmQtTG4ySU9sMjFBMU9yWFhQT2I2ZVdPTmdlZWdFdU5lTk41TnhCa3lZSjhSV1FGRW9aamgwTzlrUnJKV1dCQWZDdzRYNHczZWpQZGQydElqdS1ZV3pzdEE4V3VaYnFWVndPNDdZdnNidjBncFpVc0YwUWdOSmJlWWFVdXRKUDNZM05LODJEVDhvbHVMZGZOLVl5RFZQdTgxSWotcDZuVlA0NF9yejZ6Z3NpWFBBZll0ZnNJMjBtOHhfVS03TA?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-11-19T07:31:33.636155Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "cbcf292efdc6b6b0ce255be9",
+      "publishedAt": "2026-11-18T21:39:34Z",
+      "title": "Dasco Bantah Terlibat Judi Daring dan Doksing, Siap Konsultasi dengan Pengacara",
+      "source": "Mudanews.com",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZVZpZkIyd0hzLWNGb2FFb24zRi1XNDB6TnhLV3p5clN6YUJYeW1vcGJmelZOOEhTMkRkcW9GOExjV29WVkliaUVDcVNWQkJLOXE3REFPN0Rxa1dTTm9oSkI0blBjYnc5UHBRSkZrakZFSklNbm1xVGpGR1otTlB3MXVqMko0aW53ZEU0bnRzY1BNdlNzMjBxTnJzWDhlNnNwQ01rT3RHSEhJN3gyY0FDTDUwOC1TOC1y?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "doxxing_intimidasi",
+      "subclusterIds": [
+        "doxxing_intimidasi"
+      ],
+      "matchedQueries": [
+        "Doxxing & Intimidasi"
+      ],
+      "collectedAt": "2026-11-19T07:31:33.636155Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
       "id": "b65205f1edea89032e25b565",
       "publishedAt": "2026-11-18T19:02:00Z",
       "title": "Bela Dasco, Organisasi Angkatan Muda Sriwijaya Siap Tempuh Hukum Terkait Tudingan Judol-Doksing",
@@ -246,6 +476,29 @@
         "Kebebasan Berekspresi & Berpendapat"
       ],
       "collectedAt": "2026-11-18T20:36:56.887933Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "1e18ec41cd506a234ef2faa2",
+      "publishedAt": "2026-11-18T10:00:00Z",
+      "title": "Di Usia 48 Tahun, Jung Ka-eun Tetap Mempesona Rayakan Kebebasan Berekspresi dan Babak Baru sebagai Ibu Tunggal - Berita Senator",
+      "source": "Berita Senator",
+      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPT1hsSFlyRUE3R2JieTkzNGMzVzdTMmFWSlhxeGVWdVR2TWYxdzctVWtidVdONWcwZVZ4eGJuODkwOGNZd2J1WHNYbE9NMVdVZUtaSEZvUzJBOWZuS0tfMmY2RFlMNmN0ZWJIcU5JOEludnRZUWJha2xndTRQMXdlRExiTVEzTTd1anZneDBNRE95Q3VIM240UGx4a20yMG95UXprZzJiVktIU3NjQ0R0S3FKdGM1UkR1bThYOF9yalY4U1RTNnRqTkptZGhNYXFCUzF2QjBOT2d0ZEJyR3RXbWxQaXNCbWtwVWZGNUJ4QWlhcEhNTG5GYXNB0gH_AUFVX3lxTE0tUm5TNDVoS1kta2JtX0htWTRQUzNQY2VMckt0WHJIcG1mWFJfVl9qcmZuVnItdEZBb3hGQzZUVWRGVHVIbnJmcjBYQkhPU3UxaUxTdUdxUS01Tl81UnRVV2Ntc1B3a1RYQjU1ZldqU252QUFYajdadXlOaHVoRmtVU0JwU2c0MVVLMnFMX05vbWNhNld3WThWVURKLVcyc2RMNzZaZ19aaXcxY3VMTTNycWN3MjE2WnV1bDJSejRNQnU1ZGptQkhlNUJhOEFDVGRVTm84QnFCczVObmZXSHdRREtUbGhfa1lwb2R5bEExQzNvMG54X2dGamNIWnA4QQ?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-11-19T07:31:33.636155Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
@@ -1237,6 +1490,29 @@
         "Doxxing & Intimidasi"
       ],
       "collectedAt": "2026-11-17T20:59:09.174484Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "340481d6f4cb0b230305e79b",
+      "publishedAt": "2026-11-17T13:28:00Z",
+      "title": "SAFEnet-Remotivi Tantang Debat Komdigi Soal Takedown Konten, Foto 7 #2044775",
+      "source": "Tribunnews.com",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNdnoxUFVTanJ5ZWo5a0Y3WmtLMUY3ckpWdk52aFFXckVYYi02U3ZXWWV5cjQ5MGswbVFCdHEwR0lXcWJVZ2YwOUNnZTVLQ2tOOFV0cTFGandyNHAyaXNoeUJwQ1FlN3h6dXNrclRpNE01ZFk2MDZZd0dTd2o2aEZCQ09ZLXlCZmdGUHFhUURiNzJsc0ZWZjZjb0NiX1ZiNDd2T3BlTkgycWw0am9LX3dWcTBmWHJCblE?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "sensor_konten",
+      "subclusterIds": [
+        "sensor_konten"
+      ],
+      "matchedQueries": [
+        "Sensor Konten"
+      ],
+      "collectedAt": "2026-11-19T07:31:33.636155Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
