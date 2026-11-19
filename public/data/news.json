@@ -1,15 +1,15 @@
 {
   "meta": {
-    "generatedAt": "2026-11-19T07:31:33.636155Z",
-    "lastRunAt": "2026-11-19T07:31:33.636155Z",
+    "generatedAt": "2026-11-19T20:42:18.158400Z",
+    "lastRunAt": "2026-11-19T20:42:18.158400Z",
     "startDate": "2026-01-01",
     "refreshHours": 6,
     "mode": "incremental",
     "feedsOk": 16,
     "feedsFailed": 0,
-    "totalStored": 3317,
-    "totalPublished": 3317,
-    "newArticles": 12,
+    "totalStored": 3328,
+    "totalPublished": 3328,
+    "newArticles": 11,
     "warning": ""
   },
   "clusters": [
@@ -136,6 +136,190 @@
   ],
   "articles": [
     {
+      "id": "7327f0579e07c5f64a20ab33",
+      "publishedAt": "2026-11-19T15:33:58Z",
+      "title": "LBH BM PAN: Jangan Jadikan Kebebasan Berpendapat sebagai Alat untuk Fitnah!",
+      "source": "VIVA.co.id",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNR0ZFUWF6aXJMcVB1QXhfeVJ5eEY2bFBud3U5UUU0R1FaTklaMk9fNXNfNm91aDBxOEs4TDI3cXpWTkhib0dyVFFkUTRvVVpZeDNxVWFlcURqZUEyNDNmSEtHQ2lEZkVQN25ocGVka1JidWNJRE9CcHpDZDVmcUY1eU9NSC1nMllQYVhSVkxSZUxMWEplVHo0VXpuQklwYUprQUxQZzU4YU1WMEEwMXpVaWRuUlVKcnllYnEwQtIBwgFBVV95cUxQNEk2LUtVcGxIZUplNU43S2tsQzZkTC1yY0RmT2RVbHI5X0ZPbENaY1ozdUpCVm9HcW5UN2VheDBDaTRfanEySzhtdFRZYW9KUFZJYWt5NllNTlN2TmFVdFN1Y3Zqbk1BWDlkWDhSVEM3SEpVNC1RcHJWOXZmZUdOX2lrSXZ4NklJOFZadnFNRXNTeFRSb09SdHpJMWx4Wk8wQmZRSXdsalJTWVF4VmxQWkNXLW9haVRpVGg5TkstZkN0UQ?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-11-19T20:42:18.158400Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "bb664256936248af48b86e97",
+      "publishedAt": "2026-11-19T14:32:56Z",
+      "title": "Darurat Kebebasan Sipil, GMNI FIB Unej Sebut RUU Penyiaran Ancaman Pembungkaman Rakyat",
+      "source": "Pawarta Jawa Timur",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPRFJ4ZDE1dEJQQzZxUV9yR2JsOU1pZE82bVVNcDlwTnFUUW5Jb0dTNUxua0RRTEoyTHNDWTZiQ3YwRmN3aHJpZG9IWC1MQXo3aFlQcDVQNlVZNVNxYmhoVTd5THJuUE9XQWNtekpZZ0pzbWdJeDBDaEtKVk8zS3NuZkhRZWNwNUpBMHB0ZXNRWVdNZXd6bXBpb0YzVldFdDVIODVkMzY0YlpmMTRVbEhFNEFWODVrQQ?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-11-19T20:42:18.158400Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "3e3ceea14855c38a96448a12",
+      "publishedAt": "2026-11-19T13:43:13Z",
+      "title": "Masyarakat Sipil Suarakan Kritik atas Takedown Konten Sewenang-wenang",
+      "source": "Kalbar Satu",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdzRrZ1RiSFNiYzNLanBzZVBjSy1QaTU2UkRSRndXSE1nZzRiX1ZodWtGakthbjQxTUMwb1prRjI1c3VWc09zMG1kUWdyNHFwaXd5QzkteTdxS0VNZC1pNjQ4cmtWSy1zSzlfcUwxbTlrM0JWUFdyN0RHR1d2S0xZSTdrcmt6eGxZWk96QTBWQ0JHRF9hdzRPYlY5bG1kTjduQzJtSUFKeFA?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "sensor_konten",
+      "subclusterIds": [
+        "sensor_konten"
+      ],
+      "matchedQueries": [
+        "Sensor Konten"
+      ],
+      "collectedAt": "2026-11-19T20:42:18.158400Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "3b4f86b616ddcadabef5a36f",
+      "publishedAt": "2026-11-19T12:42:03Z",
+      "title": "GMNI UNEJ Nilai RUU Penyiaran Ancam Kebebasan Berekspresi",
+      "source": "Publicanews",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNcS12N0duTC1OUEQzajBtdTg0Q3lVUGoyeXNpUUY4eXMyOVZlVzVHcEk2dTdFVVFKZDNBVVNfd29hamR5eGw0RmVwUXlNWE94T0JnYVhEZUdzYzRBUVpoMTdKZlhZLV9RSnA2X0lLMjRISlJOY0czNlh0Q1hVZlhVLXZGMVdEZkxFNVhzU2JUSXdSZXhuWEUxNkVxVFFWM3NGSE4ySVhJY3BmV0JRZV9TWm8xaFo1bEE3T0V0b0kydw?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-11-19T20:42:18.158400Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "c4f9b5a1b9acca9cb6855d11",
+      "publishedAt": "2026-11-19T11:24:00Z",
+      "title": "Sugiat Santoso Curiga Hasil Sadapan Presiden Bisa Dijual, Siapa yang Diuntungkan? - Suara Merdeka Pekalongan",
+      "source": "Suara Merdeka Pekalongan",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOV3RVbW92OTBmcTJkc3kyT2IwcFZLaGlXakRtRi1mNTJ2RmhtbW5BN3VOdkotQzAxRnN3SzBNMHgtcTJVYjdfeDhNa0pJVlJab3JiRTdFTzFWRWtISFZEcm8wdkFSS0RsTm9VZGRmNHU4VUhianN1dVpaaUw5VTRXT0IwdHBOYlVocmhXUXA3SUpPTmpoNnp3VVBZRUxQS2NYQ1hwZkp1X2k1b2J0ZFhWbEpaQlpOVGZoeHFSWEhJSDBZSWlEMl9UazlGYUJldWJaYjJQdlRMb9IB1wFBVV95cUxOV3RVbW92OTBmcTJkc3kyT2IwcFZLaGlXakRtRi1mNTJ2RmhtbW5BN3VOdkotQzAxRnN3SzBNMHgtcTJVYjdfeDhNa0pJVlJab3JiRTdFTzFWRWtISFZEcm8wdkFSS0RsTm9VZGRmNHU4VUhianN1dVpaaUw5VTRXT0IwdHBOYlVocmhXUXA3SUpPTmpoNnp3VVBZRUxQS2NYQ1hwZkp1X2k1b2J0ZFhWbEpaQlpOVGZoeHFSWEhJSDBZSWlEMl9UazlGYUJldWJaYjJQdlRMbw?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "pelacakan_penyadapan",
+      "subclusterIds": [
+        "pelacakan_penyadapan"
+      ],
+      "matchedQueries": [
+        "Pelacakan & Penyadapan (Surveillance)"
+      ],
+      "collectedAt": "2026-11-19T20:42:18.158400Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "912675cb0f8102d61c0effa4",
+      "publishedAt": "2026-11-19T10:37:27Z",
+      "title": "Penipuan AI Makin Canggih, Terdeteksi 2,7 Juta Ancaman Online di Indonesia",
+      "source": "Mashable Indonesia",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPdE9xaHk5NmxRVXlEMVVRRXpuVUZYVEZQZjlBOW1VTDU5SFlHUkwzSmNYYXl6YjB4QUk0dU9zR3o0U3VkdF9WWGJjeHhhYnZMQkkyOFVGcmx3VERKd3ROWkt4S2NOQ2Z1SjA5Sjh3dmplUG5LZjVfSmVMSXBlU29xQ0hZMVY1OXVWMWtWVmJQbjJLSGNjQUw2QXpTd3BSeXcxYWc4c0tOZVg2MmM?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "doxxing_intimidasi",
+      "subclusterIds": [
+        "doxxing_intimidasi"
+      ],
+      "matchedQueries": [
+        "Doxxing & Intimidasi"
+      ],
+      "collectedAt": "2026-11-19T20:42:18.158400Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "dd9bd83ebfc06f352ef1cf6d",
+      "publishedAt": "2026-11-19T09:41:21Z",
+      "title": "Darurat Kebebasan Sipil, Mahasiswa UNEJ Tolak RUU Penyiaran",
+      "source": "Tretan News",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPalB0eDBNd3QyVkp4eVVRMHBwNWxqVlVCUk1ycmx2cjFGRXRxcmpTVzQwTWJ1Y2FOc2QzN282aFBERDZTS2E2cERKSzQzeFJrREFvS09vX0ZZWXhVSi02TE1URElCSTk4VGhvSUVoSGhacWswT0tPREFCMUpobnE4SVlaSjhIUQ?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-11-19T20:42:18.158400Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "bc56536d477e52120080fe9a",
+      "publishedAt": "2026-11-19T08:55:28Z",
+      "title": "Muncul di Bursa RI-2, Dasco Kembali Diterpa Isu Judi Online dan Doksing",
+      "source": "Ipol.id",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNQ1R4VU9CdVZCNGhKMmstdVJsRzctRV8tbGJEa2VEeHV3eU81N3o5UHNOMHd3UjFiZEF4ZTBmWmpZM3lZTGU3b1RHSG5mNWxncFNLbXF4UFF2SVYwTmN5NzMxaDVDbzJpVEpma28wUW5qYVJ5ZUZDTzVVSE9wNEJ5S0l2NzEyc2pickVrV0RzM2lvWm1Ya1VNMVVSZw?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "doxxing_intimidasi",
+      "subclusterIds": [
+        "doxxing_intimidasi"
+      ],
+      "matchedQueries": [
+        "Doxxing & Intimidasi"
+      ],
+      "collectedAt": "2026-11-19T20:42:18.158400Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
       "id": "18b633adcb0a44f3a92cabcb",
       "publishedAt": "2026-11-19T07:18:00Z",
       "title": "GMNI FIB UNEJ Kritik RUU Penyiaran, Soroti Ancaman Pembungkaman Pers",
@@ -154,6 +338,29 @@
         "Kebebasan Berekspresi & Berpendapat"
       ],
       "collectedAt": "2026-11-19T07:31:33.636155Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "ff15fb35ba2683b5a956b2ca",
+      "publishedAt": "2026-11-19T05:47:39Z",
+      "title": "Sufmi Dasco Sebut Ada Pola yang Terus Berulang Terkait Tudingan Doxxing dan Intimidasi - Kilat",
+      "source": "Kilat",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNVlVNNXIyUzV2U1dDY2Jfbmx3V3k1QkNPSlVLZ2RKX0RtLThnZWxuSXhBSG4wZWRzMGgzdHY4bU1pYkJ6MWFiNWdqMXlSenVGVExYOGV6REhubUYzZnpOSUZ3aUh6T0tYV2N0OHdDdnFsVG54TGFUejVUNGZxVTZXMlFkREctTDdVV0QzM09Qd09yUThPYWNxNmJFeHRwVWRTejE5WE5QckJhT0NnM0ZMb0pXLW9BQmZyTDNuNGNmUk5tVHctdUQ2N9IBzgFBVV95cUxPb2dfZ0d2X3pkOHZJa0ZfNlNqRVZKNkUyRTQwaWNwOU9DVlhnRmxQN0ZrY2E1TE14czQ2WEkxY2dhVFd4QnFzOUVqRktfVE11RFRSM3BJa01nZkFJQTlmZ3g2VjFoeGN2NC1VWk9ZeTdFc3RVR3VaYzU1Qnp0ZG00cmZlV2lOclVXbllQREM2cHdrdU9nR1BtRkFudTRycjNZYnZNQVpaVTd3LUlZbGIyVFl1c1Rkby1nSmxaTzJVaThOQzRnSUZ1ZDl3eFNpZw?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "doxxing_intimidasi",
+      "subclusterIds": [
+        "doxxing_intimidasi"
+      ],
+      "matchedQueries": [
+        "Doxxing & Intimidasi"
+      ],
+      "collectedAt": "2026-11-19T20:42:18.158400Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
@@ -223,6 +430,29 @@
         "Sensor Konten"
       ],
       "collectedAt": "2026-11-19T07:31:33.636155Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "572514a657cb0ae90cf2d194",
+      "publishedAt": "2026-11-19T03:36:26Z",
+      "title": "Iman Sukri DPR Desak Komdigi Transparan Soal Takedown Konten",
+      "source": "jurnas.com",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOQjRTM1phNTNWdGV0TkktOHQ5V21KNHFzY2J3Z1VqeTE5Y2o4LW5hUVR4R1JvazFfcnRxVGtrVlN3RzZaUC14dnpvNnRUVlJ2ZElVR1huREx3dnB2VWdRWXJpc2x5ck9aS0VtOWxnWml0VzlWcXc3My03bzRHY21sT1h4dUNqWTB3bUUxekVJVHQxNktPY0NDTVJSTHcxZw?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "sensor_konten",
+      "subclusterIds": [
+        "sensor_konten"
+      ],
+      "matchedQueries": [
+        "Sensor Konten"
+      ],
+      "collectedAt": "2026-11-19T20:42:18.158400Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
@@ -637,6 +867,29 @@
         "Doxxing & Intimidasi"
       ],
       "collectedAt": "2026-11-18T20:36:56.887933Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "2d2604aaf36de3ff9d0113c2",
+      "publishedAt": "2026-11-18T08:45:23Z",
+      "title": "Dasco Bantah Terlibat Judi Online dan Doksing, Siapkan Langkah Hukum terhadap Akun Medsos",
+      "source": "LINGKAR.news",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPNl94UGxldTlwekRRMWMyVUxZUXNjelkyYnlMb0xjaGM4ejZ5OHBzVFJ5SnU4dXZTcmpwekZzdGd3eGM0MGZ6ME9kMGpPSlQ2VVZIeWFHbC1GZDJDTkE0dWxaMUkzd3lZN1VGaDAwMzdNLWRXbDJOY242aVZMcTFBNjZPdWlmX2VvZ2tGVjV2M3RCWmI3YkpsS2I4TGkyWWloOGpsSF9VUTMxS19OTklPVTV5aG1qRGVzWlE?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "doxxing_intimidasi",
+      "subclusterIds": [
+        "doxxing_intimidasi"
+      ],
+      "matchedQueries": [
+        "Doxxing & Intimidasi"
+      ],
+      "collectedAt": "2026-11-19T20:42:18.158400Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
