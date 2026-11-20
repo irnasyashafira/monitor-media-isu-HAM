@@ -1,15 +1,15 @@
 {
   "meta": {
-    "generatedAt": "2026-11-19T20:42:18.158400Z",
-    "lastRunAt": "2026-11-19T20:42:18.158400Z",
+    "generatedAt": "2026-11-20T07:23:24.101910Z",
+    "lastRunAt": "2026-11-20T07:23:24.101910Z",
     "startDate": "2026-01-01",
     "refreshHours": 6,
     "mode": "incremental",
     "feedsOk": 16,
     "feedsFailed": 0,
-    "totalStored": 3328,
-    "totalPublished": 3328,
-    "newArticles": 11,
+    "totalStored": 3337,
+    "totalPublished": 3337,
+    "newArticles": 9,
     "warning": ""
   },
   "clusters": [
@@ -135,6 +135,190 @@
     }
   ],
   "articles": [
+    {
+      "id": "aed900f1400dc0f29369e1ab",
+      "publishedAt": "2026-11-20T06:09:00Z",
+      "title": "Soroti Iklim Kebebasan Berpendapat, Megawati: Semuanya Sekarang Seperti Harus Perlu Komando Terus...",
+      "source": "Warta Ekonomi",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNZ0J2ZUVxTm94NUJOOHlOX3FrME5mWG9NRnZQX2l5VUw1NFZscFFlemFmcm11S05KMkt3TncwUVhHNDNFV1pkZjd5dHhTSV9WQ0NRc3pWT2FIT0VsXzFqUXlNa1l4MUlYNDhmMmp4T2ZkcFB6QjU0TXZ0RG1aYkpFRDdfd3dhZ0RUenBlVlZMY01PQU1vbXBsMy1iZmd4MXgyMjE5dHhKbGp2aUEyQUNQcDFSdTYzRTFPRFpJdmxKVE9JN0RtQzBkTV9JYXQ2d9IB0wFBVV95cUxPWE0za1p3aUpoOE9CeXlxXzNXYTdJbHZiMDVDaWFaTWZPZktzWEtoek5idFo4dDBSTEJmbmF4TU9sMkg3TDVTS1RyNXNsUE5tSENlODVHYUhfUnRxU1Q5WG41WjAxcmVEZ3pCbHUtUVN3dmJaNDFXS1BKZVhwODhqWTZuQ0NhdUgxQVRQQTg2VEV3dWh1SHVDdE4tWmlQN3JINk1nZ2xyd0l6YmpFNmdnVkZKaWI3dlJUVmJweDhhTWtJRVprMkJseWFtc2h5bl9zOXRB?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-11-20T07:23:24.101910Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "acb4334497a500c0d160bfaf",
+      "publishedAt": "2026-11-20T04:01:35Z",
+      "title": "19 Ribu Kanal YouTube Dihapus Google, Komdigi Minta Penjelasan dan Soroti Kebebasan Berekspresi",
+      "source": "Semangat News",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOajliOWUxczRqdjZSNXJGRUp4a2Y2NU5wbWt1eHhyRkFZX2xyeVRjNUhyQUdRaFhteXM2dE9KZkZqOEdQVFVNVi1zV3QxcEdDRGpXOXJNUUxmcDBjVm54RkJVY2F5b2FkandvZUFZVGVZRXNudnRPTHhFV3NfVWFkemsyVWNKY21ENzE0Sy01SFMzaVphbElfYXo2SUJNVGdBVDlMb0RPZ1pJdVAtOHpKM0t5RWVuQlduU1E2TXlyR21wQQ?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-11-20T07:23:24.101910Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "07459688080074a13dfc26b5",
+      "publishedAt": "2026-11-20T02:51:31Z",
+      "title": "Meutya Hafid Tak Hadiri Debat Terbuka Soal Takedown Konten, Komdigi: Tugas Pemerintah Bukan untuk Berdebat",
+      "source": "Pikiran-Rakyat.com",
+      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPYTl3OUY1OXpoSzhjbWZuWWs1OXZMeFhWbFVfMGlnd3ZvX3RSODhRck4zYWZoUnZ1UFJ6S2t3OGxONnVDSU00akhrVzAyRnVTYjZxQ3V4b3BFVVpjU3dDdUF3eUJjRUZpRWNJd1NMeHJxZWpVb3k3UG5TTEc3dXNjcUxhQzk5Y0pNZWpFSlNUeDdQTGxZSk9vcFQ5SFVydXo0UEVLc1pqSlpSSHljbHBDMmQwZlF6THZBeEVSU0kzLU9ZYXdFYmpZZEs5N1hJMXdYdkxuNktHWlUtY243WHJsZVJGVGs0bE9LZVE?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "sensor_konten",
+      "subclusterIds": [
+        "sensor_konten"
+      ],
+      "matchedQueries": [
+        "Sensor Konten"
+      ],
+      "collectedAt": "2026-11-20T07:23:24.101910Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "2796fcc5db3f4c79ccfa2b49",
+      "publishedAt": "2026-11-20T02:28:00Z",
+      "title": "Komdigi Ingatkan Google soal Kebebasan Berekspresi Usai Tutup 19 Ribu Kanal YouTube Pro Pemerintah",
+      "source": "Tribunnews.com",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOcFNZRXpzNGRZTWRaZVNvRmxETmhVZFgtdXZLYnkxR2tudHZsYVAxaE5mY1BEbVdabjRLcWhZNklHOTNWOHV4eEpYeXVLSmQzbWFsb3pneldqalJtNnhXWDNsaEVSdE9PWlZGOEhXMTdIdTY0TlBsUEt0eGIwMFEwT3lSMFlacHFQVjFSekdyeVB5Um42Q3FMMlRiam82Y1prMUVWdmRDZ0taQkhGRHRHUlZ6cXNVcUtGbXpnM0pUMVNWQndZelNONVBRSmpzY1JHcjc3cGY2WQ?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-11-20T07:23:24.101910Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "2009d996a3da43571eae1ec8",
+      "publishedAt": "2026-11-20T01:38:00Z",
+      "title": "Majalah ICT – Analisis Soal Pemblokiran dan Takedown Konten: Publik Butuh Tranparansi dan Notifikasi, Jangan Sampai Komdigi Melampaui Konstitusi",
+      "source": "Majalah ICT",
+      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOVktUdV8xcHdIM1lWZTg3VU4xcWRObW5BVUFKbkRKRjlpSGQ5c01rNXF2WUxfX0pKbm1uRWNLUUEwTWwxZThmanNUNnlxMDJ1NlVDVzZSWDFIWnJqa29UUVgyWkN0Z3BTeXFsSnR4ak5DampEbm0zT2NOZGJPa01WRFkzcWNKZkNwT2syMVJpUzFWS1BYNW1jSU5yenlDN3VSZXcwVkhicFZudWg0ekx2STRsamtObzRwQ0pqU294TGRxajdxZWRYZ2hWcUhzMTRDd3o4Z2FSLXIybjNfNWZFSlNTbkZfQ3I1aGV0ZA?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "sensor_konten",
+      "subclusterIds": [
+        "sensor_konten"
+      ],
+      "matchedQueries": [
+        "Sensor Konten"
+      ],
+      "collectedAt": "2026-11-20T07:23:24.101910Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "094d99f78615d3de81b6192d",
+      "publishedAt": "2026-11-20T01:00:00Z",
+      "title": "Ini Alasan Menkomdigi Tak Hadiri Undangan Debat SAFEnet soal Takedown Konten",
+      "source": "IDN Times Sumut",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQbUktLVF6OWxnLVNTM0dkb0p2VWxJdjIzcWtQX1FVTnFsNkRKbGNHMFlvSm5tQ1liMDMxc1JqRUJnSWdDLUR6Uk04UlhVbXJyRTg4NzBBdmR2QlZNTzZsbTI5TklFeGxnUTdxRHJRb0NWY3FQb2E2VENnLUhONWJxbTZraUh3dmM4dnpJN1JBS251alF4anpvWi1PT1NfS1FBaVRJaTB4VFpCaWZVaXpsT0ZacmdiUlgtNW9nOEk2SVVEVDRyVFVlemtRSjdfa2JVWTVJRtIB2gFBVV95cUxOSDkzNC1BNXZMSUt2OXN0YndrZXpkZ19scFVBMHpkWHZFRGJNZXYtQUlOQUZHcW56MXZTZkh5WEtpUVFPclYzMkdhRVRkR0x5NDdmNnZ6MEl1bmxtamc5TThjUDFIQ3FxcC1SMlZZa1MwamI5YTlOazZvcHN3bk4wQ254M01GeHJZSEJIcDN0Ty1mb19mVDNvLWJ2akhLeHBhTzlQdEdobVFzMDB5cFZyUEFSU0J0aVFrX1Y1NzBjZEtmcjFUdnEwZ0I0NTlRTnNfMTEzeWNkQ2I5UQ?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "sensor_konten",
+      "subclusterIds": [
+        "sensor_konten"
+      ],
+      "matchedQueries": [
+        "Sensor Konten"
+      ],
+      "collectedAt": "2026-11-20T07:23:24.101910Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "4083314473b965a18dfb23fd",
+      "publishedAt": "2026-11-20T00:27:48Z",
+      "title": "Data Pribadi Disebar Debt Collector Pinjol? Jangan Panik, Ini Hak dan Langkah yang Bisa Kamu Tempuh",
+      "source": "Askara.co",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPRi1lSXNCOTJtTEt4anRQd0dqSnFPeVhsalIycl85djZ5NGtzaEV2cGVTdXFadGxZeEdvR3hHMFVlaldPTVpTT1U4Um5Eckw1NkJncURhR1ZtYWozMlhWU1NfajdjTS0yRXF3eGJ4ZDY0bGJJd2xNUFFpOUk3RF85R0lSRGVid1QzRTJCZ0NMdWkwQWgwMXhfUjNTVkNJQk1GaUJlQWNoWXpIcWptR2ppMW1nZlFHN3BGQzM2UDNDVzVSRVNzM1VOaUFtWUx2LVBGSEgyeUI4dHk?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "doxxing_intimidasi",
+      "subclusterIds": [
+        "doxxing_intimidasi"
+      ],
+      "matchedQueries": [
+        "Doxxing & Intimidasi"
+      ],
+      "collectedAt": "2026-11-20T07:23:24.101910Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "42776134757ce142e49beca7",
+      "publishedAt": "2026-11-19T20:05:34Z",
+      "title": "Foto Dino Patti Djalal Bicara Buzzer Berbayar yang Ancam Kebebasan Berpendapat",
+      "source": "VIVA.co.id",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNSnVXcUN2QXN6UUVjSkw4RTdNTWY3MmdMaUpISml4bmlPNEFEaDlnOTg2LTMxVmM0N3lHb1NfWW9ncW9LVTBsRW9aNEhrOGpTX0UzSW9vcXpxb2l5c3VnMndKRUZya1RzU1ZHU2RiUVhvV0d1Q0o3OEdmR2ZUbUdlTndhaDYxdXNrM2dLX2Q0alVxbzZqWE1PNWpiTUJLbTFUVzVyWkVfY0IyY2I0Q2c?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-11-20T07:23:24.101910Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
     {
       "id": "7327f0579e07c5f64a20ab33",
       "publishedAt": "2026-11-19T15:33:58Z",
@@ -2111,6 +2295,29 @@
         "Kebebasan Berekspresi & Berpendapat"
       ],
       "collectedAt": "2026-11-17T20:59:09.174484Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "1a63de3fd79be9d0ed1c2ed8",
+      "publishedAt": "2026-11-17T08:00:00Z",
+      "title": "Sabuk pencegah ancaman online",
+      "source": "Vietnam.vn",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8xWThZZ1BRTmM5aGpDcHhCbnkxWXlMZUZUWXdnaFd2amo4dy1KUlRabVJhUm5qdjlrc2tfZ25XOGQwYmVGNUtNMHVnajBJeWIwb3FMNU9jN0xUWEdta2NnMlNuLUVXU2tMUmsw?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "doxxing_intimidasi",
+      "subclusterIds": [
+        "doxxing_intimidasi"
+      ],
+      "matchedQueries": [
+        "Doxxing & Intimidasi"
+      ],
+      "collectedAt": "2026-11-20T07:23:24.101910Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
