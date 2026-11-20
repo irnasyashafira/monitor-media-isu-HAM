@@ -1,15 +1,15 @@
 {
   "meta": {
-    "generatedAt": "2026-11-20T07:23:24.101910Z",
-    "lastRunAt": "2026-11-20T07:23:24.101910Z",
+    "generatedAt": "2026-11-20T20:26:42.195623Z",
+    "lastRunAt": "2026-11-20T20:26:42.195623Z",
     "startDate": "2026-01-01",
     "refreshHours": 6,
     "mode": "incremental",
     "feedsOk": 16,
     "feedsFailed": 0,
-    "totalStored": 3337,
-    "totalPublished": 3337,
-    "newArticles": 9,
+    "totalStored": 3347,
+    "totalPublished": 3347,
+    "newArticles": 10,
     "warning": ""
   },
   "clusters": [
@@ -136,6 +136,167 @@
   ],
   "articles": [
     {
+      "id": "e1fe0f709ba2fe80e064a702",
+      "publishedAt": "2026-11-20T15:45:50Z",
+      "title": "Gerindra Duga Tuduhan Judol dan Doxing pada Dasco Bermotif Politik",
+      "source": "news.fin.co.id",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOb0NoNjRwUE5TZ0tjU0lybEtGN2hHRkdBTkNTQnVVS1pTRllmc1pYN2NnYzJ0ZWs5ZlhnbnRrcG93aFJYd00wQWlESGFqXzBYa0tFTFp4UmVwRVBENGhfU1RBTVZxd3FxM3NLcFNPQXI0cnNMY3lEd3E0TkpNdE95LWxSUWdTemZ4bFY5QnRWeGlIMnRUZ1dmZ2VwWE9BT0t3SXc?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "doxxing_intimidasi",
+      "subclusterIds": [
+        "doxxing_intimidasi"
+      ],
+      "matchedQueries": [
+        "Doxxing & Intimidasi"
+      ],
+      "collectedAt": "2026-11-20T20:26:42.195623Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "64da7987c20d39ab02a5a276",
+      "publishedAt": "2026-11-20T15:07:23Z",
+      "title": "Gerindra: Isu Judol hingga Doksing Dasco Tafsir Sepihak dan Politis",
+      "source": "CNN Indonesia",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQd25vSVlrNFhIWVhTVUpsYzh1V2xGVzBnY0hhOEFiaVE0bDFWYXEybERxRDNxb3NoR2xpLWwtSG9RM2NIM2F5VzNSS3EtYk5GcHZqdG1wWVh1MXFkVHhmNEdUTUJLREFHRW5TcXlLWHIybWdFdUNMNkd6Q2FET2U4c0l3TUU0b3dWRkpIQWtyWWRJT0dDckNudngyWHpZdkp4ZHpLODFHNWFZQTAyb3p1cHp3MXRmWENMa0Zia3d0Z0ZYOHJRTDhlN3pB0gHPAUFVX3lxTFBuNzA3aFBQNGxybVlUc1R5WFdiT2FDUVM5QmdwVHpvWU9nbUUtMmlyQ3REVG95RThpSnZTNkNHTDdJSWZFX0lmcXVkT3hmVHdyWjVBRnFJODg1dl9uckNNR0lKTVdWbVVWdjhYS0xncndKLVY3Xy1MYU40NGYwMzNReTVDa0EzMjE2bUl3MHg0azVKemZrRXhKLURxZUhNLW5lT2VHZEFaVTRnNTVGY1BrVXpzUDRlQTRMeFFRYXVmMFYyVWItd0JSVFRQMFZUOA?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "doxxing_intimidasi",
+      "subclusterIds": [
+        "doxxing_intimidasi"
+      ],
+      "matchedQueries": [
+        "Doxxing & Intimidasi"
+      ],
+      "collectedAt": "2026-11-20T20:26:42.195623Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "a496bd5d102ad0a06981804d",
+      "publishedAt": "2026-11-20T14:45:46Z",
+      "title": "Gerindra Menduga Ada Motif Politik di Balik Tuduhan Dasco Terlibat Judol hingga Doksing",
+      "source": "Suara Surabaya",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPMEZLX19lcm9oMm93LUhtUjM4djUydEl1UWxrSTdUX2Q1OVNmSVFxQ1pHVGRKNWl4VVprRWJCSDdvd3YtaWJBa29HQ1RrdWlIWFJXTEMxVk1SbWhQRnJKYi1tV2tfOXJlQXNGaUhOODllVGRvY19ILXZBdG9ud1k0dnB0bW1pX0dlVDFkbEJpYzhmZ0M4bFNFY1dYZHZ1bFh0V2MzT1RreGhpbFAwa3lWejFyM1RPVXprNlRYVVR4NnlQYjFNenJ6WEdIaw?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "doxxing_intimidasi",
+      "subclusterIds": [
+        "doxxing_intimidasi"
+      ],
+      "matchedQueries": [
+        "Doxxing & Intimidasi"
+      ],
+      "collectedAt": "2026-11-20T20:26:42.195623Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "b228e25d1aecc78c91c12ea2",
+      "publishedAt": "2026-11-20T13:29:16Z",
+      "title": "Gerindra Duga Tuduhan Judol hingga Doksing terhadap Dasco Bermotif Politik",
+      "source": "IDN Times",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQcHBsYjBrZkVyRmhxaFQ2ZE5SY1F1YlFyQmRYWldrVzRTOUhpTXpTOG8tQ2NCUVhJQy0tOUZpS1FkXzgtU3ozSlRRU2xEUEZoc1RrdHA5dkZTcGFtMTMxcUEzOTNMdDBnSXNsUVFLRjV3NFZVNnFPSjQ3MF9uRHFyR2tzbXEyZWdyX1BHeXJVRl9oTGpBRWlUMXc3N09YSzk5d003azJ6T3JOY3BGQUJBMXhpblFRZ1hU0gG4AUFVX3lxTFBwcGxiMGtmRXJGaHFoVDZkTlJjUXViUXJCZFhaV2tXNFM5SGlNelM4by1DY0JRWElDLS05RmlLUWRfOC1TejNKVFFTbERQRmhzVGt0cDl2RlNwYW0xMzFxQTM5M0x0MGdJc2xRUUtGNXc0VlU2cU9KNDcwX25EcXJHa3NtcTJlZ3JfUEd5clVGX2hMakFFaVQxdzc3T1hLOTl3TTdrMnpPck5jcEZBQkExeGluUVFnWFQ?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "doxxing_intimidasi",
+      "subclusterIds": [
+        "doxxing_intimidasi"
+      ],
+      "matchedQueries": [
+        "Doxxing & Intimidasi"
+      ],
+      "collectedAt": "2026-11-20T20:26:42.195623Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "0d916101b9a071c292477120",
+      "publishedAt": "2026-11-20T13:19:57Z",
+      "title": "Komdigi Buka Suara soal Meutya Hafid Absen di Debat Takedown Konten",
+      "source": "CNN Indonesia",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOOUxaYXE2SGpwYXYyUU5lMXE4ZlJUa3hnaS1NT0xybnZRSGR0d0UyaHBid3JjUmFGZEZoWV9GcTBzWHJkV01lZjZOTjBuRVBDc00wanhYOWdweGtuUlF2a1JjSGp6YUpxeGlvdzd1aHhHbkVWNWhkMzh3UVZCZ2tLenlVbmZoeXBkX09rVEMteXN0SDJtRXZ4VHFoaWExM0F1ZG5uUHlhUWRlRVlRTXNEOHBKSk9uajJsRWg2V3Qybms1NEZPa3Q1SDVOWXR6dw?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "sensor_konten",
+      "subclusterIds": [
+        "sensor_konten"
+      ],
+      "matchedQueries": [
+        "Sensor Konten"
+      ],
+      "collectedAt": "2026-11-20T20:26:42.195623Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "954e6ffbbed9f0b914632549",
+      "publishedAt": "2026-11-20T09:34:00Z",
+      "title": "Gerindra Duga Ada Serangan Politik di Balik Tuduhan Judol dan Doksing ke Sufmi Dasco",
+      "source": "iNews.ID",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQd0R4aXVCeExMMWs2Qkczc3NuUEFjX3M0V0o0WWRwOVc1NEZvc2tZc0FBUHpKd19teDJpOXQtR2UtTUUwcTFnNlpMSWpLOEJkb2VXd2czX0ZPaDZKbDhmWGptbWYxdXdyeGZ3SGE5STVIb0gxVEZDbmI2SHN4NzdIV3ZxM2NITHBJSWh0ZlFwVkZDUm1vNHN1dVI3WG9Sa1hrZThkWnpGWGU0dlZLektMNDVWOUVueFg5ZUEwRmdJZHDSAcABQVVfeXFMUHdEeGl1QnhMTDFrNkJHM3NzblBBY19zNFdKNFlkcDlXNTRGb3NrWXNBQVB6SndfbXgyaTl0LUdlLU1FMHExZzZaTElqSzhCZG9lV3dnM19GT2g2Smw4ZlhqbW1mMXV3cnhmd0hhOUk1SG9IMVRGQ25iNkhzeDc3SFd2cTNjSExwSUlodGZRcFZGQ1JtbzRzdXVSN1hvUmtYa2U4ZFp6RlhlNHZWS3pLTDQ1VjlFbnhYOWVBMEZnSWRw?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "doxxing_intimidasi",
+      "subclusterIds": [
+        "doxxing_intimidasi"
+      ],
+      "matchedQueries": [
+        "Doxxing & Intimidasi"
+      ],
+      "collectedAt": "2026-11-20T20:26:42.195623Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "04aaec262b5e0346d9c16ee8",
+      "publishedAt": "2026-11-20T07:30:10Z",
+      "title": "Puluhan Ribu Kanal YouTube Diblokir Google, Amnesty Soroti Ancaman Pembungkaman Kritik",
+      "source": "SulawesiPos",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNY1JiZVRmcVhsbk82Qmk0WU1FVG5IaFlxcGZhSzk4Xy1jRkRheVdRbVVKaEhjYTVaYy1HNW51NTJLVE93dW9pcVhacnUtQTU4bzQ0RlJNcG5hTDRXRV9scmtjR3FiWFl5ZUw0bU1QRDBLLXZWcGhhRFQtX1o1b0tIYUtWdWpIVHctYUdnaVpLZ2RBbjAzU1BMZ1lDYnFSODhlRE1JZnZtQmVsd3VjUmM3a2hXUVQtQk13NFowaGNvUjFlOGhOMDNnUVl3?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-11-20T20:26:42.195623Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
       "id": "aed900f1400dc0f29369e1ab",
       "publishedAt": "2026-11-20T06:09:00Z",
       "title": "Soroti Iklim Kebebasan Berpendapat, Megawati: Semuanya Sekarang Seperti Harus Perlu Komando Terus...",
@@ -251,6 +412,29 @@
       "reviewNote": ""
     },
     {
+      "id": "61c5af0edd29b82b90af942b",
+      "publishedAt": "2026-11-20T01:38:00Z",
+      "title": "Analisis Soal Pemblokiran dan Takedown Konten: Publik Butuh Tranparansi dan Notifikasi, Jangan Sampai Komdigi Melampaui Konstitusi",
+      "source": "Majalah ICT",
+      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOVktUdV8xcHdIM1lWZTg3VU4xcWRObW5BVUFKbkRKRjlpSGQ5c01rNXF2WUxfX0pKbm1uRWNLUUEwTWwxZThmanNUNnlxMDJ1NlVDVzZSWDFIWnJqa29UUVgyWkN0Z3BTeXFsSnR4ak5DampEbm0zT2NOZGJPa01WRFkzcWNKZkNwT2syMVJpUzFWS1BYNW1jSU5yenlDN3VSZXcwVkhicFZudWg0ekx2STRsamtObzRwQ0pqU294TGRxajdxZWRYZ2hWcUhzMTRDd3o4Z2FSLXIybjNfNWZFSlNTbkZfQ3I1aGV0ZA?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "sensor_konten",
+      "subclusterIds": [
+        "sensor_konten"
+      ],
+      "matchedQueries": [
+        "Sensor Konten"
+      ],
+      "collectedAt": "2026-11-20T20:26:42.195623Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
       "id": "094d99f78615d3de81b6192d",
       "publishedAt": "2026-11-20T01:00:00Z",
       "title": "Ini Alasan Menkomdigi Tak Hadiri Undangan Debat SAFEnet soal Takedown Konten",
@@ -292,6 +476,29 @@
         "Doxxing & Intimidasi"
       ],
       "collectedAt": "2026-11-20T07:23:24.101910Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "70f8c8ff44e15f472fbe69e1",
+      "publishedAt": "2026-11-19T20:09:00Z",
+      "title": "Majalah ICT – Komdigi Minta Google Jelaskan Penutupan 19 Ribu Kanal YouTube, Sementara itu Publik Juga Menunggu Penjelasan Komdigi Soal Takedown Konten Kritik",
+      "source": "Majalah ICT",
+      "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPdWF1U3hld29CalA2TlZlRk80WXJVeFBCWXQ3dlBNNjRYNVVMaWloQzRtVkJ3S3NpQmZCZlpMc29qTTVWNTlTQ0lQRWd3SVJUaGFBQzYtaVVTYlJKMzVQVmRsOTBYVTJlNnRMS2c2TWl3UjFzNHNsYXRBN0xNYmk0TlB0SEdLT1pZcEM1TmpGVFl5MlZ1THZBWjdZM0t4RjJ2TjZKVEljdHdxM3ExckNCVDFfUHl2dVpDeDh5U19TcU5fQTJfZmZfeUhhaERxX1JOTU5Od09yMzNhMHRXNW1TNFFwc0tvOWNxTHpjMjh6di15eUUyTDZyVHdKNjJQZC1w?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "sensor_konten",
+      "subclusterIds": [
+        "sensor_konten"
+      ],
+      "matchedQueries": [
+        "Sensor Konten"
+      ],
+      "collectedAt": "2026-11-20T20:26:42.195623Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
@@ -1904,6 +2111,29 @@
         "Kebebasan Berekspresi & Berpendapat"
       ],
       "collectedAt": "2026-11-17T20:59:09.174484Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "efdcf61c9d6d4b94a1a1495b",
+      "publishedAt": "2026-11-17T14:16:49Z",
+      "title": "Respons Pihak Ruben Onsu Usai Dilapokan Atas Dugaan Pencemaran Nama Baik dan Doxxing",
+      "source": "شبكة تواصل الإخبارية",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9aWTJMWHVwa3lWYUlFMVlDLXlNQVdPeE95a3JDRFJnU1ZLXzNQMGJ1bTJlbUppbVdMNzJDYWFaYzdaT002VnQtRVNoMFhMTXl1SV9J?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "doxxing_intimidasi",
+      "subclusterIds": [
+        "doxxing_intimidasi"
+      ],
+      "matchedQueries": [
+        "Doxxing & Intimidasi"
+      ],
+      "collectedAt": "2026-11-20T20:26:42.195623Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
