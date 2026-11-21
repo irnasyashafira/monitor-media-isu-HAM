@@ -1,15 +1,15 @@
 {
   "meta": {
-    "generatedAt": "2026-11-20T20:26:42.195623Z",
-    "lastRunAt": "2026-11-20T20:26:42.195623Z",
+    "generatedAt": "2026-11-21T07:16:26.798033Z",
+    "lastRunAt": "2026-11-21T07:16:26.798033Z",
     "startDate": "2026-01-01",
     "refreshHours": 6,
     "mode": "incremental",
     "feedsOk": 16,
     "feedsFailed": 0,
-    "totalStored": 3347,
-    "totalPublished": 3347,
-    "newArticles": 10,
+    "totalStored": 3353,
+    "totalPublished": 3353,
+    "newArticles": 6,
     "warning": ""
   },
   "clusters": [
@@ -136,6 +136,75 @@
   ],
   "articles": [
     {
+      "id": "05dcf0d6ef18a6750bf39f5f",
+      "publishedAt": "2026-11-21T05:07:42Z",
+      "title": "Tutup 19 Ribu Kanal YouTube, Jangan Korbankan Kebebasan Berekspresi",
+      "source": "Kompasiana.com",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNTnN4MG1xX2JGU3pRcUtURlFUcDZ0cGU1eHNIdXo1YndHMmwtdHVHdUtLUW95cFVFWXY5azVKRFB4OWJySUNwdnNRdU9Kc3NabFVxbnpyWTdDOUg1Qm5JZ2tPaHdFMFdqT20yNWFvYlJNZVJTRS1NbmFjSDJCZFNzdHlfaEZXNEJGZUlyV2NnRkpLZkJIMGRFdjUtbjhDaVJMLTJuaE1Penl2QnVPQi1WdnpHS0RoczU2ci1uY0ZhdThkbms?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-11-21T07:16:26.798033Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "1816cb70090c0abb78c15dd8",
+      "publishedAt": "2026-11-21T02:35:00Z",
+      "title": "Komdigi Angkat Bicara soal Meutya Hafid Tak Hadir di Debat Takedown Konten",
+      "source": "BicaraIndonesia.net",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNc0dIZGNzMFVDaThfU2c1SWtsNnNuSEFMUHBUYXI5cm1pNkpOMWxZelJqc3h5c204aHVnRGRkekRtaERkVmlHckFoblA3NmFzcDR0a1ZzdjEwMk5uczdNYjAwemZjSHl2QWYxQXViYUh3TXhJOENLYURhZXNEZzNoV3l0ck0wM0M3MFNQZDlTUmZjc3JvSlVPc0tkOGt1Q0hZWUU0VHF6dUNYM2c?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "sensor_konten",
+      "subclusterIds": [
+        "sensor_konten"
+      ],
+      "matchedQueries": [
+        "Sensor Konten"
+      ],
+      "collectedAt": "2026-11-21T07:16:26.798033Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "3cb44d4d384b3d86f13565fe",
+      "publishedAt": "2026-11-20T21:05:53Z",
+      "title": "Tingginya Jurnalis Tewas di Gaza Dinilai Sebagai Pembungkaman Informasi",
+      "source": "MetroTVNews.com",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNMnpsY2V0UWxKZWFyWE5zU0h6anVvTnV4aFRHcjZlRHhJaFAtWDJzUzctS0dQTFZranlJSGw1TDF1UWI3enRJazZsZnFtMUw5NkdjRi1zVW54NXBnTlQwckY1Zk9sT19BcVhONVBUVURRZ2tiQVhfal9fVnlYdmV1aU9FLUtUOFU3c3VYWFgtTmR1NHpKSG9leDc5TXpxR1dnMUh1djJ4VnZCNFNiVlJqVGVYYw?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-11-21T07:16:26.798033Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
       "id": "e1fe0f709ba2fe80e064a702",
       "publishedAt": "2026-11-20T15:45:50Z",
       "title": "Gerindra Duga Tuduhan Judol dan Doxing pada Dasco Bermotif Politik",
@@ -177,6 +246,29 @@
         "Doxxing & Intimidasi"
       ],
       "collectedAt": "2026-11-20T20:26:42.195623Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "7ced3025df0e98e0a36b832c",
+      "publishedAt": "2026-11-20T15:03:00Z",
+      "title": "Ketika Kritik Dibungkam Algoritma: Kebebasan Berekspresi Dan Krisis Etika Komunikasi Di Ruang Digital",
+      "source": "divianews.com",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxORnFFbndnNS0zRldkcHF6M2JzNUFVZXduQk4xODBOYVpmODlNXzUxY3A3cGZEWEJDSHVCU1NITkU3XzBjX1pLM3pWTHVSVlJ6S2RjWjlkdEdEcmhIb0pTZkZZRjhDUENscmpOZzNhTFpTZUxZSGYyT3A0Tk1EUmd3QmdEZEdqTFN5SS11OFR4WU1BYmxlSUJ0TXREQXYyU05MYWtmdDVZTjBpY1ptYXhFMUdaS1hGZE9HaFFUeFBVYzkwZW9McnlKdW9qZU16MzQ?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-11-21T07:16:26.798033Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
@@ -62037,6 +62129,29 @@
       "reviewNote": ""
     },
     {
+      "id": "ace2f7f3ec7beeb63e829d9f",
+      "publishedAt": "2026-08-13T07:00:00Z",
+      "title": "Tiga Pernyataan MUI Jakut terkait Dugaan Penistaan Agama",
+      "source": "kabarpublik",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNWXVfZ2ZUZmRPd1BQRVhEZV82M1h5eTY1NllvNXhvVE9Sd2F6ZmJkQXRVNUowRHZ3TTRDTk9pcENGckItOXljcnlvVU5XMThYbHl1WDJiamE3WHFJSmlXeHgxRWhNdHJZbmNwQ0FJLWx2UmdrREM0RzdtTGhwRW1nZllMdkJfNWpwOVBZbUxaMDVKU0p0VEE?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_beragama",
+      "subclusterIds": [
+        "kebebasan_beragama"
+      ],
+      "matchedQueries": [
+        "Kebebasan Beragama / Berkeyakinan (KBB)"
+      ],
+      "collectedAt": "2026-11-21T07:16:26.798033Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
       "id": "ac4d7b27ea4560bbf1353986",
       "publishedAt": "2026-08-13T07:00:00Z",
       "title": "The Sound Project Buka Suara Soal Dugaan Penistaan Agama",
@@ -65275,6 +65390,29 @@
         "Kebebasan Beragama / Berkeyakinan (KBB)"
       ],
       "collectedAt": "2026-10-11T22:01:49.547226Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "92d00fcf8c91b547920f39e6",
+      "publishedAt": "2026-08-12T07:00:00Z",
+      "title": "Kasus Penistaan Agama, Pramono: “Kita nggak ada kata maaf…”",
+      "source": "kabarpublik",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOc0VaU0IyUTdwdjRvMld0RjVMSmdtWDRTMHE4Um1ScEJkcTdGYVljYzRPcExjNlRfOWxOeUdDWm1oMkRCNDlyekF6QWpzb0pDeVdad01qVjY1a252aW9fQk1uOGNwaVE2cGpRMWxYVnpvUVlsT0FBYUpsVHFWSjJnNzFQb1BPaFZrUFN0VnZhR1RHWWc?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_beragama",
+      "subclusterIds": [
+        "kebebasan_beragama"
+      ],
+      "matchedQueries": [
+        "Kebebasan Beragama / Berkeyakinan (KBB)"
+      ],
+      "collectedAt": "2026-11-21T07:16:26.798033Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
