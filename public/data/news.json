@@ -1,15 +1,15 @@
 {
   "meta": {
-    "generatedAt": "2026-11-21T07:16:26.798033Z",
-    "lastRunAt": "2026-11-21T07:16:26.798033Z",
+    "generatedAt": "2026-11-21T19:20:58.088911Z",
+    "lastRunAt": "2026-11-21T19:20:58.088911Z",
     "startDate": "2026-01-01",
     "refreshHours": 6,
     "mode": "incremental",
     "feedsOk": 16,
     "feedsFailed": 0,
-    "totalStored": 3353,
-    "totalPublished": 3353,
-    "newArticles": 6,
+    "totalStored": 3365,
+    "totalPublished": 3365,
+    "newArticles": 12,
     "warning": ""
   },
   "clusters": [
@@ -182,6 +182,52 @@
       "reviewNote": ""
     },
     {
+      "id": "d6ad67024bb12ae56136b566",
+      "publishedAt": "2026-11-21T01:20:39Z",
+      "title": "Gerindra Respons Tuduhan Terhadap Dasco soal Judi Online, Disebut Bermotif Politik - GenPI.co",
+      "source": "GenPI.co",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPY0dFdWxLMzN1OXpLSXpZUUx5SUpTR0xPVkdZcHdxdWFmaUk3Wi1WQkEzbl9McjZiU05fM1JVbEpUdnpsNDNFc1hEc0FPaXByeEpGOGlIckpFTUNkVjZDd0g5cEdZQ3lOU081UEtYWmF2Y011enIzSG1haWZqVVpzSFJ1b2x0aGVNVE01aEp6TjdxNWZVdG9RUEZYX1FITU8wNWRoaWEyQk1fN1lkU0V5cjh0MEh2Z21wUUHSAb8BQVVfeXFMTjBiS0NDa2ZyNGlDVEhKczZNVVA3anFmV2FhUnRyZkRYTnUzNi0zYVpOYTR1aFhjOVhNd09YUlpRcnJnSXE1SnloWEgzcWpqbG9HVHJ5dFV1ZjRpUmlheHRGUkN1Y0pHdUtNTkh0Y0xENDBEcUZOQlM2ZElvNlAxSUdnRjNkQV9SM2ZNZmFSMmxMOE5FSExGNllQSExzcWdtbXhTVTFPdWh1WDV6Vm9UVi1sT2dZTWlRaE83Z0R5cnM?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "doxxing_intimidasi",
+      "subclusterIds": [
+        "doxxing_intimidasi"
+      ],
+      "matchedQueries": [
+        "Doxxing & Intimidasi"
+      ],
+      "collectedAt": "2026-11-21T19:20:58.088911Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "7955183b9a29cb4043bfda14",
+      "publishedAt": "2026-11-20T23:01:00Z",
+      "title": "Dasco Dituding Terlibat Judol hingga Intimidasi, Gerindra Pasang Badan: Fitnah!",
+      "source": "tvOneNews",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQczRLSWhicnBicU5wem1QVmF4SlRWT3NuNi1vTkpldm1DVms4NDBvNHVpSzhTQThRcW5KVHdRVzFnT0lQVVJYclpsUVlDNDB6dm43dHNrQk03c2RoWnBTY1ROTUotWGp1TWpYOTJFLVRFLUY4MVRkZy1NbFpIclZXdi1XOHZaQ19LUVBkSTN4OFpRb19UNXF4SFJTTDRUVG9mMDhBZ0JXdklTcV94TjZOMXA2YzIwN2ZXOUFFcG1YSU9FOUVEaWo0dtIByAFBVV95cUxQczRLSWhicnBicU5wem1QVmF4SlRWT3NuNi1vTkpldm1DVms4NDBvNHVpSzhTQThRcW5KVHdRVzFnT0lQVVJYclpsUVlDNDB6dm43dHNrQk03c2RoWnBTY1ROTUotWGp1TWpYOTJFLVRFLUY4MVRkZy1NbFpIclZXdi1XOHZaQ19LUVBkSTN4OFpRb19UNXF4SFJTTDRUVG9mMDhBZ0JXdklTcV94TjZOMXA2YzIwN2ZXOUFFcG1YSU9FOUVEaWo0dg?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "doxxing_intimidasi",
+      "subclusterIds": [
+        "doxxing_intimidasi"
+      ],
+      "matchedQueries": [
+        "Doxxing & Intimidasi"
+      ],
+      "collectedAt": "2026-11-21T19:20:58.088911Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
       "id": "3cb44d4d384b3d86f13565fe",
       "publishedAt": "2026-11-20T21:05:53Z",
       "title": "Tingginya Jurnalis Tewas di Gaza Dinilai Sebagai Pembungkaman Informasi",
@@ -297,6 +343,29 @@
       "reviewNote": ""
     },
     {
+      "id": "7d22f49dad994ae019288b2c",
+      "publishedAt": "2026-11-20T13:40:00Z",
+      "title": "Menkomdigi Meutya Hafid Ogah Hadiri Debat Konten Medsos, Fifi Aleyda Yahya: Pemerintah Tugasnya Mendengarkan Bukan Berdebat - Konteks.co.id",
+      "source": "Konteks.co.id",
+      "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQNUhlRFc0SUFJeFc3QVNNTTFnQkUxNkY1dWd2Q0p3amlxeXp6ZGRyRGFHTmhCRmlSVzlpaXNVU0tNNktxVDhxSEZWSHYzd0dQQ1ptb3NhMS0ybUxkWDhONVJOSFJyYjBVUUJzclNWOFhZeGNaaUptX1RlaFpiVlEzMXFqVkJEUUdHUEQxWHFDc0VfM2UwR3AwcGhoV2RkSXhybDRpSzBFSEdSR1M2M1JsOW5mdC1mN1VDVm1SMGRUamt4bElmVDBBaEVhWDFyRjdtQXJIZ2RxemVoam1vaFozYjFwMzZqbGFmUk41VDNIMFl0eTRySzZILXltNkZBYmvSAf8BQVVfeXFMUDVIZURXNElBSXhXN0FTTU0xZ0JFMTZGNXVndkNKd2ppcXl6emRkckRhR05oQkZpUlc5aWlzVVNLTTZLcVQ4cUhGVkh2M3dHUENabW9zYTEtMm1MZFg4TjVSTkhScmIwVVFCc3JTVjhYWXhjWmlKbV9UZWhaYlZRMzFxalZCRFFHR1BEMVhxQ3NFXzNlMEdwMHBoaFdkZEl4cmw0aUswRUhHUkdTNjNSbDluZnQtZjdVQ1ZtUjBkVGpreGxJZlQwQWhFYVgxckY3bUFySGdkcXplaGptb2haM2IxcDM2amxhZlJONVQzSDBZdHk0cks2SC15bTZGQWJr?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "sensor_konten",
+      "subclusterIds": [
+        "sensor_konten"
+      ],
+      "matchedQueries": [
+        "Sensor Konten"
+      ],
+      "collectedAt": "2026-11-21T19:20:58.088911Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
       "id": "b228e25d1aecc78c91c12ea2",
       "publishedAt": "2026-11-20T13:29:16Z",
       "title": "Gerindra Duga Tuduhan Judol hingga Doksing terhadap Dasco Bermotif Politik",
@@ -343,6 +412,29 @@
       "reviewNote": ""
     },
     {
+      "id": "ca72504bbd21c85b1b0f233d",
+      "publishedAt": "2026-11-20T10:21:56Z",
+      "title": "Soroti Kekhawatiran Kebebasan Berekspresi, Dave Laksono Buka Ruang Penyempurnaan RUU Penyiaran",
+      "source": "Golkarpedia",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNVUQ5WDMxR2t5cnplcElTb3hLNjBZa1lkQUNxMFVFZnJxclBkbnhILWZQLVVORlJtVW51V3BJQkl0aTZSVHhILVhYMXlxZTlKR2hKSXRmX2pFNTh6R1BmVnVpXzRFSlpSeDNZSmFBaGlkUWdSMGNhNDNRMlAzUUY5cXpVUnJubUk5NlFHNkRBYzd2SU53T0tSaGExdERTb1F3U0sybERfbkhqN0dkMXEtRnU1SkdRYTg2TFE?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-11-21T19:20:58.088911Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
       "id": "954e6ffbbed9f0b914632549",
       "publishedAt": "2026-11-20T09:34:00Z",
       "title": "Gerindra Duga Ada Serangan Politik di Balik Tuduhan Judol dan Doksing ke Sufmi Dasco",
@@ -361,6 +453,29 @@
         "Doxxing & Intimidasi"
       ],
       "collectedAt": "2026-11-20T20:26:42.195623Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "ce07a207dd240f2f36f68671",
+      "publishedAt": "2026-11-20T09:05:59Z",
+      "title": "Gerindra Kecam Upaya Fitnah Terhadap Dasco",
+      "source": "MetroTVNews.com",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNWndzRXMza2s2Rmxaenl3ODVuMXhWNkFaRWxlVmUwWU1GVDJ1THh6N2RHLXA3VnVfWFpNQzh3U1BLR0x0a3A0NjVtRGpNWHMzOFpXaDBvWE5fMUpsZFozQThuVTFTbmctenUzX0hSaHBlanRzOEJ0QUlxVFI2N3p3VmNZQzlEUVVTV0JWTw?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "doxxing_intimidasi",
+      "subclusterIds": [
+        "doxxing_intimidasi"
+      ],
+      "matchedQueries": [
+        "Doxxing & Intimidasi"
+      ],
+      "collectedAt": "2026-11-21T19:20:58.088911Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
@@ -619,6 +734,29 @@
       "reviewNote": ""
     },
     {
+      "id": "0bab638c2b4301c6941941f2",
+      "publishedAt": "2026-11-19T19:26:00Z",
+      "title": "Komdigi: Pemerintah Terbuka Terima Kritik dan Aspirasi Masyarakat",
+      "source": "RRI.co.id",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxObmZLM05hN2dUa1NPbUNnUVFxQ3g1OEhUWTlLZFV5aFB3NVZXdkdNSzlNcVQxaXhETzBodXhkZl9jSzE1UGhaUjJuWHFvY0RRWFlteU9OdHg2eENWWDdvZm4wXzEyNmNHV1NjMGh0WmlkaUdhVUxCRG1OZ3dGZlFLbnFnSjM4Wjl5VmlmZ0RmNFdnMm0xZW8tSWp2ZUNOSlVWckhSNldSZ1YyaGtDTnRR?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "sensor_konten",
+      "subclusterIds": [
+        "sensor_konten"
+      ],
+      "matchedQueries": [
+        "Sensor Konten"
+      ],
+      "collectedAt": "2026-11-21T19:20:58.088911Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
       "id": "7327f0579e07c5f64a20ab33",
       "publishedAt": "2026-11-19T15:33:58Z",
       "title": "LBH BM PAN: Jangan Jadikan Kebebasan Berpendapat sebagai Alat untuk Fitnah!",
@@ -803,6 +941,52 @@
       "reviewNote": ""
     },
     {
+      "id": "399307d5b3cada16aa260a69",
+      "publishedAt": "2026-11-19T07:47:00Z",
+      "title": "Detik-detik Polisi Gerebek Kampung Narkoba di Gunung Jati Kendari, Uang Puluhan Juta Disita",
+      "source": "Tribun Video",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQRlZxTndVVmwwbkFxWDRuRTJKR1NZbk0wcVhEOXdFTHU4STNFdGExNEhPeWVRWl93eE5SNDItTmlKX3BMdUx6czhDWW1na1pkRG9vNWEwcWlRQ0tNNEpJMmJqSjBGcVZodEdGU1lZWS12S2IzLVBMeXlvNklVUEFlVV9yTm5JWUNoSWJkdTAxMHlxUWdneWpfYk9HcFEyZVNHalFGSEd3OXUtV3hDTGdIdUVDTDB2bVJzMVgxNEVpR3M0THk0UFVfenc4VQ?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "sensor_konten",
+      "subclusterIds": [
+        "sensor_konten"
+      ],
+      "matchedQueries": [
+        "Sensor Konten"
+      ],
+      "collectedAt": "2026-11-21T19:20:58.088911Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "3c84ee951d249f874e013a6e",
+      "publishedAt": "2026-11-19T07:18:46Z",
+      "title": "Dasco Minta Komdigi Buka Ruang Dialog dengan Driver Ojol",
+      "source": "jurnas.com",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZkgtZ2tMMXhMeVRQeFFUREZNYWpXMkFpalR3b3hlTHltRGxwdVY0Z3UtREc4OGtPaHp1emdhWDBZT25qVWl2WjE2a3dIOGhvOHdYVHFVdFFfcHUzYzQ5TUhwbVVwcGg3Z1JsUXFIbEZVTy1oYkpKc0xjbnA1S2EtczNFVzY4VnA0SHdpZTFsRGM5aUVzT1lfSg?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "sensor_konten",
+      "subclusterIds": [
+        "sensor_konten"
+      ],
+      "matchedQueries": [
+        "Sensor Konten"
+      ],
+      "collectedAt": "2026-11-21T19:20:58.088911Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
       "id": "18b633adcb0a44f3a92cabcb",
       "publishedAt": "2026-11-19T07:18:00Z",
       "title": "GMNI FIB UNEJ Kritik RUU Penyiaran, Soroti Ancaman Pembungkaman Pers",
@@ -918,6 +1102,29 @@
       "reviewNote": ""
     },
     {
+      "id": "0dc2f0eb626b587edc282c47",
+      "publishedAt": "2026-11-19T04:03:17Z",
+      "title": "DPR Sahkan RUU Perampasan Aset Menjadi Undang-Undang",
+      "source": "jurnas.com",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNLTdlQ1JCYjE5VFpWV2l6aFVsdHJPc1hQQXduaUVZNEJfZ2xMUGc2M1ZhX3F2VEh4VFl0U3hoV3pGUkw2QlEtRUpqeWVPMWpSNjdCNDNXcVlsdE5zNEJmdkU3YmR1T2RWeDlOdUJzRnlzeDRwdzJlWWg2RENnNHhhaVEyc2dWZ2lxcy1TY0ZVQ0dnQVU3c0EwWjhn?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "sensor_konten",
+      "subclusterIds": [
+        "sensor_konten"
+      ],
+      "matchedQueries": [
+        "Sensor Konten"
+      ],
+      "collectedAt": "2026-11-21T19:20:58.088911Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
       "id": "572514a657cb0ae90cf2d194",
       "publishedAt": "2026-11-19T03:36:26Z",
       "title": "Iman Sukri DPR Desak Komdigi Transparan Soal Takedown Konten",
@@ -1005,6 +1212,52 @@
         "Kebebasan Berekspresi & Berpendapat"
       ],
       "collectedAt": "2026-11-19T07:31:33.636155Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "f453ee5504f6b2043f78aaed",
+      "publishedAt": "2026-11-19T02:11:47Z",
+      "title": "Ketahuan Jalan Santai di Bali, Meutya Hafid Ramai Disorot Usai Absen Tak Hadiri Undangan Debat Terbuka, Begini Penjelasan Menkomdigi - Sketsa Nusantara",
+      "source": "Sketsa Nusantara",
+      "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQUzlPMDhhZVd0cEVRVDhrODk0Tl9EOUJOc0s0Qnd4LTZpTmlRNjBJb2F4UFVpZUR1WHQ2NnFHbkk3Z3U0akt0Sm9GTEo1RmZhUTcwN1N2YnZYTTl6VHBIVmlETFJXQTNVdld6Y1dLbkZvOEpoRlZTcmhIOXFheWNSYWZiQl9Fbjk1VGs0RGRwcW5DUkNNZndJbC1iS3ZUMi1ILTQ2aDJfVFkxNjhhWUtab3lpU2NKS19UZjVIN2F5bUJtWWVSSmNkUnNVVWJobmxnSEdRdG5MZWh4WTRkU24tMjlLdGVlR2ZXWWhvZHNMMjJNOG1fc3FKR3BsTmZyY0twWXhZWXB4dFTSAY4CQVVfeXFMT2ZwMFRyZXY3N3BwazdZSGRaWUg4NExXamRseDBPYVZiMnREQ2wyRXp4MS1NUWhxR2pYVzRaOC00Vm5sTGFkNE1PMFNPV2lkQjB3dzF2RkZzRE5XMWhtcUcwdUlXRVZpLWs4UWhvZjQ5aXc5M2ljU1A2NF9tVUt0Y3lwVHk0NFN6VmtDSGFIYWI4c1RxOGJONVJwTE15Q09Oa1RTZHJDRkV6LUZpUk1EZEZhc1Fvckk0Q01ubUx3SzFpVjBvTnBwUF9SRFROSXk4RDhRNVRTMHdLcFpkd3M0WWJzNHZPZzJ3eU1XUHFueTBtNGdkby1DTXlCdEh1YzVSVkJTeFBwem5GdVVBQXln?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "sensor_konten",
+      "subclusterIds": [
+        "sensor_konten"
+      ],
+      "matchedQueries": [
+        "Sensor Konten"
+      ],
+      "collectedAt": "2026-11-21T19:20:58.088911Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "fc8d55eef4a175f3dab26de2",
+      "publishedAt": "2026-11-19T02:06:14Z",
+      "title": "SAFEnet Tantang Komdigi Debat soal Pembatasan Konten Kritis",
+      "source": "Lensa Hukum",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBLQTYtVEVyS1lRUUtMWTR6blBMNWNSV0xQM2VHN0k3U3pBeFQwYWgxeUlVNjJQbFdDcUpiYjBxelNoZ1hRLW1ORmdUNmdrcktvallaU0ZvTEdtQmZ2QkRyRVhXLS1YeTg0WmxWWg?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "sensor_konten",
+      "subclusterIds": [
+        "sensor_konten"
+      ],
+      "matchedQueries": [
+        "Sensor Konten"
+      ],
+      "collectedAt": "2026-11-21T19:20:58.088911Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
@@ -1120,6 +1373,29 @@
         "Kebebasan Berekspresi & Berpendapat"
       ],
       "collectedAt": "2026-11-18T20:36:56.887933Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "1d3bfe951aff023a6f5391fc",
+      "publishedAt": "2026-11-18T16:05:57Z",
+      "title": "Dasco ungkap tidak pernah terlibat judi daring dan doksing",
+      "source": "ANTARA News Jawa Barat",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPOWRjMkZuVFB2eUZXUm0wOUpoTXBJQ0g3TnhVcTNGdVdwRWs1eXd4YUgzdWppaGRDX0sxTUlWLWFMWW1yYlFWQ2hmdzFQYlI0VmdkazA5SFlrYnl0c2RYbHZfTnVpbjYzNXpFVGw4b3pnWTdhcmNkX0ZZUE1OMzNXWGhfZFpoLThmeUxFN0VqRzRmYVB3VGMtNURYelNMN2xHQTlz0gGoAUFVX3lxTE1xOGh0ZFNFUHNMSFdmOXZ1NnN2WWxiT1BDbzVEZllrWDNZendRWHFDNDZNcnRoYWVhRExaZVgtalRXX2o3cUVGVkM4SHJPUFp0QVBocEpSU1VfUnFCZ1E3cEFyb1U5N0twUndPcUNycDkzeEpfYXFFdVV3WVpiNXpic2VLbGVMTzFXS0pWWFpKbTJDdWFIZHhsQUhYaVJYY0VvcDA2ZUg3Tg?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "doxxing_intimidasi",
+      "subclusterIds": [
+        "doxxing_intimidasi"
+      ],
+      "matchedQueries": [
+        "Doxxing & Intimidasi"
+      ],
+      "collectedAt": "2026-11-21T19:20:58.088911Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
