@@ -1,15 +1,15 @@
 {
   "meta": {
-    "generatedAt": "2026-11-21T19:20:58.088911Z",
-    "lastRunAt": "2026-11-21T19:20:58.088911Z",
+    "generatedAt": "2026-11-22T06:56:51.870001Z",
+    "lastRunAt": "2026-11-22T06:56:51.870001Z",
     "startDate": "2026-01-01",
     "refreshHours": 6,
     "mode": "incremental",
     "feedsOk": 16,
     "feedsFailed": 0,
-    "totalStored": 3365,
-    "totalPublished": 3365,
-    "newArticles": 12,
+    "totalStored": 3366,
+    "totalPublished": 3366,
+    "newArticles": 1,
     "warning": ""
   },
   "clusters": [
@@ -135,6 +135,29 @@
     }
   ],
   "articles": [
+    {
+      "id": "518b4cebde8ef02dc098ee74",
+      "publishedAt": "2026-11-22T06:10:00Z",
+      "title": "Megawati Tegaskan Tetap di Luar Pemerintahan, Kritik Penegakan Hukum dan Dorong Kebebasan Berpendapat",
+      "source": "Sonora.co.id",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNMTBTOXo4QTUzWUV3RzUteTNURlZJN25zSEtheXJveVF4ZU4ydFl6bkhQLUMwN2tpMEhKTjBET2lhVjlmbm01NFJ3NXIxX2hvbWkxT29MenRNVkJjbnMzdmFlX0pSdXpieGJpWEhLZy1HZVFyQ1JGM2dMNzQtX3ZCdmZuWVJKdFNHRlV0LTVybmxPdm1uMm0zTmpldWpuSUtLZVlpQmJIWnRGLTJ3OTlVTzFUVjlpYXd4ZjlmZGdEcnBUcHRIb2QtWmUxNWk5QTN2TFE?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-11-22T06:56:51.870001Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
     {
       "id": "05dcf0d6ef18a6750bf39f5f",
       "publishedAt": "2026-11-21T05:07:42Z",
