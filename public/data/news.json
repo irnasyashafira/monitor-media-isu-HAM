@@ -1,15 +1,15 @@
 {
   "meta": {
-    "generatedAt": "2026-11-22T06:56:51.870001Z",
-    "lastRunAt": "2026-11-22T06:56:51.870001Z",
+    "generatedAt": "2026-11-22T19:45:03.835196Z",
+    "lastRunAt": "2026-11-22T19:45:03.835196Z",
     "startDate": "2026-01-01",
     "refreshHours": 6,
     "mode": "incremental",
     "feedsOk": 16,
     "feedsFailed": 0,
-    "totalStored": 3366,
-    "totalPublished": 3366,
-    "newArticles": 1,
+    "totalStored": 3381,
+    "totalPublished": 3381,
+    "newArticles": 15,
     "warning": ""
   },
   "clusters": [
@@ -135,6 +135,121 @@
     }
   ],
   "articles": [
+    {
+      "id": "364b65178b8747a18cf57289",
+      "publishedAt": "2026-11-22T15:03:01Z",
+      "title": "Cyberbullying dan Etika dalam Kebebasan Berpendapat di Media Sosial",
+      "source": "Kompasiana.com",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOTFdwdXZnMXNibU9la3hhTG4wOUxSWGZZYTVYS3VwbnUtWHdkWGJJM1lQaDZzUEJMSXpWUDlMb21HV21oa2RoeGxlXzcyeU9ldHhaV3pSRTljN1A0YTJzR0NxdlVtN0hBNlUxYnpkWjBJOWk5b2dINmlJUWI0ZW1HMmJzbm9XUkZnTHkzYnd4RnFnMWFGTmYybkpaUWNTSGxzT09rc1VPaml4WWNuS0F0eE51aEpKOEoxR3p6eUNqU0FpUGd3Tmk4?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-11-22T19:45:03.835196Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "4c9f360aca47ae6e33073e8e",
+      "publishedAt": "2026-11-22T12:17:50Z",
+      "title": "Di Balik kebebasan Berpendapat, Mengapa kritik Masih Dianggap Ancaman?",
+      "source": "Kompasiana.com",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOQlJlRkhWVkFoQkxfdlFrd1VvWkp2ZnVkWTNXUERXZ05DbEhCelRTT3l5SEF5bERQeXg0b0J5T0g1QjFuTGdUVlVsQmp5Ynp4VGlOVDlwU2RGU0xmakI3V0ZPbUFBSTR1d1MwRXZybldUUS1oMG13R0NzWTV4VTNOZ3l0N09mWWFmV09TZlZkUU8zZkZ5VFM0UzF4N0w3NFZzaVhGZkpyYVZiVzItQ1NIdEJQZy02amVfc0dOWF9jOTZBQXYwZ2N6Q2xwYnVNTzg?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-11-22T19:45:03.835196Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "e15b1a9509e8e7c80bf2de07",
+      "publishedAt": "2026-11-22T09:01:43Z",
+      "title": "Dari Kebebasan Berekspresi ke Ranah Pidana",
+      "source": "Kompasiana.com",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxObXJqaGdTcWQ0OG1nNVRSal9TS0NtOHBzSDQ5WTRIWGZ5djJqbXlmWUFQVWRMX01neHdxUmRQSmtXY1l5ZVVVUklqWUxpZXByOHVGRWVzS3BWV3M1bk1hSmdCcndaNTZBel9QZ0ZkbmFTdEV4Vm1kTGFzME5SanF0anFTVDVDbFpuM3NVT09vNmhvVUtOdzJEbS1DclRNTzhQeE13RGJ6V216QWlEUlpyM3JyTG5PQm12cDhtaVEtSDZTRkFPdVE5SWJ3VjFTakFUM2FJWjlQTWVEc25QZFE?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-11-22T19:45:03.835196Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "379efbb10b27b6872e1b392c",
+      "publishedAt": "2026-11-22T07:31:00Z",
+      "title": "Demokrasi dan Batas Kebebasan Berekspresi: Membaca Polemik Opie Kumis dan Dongker - kumparan.com",
+      "source": "kumparan",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNejJzNU81YnZiVFN4X2IxSDhkeUVtakY5U0NDY3MxX1lwaUFaaUpJdXlKckpqd212VjlMQzRYOGZ2dDk2TEpQc0RxRUJ0MlFCcU16NGJwTUlfWU13SWdkUGJUdUJMTTMwQnhKVnE5eDZXZzVuYUQyNXNOdDBvTXdFRElhdHRsc2w3aXAzTk5ERmFnMlU1LUlQbFY2MmdEcVRkQVRNdHZDUWs2ZTJKNXlQckpDNmtNakdzYTJCdEVnOUpCSHc1WGfSAc4BQVVfeXFMT19VWEpYdmFENDhKN0tFaVZUc0tnRmpCSFNyZGdLcG5fdWJQaFZkaXhMS1IwdmdVNlNiRFFhT3BITTJ6TTdmWFlWSHFFYXJjdmVhN3R2UUVBM0JqTG0zQmtObV9DelphcHktY0VDSldkVWItdW5IR1VvSnFPX2JoQ2dISjNQV3Q1LTU0XzhmQzg1VGo5cVpiNkhSQVZSTmNKMlgweGFuTTg0bE1BTDZGaV9la25jRjVxSlV3TlpqZ1Z5RThzd3FiNEhfTW9Dd3c?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-11-22T19:45:03.835196Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "8183b539cfb629ad182c6499",
+      "publishedAt": "2026-11-22T07:01:29Z",
+      "title": "Lirik Lagu \"ICONIC\" - CL, Pesan Percaya Diri dan Bebas Jadi Diri Sendiri",
+      "source": "Medcom.id",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQSFhmS3NEcWhMWmZPWi1MZ3JCQTBPRU1uTnhuWDJxZFg1ZEtzcC0wSTVuMUZXS3VsV1VVcEhGblZndWM5NUo3Y2F3QlRXcHZja09ZRHhMWGh4U3BYaXl5NHdSSjhaWmJWWFRLYW1SanVLUkxsRlZLUHg2OHRlaXNVeTF0NWNqcE9oYy1sYW4yQXNZV05tUWpJQzRFcG9YQm84X0lEb0xBQVZXVVQxeTZ2ZjNB?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-11-22T19:45:03.835196Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
     {
       "id": "518b4cebde8ef02dc098ee74",
       "publishedAt": "2026-11-22T06:10:00Z",
@@ -269,6 +384,29 @@
         "Kebebasan Berekspresi & Berpendapat"
       ],
       "collectedAt": "2026-11-21T07:16:26.798033Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "206c0a3a35ed7dac3479edc1",
+      "publishedAt": "2026-11-20T19:00:00Z",
+      "title": "Kemkomdigi Minta Google Klarifikasi Penutupan Ribuan Kanal YouTube",
+      "source": "RRI.co.id",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOYTIxcHJMMW4ySkk3d05tTG9rTmI2VkMwN2l6RzNNU3RlUmlwVXZKYVVCSHdCd1JfeDdRcVlMdlZDLVZMdXRmeXlzeHlMenhfUU0zanB3UFRYQkljYTAwNEYzQ0tnbVFpSDNWb0hEbzl2aTE3SzhEQ3JxRE1GTWZiZ3dpbTlIWTBjV2lvVEg1NEZsVVgyWWdxbmcyZmFnblV4dW9V?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-11-22T19:45:03.835196Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
@@ -527,6 +665,29 @@
       "reviewNote": ""
     },
     {
+      "id": "d31283bdc09ba777aab3f639",
+      "publishedAt": "2026-11-20T07:10:00Z",
+      "title": "Tegas! Komdigi Minta Google Transparan dan Akuntabel atas Penutupan Ribuan Kanal YouTube",
+      "source": "Industry.co.id",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPUlJDQ2dBcEJqYzlseHFlVlZUMWNiYk4yTmVlVkN1ZVhST2ZBcjNYLWxYaTdhM092Z0FueEdhb2xYLTZKcVZ4N1pHSE94NUMxdVVvWFlNYWstRHRCdGpHMnhTQkppQjZIS0lSSnFHa09Wc1ZhTE1KSWhCOWpObG5hUWlZRWU5ZGNHblh4T2doTG9RbTVCSG5VZFZsM3FBNmNQZDdUcTdybGdkSWQ4RTN4b2xKR0JmYlZab2FnOHpocTJyRzVz?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-11-22T19:45:03.835196Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
       "id": "aed900f1400dc0f29369e1ab",
       "publishedAt": "2026-11-20T06:09:00Z",
       "title": "Soroti Iklim Kebebasan Berpendapat, Megawati: Semuanya Sekarang Seperti Harus Perlu Komando Terus...",
@@ -596,6 +757,29 @@
       "reviewNote": ""
     },
     {
+      "id": "82d2a6ce9c431e4f21fad07e",
+      "publishedAt": "2026-11-20T02:40:00Z",
+      "title": "19 Ribu Kanal YouTube terkait Indonesia Ditutup, Komdigi Minta Penjelasan Google",
+      "source": "NNC Netralnews",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQMXN1RVp3UUJ2T2tvU2pvbDM5Z1RySHNjOGdNbklrMHctSWFDRkduZjN2ZnAxUzN6ZnAyN2I1SmFJNzJPS29xOHltLVc2ZG1VUkNwMk1BVHl3eVlkaVpwWGZFRHNrcnlETHR4d2VISzdIU1lIcFh4cVRUX080bXZsTUUtbUgtZ01nRVVyNmp1WUJNa2dDeUNHV2diemZ0UkJNRmJqb2Fsa3JXdEFPMU1PbXdaLVFsLTNWVExN?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-11-22T19:45:03.835196Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
       "id": "2796fcc5db3f4c79ccfa2b49",
       "publishedAt": "2026-11-20T02:28:00Z",
       "title": "Komdigi Ingatkan Google soal Kebebasan Berekspresi Usai Tutup 19 Ribu Kanal YouTube Pro Pemerintah",
@@ -614,6 +798,29 @@
         "Kebebasan Berekspresi & Berpendapat"
       ],
       "collectedAt": "2026-11-20T07:23:24.101910Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "db584ae165f45c599f90b4c7",
+      "publishedAt": "2026-11-20T02:22:01Z",
+      "title": "Komdigi Minta Klarifikasi Google soal Penutupan 19 Ribu Kanal YouTube",
+      "source": "beritajatim.com",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQSWhGS2NIbXY5LTdBWlVVQTg4eHJYcVlfYk9FaDdBYTBOXzJsQm9QZUMtVlU4QlRGRUl5MGFFNDFmbG5rSmVmcEFzbXpPV0EzS1FYYVdTVzR1c1JCNnlBS01zRk5sdnhaUnRhR1hFOUsxSDVHTzNzWmpMUDJXcjZUdGJneU5MWE05Mzd3ZmVnNzV1Qm5HTzljQg?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-11-22T19:45:03.835196Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
@@ -803,6 +1010,29 @@
       "reviewNote": ""
     },
     {
+      "id": "00399537e80ef68d1252278d",
+      "publishedAt": "2026-11-19T14:44:00Z",
+      "title": "19.372 Akun Pembela Pemerintah Dibabat Google, Komdigi Tagih Penjelasan Resmi",
+      "source": "Inilah.com",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPcGZWcWZaMTdfdVBvSmZEWDQ3X3IzcTBUeTZubGtZaGRocVhXSFprczFXaF9fRWc4czEzY1FfejFKQ2ZJTlI0Y2w0Y183ZUg5aUI4a2hMNG9TOGlTSjFXZEhUWU5MaGJWbzBkQ1Z6VGpwcW9CbWdfalpyRjFlREdKSEpoS0pLSlp3aXJSb3FPNm5LbUl4bDlnNGRaa25oXzg?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-11-22T19:45:03.835196Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
       "id": "bb664256936248af48b86e97",
       "publishedAt": "2026-11-19T14:32:56Z",
       "title": "Darurat Kebebasan Sipil, GMNI FIB Unej Sebut RUU Penyiaran Ancaman Pembungkaman Rakyat",
@@ -821,6 +1051,29 @@
         "Kebebasan Berekspresi & Berpendapat"
       ],
       "collectedAt": "2026-11-19T20:42:18.158400Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "bf570cd308a43260b9b124d4",
+      "publishedAt": "2026-11-19T13:50:00Z",
+      "title": "Respon Komdigi soal Google Tutup 19 Ribu Kanal Buzzer di YouTube",
+      "source": "law-justice.co",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNazhNdG9IQjF5NG1yTFpIZ0R4NlJlQW93cDNVVzhTTFNWM1BZUEhLdGRuZm1mZWQ0bHNZUlcwd25Yak82dmFZanBRbFowYWQ3T01aQ2E2UFA1MXVucHNTSG1FeXpwMHBGMk9yeHQ1RnZMbFU1Ykpvb2Y2N2FVc0FZX3RtTzFtN1JaZ204UXdzV3RWYm9DYXpKZ3JPZXVHUlR6amJwU3FRZ3FrQnc?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-11-22T19:45:03.835196Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
@@ -872,6 +1125,52 @@
       "reviewNote": ""
     },
     {
+      "id": "0a2079445eac2d6127775f16",
+      "publishedAt": "2026-11-19T12:38:20Z",
+      "title": "Komdigi Desak Google Jelaskan Penutupan 19 Ribu Kanal YouTube",
+      "source": "Peradaban.id",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBUUlpOV3JpTGtPSVdYbkUycHNfY0ZoTTJKdVc3NWstUEduZzhiWUt0aEpvQUpjdkZFQjhrR09LdFhpeWxFRXN6RzU4ZUxRbV8tZGlRN1RMWGZUMjR2T2VTbHEwZm9zY3hDT3ptcVFR?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-11-22T19:45:03.835196Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "77d8b9d0b6d69622c17c6af4",
+      "publishedAt": "2026-11-19T12:35:51Z",
+      "title": "Komdigi Desak Google Jelaskan Penutupan 19 Ribu Kanal YouTube",
+      "source": "شبكة تواصل الإخبارية",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1ncUMyUElpdE52U3QzdVRVU3NHS2ZKeHkxeW8yTTEzLXBCbUdtOW5SM2tpb1dZcldjcWpKQzBsX3NyandfUVdwSlEzVTFQVVY4VGtR?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-11-22T19:45:03.835196Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
       "id": "c4f9b5a1b9acca9cb6855d11",
       "publishedAt": "2026-11-19T11:24:00Z",
       "title": "Sugiat Santoso Curiga Hasil Sadapan Presiden Bisa Dijual, Siapa yang Diuntungkan? - Suara Merdeka Pekalongan",
@@ -890,6 +1189,52 @@
         "Pelacakan & Penyadapan (Surveillance)"
       ],
       "collectedAt": "2026-11-19T20:42:18.158400Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "cee08aa8b098433953cef092",
+      "publishedAt": "2026-11-19T11:11:42Z",
+      "title": "Dino: Buzzer dan Ancaman Intimidasi atas Kebebasan Berpendapat",
+      "source": "kabarpublik",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNb00xUVhjYldBemRqYjBaa2JLWTN2TE0yMlh4emJ3MEhRQV9nQ0ZJajFiZ0Fjd0oxZHFEd3VBQS1XQ2lWUHp2cmE4TkZaWnUzMnFaY1hWTmlHbHVXWFNNWVFxd2taQ3F0VkZtZDlHd0d0YWlTaktJdEZQZ0RNQW5IRTh3czVJUnhzYkxIV2lXNkE0UWxKNVpIT0M5TzU?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-11-22T19:45:03.835196Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "eddb9fb2cba333338a69ae42",
+      "publishedAt": "2026-11-19T11:06:00Z",
+      "title": "Standar Ganda Demokrasi: Aspirasi Rakyat Dibalas Represi",
+      "source": "DataRiau.com",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQSktWRWJlLUVDRk5qb3hkeHJHNjBrdmtQZUNKZUozRllfdEVvOXdnUWRCekR6ZG1oV2stUmpKZVdhZzNYZkVvVndJWFpUV0FrWkYxNzJrUERWaHR0NDBIblhXYndqYmFsNXFqZ1ZsWU40OU5KeUlfNURkZTYwZWVvZjBSVTJiX2J2N2YtN0VyYzNFNzU5Yl9DUTJB?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-11-22T19:45:03.835196Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
