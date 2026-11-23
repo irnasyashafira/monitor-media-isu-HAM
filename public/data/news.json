@@ -1,15 +1,15 @@
 {
   "meta": {
-    "generatedAt": "2026-11-23T07:45:39.514493Z",
-    "lastRunAt": "2026-11-23T07:45:39.514493Z",
+    "generatedAt": "2026-11-23T23:57:40.515495Z",
+    "lastRunAt": "2026-11-23T23:57:40.515495Z",
     "startDate": "2026-01-01",
     "refreshHours": 6,
     "mode": "incremental",
     "feedsOk": 16,
     "feedsFailed": 0,
-    "totalStored": 3399,
-    "totalPublished": 3399,
-    "newArticles": 18,
+    "totalStored": 3438,
+    "totalPublished": 3438,
+    "newArticles": 39,
     "warning": ""
   },
   "clusters": [
@@ -136,6 +136,259 @@
   ],
   "articles": [
     {
+      "id": "96299cab9c0f629f9fa04146",
+      "publishedAt": "2026-11-23T17:25:38Z",
+      "title": "Ketika Kritik Dianggap Ancaman",
+      "source": "Kompasiana.com",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxONDhJcWxWWVpxcl9keWNIeVYyc1NNQjJqMFlLanRJOW42NHFCMXdSQkh6UXNiYkpPR3hHd3l6SHhiV2VxbkVvaXRsOFhseHRaSXo4RGQ2UU1mdXFoUHVmb2NlUEtmRWF3elJBWHRPZzlFTGEyTlJrTXJ6Q2NJdkI2Uk5yVFROeklBYkFzVVBzYW5TM1FCSEhuWVpfSQ?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-11-23T23:57:40.515495Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "25e4e3e1b4138d6b863e2a20",
+      "publishedAt": "2026-11-23T15:55:22Z",
+      "title": "Ketua MWA Unair: Pendidikan Tinggi Harus Lahirkan Generasi Berintegritas",
+      "source": "Media Berita Bangsa",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOM1M3aS1sQlJQaVo4SE5haWlmX2xhVjJnVDRNMEdKcVUyMjlBTFFWNkQ2dGNYTmVLNjRybk1PN0pJdXhsV1JaM0FvM2lhRFhnZkN5M0s2dE5UVVY0dFF3XzQxbTh5U2VCQUZtdVdvVzBjUFBVX2hFYmExX3ZSSmVHQWRPeF9aMFlTT2RJN090WW1iWTU5Zy1GaVZnU2x5cW8zdVNLWTRkTGd0ZmM?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-11-23T23:57:40.515495Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "b569c01fcc9e727f74f6bfe0",
+      "publishedAt": "2026-11-23T14:03:00Z",
+      "title": "Kritik Karhutla Dibungkam, Demokrasi Membatasi Suara Rakyat?",
+      "source": "Radar Aceh",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5uMkVyMzAwdHE2akVVWWhURkRhQkJJdTYzM1JPb3JERzI3UDJMRXNVcThvdzIyckJRZ3EzdWV2OGJKbEo3Nmp6YnJ3T3ZZc2hFWWdKYnAxN0Q0MzJub2VNZW9IU0U0TVZzYzEwaXFTQXBCZXhHOWdESUYtZzBqdw?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-11-23T23:57:40.515495Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "b5bf1cd062703d096c97d73f",
+      "publishedAt": "2026-11-23T12:47:43Z",
+      "title": "Hasto Kristiyanto: Pengisian Jabatan Wapres Harus Sesuai Konstitusi",
+      "source": "Kalbar Satu",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQYTl1UkFhTDZqRUN4SmhsX0s2dnBpdjBoQ250WTh4WWFyVlpJVUZBWE5YMFA3cV85eFh4NGNrRmRrUmFIbXZPeGl5bWN0cDRCYnMtT0QteGRmOEdDZFBYUGlpejdNak9wbUctVF9Mek5yM0FUd29KU2NWMkdRcGtqaEJaQ1FqQUgwYWJiMmY3dm9NYzR6VW1BT3llcm1JM2NqOVJ0Sg?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "sensor_konten",
+      "subclusterIds": [
+        "sensor_konten"
+      ],
+      "matchedQueries": [
+        "Sensor Konten"
+      ],
+      "collectedAt": "2026-11-23T23:57:40.515495Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "bd90fa12051f2fabab56267b",
+      "publishedAt": "2026-11-23T12:15:19Z",
+      "title": "Kemkomdigi Buka Suara soal Pemblokiran 94 Konten Digital, Siap Telaah Ulang",
+      "source": "Telset.id",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPbjlSRTFGYUNKY0FKblppZXpFeEFmakFsek9qMnpRekw3RDZSd2lqWXVtTVNBcDJLSGJyc29pQld5Vm85WjFPTGdCajMzb1Z6SUE5eFd5NS1hUnRCc1lMbmd5RGdwXzB1a3RUemc0MmNRbDlONHhKZjk1U0l3UGY2Vm1XZXdaQ1FFUmtJS2d5OEM1MEdKOWRqa2JlbkdUMmVValRVT1Zn?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-11-23T23:57:40.515495Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "d03457d1a3b54c2673ef2437",
+      "publishedAt": "2026-11-23T10:35:00Z",
+      "title": "Advokat Aziz Yanuar: Era Jokowi 38 Kasus Kriminalisasi Aktivis, Kini Aparat Penegak Hukum Justru Masuk Penjara!",
+      "source": "Democrazy.id",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOQUpPQ01EOHVpYXN6OS1wX3NlUmJyc2Qwa1ZybjE1VnZ6VTIyRzlFRGJrMF8xSDdQcVU0eUxlM0QxeWJOWGdvMUJDRUJUcDhVNHhuWVBqZmZJVE4zSkRPUEp2Tmc0aG4xMkpEVlF1S0VZblVnbkg2RGRzQkptc0wxd0Z2WmJsMnNXZUNOcjcxVWRXV0N6S2JkTVdnVzZTUlJqano0X1d0YkNPSWdCMy1NVTNlMjlBTFdHS0VBTUNWZDJUclVWQUhfZmlR?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-11-23T23:57:40.515495Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "59390759ad1dd31bc31efd6d",
+      "publishedAt": "2026-11-23T09:35:41Z",
+      "title": "Jejak Pembungkaman Demokrasi Melalui Kaki Tangan Birokrasi Hamdan Juhannis",
+      "source": "LBH Makassar",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNT1ZvYUphUXJwZVpDZGItQ3RuV2Z5YXpXNmVteVoyQnZxaHBEUWQxdFRVdTdXcjVraDJCZVNyc0g3T0xpdTV3Vk90bmtiVDNKbHBFMjBMazZSU2NWWHdva1htdTUxaUtqdzFUTkptY1B0RWNydlBfWE9wNjhGUEZoQ2RXR0VIVGh2WjFPR3JGSVdpcnlHVmdJa1NMUU1hRmRvNzM5SnEtQmRNZDR2Tk1RTFJrYw?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-11-23T23:57:40.515495Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "2be84c078ae108dc1a18e384",
+      "publishedAt": "2026-11-23T09:12:44Z",
+      "title": "Pileuleuyan, Kang Cecep!",
+      "source": "BandungBergerak.id",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQbl9OanV0U2hpZ2JvLXZmNjBsM0h4aHFaUlN5Uy1QTC1SeVVRbHVPcXlqV2NQY2FpWTVMb2laQXhPaGxOckM0Rl8zdDcycHB1U2YxOHlwWDFkeWpWaWdOTU9HWS1VZWtvSUlKaGVZcElrNHlCZEFnNTR2eVhYRVJLVQ?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-11-23T23:57:40.515495Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "c012e012189d87893ffc2b60",
+      "publishedAt": "2026-11-23T08:58:09Z",
+      "title": "Menjadi Warga Negara yang Kritis di Tengah Maraknya Hoaks dan Penyalahgunaa Halaman all",
+      "source": "Kompasiana.com",
+      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQM05UMzBFZmRvN0IydmhSVHBPWVR1ODEzdjNXZGVnMDVVSF9TWVRaZ21IdmNPbHE1TFZEVDFWeUNHMlJ4bXFYWUxybTNtTjZ2YVFncFE4ZmdfdjZRMFdydEN5NmFMZlk3cTh3S2RtaTdkZWlnMDNWaUNmVERpT0taOWIxcjliUk4zanhYTERCX09QVUYyeDZGSHlPWHd1RWtIWVNES1YtNkljVmZTclNiYkpzb1BXT3Zwc0V5VU1uMlVtNW9XSDN4c05WOGFENmw1WExIWFBVR0FDNEVXQkFpYXpSYnJrWjE4NUtvVGN6MnRYZWM?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-11-23T23:57:40.515495Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "89d60368db01a27a7cf24b28",
+      "publishedAt": "2026-11-23T08:17:29Z",
+      "title": "Kritik terhadap Kinerja Komdigi: Polemik Takedown Konten Kritik dan 19 Ribu Kanal YouTube",
+      "source": "Telset.id",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNYWstTTI4NEpKdlhlVG43U3hBMjBiOHpnY2w3RXQ4Vzd1eVNLdlZwVXVKSUZrWnIwdVh4OE1ubU92di0tN2xZeTY4WHF4dDRfbWpFQU5hcnU2QXA4emJBa2k4V0VpNjBHMTA5cU9RVDg3dXphRHFmTDdPV0dyVDNVU3FWTEl6U2xFN1IwQTVn?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "sensor_konten",
+      "subclusterIds": [
+        "sensor_konten"
+      ],
+      "matchedQueries": [
+        "Sensor Konten"
+      ],
+      "collectedAt": "2026-11-23T23:57:40.515495Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "fa7d36fd6121ea57f8c9d785",
+      "publishedAt": "2026-11-23T08:12:52Z",
+      "title": "Rakyat Boleh Bicara, tetapi Apakah Suaranya Didengar?",
+      "source": "Kompasiana.com",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOUFh2NmNCeXBHRnVURThWRVFJbjI2WVUtZGs1RFF6aHc4UUtCQ2wtczkzOHFzZ3gyZE00S0VTTGM5bTcweHRLYUx3UkJzQmVRUlpnc3Nwa2Y2Uk82T044SVRMTUlpY0ptUUNnc0kwb1pzZHhrSFpzdWUzUnpnWlNRRWZLUHdXWUp6T0RXWUFINGhSeHVTZzVybUZGTUxkb0xrY2xmMWZfSHVteDFkdmNUZ25Eck1VLWJ2Y2dvaHhIcFA?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-11-23T23:57:40.515495Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
       "id": "046185d111fa4a79888e2869",
       "publishedAt": "2026-11-23T07:29:40Z",
       "title": "Menjadi Warga Negara yang Cerdas dan Bertanggung Jawab Halaman 1",
@@ -182,6 +435,29 @@
       "reviewNote": ""
     },
     {
+      "id": "7d017536f80b6eef1f23f42c",
+      "publishedAt": "2026-11-23T07:07:16Z",
+      "title": "Jangan Asal Bagikan: Hoaks di Media Sosial",
+      "source": "Kompasiana.com",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQVnBsOWcyUVczazBZbV9pSmZ6a1hmd2xldlJUQVl0cy1HZTlJTV9sVmVzeUtDVHpfczdBZmJwY2FzTm5RelFVaGJtUUtjZDNNeW5WTkswellSc09KTnluMHFGSER3RXBkTzlZVkFaeDNoY2RCQ1pkT0k3UkZtMkZXNVl0OEdrcDl3MFBjeURFdktkdXpRMzB4d1dlOHFiSzdUTThpZW9ycWxFRUJBS2Fkdg?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-11-23T23:57:40.515495Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
       "id": "1add213a7b43ff2074c46f6b",
       "publishedAt": "2026-11-23T07:04:04Z",
       "title": "Kebebasan Berpendapat Di Era Digital : Antara Hak Warga Negara Dan Tanggung Halaman 1",
@@ -200,6 +476,29 @@
         "Kebebasan Berekspresi & Berpendapat"
       ],
       "collectedAt": "2026-11-23T07:45:39.514493Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "2a3cd727c3514b5a24220df0",
+      "publishedAt": "2026-11-23T06:34:09Z",
+      "title": "Ketua MWA UNAIR Soroti Pentingnya Pendidikan Karakter Melalui Pemahaman UU ITE dan Penggunaan AI",
+      "source": "Universitas Airlangga",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPUlpyOVFTMTNXRjIxSHc0UVNpY0Flb0tpUzBKbld6d0w5QXFGS1loUEM3WUIwbVhqeXU3RUM3NjJqUFlYbU9Ic3l6VVZTaHlBQS1CV3B1dmNGcDlqR3hPeVBJSUlWUF9pZENLUkNRbTVtU3EtdXhwUGc2RGhLZ295S1ZUTnFTZmpnM2Y3SG80SWg2X2wzSlRaT0JPeWktM1dfS1V4UVhheFpQdzZrM1NVMXlIQXBsM1lE?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-11-23T23:57:40.515495Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
@@ -274,6 +573,29 @@
       "reviewNote": ""
     },
     {
+      "id": "124b5751845b254b8f4edc4f",
+      "publishedAt": "2026-11-23T03:53:55Z",
+      "title": "Jadwal Tayang Film Laut Bercerita di Bioskop Sidoarjo Hari Ini, Cek Selengkapnya di Sini",
+      "source": "Warta Sidoarjo",
+      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNS0h3elU1RU9uM0VIV3dleDM1c2N5ZHpuaDU4UmY0cy1rSHlCeUpCazFKbHk2cmM3UDV2QXlVbFRBa1dNTW16YWZ5RmxpTVVnOGZqMGhGQmpTSXNJNUczaF9TQlBXYlluUkZTdE1ZY2k2TmxJWmxkQXd6WmpGWkdwX0FLazk3em00WmM2NTBLWVBCOXV6MHROVGJxbFRqQV9rbG9LLU1YejVILVZHb01qS0s0SzJ3YVZ6ampQanE4OTR2LXRJVEhzcmhxMUE3TlpvMkVSOE5Cd29kcmFuSHYwQ2k0UDF0S2Itdml5T3V3?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-11-23T23:57:40.515495Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
       "id": "5bc9f7a01c2955b179bd7541",
       "publishedAt": "2026-11-23T02:28:49Z",
       "title": "Ribuan Warga Turki Demo Tolak Penutupan Media Independen",
@@ -292,6 +614,29 @@
         "Kebebasan Berekspresi & Berpendapat"
       ],
       "collectedAt": "2026-11-23T07:45:39.514493Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "1219beda606efe0cfa244e30",
+      "publishedAt": "2026-11-23T00:12:00Z",
+      "title": "Menjadi Perekat Bangsa di Tengah Badai Provokasi Digital",
+      "source": "UIN Alauddin Makassar",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPc20wTnNha3NJamZCT3ZNbUQ5ei1scWJIZ0VxdmUwWFRaVmpQWlNCOUhYMVdTUU8wZ3NOMHE4WmtUZG1SUmFITmtnNFVYLU1tMk0yT3h3OWdtWlJ3LTM4YXdtdXE5djYwRFcydS1SWjRNa1ItRGNobmNnTXNWaG9TeDFKOFpQaDVDbHNuZF9DbThFTjlrVmZNaVBnczU?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-11-23T23:57:40.515495Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
@@ -361,6 +706,29 @@
         "Kebebasan Berekspresi & Berpendapat"
       ],
       "collectedAt": "2026-11-22T19:45:03.835196Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "e9b2f8348c8fd7daa9964fa6",
+      "publishedAt": "2026-11-22T09:20:00Z",
+      "title": "Judi Online di Indonesia Masih Sulit Diberantas - kumparan.com",
+      "source": "kumparan",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxONTIxTFMtRWM3b3hqOFAxYk93Y0ZhOEpjejlndnNKemxlbG5yZjRUQTB4aktEVTVrQXU0b1JtWUxYRFI4N3JTX09wSFh4ckJmNDE4YzktRElpR1p2dF9FbWRsQWNYY0Q2bUxIMTdfeU5hc1ZDS21raFpEUno5MUF3c043T0JKbWUtQlJ4OGZSOHk2WmQzeUYzUEwzZXM1Z9IBngFBVV95cUxONTIxTFMtRWM3b3hqOFAxYk93Y0ZhOEpjejlndnNKemxlbG5yZjRUQTB4aktEVTVrQXU0b1JtWUxYRFI4N3JTX09wSFh4ckJmNDE4YzktRElpR1p2dF9FbWRsQWNYY0Q2bUxIMTdfeU5hc1ZDS21raFpEUno5MUF3c043T0JKbWUtQlJ4OGZSOHk2WmQzeUYzUEwzZXM1Zw?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "sensor_konten",
+      "subclusterIds": [
+        "sensor_konten"
+      ],
+      "matchedQueries": [
+        "Sensor Konten"
+      ],
+      "collectedAt": "2026-11-23T23:57:40.515495Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
@@ -458,6 +826,259 @@
       "reviewNote": ""
     },
     {
+      "id": "601b51ce8ad223f8f6604dcf",
+      "publishedAt": "2026-11-22T05:56:00Z",
+      "title": "Kapolres Bogor Hadir di Tengah Jemaat GPIB Pengharapan, Perkuat Toleransi dan Jamin Keamanan Ibadah - Realitas Online",
+      "source": "Realitas Online",
+      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNbWZfSDVZQzVDNDBPQXFYRlhiSHV5djRpNVVZNXp2bkhkd1BPbWRDMWsxeG9ZVDFTcmhSdWQ5NVZiYWowS2UyVUNvS243b0xsazhfbWdVQzk0ZEhTRTZWRklYd083a3lpSmdqTFJPQ1dBbjZqRU9GYmw0aTB6Q2djemVHTzdtTEhWcWR5QTFlZ3RLOHdjTUpZaWgwaXJPWXltRm8tQmQycHhOY0J4LXh1OGwwQzdSRGdSWGh0Z3F3azBMc2FLRlNMeG95c1hnR2xnR0Qwc1BSVTVZYm1DaWhTcUp4bEdCd9IB5gFBVV95cUxNbWZfSDVZQzVDNDBPQXFYRlhiSHV5djRpNVVZNXp2bkhkd1BPbWRDMWsxeG9ZVDFTcmhSdWQ5NVZiYWowS2UyVUNvS243b0xsazhfbWdVQzk0ZEhTRTZWRklYd083a3lpSmdqTFJPQ1dBbjZqRU9GYmw0aTB6Q2djemVHTzdtTEhWcWR5QTFlZ3RLOHdjTUpZaWgwaXJPWXltRm8tQmQycHhOY0J4LXh1OGwwQzdSRGdSWGh0Z3F3azBMc2FLRlNMeG95c1hnR2xnR0Qwc1BSVTVZYm1DaWhTcUp4bEdCdw?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "sensor_konten",
+      "subclusterIds": [
+        "sensor_konten"
+      ],
+      "matchedQueries": [
+        "Sensor Konten"
+      ],
+      "collectedAt": "2026-11-23T23:57:40.515495Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "a7e5dd12007bdfcf35b9f392",
+      "publishedAt": "2026-11-22T04:59:15Z",
+      "title": "pelanggaran HAM di Indonesia : Ketika Hukum Ada, Tapi Keadilan Absen Halaman 1",
+      "source": "Kompasiana.com",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPU25UYk9MejBleWxYczVVemtES0p0TjlUc3o4VzBuT1FDc00tTFdITERhY1J4Y0hGZjRfVTFtZ2FJdS1wWVl2Y3I2YmxDak1idm54VkRvMThYY3ljeHFMSzBDZ0owQWVzaXZXQUhmbC1TVFNDdW1WRHZubkFjRWlEVUJXc2trRzhOOGdONzNuaDdWQXI1eER0SVp1LU4wSGt6SF9vRFNXZDI5bDU0MWVVM1VTNkZUSmFCWk9uQkdHdEVlbUJ2NDNYWDVaX01fX0JqOXc?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-11-23T23:57:40.515495Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "5c2f56d54ca6fb588ddb9f1d",
+      "publishedAt": "2026-11-22T04:28:03Z",
+      "title": "Indonesia Susah Jadi Negara Maju bila Demo Terus",
+      "source": "Kompasiana.com",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPSVF2dDFSemptUWQ2S2lIa0JaQ1NkZGQxYk9nbTBYX3ZOZjZZa2VibWVCaHNudzUyb1FDcGcyZjRqX1c2R01iYjNQdFRFaG9MZ3Q4dWxPM1lySUgtcU1haE54SkhabWtrYUZDZHRHMTBpOWlENGd2dkd6VU9YT056eHQwSTRNa3hJRXJ4ZmItSlE3YTlhZHdteEVJUFVPR0R3VkhHSm9Ed0JXMkk?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-11-23T23:57:40.515495Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "18a76083e4ca96e12615c6d9",
+      "publishedAt": "2026-11-22T01:41:00Z",
+      "title": "MAUNG Tasikmalaya Soroti Kericuhan Demo Mahasiswa di DPRD: Hak Aspirasi Wajib Dilindungi, Kekerasan Tidak Bisa Dibenarkan",
+      "source": "Warta Indonesia News",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPY0RBR0FURnNtODh4bGt4d2FlVDlKal81aWZWMkozWDl0X1U0MmdoOWZSOWd3MlRCWGszOEQ5WVRJM1NkVDNtUHpBa2NTRUxTTUNjR1luanZPRGtGc0IzOUQzLTdxdWlqTXN4MnRtUjVrX0dJalRqQ19TZXN0alVfQzNzeDlMZHVqdFowQkZxc0VZZHc?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-11-23T23:57:40.515495Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "7fe04b3eda3c5295409912b6",
+      "publishedAt": "2026-11-21T22:12:10Z",
+      "title": "Meruntuhkan Ilusi Identitas Tunggal Amartya Sen: Memutus Tirani Fanatisme Golongan dan Algoritma Kebencian",
+      "source": "Jalan Damai",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPRU14UjJ3T3FZTDNMZGdwYXVJWlk0RVJjRnJDX213LVhEaWIteDB0V1F5Vnk5UW5MV0RxNXBSRkVQTmhwOGZOQkYzMDAyTXdmelJPaV9CSGNoYU1xb1BnekFWUl9oWThDVkFMUVQ0MWhNWERYbXBKdjVPRUZqSE0xVkJEazBTTE9FNGtycUQtcDROLUM4MEsyZTJ0T1RtUnU1N21QN3lRSTZZRF9ZNFFBSm5tRFhoRU9fLXBpaTRBb3FqMlR4UkttcnBIWXY0UdIB0wFBVV95cUxORV9FVmp6TDFteHJCZzNhcHdxLU96LVp6NzBKUVZ6QmdubUlaY01TNDFKYjNSc2JvYV9ma0p1clg1RExudmVLc1dic0pDRXVyZFNfMEc5WEJORHNkelAzdTlDM1lYd1Z6Z0pHenAxZW5pWDZoWjVzYkFpaDZvZmJpaXJzT0ZxNC00MXhsRllQRjNnUXg0TzZXbDRLbDVtZWpvY0VCZEVLZzdRbmNKQnE4YXhjWVd0Qzl3bllicklCWVRLZmRIV0lSLVc3Mmg5UGF2ZHlj?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_berkumpul",
+      "subclusterIds": [
+        "kebebasan_berkumpul"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berkumpul / Berserikat"
+      ],
+      "collectedAt": "2026-11-23T23:57:40.515495Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "9d9e6a86b1ba5a209bf6b9be",
+      "publishedAt": "2026-11-21T13:15:40Z",
+      "title": "Jangan Lupa Besok Transmart Full Day Sale, Serbu Toko Terdekat",
+      "source": "CNN Indonesia",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPOGdQb2h4YU4yRzA2ckt0dHMtbHRpUVdGa0ZsTjd3Tjl5ek5ELWJXSk9xRmd2djE4QW9acHdZQ1FUaTM5cHRfTERMLVBXMlowQXlpajZHRnV5dWV5SV84SlEzYzhyYWlYYmgxaUQzeVRwbUpIczB6QzhvdU9fNERXVWxCT1Y3R0JVZXBmejh0ZzVadkFJSEpaTGkzWWQ0bmd2N05OVE85QnFDdl9uUGZ3aXRET0EydDJFakhFbzlidzA3d9IBxwFBVV95cUxPZUhwZ1ppWTkxcVlLSDdrSTlEUEZQYlJ1aFhBVlpQalFrbFlJa21zaEdHTjU3UmJidTA3TUFNZUNmYWNfdDU4WlUwekFjRnE0dVQ2dFlUcHlnRXhTZlZkSmFMcjVDYmVPNGpzN3dGZ3B4aHJCUS1UdXZnMDg2UHB5WXljZnZhTWVyel9sd2dYNWt5NUM2aGdUajlkWXk1bE5sdzN0YzlDQXQxUVEwaEZsM2pxYkVQYk9qUFNMQmhlSl9laVRDUDk4?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "sensor_konten",
+      "subclusterIds": [
+        "sensor_konten"
+      ],
+      "matchedQueries": [
+        "Sensor Konten"
+      ],
+      "collectedAt": "2026-11-23T23:57:40.515495Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "3e0f8d0f844c2b92a36d5cf7",
+      "publishedAt": "2026-11-21T10:57:31Z",
+      "title": "Protes Penghapusan Akun Instagram, Partai Kongres India Geruduk Kantor Meta",
+      "source": "TradingView",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9ieHg1azU2X3JtVkNNX281cTVWbXhxcWVFZEY5b0d6ZVJ2cFVpWFF5WlczUWdSTHZqLVlOc3lBRE1NZVp0VDJOel9ab1dVZ1JTc1BxQnlJRmRQMGtUVWhfTkY5QjJyUQ?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-11-23T23:57:40.515495Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "c84fd1c07d83302f3bf3c54d",
+      "publishedAt": "2026-11-21T10:31:40Z",
+      "title": "Komdigi Minta Google Jelaskan Penutupan 19 Ribu Kanal YouTube",
+      "source": "www.suaralandak.co.id",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1MdGhFb0VQcS0yc0pUWWpjU3c1akRsdllpSUVMOEcyWUM3cXNnVFBRWWxKRHdOU3g1eWNHSTZlRk1LLXIzSzlMbDJnMy1TQ0kzMVVvZVJNMlhBaDQwZndEUTN0OWRaNHM1Ty1HRjN6YWc1U3NhdHB3?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-11-23T23:57:40.515495Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "ef403d8bfb763a8443b23031",
+      "publishedAt": "2026-11-21T08:18:00Z",
+      "title": "Dekan Fakultas Hukum UKIM Ambon, Tekankan Pentingnya Verifikasi Fakta",
+      "source": "RRI.co.id",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPX2ZlZmh4ZW9XcGZSU1ZROGNYTUhYZjFTa1lBU05yMEE0Z0hZM0RZWFp3OUFnZ1REQlFzWHdEM2gySnBjWE5TVTFYLU94WThKc1gzeW5wR1p4aWZEalU2aXlzSVczY2lFbHhIVUg0Q2V1dmI5WEE4Vk5GUVdpZG5VTW1zZW1YMHBrQlhRaUxyN3Qya25tN2VYWGotNU9sWENyMjZGMllNNXN0VXBPZ0E?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-11-23T23:57:40.515495Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "42ac58344b2bb9262e76bd2f",
+      "publishedAt": "2026-11-21T05:52:31Z",
+      "title": "Manifesto Politik Gen Z Suara Generasi Muda Untuk Demokrasi Yang Transparan",
+      "source": "Kompasiana.com",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQRE1CcUttNWhlTEw5R2JvT0FGZ2J3Ul9jUkZaNWdRMTJMOTYzTkZNMU85Z3ljNUFzNWppTFUtYWVFX1dEMFB1Y3dOT3hBVkFTTk55R2ZsUlhWcGhUUzVyVFVKenc3SFBqZEw0WE5hUjE2Y0pDSURUVU5wLW9tcmFhcUljcXhyZVpTMGExOGJtRXpjNERrOHNVczcwZjk5UGsyRnVhZWpHZmJ0MDYwMEJhZGdKcW1NTWFIZHlyd0paTUZXRlRYeHRHaTVGcklIcGJvY2pXbko2UjM?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-11-23T23:57:40.515495Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "588891719314dee63761e2c4",
+      "publishedAt": "2026-11-21T05:29:47Z",
+      "title": "Mahasiswa UB Ajak Mitreka Baca SMAN 1 Malang Bijak Bermedia Sosial",
+      "source": "Kompasiana.com",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNVmlrZTZ6cXhEN1VBRGNteEFyaGRqbTliVEhtYzdlVm9uckVwYW9aMVBGTWJnZUxsNXVYSHZ5eWstZ1lFUXpRMXF4NTRCU3BCc2NCaVpVNS1yQ2xrZWFJdk1KT3RYVkM2SG9KOHktUzBXT3EzYzJvUHpXRUI0MWl6WEpGWWVGTFVId01UY0Jjd3NzTmdzMUZHbFhDTFgtX1BJSGdkbk94R28tcERjWTRFWVlFdll5cXhyMU9WeGgybEJKcGs?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-11-23T23:57:40.515495Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
       "id": "05dcf0d6ef18a6750bf39f5f",
       "publishedAt": "2026-11-21T05:07:42Z",
       "title": "Tutup 19 Ribu Kanal YouTube, Jangan Korbankan Kebebasan Berekspresi",
@@ -481,6 +1102,52 @@
       "reviewNote": ""
     },
     {
+      "id": "b40e3008b2fd539172d74b47",
+      "publishedAt": "2026-11-21T03:28:06Z",
+      "title": "19.372 Kanal YouTube Ditutup, Kemkomdigi Segera Panggil Google",
+      "source": "SulawesiPos",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQRVJTQWdSOUR4elVJRktHQW5JenEwVFhzNU1FWURkUmpLUC1vWFNlOUZ3S1FfY1gtYTR5c0s4b2pMeFNmYUdGVTFOT3N4dHdlUm91Z3FCLTQyd1hsR1ZNbzFjMkswSUFrb2xMT1lBb2lHZnJIdkFBN1lPQTFTLWR6ZXMza2l6aWJhNmI5T1RoN1ZsQW5XUXp0UjllMzBhNkdhQTVLSFVVWU1EZw?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-11-23T23:57:40.515495Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "4227757bb09644762b714c33",
+      "publishedAt": "2026-11-21T03:00:00Z",
+      "title": "19 Ribu Kanal YouTube Ditutup, Kemkomdigi Minta Klarifikasi Google",
+      "source": "Warta Pontianak",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQX2ppVnVPeWpzRnVUNE10QkZkV2NJVXhfV05xaVlMeTZKcmVTWTktaER5aml1c3pVbS1NWkt6Tm0xZmNxRTJJcG5WcmIweHBGV2k0OVJ1Rzk2RTBSeXhBRG5LRURNclVtUEhDcC16TXZvdnlieHF0THRTNV9MNDRNTklWeGFncV9uT3FUVkhIUmlmbjJuLUY1MmNYMWlCeElMcWhjSFpKMnZ1a1JpOEJNSTNnWFktOWgtMG5xTDFEeFJqWi0wZ081R0YzQQ?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-11-23T23:57:40.515495Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
       "id": "1816cb70090c0abb78c15dd8",
       "publishedAt": "2026-11-21T02:35:00Z",
       "title": "Komdigi Angkat Bicara soal Meutya Hafid Tak Hadir di Debat Takedown Konten",
@@ -499,6 +1166,29 @@
         "Sensor Konten"
       ],
       "collectedAt": "2026-11-21T07:16:26.798033Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "0dc5e6062225748a59387481",
+      "publishedAt": "2026-11-21T01:30:00Z",
+      "title": "Iman Sukri DPR Pertanyakan Klaim Perlindungan 28 Juta Akun Anak",
+      "source": "jurnas.com",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOcTFpdUppY2dlTHIzQVlrSGZ3NEU4N2pPU0hZaUl3OWE1UkVHQWY0WW5BR0ZwQV81MEplZ2F0akNxOHloTjVqRW9ZT2tJQ0JkVG02ZFpXOHIzamlyak15OWhfTE9kSzJPcFg3WFlCY3RELWdRSmlmTTl0WGdFdE84c3FEOEdIUUNnTmxiOHI0dTd2Q3Y1NzFYTDVzVUdGZkNJSjRURWNER24?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "sensor_konten",
+      "subclusterIds": [
+        "sensor_konten"
+      ],
+      "matchedQueries": [
+        "Sensor Konten"
+      ],
+      "collectedAt": "2026-11-23T23:57:40.515495Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
@@ -596,6 +1286,29 @@
       "reviewNote": ""
     },
     {
+      "id": "70c36a28eed078c3d34d8e4c",
+      "publishedAt": "2026-11-20T16:00:00Z",
+      "title": "Google Ungkap Penutupan Kanal Buzzer di YouTube Jadi Operasi Rutin",
+      "source": "Kompas.tv",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNcGJhQm9UNU5IYW5LRU9rTVowRHdvaUVrcTFhUUQxV1d6Q1Bkb3hXa2RVSENYVWlMRG5uUEhaYnVfNDdOYm9YV3RWZDlhbFZGSmRwNXo4NUczUTNaZE9tOEpzMDVQaXh1UWpVTjlGUUJPQ3ZFblhXM0U3ZkYxODcwTzVvc0RjaWZEV1dtenpYN0FvVzZrbUVFWXU2TjlESmloQUM5NXZlWWZ4dUNkU05ENEhKQdIBswFBVV95cUxNcGJhQm9UNU5IYW5LRU9rTVowRHdvaUVrcTFhUUQxV1d6Q1Bkb3hXa2RVSENYVWlMRG5uUEhaYnVfNDdOYm9YV3RWZDlhbFZGSmRwNXo4NUczUTNaZE9tOEpzMDVQaXh1UWpVTjlGUUJPQ3ZFblhXM0U3ZkYxODcwTzVvc0RjaWZEV1dtenpYN0FvVzZrbUVFWXU2TjlESmloQUM5NXZlWWZ4dUNkU05ENEhKQQ?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "sensor_konten",
+      "subclusterIds": [
+        "sensor_konten"
+      ],
+      "matchedQueries": [
+        "Sensor Konten"
+      ],
+      "collectedAt": "2026-11-23T23:57:40.515495Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
       "id": "e1fe0f709ba2fe80e064a702",
       "publishedAt": "2026-11-20T15:45:50Z",
       "title": "Gerindra Duga Tuduhan Judol dan Doxing pada Dasco Bermotif Politik",
@@ -627,14 +1340,17 @@
       "description": "",
       "primaryCluster": "digital",
       "clusterIds": [
-        "digital"
+        "digital",
+        "sipol"
       ],
       "primarySubcluster": "doxxing_intimidasi",
       "subclusterIds": [
-        "doxxing_intimidasi"
+        "doxxing_intimidasi",
+        "kebebasan_ekspresi"
       ],
       "matchedQueries": [
-        "Doxxing & Intimidasi"
+        "Doxxing & Intimidasi",
+        "Kebebasan Berekspresi & Berpendapat"
       ],
       "collectedAt": "2026-11-20T20:26:42.195623Z",
       "reviewStatus": "Belum ditinjau",
@@ -688,6 +1404,29 @@
       "reviewNote": ""
     },
     {
+      "id": "442355abe6f7dcbe0fef1d10",
+      "publishedAt": "2026-11-20T14:32:24Z",
+      "title": "Kementerian Komunikasi dan Digital Minta Google Transparan dan Akuntabel atas Penutupan Ribuan Kanal YouTube",
+      "source": "Portal Papua",
+      "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOMVpRd0VVQmIxR2ZIR1FfS2VIM3JqaHZ6Z0RoaTVfUjhFbG5BTnUzWXcxeFhudXVsUXVVYlhPQVFrSTZSV29BT1I5ZWZINC1WZlMwUjFTWXNBVUdTUVlRd0ZaSk1jT20zSFBsNFY3bER5R3lHSzJhYm4yZW9FS2FtUldaSHV5cWx5ZkZDTWpyZGRiMG9aZXdLdlJiVFVGS28zbXIza3k5cTN0M1NHdTBINEppQ0JJcjMwbzdxQ0NyZzR2anhWOWhJTVNoSFNXM0hacmRTM0tWOGxDaW40SXBiT2hEVW5xaFNiU1I4dVlFN0Vqc0c0QzVPbFJaS1RGamtpVlE?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-11-23T23:57:40.515495Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
       "id": "7d22f49dad994ae019288b2c",
       "publishedAt": "2026-11-20T13:40:00Z",
       "title": "Menkomdigi Meutya Hafid Ogah Hadiri Debat Konten Medsos, Fifi Aleyda Yahya: Pemerintah Tugasnya Mendengarkan Bukan Berdebat - Konteks.co.id",
@@ -706,6 +1445,29 @@
         "Sensor Konten"
       ],
       "collectedAt": "2026-11-21T19:20:58.088911Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "765658ebcd27af29a5032a85",
+      "publishedAt": "2026-11-20T13:37:28Z",
+      "title": "Kronologi Kebakaran Kampung Baduy Luar, Api Melalap Puluhan Rumah Saat Warga Terlelap - Pojok Malioboro",
+      "source": "Pojok Malioboro",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQM01fN0RBaFJHbmxCWmdPbVFUbnZDbktFTmRXVEdQZi1LTWdzQ2dkalFiUlNkRENQRGJJbTB4RUJMa0g0b3Y1SFFmMXN3Y1pENXdHM1ZJMndqNGxHNGhmd2VJbmM3UE1yN2ltbnhXWjY2OGRWa3pBaVR6TWJmaUo1MzB3a3czWVk5SE9Fenc0Ri05OXNxUlZkMVFHcWpYZW9HV0NHdjQ0YU1CZzR1YzJQOGVITkZ5LUlOX3QySW42NXRUN2VKMGV0Ty1qd3hNTkXSAdQBQVVfeXFMT0FGWGFDQkRRUmN4NUNHZUhrMGsyWEV2X1Ixc3pnTmFSVVo5ODVENUVtOWZWdExELUhqQ1MtYzdRT0JBS3BubVdBSGRsRjRVVzZKQTF3b2djbTdYQk02OHRQWjVNQ1JPdjd0bjk5Vk0yQ1NtMFdTcER4U2txOUEzcGRYeUxUNVlfT21SMmNKZjhDampsRGhYRkpGbmpwbElXeEYyQkZGYWtiaGxJVU5ZenNUVGRvOGVIeHBvWTB5SFlMenR4SVY3YkliTGl1d0VCTkhlbG0?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-11-23T23:57:40.515495Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
@@ -757,6 +1519,98 @@
       "reviewNote": ""
     },
     {
+      "id": "286bf090ffc7f2ae12785e7b",
+      "publishedAt": "2026-11-20T12:35:21Z",
+      "title": "Jubir Gerindra duga ada motif politik di balik tuduhan terhadap Dasco",
+      "source": "ANTARA News",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNUTF3eVltZmZHYl8wOHBtRkFTcjduaEcxaFpVWTA1UWVDMnFSY0ZTOUtYdWZySVVuT2czYk1pdHN5T3IyeVdIQThSVUt5UUVhQ2JZb2FHbGx0UnJGbkg0bXQyV2NseXFvOU1HYUFZZ2FiaXV6RHBzaG1KcHgwb3FWT2ZEU3BWbnBsczlJN0VJMUx0Yl9abWV5TE5KOFViTjVYYldseHpXU0YxWUVIQU0xZnlzNNIBswFBVV95cUxNUTF3eVltZmZHYl8wOHBtRkFTcjduaEcxaFpVWTA1UWVDMnFSY0ZTOUtYdWZySVVuT2czYk1pdHN5T3IyeVdIQThSVUt5UUVhQ2JZb2FHbGx0UnJGbkg0bXQyV2NseXFvOU1HYUFZZ2FiaXV6RHBzaG1KcHgwb3FWT2ZEU3BWbnBsczlJN0VJMUx0Yl9abWV5TE5KOFViTjVYYldseHpXU0YxWUVIQU0xZnlzNA?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "doxxing_intimidasi",
+      "subclusterIds": [
+        "doxxing_intimidasi"
+      ],
+      "matchedQueries": [
+        "Doxxing & Intimidasi"
+      ],
+      "collectedAt": "2026-11-23T23:57:40.515495Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "d61af2081d03964b6832093a",
+      "publishedAt": "2026-11-20T12:30:08Z",
+      "title": "Bukan China! Negara Arab Lebih Ketat Mengontrol Informasi di Internet",
+      "source": "CNBC Indonesia",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPS0JFTjBkMnMxYXdDdE5tQ1F6Wnk1UDhMalR2T1BfaEhWTEVpVWQ5RUwyNGRQZjcxTmF5RnYtYVYwUUNTQjlqR1hsdFNsRXIta0lRVkRYNGVLcmNUbGxrbFYyeG1lWXBHLXhHWDFUMXFJcUV4U2JISFFwTWlwLXZpM2NySGZva2ZjZ0J3U1dPX1ZoMVBkdm9MNHd2eGlWMUVxMkoyRzU2eVN4VVE1dk50WUUzaU1TZE45THdHWmNKaU1USGhEaWF2X211cEhGUQ?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-11-23T23:57:40.515495Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "e800e2ce55f092e7e9a21491",
+      "publishedAt": "2026-11-20T12:01:37Z",
+      "title": "Amnesty Desak Negara Setop Kampanye Disinformasi Usai 19.389 Kanal YouTube Ditutup Google",
+      "source": "OWRITE",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxObW1kcEE1VnNuX1NKS0tGLVdXMDFlYkhUUWl2SWRRM2Fldk5GSWdHaVVQa3cwTDJQSlJHdTk1NTMwNUtQNDg5SWFRYTNCNUNaazd4N0NmbGtyRFJneUkxY2hqNUZQc0VuNjdXQUNYdFJHQ3lQazBFN2c1UFBJWWI5N2tqS19xMnpxZjcyZFRzd0dOV3BDVGNxV3hkdno0a2JjYlBINHJVWm13TkZyOGhUbXFTTEUtU1ZnZVhnd3dTRW5yRGFuVzJxd0NlMUQ?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-11-23T23:57:40.515495Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "cc5348f8e86af7c2f23cc60e",
+      "publishedAt": "2026-11-20T10:38:00Z",
+      "title": "19 Ribu Kanal YouTube Ditutup Google, Komdigi Minta Penjelasan Resmi",
+      "source": "NNC Netralnews",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOUUIxOWxXbW1vZlFuZTduMk5lYjRBUE9mdHFVblFVeUVrZ0hoblFYamRDYVFYRUdnNC1tVVluX0k2RTl0enVkRGpoV0VVTm1jU1hJdjc5WElxVDI3cUFCVTNfMVBBWm5xWUxOeGxEb2dQMDNGeUwyN1FueC0ybnpMOVlpTWFQN3liLU1Hc2pDTkgweGEwd1J1cE1BeUozSzAtZTJ4VlAwVXFaazA?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-11-23T23:57:40.515495Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
       "id": "ca72504bbd21c85b1b0f233d",
       "publishedAt": "2026-11-20T10:21:56Z",
       "title": "Soroti Kekhawatiran Kebebasan Berekspresi, Dave Laksono Buka Ruang Penyempurnaan RUU Penyiaran",
@@ -803,6 +1657,52 @@
       "reviewNote": ""
     },
     {
+      "id": "fc5354f91f91ae97501dd4c1",
+      "publishedAt": "2026-11-20T09:25:46Z",
+      "title": "RUU Penyiaran Masuk Tahap Pembahasan, Komisi I DPR Pastikan Aspirasi Publik Jadi Prioritas Penyempurnaan",
+      "source": "Media Indonesia",
+      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOem5kQ2FRRWhRbnI0eDRfZ2dBQkthYjRyLWhreUlIRTBmaDdaTVVGUE95cXQ1Tk9FWUhjVm9ObjBTU2p4RjdDYjJ5TU8tN25xT2ZmdFJxTzIyaVJJeGota3FDVWJhbndkLUFtck1aQU9Yc3F1dHZuWlMzZWFWZG5DbWFrZnVsdWRBWmRKejBqZ3IxbHYySmlpejFUemFPN2Yyd3AzMDhueXlWQldtUUxBXy1kSGNjc3A5ZjJoWm4zTW4wX3V0YjhMS19FZWVGSEx0d0hjMW5FcUV3MG5VUWg2WFQ2MERGQTFZQ2Rv?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-11-23T23:57:40.515495Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "e9653983afeb7ec6dbcdb308",
+      "publishedAt": "2026-11-20T09:16:13Z",
+      "title": "Ruang digital bebas mengkritik, tetapi bukan bebas menghina Halaman 1",
+      "source": "Kompasiana.com",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOb1RpdFJoa1NIRXZ0R1F4TXpUZGJjWEYwaExGMWN1YzhaRllxTldrX256R3VBaWVOd3BoUWVvOWVkcmJEdFV6YVljNVZlRUlJTFNWNE9ScUhyLXJtV2c2TkFDQ2gyR1RkYlZUaTdFQkQtV1JGOWQxa2JHYUxKUVRvXzBBbXRkXzh4MGhQR3ZINVpkQ2tMb05RR3lSZC1SVHM1V1ZtVEFOTF80NW5PUmMxUDMwdHE4cFhuZm5hTVEyN3RBNEk?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-11-23T23:57:40.515495Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
       "id": "ce07a207dd240f2f36f68671",
       "publishedAt": "2026-11-20T09:05:59Z",
       "title": "Gerindra Kecam Upaya Fitnah Terhadap Dasco",
@@ -811,14 +1711,17 @@
       "description": "",
       "primaryCluster": "digital",
       "clusterIds": [
-        "digital"
+        "digital",
+        "sipol"
       ],
       "primarySubcluster": "doxxing_intimidasi",
       "subclusterIds": [
-        "doxxing_intimidasi"
+        "doxxing_intimidasi",
+        "kebebasan_ekspresi"
       ],
       "matchedQueries": [
-        "Doxxing & Intimidasi"
+        "Doxxing & Intimidasi",
+        "Kebebasan Berekspresi & Berpendapat"
       ],
       "collectedAt": "2026-11-21T19:20:58.088911Z",
       "reviewStatus": "Belum ditinjau",
