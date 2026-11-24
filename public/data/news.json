@@ -1,15 +1,15 @@
 {
   "meta": {
-    "generatedAt": "2026-11-23T23:57:40.515495Z",
-    "lastRunAt": "2026-11-23T23:57:40.515495Z",
+    "generatedAt": "2026-11-24T09:58:49.460322Z",
+    "lastRunAt": "2026-11-24T09:58:49.460322Z",
     "startDate": "2026-01-01",
     "refreshHours": 6,
     "mode": "incremental",
     "feedsOk": 16,
     "feedsFailed": 0,
-    "totalStored": 3438,
-    "totalPublished": 3438,
-    "newArticles": 39,
+    "totalStored": 3444,
+    "totalPublished": 3444,
+    "newArticles": 6,
     "warning": ""
   },
   "clusters": [
@@ -135,6 +135,98 @@
     }
   ],
   "articles": [
+    {
+      "id": "27b5d1b299097dcabafa3353",
+      "publishedAt": "2026-11-24T07:49:14Z",
+      "title": "Bypass Sensor Internet di Android: Clash vs Orbot",
+      "source": "AndroidPonsel.com",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPeW5PTXZlZGdPSnVSbnBaNnRGcl9zajZ5eHY0MDdWMVlvbXRiZl9QMVJsYVdEWFZoT2NfTWJ3cnpTUG1ZTFNtVE1TQjR0aGFwVm9PNm5uNU45VzI5cGZfNDB3MUg1dWItVjNQbWtBT3JPV2w3am5Vbm80aUlrR3p0SWkwOVo5Zw?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "sensor_konten",
+      "subclusterIds": [
+        "sensor_konten"
+      ],
+      "matchedQueries": [
+        "Sensor Konten"
+      ],
+      "collectedAt": "2026-11-24T09:58:49.460322Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "052f3858682dfa293269f387",
+      "publishedAt": "2026-11-24T05:59:51Z",
+      "title": "Victor Yeimo Kawal Otopsi Wialo Silak Transparan, Kritik Pembungkaman Ruang Demokrasi di Papua",
+      "source": "Tribun-papua.com",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNVnEyZ1pYZ0prZnZYZUZZeGxBckNpR2Z4Z3JuLUkyRXZFQjdLd3IzYmtBNzhlWkpTMlpndDA5UlREWGt3aW9DaDlWYUpnb0gtcTgyVEN1SEIwRnJBLXZmd2dtdmUwM01ReHRDeTR2eHJzejNhSmdGOXAxOE5aUUlUb3YzZVVkbjRDNHZrS2NkY2QtY2IxbmYtSXFzRXpqNWN6VWVUSWVJb2JDRkZjSXBxU0xxQjJ2VUc2WHc2WmlxdEVEOHhIYS0zbWxJb051a1U?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-11-24T09:58:49.460322Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "ef85f19ded7e68fc512362f3",
+      "publishedAt": "2026-11-24T03:25:00Z",
+      "title": "Prof Uceng Dilarang Diskusi di Kampus, Dekan Minta Maaf: Kebebasan Akademik Dipertanyakan",
+      "source": "Indopolitika.com",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPT1VfRlNrSGFDd1lMWFRPQ2ZqYXo2TkdtMTRIRGtpbUFrMjlRM1Y4cVRXNmhxVlh4c25XeGJOM3o0bl9xZTBGb3FYTDJxc0J4TlhOQ0MyOC1XSjA1OEVlZmNKT1BxSHNpNUJJdVg0MERrbENvMy1JSldLUGo1NzdqNjE4dkl3M3IzWU1FSVo4NC1kR0pDc0FOVFlra0RkRy1wUVJyM3BjLWVacnNEaHltUWR3SdIBuAFBVV95cUxQUFdFUGR6bGFhVExDeG1VTk1EZV9vc25vRnZuYTdNeTdQTGRmRVZtcnJaMGJYQmg1eGpBU2VYTmxJaDNlLThsV29qVEhWdDdFTmV4eng3Y084SEh5cEUwRTU4M3NYbnZRLUtCVHQtQS01cVp4V0RqN0VZNVQzUlY1YnlhcExqcU1tWmVWZFV2SUtYS0xGMTMtVnh6bXdDNHJoci03Tm8wRGlrbkVRSFBzeWFibVJoX2R4?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-11-24T09:58:49.460322Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "c8120fdf90e1f80ca0be9262",
+      "publishedAt": "2026-11-24T02:21:15Z",
+      "title": "Ernest Prakasa Bela Seniman yang Bersuara di FFI 2026, Singgung Kebebasan Bereks­presi",
+      "source": "Lombok Post",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPUHZIeF9STEcxaTFwSnI1M3VYRmp3WnZ2dmVOUGg4WFUyYjQ5OGJjenZmalVfTWtJejRjMnRMVXRySl9fMU41Sl9FcWNxN2prTmFOa1BwOHRxblVoZklDMXhfZW96Nk4tUWYzZ3JzaG1IVTl2blg0bF9tc0o2bkFoRHk5ZU1Td0JWa0RmeTRncXBxckZURU9zTWFnUHJCak9BSmtHSy1mVEZMaDhaWDVkZF9NR2J4dnlpU0xTVk1FRG9haXZncVZZSTJyN2FVelhyZE5pMG130gHbAUFVX3lxTFB2MGkwbXFqYUhSVlFMeFNOaFhnZHZGdDVXR0J6Qi04amI2VU9nMXlNTFlfUEV3WmxCZ2VoNy1yT0MzV0Q2TEQzUldwNFRVakJ0SDZPdTBtUFV3eHRBZzVuOGJZVVhqaFpUNTlYWldNZGQ4NFl6dW4zZHFiRzU1VVpIQnowQ1pVaUwtZXBtZndicUdTbnpSR3BrLWIxRE9RZWNZalYxNVVvalFvNWVLc29LU3VlNVpQOThwdnhRRVhSdEZNcVVrejFxb0ozaFdmc1h0dHZXVE9kZ0FmSQ?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-11-24T09:58:49.460322Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
     {
       "id": "96299cab9c0f629f9fa04146",
       "publishedAt": "2026-11-23T17:25:38Z",
@@ -476,6 +568,29 @@
         "Kebebasan Berekspresi & Berpendapat"
       ],
       "collectedAt": "2026-11-23T07:45:39.514493Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "6f155e89fe567e08bc020a66",
+      "publishedAt": "2026-11-23T06:38:00Z",
+      "title": "Kritik atau Pidana? Batas Kebebasan Berpendapat di KUHP Baru - kumparan.com",
+      "source": "kumparan",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOU0d5cV9mZDZMempZbjY4cW1OUEdsMFFnc1U3RnN4VUVESXdHMDd3bW5Db3JobFU3SVV4TjFQaXNiNjFlTWtMR1VDUmpGUWhZWGtmcjkxUjJuNV9ZbE9wVDhHLUpYUm5TS184aFZIM3g5OXZScWRzZ2t0VVBQVm1HazFHUmtqMTdON2oyVU4zLVlUNW10TzREemFvZVdIS3ZBMHpBQUlENWJjVnPSAbMBQVVfeXFMTVpCUFdYWUt3V2kyVndsaTZtcWVEUlY1TnVFQkVKSjNsZXI3MU1vdDNCMzFTelN5MmQ4WWZhdGlpUlhxQ05OWGQ5M3I0aXUwbDVseXNCQlVscG1rek9aQUlUSk5fbGJKbmozaFNna3dzanZJYVotbWlVZzZ4SDlkYWtnTWoyU3E2QW1ibjdBend5RWRPWmdIVUgweURWdEJSSzFTUFczZFl5bXdRbGh5eGxQMUU?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-11-24T09:58:49.460322Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
@@ -1097,6 +1212,29 @@
         "Kebebasan Berekspresi & Berpendapat"
       ],
       "collectedAt": "2026-11-21T07:16:26.798033Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "7d08b946412b93440e9a9c0f",
+      "publishedAt": "2026-11-21T04:10:00Z",
+      "title": "28 Juta Akun Anak Ditutup, Iman Sukri: Belum Tentu Lindungi Mereka",
+      "source": "katakini.com",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZ0UtbXNVdDBpVW5YeURoVUVzbzlyUGlYdm5zQ1pzdk5BRTh5a1Z6c0l2b2UxcmkwdEVCNjFLWlNWODZCcktRczZ0SE9DV2FQei1EcXF3YVdONU5iNnl1c19uZjhreGVXOHBsOVVKZ3BQQzZiYlpJZTZNSVdiU0RjUU1CSk5NVU5PNGstSmZpWGlhUklKX0RHcnRlVWUxMmlqaHpwTV9B?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "sensor_konten",
+      "subclusterIds": [
+        "sensor_konten"
+      ],
+      "matchedQueries": [
+        "Sensor Konten"
+      ],
+      "collectedAt": "2026-11-24T09:58:49.460322Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
