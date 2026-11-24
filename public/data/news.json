@@ -1,15 +1,15 @@
 {
   "meta": {
-    "generatedAt": "2026-11-24T09:58:49.460322Z",
-    "lastRunAt": "2026-11-24T09:58:49.460322Z",
+    "generatedAt": "2026-11-24T22:30:11.461906Z",
+    "lastRunAt": "2026-11-24T22:30:11.461906Z",
     "startDate": "2026-01-01",
     "refreshHours": 6,
     "mode": "incremental",
     "feedsOk": 16,
     "feedsFailed": 0,
-    "totalStored": 3444,
-    "totalPublished": 3444,
-    "newArticles": 6,
+    "totalStored": 3455,
+    "totalPublished": 3455,
+    "newArticles": 11,
     "warning": ""
   },
   "clusters": [
@@ -135,6 +135,190 @@
     }
   ],
   "articles": [
+    {
+      "id": "38d4d7c57120a7794f146abe",
+      "publishedAt": "2026-11-24T22:00:00Z",
+      "title": "Penelitian Kaspersky: 41% Karyawan UMKM di Indonesia Lakukan Shadow IT, Berbahayakah?",
+      "source": "Olenka",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOWEx1UHVHYzA2NHRSOGwyemVHYThZNW0yY2R4LUx0WXNkaEx4RjRXRk9fUHBZWFVWQ09NUXdlZnlYWUNzaEk2eW1ueTlMS2pZcW1ZZzR1bnZmUi15UHdFT3NxRzNGMTVJbEh3ZlFYUTNLa2NuMTVWYXk5RnpRRG12TjlYWkoyRWZCSVNEX2VmZW1Vc1J6bFNZT3o3UmhMMDdU0gGmAUFVX3lxTE5adDYtLXRrZzFIRHEtSzRlaUcyM05qTGt5eWZDSnF0ZnhIMkhmV2djZE1meGh5NTJBTEtwd2hkZ0RrMGxxU1AzUl94LTBRdmN6MGJlQXUyaFRUUzVWSkMxNlNTclhFLVlaV3ZGQ2J3WTlBcVFVdHAyQkV3UXZpZnZBcnVnQ3FzNjdNYlh5OU1Pb203dzMzWDdDUHBLUlQyby1VN3FpTEE?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "doxxing_intimidasi",
+      "subclusterIds": [
+        "doxxing_intimidasi"
+      ],
+      "matchedQueries": [
+        "Doxxing & Intimidasi"
+      ],
+      "collectedAt": "2026-11-24T22:30:11.461906Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "ad840b98d084005d8adfd353",
+      "publishedAt": "2026-11-24T14:51:20Z",
+      "title": "Isu Negatif ke Dasco Menunjukkan Sosok yang Diperhitungkan jadi Wapres",
+      "source": "KoranKota",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQOGNzYmRreEgtOGJ4dEpVUV9aV256N1dLYzhWRTM4OC1hS0h2SXZIZkN6YmpWcTIxci1lRWNWcVN5S2xTaTAyZTFEczV5QlhCVThrOEtlaDNpV0hfWVZ6bXNSRnZxa2YteXlGc21JcFlBRENvazRKZGpqd3o5YVBSRmF1Z193TXJXNmhUMmhNUldPNGpUVDRxVjF4bDZWNUNHdVUxZEY5dzhIZUdt?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "doxxing_intimidasi",
+      "subclusterIds": [
+        "doxxing_intimidasi"
+      ],
+      "matchedQueries": [
+        "Doxxing & Intimidasi"
+      ],
+      "collectedAt": "2026-11-24T22:30:11.461906Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "bb72c8b4a0262203b34ef255",
+      "publishedAt": "2026-11-24T13:40:44Z",
+      "title": "Polemik FFI 2026: Penjurian, Kebebasan Berekspresi, dan Independensi Penyelenggara",
+      "source": "rmol jateng",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxONXU0SW5LdUxSbTR4M1JOU2NsXzVEcS1lMWxPN01KVGZvdS1FVnFlVnZTazF0b2g3Rk1tejgxX2hQSDRnaUFiRzJIWDVMem1YQjgtREZWVXlma2dFbFpadkNhRzR0NW95RnRKTGpOc0tRS21iOFBpNHVPZUJncDRRamFESFhJTWpKdW1GYzBTQmRmZm5XaDB5M1VCcjFfblYtcEdrZDA2Z3I4QXo5SFE?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-11-24T22:30:11.461906Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "8967f867bd2343018aa864e6",
+      "publishedAt": "2026-11-24T13:01:28Z",
+      "title": "Jika Kritik Dianggap Ancaman, Masihkah Indonesia Disebut Negara Demokrasi?",
+      "source": "Spiritriau.com",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNa2FJRHJXdjJFUGp6WlVVQzBSTm93ZXB5S2tSTWIxR2hSZXFOWnlkRlpjY0dQZXdxa1lOYmZfdWw1Tzh2VVFib29US1RtTmFScENWWVI5aERkWXpsX1hzOUdSTzAwZUZhQ2IzQlQwRENtWVlxOHdUSmVxTFNZazRscFhKR3p1dndjdllMclZhNnFWX3ZtQmEtSFlmMUczVFBYcVFCX3NVbDcxdWM?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-11-24T22:30:11.461906Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "30483992b614c849641a82a4",
+      "publishedAt": "2026-11-24T12:57:51Z",
+      "title": "Ruben Onsu Siap Cabut Gugatan Hak Asuh Jika Bertemu Anak Tiga Hari Dipenuhi",
+      "source": "gadget.qoo10.co.id",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNSjdPbHNFQzNsdElzV0xiNjJWbkFVVmJsdTBlWlVyaDdwdjNQYkhXcGVvUGREQ1ZBYmRzUmpEQ2NoeGYyRTQwbTZ5cXdoVl9aWGx2WFJSOGxjX0FVdlR3YkhZTHFqTnZ6XzJ3eG1ENVZKT0ZTcWJ3UlUycHQwZVROa2ctSm40empJMm5SN2ZpSkV5YzFIUnNkRjM3MTJCZUtX?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "doxxing_intimidasi",
+      "subclusterIds": [
+        "doxxing_intimidasi"
+      ],
+      "matchedQueries": [
+        "Doxxing & Intimidasi"
+      ],
+      "collectedAt": "2026-11-24T22:30:11.461906Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "0889456353263959c8f7d6fe",
+      "publishedAt": "2026-11-24T11:59:00Z",
+      "title": "AS Dikepung Teror Iran & Rusia, 50 Tanker Dibidik, Kapal Menuju Texas Diteror Bom via Serangan Siber",
+      "source": "Tribun Video",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNM0NtbXhIZmlXQkc1Z1B0aU5PSXpOVkhadGRQRDNldzZpT0ZRdC03NU1FcENMZVctdEhQR0JsdzNXV3hSVzdiZlYxUEZuV2hNTVdPQ1NWZnl0WEVRTDIxRU9panRBbmk3SUhkTlBZTFlsS0YyQk5zaWU5NTBneUhTUEdBX0hFM2pnZVRDM3luUmxWS1hlRHdfNVd0MFFzejg0U1RmVkZ3Zk5WaUVIQURKcml1SGVHWVV3WW5TQ2dodW4xVlhIc0tZajBVc1RiQUVwNlhv?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "doxxing_intimidasi",
+      "subclusterIds": [
+        "doxxing_intimidasi"
+      ],
+      "matchedQueries": [
+        "Doxxing & Intimidasi"
+      ],
+      "collectedAt": "2026-11-24T22:30:11.461906Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "3a3956b99f6967b17887d184",
+      "publishedAt": "2026-11-24T10:04:00Z",
+      "title": "Takedown Konten Deddy Corbuzier: Ketika Views Hadapi Tekanan Publik - kumparan.com",
+      "source": "kumparan",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNR1gxZ1IyV0QzRzVwdVl5SUFzMHFUc3BHZlQycVVKVHpRRkxKTnQwQzB6T0Q0Wm8tMVJjdmh5R1F2OHNZNGNFS2ZVY0RsNEIzYXdBQlN2YXJjM2xJaEJhV0cyMjZoSlJ2QXMtVFpvenVRcnNja05INGNPZ2puenUtWUV1V0NOR3AxQW9VclNTRTlEWXpTTENBOWZMSm9rOFdHQjRHcTVxSE40Y3F4OVhmYWFFd09VMHPSAb8BQVVfeXFMUFh5cmxGTjktcmpXVFVwNHhTdHA1bjlDNUVkRTRicEZ4bU5MUlBtcGJjSU4ySmZfbDRYbjBqbTEwWmpjX2RQcEVkR19QSUJOWHhUalgyajVlYlhHbHFLd2xhSkJnVl8yWE9FdDJvSjJoRlZtMXEyaDBvWjFXbHR5VW85Z1MwcEh0dmszcUQxaTlKUnB6N0REd1B2NVRabl9QazVxVm9WVW1sQ21oNE5xeW5MOU81eVo4Q201WUlkSE0?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "sensor_konten",
+      "subclusterIds": [
+        "sensor_konten"
+      ],
+      "matchedQueries": [
+        "Sensor Konten"
+      ],
+      "collectedAt": "2026-11-24T22:30:11.461906Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "b9d8d336191e6e6bfd4b18cf",
+      "publishedAt": "2026-11-24T08:17:00Z",
+      "title": "Pamer Salam Perlawanan 3 Jari, Kenapa Anies Baswedan?",
+      "source": "Gelora News",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9TT1hxdVFEU1ZlVXZiOGFqSGt6a1FsSG5Pd0FZZ2thT1lZOVhEZldEOERDa1pNOThyTEYxOVZfODk5M1J0OTB1WVJYVkNERjNyRWM2RVk0Z1hmMWZ5T0VSZGtRaEZSUlhEOTBWdnFLdzVHNGRGNFJyV2JaQQ?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "doxxing_intimidasi",
+      "subclusterIds": [
+        "doxxing_intimidasi"
+      ],
+      "matchedQueries": [
+        "Doxxing & Intimidasi"
+      ],
+      "collectedAt": "2026-11-24T22:30:11.461906Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
     {
       "id": "27b5d1b299097dcabafa3353",
       "publishedAt": "2026-11-24T07:49:14Z",
@@ -269,6 +453,29 @@
         "Kebebasan Berekspresi & Berpendapat"
       ],
       "collectedAt": "2026-11-23T23:57:40.515495Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "b7036380cf2fb3e29961e381",
+      "publishedAt": "2026-11-23T15:23:59Z",
+      "title": "Komdigi Ungkap Alasan Meutya Hafid Tak Hadiri Tantangan Debat SAFEnet",
+      "source": "Jawa Pos",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxObDlPbVVDMXRudGtNU2tfZHFTaTM2ZEVER3FoMS1SRENJcXdRbVdoendDTjFkWkJhSnJybVlpdXhQcmNwRk43NnQtSGswR2tmZDFCTzhadXIta1F5WkpRaUR3S3ExcEs0dEpiZGFFWkVxMGc0a0JuYW1rT1NxWWotQlJOemowSDFXdGdWaS1MWlpVenpEd3FreVBIMmtoU1BoU2V0UkhhRWd6YkFWdTB2R21WZHBnemZ0Y09iY1oyMDI?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "sensor_konten",
+      "subclusterIds": [
+        "sensor_konten"
+      ],
+      "matchedQueries": [
+        "Sensor Konten"
+      ],
+      "collectedAt": "2026-11-24T22:30:11.461906Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
@@ -683,6 +890,29 @@
         "Kebebasan Berekspresi & Berpendapat"
       ],
       "collectedAt": "2026-11-23T07:45:39.514493Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "6a08fed1fc156e3cbde9fca3",
+      "publishedAt": "2026-11-23T04:37:02Z",
+      "title": "Jelang Tenggat Nama Pengganti Wapres, Gelombang Isu Hantam Sufmi Dasco Ahmad",
+      "source": "Satujuang.com",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxONkJUblFlek5SaERlQVlBQWdJTW51QXBuVk8ydXFFcDZ3X2F5d3Z4TDYyM2ZlYkdaS190WHBPYUxNeEFoQW42ZWZFX2NYS2ZLY0k0WnlubjN1QWZqOFk3bHNGdldZUVpIVWluS0g4dmdOLWhtUnFvY0RXMHBfUHZmeU50SVBxeGx0elo5YVYxaDBFR2FfNlZXU05oSUViZk0?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "doxxing_intimidasi",
+      "subclusterIds": [
+        "doxxing_intimidasi"
+      ],
+      "matchedQueries": [
+        "Doxxing & Intimidasi"
+      ],
+      "collectedAt": "2026-11-24T22:30:11.461906Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
@@ -65488,6 +65718,29 @@
         "Kebebasan Beragama / Berkeyakinan (KBB)"
       ],
       "collectedAt": "2026-09-02T16:37:56.579308Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "a399322f21b1d346b387f837",
+      "publishedAt": "2026-08-13T07:00:00Z",
+      "title": "BKPRMI Laporkan Dugaan Penistaan Agama di The Sounds Project Vol. 9 ke Bareskrim Polri",
+      "source": "japosco",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNNGV2cm1tY0NSRjhkZzB4Q2FGLW1FZ2EybUtYbkpSSk9aR291b2FWYTVPX2RXSkNXc2Q0dHYyVHZLYnhGSkpuTWd1cWNaTll2SE4zdC1RZTVMaGp6NHdfUmpGRnBEUTNKcE1hVHBXRUxkaTVTNF81YXB2d2JMSWFIU3dyUjM2OVUwX2xTcUdGVHlYbmJIRi1odEZ4aVRCeFM2d3lJcjcyN1dhaHp3ZG9WMkpnUzVOVWN3cUE?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_beragama",
+      "subclusterIds": [
+        "kebebasan_beragama"
+      ],
+      "matchedQueries": [
+        "Kebebasan Beragama / Berkeyakinan (KBB)"
+      ],
+      "collectedAt": "2026-11-24T22:30:11.461906Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
