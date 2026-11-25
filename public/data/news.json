@@ -1,15 +1,15 @@
 {
   "meta": {
-    "generatedAt": "2026-11-24T22:30:11.461906Z",
-    "lastRunAt": "2026-11-24T22:30:11.461906Z",
+    "generatedAt": "2026-11-25T08:42:44.961441Z",
+    "lastRunAt": "2026-11-25T08:42:44.961441Z",
     "startDate": "2026-01-01",
     "refreshHours": 6,
     "mode": "incremental",
     "feedsOk": 16,
     "feedsFailed": 0,
-    "totalStored": 3455,
-    "totalPublished": 3455,
-    "newArticles": 11,
+    "totalStored": 3460,
+    "totalPublished": 3460,
+    "newArticles": 5,
     "warning": ""
   },
   "clusters": [
@@ -135,6 +135,98 @@
     }
   ],
   "articles": [
+    {
+      "id": "c17009fa2ef2be7b73660c82",
+      "publishedAt": "2026-11-25T03:32:00Z",
+      "title": "Bukan Pembungkaman! Media Gathering SKK Migas–KEI Bersama Insan Pers Sumenep di Yogyakarta Wajar Digelar",
+      "source": "MEMOonline.co.id",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNS3B1WGF5LVlyR0dHQWZxeDJWQnVBNHRvZUQ1cU9ibnlpN0VINm9yTHlVb24wLVdRZFo0VHRSNE5aZUV0TUNNdTQ4b0dKbkhHYjNiT0o3aUFIbDFDb0piMENKdHhtUDNTamdMSUJJRUg3eUtQTy1jeGRqR1JJU3RzY1JteFJoNkFQUXlCbHZRdlEtMGx5YWxoWHRjVVN4bWpCblhYbS0xdXdDWHRzaEFVdUo3RWdpeVlXeVRCMFp2RTRwRUVBWV9hOE45UnVhLUloVjhZd3RR?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-11-25T08:42:44.961441Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "1854d78c7385f799509c86a1",
+      "publishedAt": "2026-11-25T01:17:11Z",
+      "title": "Antara Kritik dan Hujatan: Batas Kebebasan Berpendapat di Ruang Digital",
+      "source": "Kompasiana.com",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPakdqbFZFQVItelJ6UTlfMWhmdXZkelY3a0dxNEd0a2FxMWxGZlloZFZOWkdWM09mQnlGMEtZUXFiMWpwMEdLYmlIT2V4c2d3b2dxZUk2V3VjQzBkVUkwZlFSSDdtNEJLMVFQRkRKRFVZd0RVTFpzZ3VrNnZmZUZLbkpHSmtyZTZ6NnVENzdmc0xuZnRvX3h2a25CWGdhUW8tbUdDUlczeVItU2hPd3ZobVkzNjl2QXNMQllweDBjWjlGVkZvVV9jclRKcWVtcUE4?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-11-25T08:42:44.961441Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "25cc63a81a6fa29e93b68f92",
+      "publishedAt": "2026-11-25T01:09:12Z",
+      "title": "Mamdani, El-Sayed, dan Omar Diancam Bunuh, FBI Selidiki Ancaman Online",
+      "source": "Sumbawanews",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNZVBBWVJzWnB3SGNFWWtWTEtqZUFoZ1V1VFNSZ0ZmbFhkdzZTeDZXTXhCODNtNjNtUUsyRVFzeHhkNlFrRFlYZm11WmRhSTZoaWgtWVp6WC1VSUpKRmpjMWVRcWx5bERYSThQZDZTNjZ4QlVGQkZLUWtnN3V6d2tGVXZaWWN2dlRNcnhHZGN6ejhTRG5ZaTFZTzl0MjRaclE2ZXJRZ0szMVZGaTBEdWk2aWthcw?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "doxxing_intimidasi",
+      "subclusterIds": [
+        "doxxing_intimidasi"
+      ],
+      "matchedQueries": [
+        "Doxxing & Intimidasi"
+      ],
+      "collectedAt": "2026-11-25T08:42:44.961441Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "b3a9ec470986010d15055757",
+      "publishedAt": "2026-11-25T00:00:36Z",
+      "title": "THE FOLKARIAN, Bahasa Keindahan dan Kebebasan Berekspresi dari Studio 133 Biyan",
+      "source": "Liputan6.com",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPNnJHc0V3ZDc4RzJfWkRIZDh2ckVNMDV3eDJVUkxXVl9YQjl2RWZBQ3h3cklqb2RjXzl5cGZKWEc0TFVWQWZCTExHd0U2QVgxeHV0dV8yMS1mdmcxSXI0aGFuc0hrX1BjYUUyWnNQUnpVaE85aTAweFN0NjJOQ3RnRWJ4MEZleXhycWlQWXFsN3J6angwcVBmekYwS2JySWZ6Y3VLNTRaUU56bkdiNEwtNjJaQi1BcjNSMXZXMjVPVG5pY0lf0gG2AUFVX3lxTE9haVNQLXlta2c1b3FTYkt0eFh3QUxzelFqZnd5RnNsbjBXYzlYU0ZzVUtmcEVFMENZTlFuVkZBTERKYm56T2tTVkZPd0RaMnBrQVQzZGxYNnlfbzRDVU01SEdVbmlXeXc4Rm4xXzR2YmM0TG9qUGszbW9PckJ1empra01ydlRTS3NMa2JqRWZHWUxuRDdtazRJVTFQNHBsVXBQWjFuR1dEWnBYdFpqcUZBOURfT0VB?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-11-25T08:42:44.961441Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
     {
       "id": "38d4d7c57120a7794f146abe",
       "publishedAt": "2026-11-24T22:00:00Z",
@@ -361,6 +453,29 @@
         "Kebebasan Berekspresi & Berpendapat"
       ],
       "collectedAt": "2026-11-24T09:58:49.460322Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "17a10d4cc2394ffc01689ef6",
+      "publishedAt": "2026-11-24T05:47:45Z",
+      "title": "Merawat Kebebasan Berpendapat dengan Tanggung Jawab - Hulondalo",
+      "source": "Hulondalo",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNak54RnZJNlMyaXJQMlRkMjR2Z2hxTnFQZlprMENzOHVLMzVuRWp2T1R5VW1oaWJMdDdvQlk0SVVwblZHcUtlWFZaWUZobU9kMWx6VzZUNUkxamJVLVpRSll5bS01bE0xZkpSTFZhQzlzVl9ENDF1N1B6WEJQN0Q2bGNwZDFZOTdKSkNCN2FmY1BLVEhjVkszbWpn0gGfAUFVX3lxTE5jS1hvY2NUc016RWNyQlpHd3NVbzZOakluR3B2WGlMeHRCZG4ycU95ZjA5UWhsVzJzc1R5WXFhVFJLWTVyRlEtRHg5MEt0dXdDXzNfekpLc0ltWW1adk1nTVBvY0xFOEpTQ19vSTBTejNDWnpmYmlsMGR0dHp3WFk2ZjJQN0thaHR6U0FUY2V5YWl5cUVtd19SNkRtdU9ZTQ?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-11-25T08:42:44.961441Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
