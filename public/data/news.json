@@ -1,14 +1,14 @@
 {
   "meta": {
-    "generatedAt": "2026-11-25T08:42:44.961441Z",
-    "lastRunAt": "2026-11-25T08:42:44.961441Z",
+    "generatedAt": "2026-11-25T21:45:06.881168Z",
+    "lastRunAt": "2026-11-25T21:45:06.881168Z",
     "startDate": "2026-01-01",
     "refreshHours": 6,
     "mode": "incremental",
     "feedsOk": 16,
     "feedsFailed": 0,
-    "totalStored": 3460,
-    "totalPublished": 3460,
+    "totalStored": 3465,
+    "totalPublished": 3465,
     "newArticles": 5,
     "warning": ""
   },
@@ -135,6 +135,98 @@
     }
   ],
   "articles": [
+    {
+      "id": "b207ffa4ccfb0cfedc173f50",
+      "publishedAt": "2026-11-25T14:06:25Z",
+      "title": "Desainer Magelang Bantah Kaus ACAB Terkait Kasus Makar",
+      "source": "MediaKompeten",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE56dy0zTnRfaGliZEo0LUR2UXRfdzU2WDRRbkNOWHFybUZfenZtN0psTFVYTFJzaTMzRno4dE5SUW95ckJ3b2VpdjRWNVBwbUhZV1J5emtndnFBaG04UmgyWC1zY2M2clM1NElFQnZId1ItWExR?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "doxxing_intimidasi",
+      "subclusterIds": [
+        "doxxing_intimidasi"
+      ],
+      "matchedQueries": [
+        "Doxxing & Intimidasi"
+      ],
+      "collectedAt": "2026-11-25T21:45:06.881168Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "4a95bae26e5e8830a0337a8f",
+      "publishedAt": "2026-11-25T13:09:22Z",
+      "title": "Kekuasaan, Kritik, Dan Kebebasan Berekspresi Dalam Demokrasi Halaman all",
+      "source": "Kompasiana.com",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQRE12NWtYbHNLdmlFc1lNWWU2NHdwVk1sZEpUVFZkRk9UQnJuc0R0bmlIU1dEVVh0amZRZ09JTkpWQTlUSXRpbzN1Tkl0UGpqS2VWMzNjRWp5U1FDa0cxT0NLeGo2RjRlTDFIRm5EUnp6TTV3dWVCR0d4a0VrMEwycXphNmZmRFF5Wmh0TkhIMlRGQVhxYk4xZ2g2bHpUY0ZZeUVoTHFyMUFDNm4xZEYyLU9Dbkxmc3RoQU44ZXFwbmMzZzEwNVEzUWsyWQ?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-11-25T21:45:06.881168Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "dd489d3dddcb5db6138f480b",
+      "publishedAt": "2026-11-25T10:05:00Z",
+      "title": "Mahasiswa USU Asal Medan Bawa Prestasi Karya Ilmiah ke Tingkat Nasional dan Internasional",
+      "source": "Sumut24",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOTVVFcnNJdk9NZGhQRWtoaGpTSGpPQnpUR3VOVVpyMHA2c21veGQ0dEJQY3M4WnBPdzdGZDFScHh0NXc3N3ZIazVibTFNRDlEbWkzQWVRSUNDMTlzQWRjei1TeUNFaWdWT1I0LTRWamw4X294WjlCa2MxbnU1SmhOWFA3YWExZFZkWFN0RXNsdldQNll4VFJ2OHczMnJGNHBWQi1MSGRHbHZCWUpmSm5zQWZGMU5pX1J3UjV2TmVMU1ZpOWfSAcMBQVVfeXFMTk1VRXJzSXZPTWRoUEVraGhqU0hqT0J6VEd1TlVacjBwNnNtb3hkNHRCUGNzOFpwT3c3RmQxUnB4dDV3Nzd2SGs1Ym0xTUQ5RG1pM0FlUUlDQzE5c0FkY3otU3lDRWlnVk9SNC00VmpsOF9veFo5QmtjMW51NUpoTlhQN2FhMWRWZFhTdEVzbHZXUDZZeFRSdjh3MzJyRjRwVkItTEhkR2x2QllKZkpuc0FmRjFOaV9Sd1I1dk5lTFNWaTln?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "sensor_konten",
+      "subclusterIds": [
+        "sensor_konten"
+      ],
+      "matchedQueries": [
+        "Sensor Konten"
+      ],
+      "collectedAt": "2026-11-25T21:45:06.881168Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "2118d8b1c1044aaf3e77976c",
+      "publishedAt": "2026-11-25T09:38:41Z",
+      "title": "SAFEnet Kritik Revisi UU Hak Cipta, Waspadai Ancaman Pembungkaman Kritik dan Akses Informasi Publik - G-news.id",
+      "source": "G-news.id",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPLUgzNG9hQUlGZ25nU0swdjZ5MDRVS0taaWV4Y2lXTjlUaUtjX3VKT2pkYTcxQ2ZlZzlldEF6bkpCcDdkZDBuYWhIWkZ6VGMyRktUU0R6OHpQQWFfbkFFUE52UFNicWpjNXQ5Z3E3eVA5VGN3TzB4TWF6M2lteVBrOEVfbW84RkM3d0dYdnNSZVJjOUFReElqeC1kTEp3TjJZR2Vpa0Z5SnVNSnkzV1FLdWRCUTkwQmc4ZklMSFNfemVRNFlxOVlVTURWVGNtdXRxTmpuWXR3MNIB3AFBVV95cUxQdWNuR0RnREluWFZ1UWtGUnQtd3VfMEI3S2cwQmVNcEl0c3hzbHNVY05SRkFGQ2xGdmZNeUViNHpRcDVmc19wdVZiN0hFSGVTRTN4eEJrVUhnYlFYbWY1S2hFLUJ3blNoYUR5aEFabXhaZTdUd3pFbmcyaDI3R1JMM0YzdjdQNTM0WXBlZHpUUWZ6eDBLMUhKTUk2SGJyX0hsU1BpU3dlZG1FdEcyOG5sMjRIaWJQNUwxZ3hzYmdFSms3QzR1OTVyOU1SUE85MVBjdF9qT3hOamRFVWph?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-11-25T21:45:06.881168Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
     {
       "id": "c17009fa2ef2be7b73660c82",
       "publishedAt": "2026-11-25T03:32:00Z",
@@ -913,6 +1005,29 @@
         "Kebebasan Berekspresi & Berpendapat"
       ],
       "collectedAt": "2026-11-24T09:58:49.460322Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "e865867f7e8e9a73fd66feb3",
+      "publishedAt": "2026-11-23T06:38:00Z",
+      "title": "Kritik atau Pidana? Batas Kebebasan Berpendapat di KUHP Baru - kumparan.com",
+      "source": "Kumparan.com",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOU0d5cV9mZDZMempZbjY4cW1OUEdsMFFnc1U3RnN4VUVESXdHMDd3bW5Db3JobFU3SVV4TjFQaXNiNjFlTWtMR1VDUmpGUWhZWGtmcjkxUjJuNV9ZbE9wVDhHLUpYUm5TS184aFZIM3g5OXZScWRzZ2t0VVBQVm1HazFHUmtqMTdON2oyVU4zLVlUNW10TzREemFvZVdIS3ZBMHpBQUlENWJjVnPSAbMBQVVfeXFMTVpCUFdYWUt3V2kyVndsaTZtcWVEUlY1TnVFQkVKSjNsZXI3MU1vdDNCMzFTelN5MmQ4WWZhdGlpUlhxQ05OWGQ5M3I0aXUwbDVseXNCQlVscG1rek9aQUlUSk5fbGJKbmozaFNna3dzanZJYVotbWlVZzZ4SDlkYWtnTWoyU3E2QW1ibjdBend5RWRPWmdIVUgweURWdEJSSzFTUFczZFl5bXdRbGh5eGxQMUU?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-11-25T21:45:06.881168Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
