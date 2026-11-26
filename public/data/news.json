@@ -1,15 +1,15 @@
 {
   "meta": {
-    "generatedAt": "2026-11-26T08:26:54.020978Z",
-    "lastRunAt": "2026-11-26T08:26:54.020978Z",
+    "generatedAt": "2026-11-26T21:38:21.872921Z",
+    "lastRunAt": "2026-11-26T21:38:21.872921Z",
     "startDate": "2026-01-01",
     "refreshHours": 6,
     "mode": "incremental",
     "feedsOk": 16,
     "feedsFailed": 0,
-    "totalStored": 3491,
-    "totalPublished": 3491,
-    "newArticles": 26,
+    "totalStored": 3501,
+    "totalPublished": 3501,
+    "newArticles": 10,
     "warning": ""
   },
   "clusters": [
@@ -135,6 +135,190 @@
     }
   ],
   "articles": [
+    {
+      "id": "1f69714f402cec91bab40410",
+      "publishedAt": "2026-11-26T17:53:01Z",
+      "title": "Anomali Barang Bukti Makar Listyo Menyasar Pembungkaman Kritik",
+      "source": "Tribun-medan.com",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPZDVJV2pWb1JWM2hSWUNsb0NzRGRaS0ttVGxTS3hOX3lLRFlfN0N5OXZPc1hjNC1mdXc1dEJ6cFc2SFotWmpMaWVnVVY0ZEVySDZIdGlab0ZwNWZuc1pGbDhyM1lPWS1hV2l6dmZmNmd1REkzVnBBVWEtTUlxWXlKNzZ4OHlOQkFCNmFHRkgtQVQ3UFNaWnRMNHpETWhyeFU3OXE5WTlpODloaS13T2hkV1BrN1RnbkU?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-11-26T21:38:21.872921Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "eb9b0101ab54358381a6bff3",
+      "publishedAt": "2026-11-26T13:25:21Z",
+      "title": "Gubernur Kalimantan Tengah Ingatkan Kebebasan Berpendapat Jangan Disalahgunakan Untuk Penyebaran Hoaks",
+      "source": "Todaynews.id",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOV0tyVWxmOGlfNXJRYm9RQ243MkRFSXZ3cTVZMVNuNWlfQVdTQWhnNjhZM3RHcDYyS1VCbkgyWnM3Y0hHZGZ5M2VhclJaS29ETkg4bzcycVBHWDdYVDQ5UXpWLUdTNGtMa1p2aXROU25TSE1yVzE5bGlYMndwSkx4blZyUDZMQ2ttUWFiY3l6Xy11RkRPczhGZFlJLVpzeWE0ck5LOWNPR3F1UEc2OGFBTmNOMk5LZEltemNsXzY3U3piUQ?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-11-26T21:38:21.872921Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "9ec9a4093aa2a5632ca02c98",
+      "publishedAt": "2026-11-26T13:02:00Z",
+      "title": "7 Fakta Kasus Kematian Dhoni Usai Viralkan Penggusuran Rumah Guru Honorer: Pesan Takedown Konten, Bekas Jeratan di Leher, hingga Pasang Status Al-Isra",
+      "source": "AFU.id",
+      "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPRlNIZER2d3VwNGhqeUdIZVNQSWJhSGlsemEwcHZ6c3pfNnVrYkRQQlpCYm9DTTFRSVpIbEowRkJ2ZWJzMXA3bEFEVUdxVmgzeUZyNjFYOGZuU2prTkFubHRJZ0dnQTdRRG1SWWwzRC1rLVB6M3ppVGtRNVBBNzFKYWktakE0VWpEQlltMmJKZkdnM2RkQy16a1FEOEp2QVgxQjBEeUxRZ2tQV3pITW1BWXhOMkxKSFAwNU9SM2p6VU9wemlieEhUZVdIMU45WlZFdWNHcVg0UFJyUTFDRC13SzVHck0ycmNCUm40cmN6VUZkWDdMaU84NHY3aGFWUUhMdXEyNVkxZw?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "sensor_konten",
+      "subclusterIds": [
+        "sensor_konten"
+      ],
+      "matchedQueries": [
+        "Sensor Konten"
+      ],
+      "collectedAt": "2026-11-26T21:38:21.872921Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "733fc2ca5c01b4b6088d90a0",
+      "publishedAt": "2026-11-26T12:17:00Z",
+      "title": "Kawal Laporan Dugaan Penistaan Agama, Patar Siahaan Dan Elwin Ndruru Utamakan Audiensi Resmi",
+      "source": "Mitra Mabes News",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPX05sdEVOZHc1X2pFbThtWXE4VlRIN21wUm00elB2UzU5c0ZyaXhXYTBuTjNRN0h0eE5XM2tNRkZGd3plZVVFSVlBOVB3YXd4cWhEU1phemtybHFCSnVoNVRpeTFxWjdPa1QxLWJONUNSa1VnRkIwZmVoaHdDaW02NTU3aEkzUQ?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_beragama",
+      "subclusterIds": [
+        "kebebasan_beragama"
+      ],
+      "matchedQueries": [
+        "Kebebasan Beragama / Berkeyakinan (KBB)"
+      ],
+      "collectedAt": "2026-11-26T21:38:21.872921Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "ff3a2b949af9428ea109a681",
+      "publishedAt": "2026-11-26T09:34:48Z",
+      "title": "Kebebasan Berpendapat di Media Sosial: Antara Hak dan Tanggung Jawab Warga Halaman 1",
+      "source": "Kompasiana.com",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNNFoybW5DTE1IYTl4YWtvOWllQlBqVHpSS0l0alNsb2xzanNaLUg5eUlZRWI2SUN0R1E4TlJZNHdEbkxnOFhaODJUSXNRSFppUnFIRnQ3UnpBaERSZmFPdVY0dXZfZEl3RUlHbzFVUGVkUmw0UWo4Vmo1a0NheHVmSTZJc0w3M0YyOGNoRjVHYXRXNWtVMmJCZjNIVzh6ZmN0Y19OT0JYLWVYWUU2YXFkWUp0a1hQb3lPR3pWeG9VeEstRlNrYlVLcGYzRzZTdzJVX0RXS1hfQzU?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-11-26T21:38:21.872921Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "7ca8a236b79822dd16fbba6b",
+      "publishedAt": "2026-11-26T09:15:00Z",
+      "title": "Keadilan di Ruang Digital: Kebebasan Berekspresi atau Jerat Hukum bagi Pengguna Media Sosial?",
+      "source": "kumparan",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPb0p3YTZkb1lCTmI1UTctdFZCNWx3SFlya3VQc1NPZS14X2lBUldjbEpLUy1ybXhQZS04X3pJbFFudHZMeFlpcmRIQkVGTl9mRXZfX2ZvRGdJWjM2MUFvSEJ0UHhVOFVTeHZxWTZCdHBHdUpDZHNiTXFaczVweG5YcXVoLS1nT2hNSmhnbGdtS2JlOWd3cnc4dllTaVNnVk5ldloyLWJhN05jdGVxcV94UmRSdXhaMGRqdW91VTR0c29zSnZCQTl5Ti1MM0JrYUVwd3FScnVRX0xQanM?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-11-26T21:38:21.872921Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "d70498e55fdd08e9d8b8d639",
+      "publishedAt": "2026-11-26T08:40:23Z",
+      "title": "Tes Ketahanan Kognitif ASN agar Tak Kritik Pemerintah Dinilai Berbahaya: Pembungkaman Sistematis",
+      "source": "Suara.com",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPaGYwWllUNlJzTEdFQW9xMnVlNTJZenIxVW5QVHF2SjNCamhkakVreEFTQlVIaFVaQmRLZzdDaUxHT1dweHZ5a3dvN2xzYnJlS0NlWXRTbWJDeW9xcFdGV3E4cGNvRndmZlQ0RUdvbnZsOVI4ZTItY0Fob1Faa0pEVE5PVVp5NFBIZ18zeUE3VHcxYVIydUlGeS1jQ2RPOS1RbFNqd3ZobXhhRlhfYm1RdnU4R2sxTTNOUjdBUGhPWEFJVHZuNGphNDJ0NmJYaVRYSGFJLVc2c9IB1wFBVV95cUxPaGYwWllUNlJzTEdFQW9xMnVlNTJZenIxVW5QVHF2SjNCamhkakVreEFTQlVIaFVaQmRLZzdDaUxHT1dweHZ5a3dvN2xzYnJlS0NlWXRTbWJDeW9xcFdGV3E4cGNvRndmZlQ0RUdvbnZsOVI4ZTItY0Fob1Faa0pEVE5PVVp5NFBIZ18zeUE3VHcxYVIydUlGeS1jQ2RPOS1RbFNqd3ZobXhhRlhfYm1RdnU4R2sxTTNOUjdBUGhPWEFJVHZuNGphNDJ0NmJYaVRYSGFJLVc2cw?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-11-26T21:38:21.872921Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "42b4d460e9731ba323052143",
+      "publishedAt": "2026-11-26T08:30:00Z",
+      "title": "Kebebasan Berpendapat di Indonesia: Antara Hak Demokrasi dan Batasan Hukum Halaman 1",
+      "source": "Kompasiana.com",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNZjB6Qmhxc1hkWXFGLUZ5dUFKSXZkVElKRmFpVnMxVGFfRmZxbjRKT0ZBVURmTU1LZG9hOEkzVDQ0dmd0U094Tkd4bFFZVFhWZTZvRUpaSThWeXFYWGRTMTgtZ25OOW91SENnbW5hbXJIUGJuRjJiQ05ydkc1RzY4NWk5dllLMTlNQmNKUDBVUTgwZUM3UWp2RkFoTnQ0Z3kwaEY0RnhOY0o1WnhIbHgxZjZkbkctdzVmODhFYURBNlllQWdYQzdXUnBLRzJHeldMamJwM1JremlSZzA?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-11-26T21:38:21.872921Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
     {
       "id": "8c58e1b3846adda86f9b29e2",
       "publishedAt": "2026-11-26T07:52:00Z",
@@ -389,6 +573,29 @@
       "reviewNote": ""
     },
     {
+      "id": "28bb8732edbc9e18d6831aa7",
+      "publishedAt": "2026-11-25T13:09:22Z",
+      "title": "Kekuasaan, Kritik, Dan Kebebasan Berekspresi Dalam Demokrasi Halaman 4",
+      "source": "Kompasiana.com",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPQU1iWk9TTV91TWdCUm5HNU1WMG5vVmRFdURXOE53cTdMZTdsVmIzREJuLWhBQ19UYjY5NWRSQy02djBVdDdnV2FOczZYQ3p2NE5GZlZvclFhcndISlFTZl9TRFNsRDUtMFZGQWRVWGVSN1Q5NEw0SldTd2hURmw5QVg5aEdxU0pMVXhZOWlkakVBcmxvMTM4Q3VqMHh6b3NIYVVCaUpNNWdNaTAwSF9wYnlzRzEtNUlyTUREUnRjaGtRWHMzM1VteA?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-11-26T21:38:21.872921Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
       "id": "cf9761168ef6c6fb8c5fe2f7",
       "publishedAt": "2026-11-25T13:09:22Z",
       "title": "Kekuasaan, Kritik, Dan Kebebasan Berekspresi Dalam Demokrasi Halaman 1",
@@ -637,6 +844,29 @@
         "Doxxing & Intimidasi"
       ],
       "collectedAt": "2026-11-25T08:42:44.961441Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "a45a109a984ae5fc32313d55",
+      "publishedAt": "2026-11-25T00:05:52Z",
+      "title": "THE FOLKARIAN, Bahasa Keindahan dan Kebebasan Berekspresi dari Studio 133 Biyan",
+      "source": "شبكة تواصل الإخبارية",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5oX2YtT0ZGRV9pOHFYM21yeVNVMjB1cHZFUmNRZWlwei1mTWFxS1RVUDZYMGc5eTNLY1hvNVRueXFfbnFfdFBlS29fWXo2S1UtTHZR?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-11-26T21:38:21.872921Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
