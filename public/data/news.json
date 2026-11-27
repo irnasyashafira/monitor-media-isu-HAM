@@ -1,15 +1,15 @@
 {
   "meta": {
-    "generatedAt": "2026-11-26T21:38:21.872921Z",
-    "lastRunAt": "2026-11-26T21:38:21.872921Z",
+    "generatedAt": "2026-11-27T08:41:58.448710Z",
+    "lastRunAt": "2026-11-27T08:41:58.448710Z",
     "startDate": "2026-01-01",
     "refreshHours": 6,
     "mode": "incremental",
     "feedsOk": 16,
     "feedsFailed": 0,
-    "totalStored": 3501,
-    "totalPublished": 3501,
-    "newArticles": 10,
+    "totalStored": 3508,
+    "totalPublished": 3508,
+    "newArticles": 7,
     "warning": ""
   },
   "clusters": [
@@ -136,6 +136,144 @@
   ],
   "articles": [
     {
+      "id": "33ed49137223bc5837828345",
+      "publishedAt": "2026-11-27T06:08:44Z",
+      "title": "Dua Remaja Bawa Busur Ditangkap saat Polisi Bubarkan Balapan Liar di Makassar",
+      "source": "https://distori.id/",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPNGxDaC1lVHhxRTc3VzJUOW1vdWdIQzd1QndWU1E1RjRLSG45TXowWEg0TnpnWkUtT0NLbklWWS1rZXBjYU1tbkFyR1BXTFl6RzZlei15UkhlbzltcUFRa2JmV3JvSzNZR0RraDRTdHd5a1NkQmo5TWgxSmhlcU81cDFjSWlPdW1EcEVuN2VJbjlEYng4R1BiclNmb2owUmp1YWg0MU5nQ1ZMaXhz?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_berkumpul",
+      "subclusterIds": [
+        "kebebasan_berkumpul"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berkumpul / Berserikat"
+      ],
+      "collectedAt": "2026-11-27T08:41:58.448710Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "227766dc0b12b3d02164ca01",
+      "publishedAt": "2026-11-27T05:36:02Z",
+      "title": "Hilangnya Buzzer dan Membaiknya MBG Pasca Pergantian Kapolri: Penegakan Hukum atau Pembungkaman Ruang Kritik? – wartahukum.net",
+      "source": "wartahukum.net",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQR0Zwd3V3RXpvc3ZvOE1KbVdhY2hPQUZKUTFxX2ZhTGZFWDJzZWFpc3BkMmRhcWtucjZFQk1uTVVUdUZOTjlYNU5QTnRjY0RSelJXcmY1a0hDOUxoT28tTTlGQy15SC1xdTQweG8zTTNZR1FJMDMwbVhENndrejVBSXZ0R1BBQ09SWWtwVDBnS1IydGpnZ3dQSm5Wa2c1S3R6NUR2cmYzbkhXTUZnVnAzRXE2ZWFsUEx2UWZOSjNZY0V1OUhrUko2YTRWX1FvdUtXMngwVDI4SGc3dw?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-11-27T08:41:58.448710Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "af567bf41b6caab42405c037",
+      "publishedAt": "2026-11-27T05:20:00Z",
+      "title": "TITO KARNAVIAN DAN PEMBUNGKAMAN OPOSISI ISLAM: DARI HTI, FPI HINGGA POLITIK ANTI-RADIKALISME",
+      "source": "Indopolitika.com",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPTEQyeHZJR2xlS0FZWHZJRUtDck9FODhaRVU1TmJZZVp6ZDNQMER4WnV5MGp4bExkZTVBazdGdmZfanRfem0tY0JlTXNrcE5mMU9yRzlhY20xSEhoTFB5c29seVlGeW9FTkJ1Z1gxUXhZaG04cWc3R3hzQjdrd093RDNCT1NXNHN5dTlBbDdXdzlPY0xIRE9IV2pTcGpNa0s1OGc4bW5MX0lTQlQ5Z0FhWlJZLXFjU2fSAbwBQVVfeXFMTkVPQlplSGk3dlAwRHVic3NiQUpjNWdzalNRbU53QTFXaG84QTVwcjdxRkpvejNndFdvLWlYeXhCTi1JWmJTbGFCZ1NNb09MT1VWdTZKYlRSeVpUdXZkS0dVLW9SZGZoTW9GdlNnMkFneVFGSENqSWp0RVpDcTBOWkZ1aEwwZUR6VHNITkc4TzZ0cllwelJ3X3pWa241azAwOWNLWDBEWTZIdU9vVHg5aFpZZXhNNkhNMUticzg?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-11-27T08:41:58.448710Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "0daa3f209491e3ece832c570",
+      "publishedAt": "2026-11-27T02:14:55Z",
+      "title": "Kebebasan Berekspresi di Media Sosial Harus Disertai Etika",
+      "source": "RRI.co.id",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQZzZ0cU1FeWFrYVZDeURHZ3Z6d0xXYUFzTHpoNF9uRHJRczhMZ3VzZzl2SU44aVhKVlNZTjFwMWQ1aV9QTC1tMUpkMm9YY3k2dUhUQVFpdWUzS0lhQmU4VTczTHpjaTNuajhTU1RhR2lMNXVONGpDcjJrQ1A4ejNTQ09lUFdVZkdGZVhWc2JiZzZ5UlJNRU1VV0tETmYyMnBYT2pVZGc2OA?oc=5",
+      "description": "",
+      "primaryCluster": "sipol",
+      "clusterIds": [
+        "sipol"
+      ],
+      "primarySubcluster": "kebebasan_ekspresi",
+      "subclusterIds": [
+        "kebebasan_ekspresi"
+      ],
+      "matchedQueries": [
+        "Kebebasan Berekspresi & Berpendapat"
+      ],
+      "collectedAt": "2026-11-27T08:41:58.448710Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "899c30414d3dbf724ab25cd4",
+      "publishedAt": "2026-11-26T21:45:17Z",
+      "title": "Polda Kalsel Blokir 427 Situs Judi Online Sepanjang 2026",
+      "source": "republika.co.id",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPVF9UMjRRd0Z0YS1rMkdWUFo4cVBEakNpeG5NeER3R29RSFlEdVR1NjhiMjQzZjdlMUtMQjhzZW9WMWloX05JT3ZWbmtFOWpNMVlSS1JHRTBMLTU0Y3QzdWhWZDMzaUFLN2JHbWVHakU4WHVjaXZWclpOaXU0Sng1STNEMzNneFI5WWhXeVRKYk5qSDVENllCa0pNRHhKVEZkc3l4NW1BTUM5QQ?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "sensor_konten",
+      "subclusterIds": [
+        "sensor_konten"
+      ],
+      "matchedQueries": [
+        "Sensor Konten"
+      ],
+      "collectedAt": "2026-11-27T08:41:58.448710Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "ec07bd0d3a89d52cf0541f44",
+      "publishedAt": "2026-11-26T21:44:34Z",
+      "title": "Ditreskrimsus Polda Kalsel blokir 427 situs judi online",
+      "source": "ANTARA News",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZVJtOW9jZXA0OVYzNklBQURoN1dVTkNETVVTLUdRX1pVakxmNlNlRFlueWN6TTNoUWtIWmQ4TEtlV0h4aVVBVVQxYU1NZHlQSVVFWXFQRVk5M1FIWUtmWVdnVEpCWExMc0stamp3Y0ZKU2d1cVEwV2cxc2xrY2NvNnNUUVBuY0NMaGM0RnRha1ZaR0lldWZ6LWFyRmNSQdIBoAFBVV95cUxQeDV1YzZKZEtnRXZRTTI1TWNUYnVzeTZpaVBXc3VoYVlRZWlPdTVGMGZOYzNEN0x3elZUMkZmV19jcTFHY0dtVTlnVlJZMGxlNzhZWW5WVXloSEx5cl9QSk9xdXNONzR5UTZzUzlYRkI1bnhEeXVjN19VSXJlZFJUaUZpZmJRU24xOTFfWjJ1SjlnaFBDVGpQUXVQV0k2STF5?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "sensor_konten",
+      "subclusterIds": [
+        "sensor_konten"
+      ],
+      "matchedQueries": [
+        "Sensor Konten"
+      ],
+      "collectedAt": "2026-11-27T08:41:58.448710Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
       "id": "1f69714f402cec91bab40410",
       "publishedAt": "2026-11-26T17:53:01Z",
       "title": "Anomali Barang Bukti Makar Listyo Menyasar Pembungkaman Kritik",
@@ -177,6 +315,29 @@
         "Kebebasan Berekspresi & Berpendapat"
       ],
       "collectedAt": "2026-11-26T21:38:21.872921Z",
+      "reviewStatus": "Belum ditinjau",
+      "humanVerified": false,
+      "reviewNote": ""
+    },
+    {
+      "id": "24711ea008dd18ae2601d8b9",
+      "publishedAt": "2026-11-26T13:11:00Z",
+      "title": "Buntut Penutupan Ribuan Kanal YouTube, Masyarakat Sipil Juga Minta Komdigi Transparan",
+      "source": "ABC News & Headlines – Australian Broadcasting Corporation",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQeEVuS2ExMFFFc2JvWURVTU5HTFFId1VEQ2xYdW9YZnVlODRNRFJubkNOYm14MVVFWGVhUVI5bW1fdVBlX25jWDBYdDAySndfRnlqQnlJaENpUEx4eXkxOWlCQjYtcjRJQjQwS1Rfc3JVb3pnUjczb1RDQXJiR1JnazB6MEp1SlZfWjVtX1p1b3EyWk90d2hoRW04Q195T3BRVjl1ZTJ4QnZpdw?oc=5",
+      "description": "",
+      "primaryCluster": "digital",
+      "clusterIds": [
+        "digital"
+      ],
+      "primarySubcluster": "sensor_konten",
+      "subclusterIds": [
+        "sensor_konten"
+      ],
+      "matchedQueries": [
+        "Sensor Konten"
+      ],
+      "collectedAt": "2026-11-27T08:41:58.448710Z",
       "reviewStatus": "Belum ditinjau",
       "humanVerified": false,
       "reviewNote": ""
